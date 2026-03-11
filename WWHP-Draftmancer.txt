@@ -2439,15 +2439,6 @@
 	        }
 	    },
 	    {
-	        "name": "WWHP Archetypes 3;",
-	        "rarity": "masterpiece",
-	        "mana_cost": "",
-	        "type": "Conspiracy",
-	        "image_uris": {
-	            "en": "WWHP Archetypes 3;.pnghttps;//rawgithubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/"
-	        }
-	    },
-	    {
 	        "name": "Chizpurfle Parasite",
 	        "rarity": "common",
 	        "mana_cost": "{B}",
