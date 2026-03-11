@@ -1953,12 +1953,12 @@
 	        }
 	    },
 	    {
-	        "name": "Harry Potter the Gathering Draft Archetypes 3 color",
+	        "name": "WWHP Archetypes 2;",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "",
 	        "image_uris": {
-	            "en": "Harry Potter the Gathering Draft Archetypes 3 color.pnghttps;//rawgithubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/"
+	            "en": "WWHP Archetypes 2;.pnghttps;//rawgithubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/"
 	        }
 	    },
 	    {
@@ -2439,12 +2439,12 @@
 	        }
 	    },
 	    {
-	        "name": "To do list",
+	        "name": "WWHP Archetypes 3;",
 	        "rarity": "masterpiece",
 	        "mana_cost": "",
 	        "type": "Conspiracy",
 	        "image_uris": {
-	            "en": "To do list.pnghttps;//rawgithubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/"
+	            "en": "WWHP Archetypes 3;.pnghttps;//rawgithubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/"
 	        }
 	    },
 	    {
@@ -4233,12 +4233,12 @@
 	        }
 	    },
 	    {
-	        "name": "Harry Potter the Gathering Draft Archetypes 2 color",
+	        "name": "WWHP Archetypes 1;",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "",
 	        "image_uris": {
-	            "en": "Harry Potter the Gathering Draft Archetypes 2 color.pnghttps;//rawgithubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/"
+	            "en": "WWHP Archetypes 1;.pnghttps;//rawgithubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/"
 	        }
 	    },
 	    {
