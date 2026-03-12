@@ -870,7 +870,7 @@ As long as Luna Lovegood is studious, she has first strike and “Whenever a cre
       <tablerow>2</tablerow>
       <text>Activated abilities of Potions you control cost {2} less to activate.
 Whenever you sacrifice an artifact, Draco Malfoy gets +1/+1 until end of turn.
-Sacrifice one or more artifacts: Search your library for an Bewitchment*s card with mana value less than or equal to the total mana value of artifacts sacrificed this way, exile that card. You may cast it this turn without paying its mana cost. (Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)</text>
+Sacrifice one or more artifacts: Search your library for an Bewitchment card with mana value less than or equal to the total mana value of artifacts sacrificed this way, exile that card. You may cast it this turn without paying its mana cost. (Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)</text>
     </card>
     <card>
       <name>Harry Potter, The Boy Who Lived</name>
@@ -3279,7 +3279,7 @@ Whenever a Wizard enters, scry X, where X is that creatures mana value.</text>
       <text>Whenever Frank Bryce enters or dies, search you library for a basic land card, and reveal it. If that card could produce mana of a color that a land you control could produce, put that card onto the battlefield tapped. Otherwise put it into your hand. Then shuffle.</text>
     </card>
     <card>
-      <name>The Dursleys, Anit-Magic Enthusiasts </name>
+      <name>The Dursleys, Antimagic Enthusiasts </name>
       <set rarity="rare">WWHP</set>
       <prop>
         <colors></colors>
