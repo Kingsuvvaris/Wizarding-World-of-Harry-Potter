@@ -4010,7 +4010,7 @@
 	    {
 	        "name": "First-Year Ravenclaw",
 	        "rarity": "common",
-	        "mana_cost": "{R/W}/U{R/W}/U",
+	        "mana_cost": "{U}{U}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
 	            "en": "First-Year Ravenclaw.pnghttps;//rawgithubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/"
@@ -4019,7 +4019,7 @@
 	    {
 	        "name": "First-Year Gryffindor",
 	        "rarity": "common",
-	        "mana_cost": "{R/G}/W{R/G}/W",
+	        "mana_cost": "{R}{R}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
 	            "en": "First-Year Gryffindor.pnghttps;//rawgithubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/"
@@ -4028,7 +4028,7 @@
 	    {
 	        "name": "First-Year Slytherin",
 	        "rarity": "common",
-	        "mana_cost": "{G/U}/B{G/U}/B",
+	        "mana_cost": "{G}{G}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
 	            "en": "First-Year Slytherin.pnghttps;//rawgithubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/"
@@ -4037,7 +4037,7 @@
 	    {
 	        "name": "First-Year Hufflepuff",
 	        "rarity": "common",
-	        "mana_cost": "{B/G}/W{B/G}/W",
+	        "mana_cost": "{W}{W}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
 	            "en": "First-Year Hufflepuff.pnghttps;//rawgithubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/"
@@ -4046,7 +4046,7 @@
 	    {
 	        "name": "First-Week Snatcher",
 	        "rarity": "common",
-	        "mana_cost": "{U/B}/R{U/B}/R",
+	        "mana_cost": "{B}{B}",
 	        "type": "Creature — Werewolf Wizard ",
 	        "image_uris": {
 	            "en": "First-Week Snatcher.pnghttps;//rawgithubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/"
