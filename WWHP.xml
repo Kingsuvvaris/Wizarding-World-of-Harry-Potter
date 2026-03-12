@@ -1836,8 +1836,8 @@ Whenever you commit a crime, untap Peeves. (Targeting opponents, anything they c
 Return up to X target creature cards from your graveyard to the battlefield. They gain haste until end of turn.</text>
     </card>
     <card>
-      <name>Portkey to Little Hangleton Graveyard </name>
-      <set rarity="uncommon" splitterPath="/Portkey to Little Hangleton Graveyard .png" >WWHP</set>
+      <name>Portkey to Little Hangleton Graveyard</name>
+      <set rarity="uncommon" splitterPath="/Portkey to Little Hangleton Graveyard.png" >WWHP</set>
       <prop>
         <colors>B</colors>
         <manacost>XXXBBB</manacost>
@@ -1869,8 +1869,8 @@ When this Siege enters, create X 2/1 black Skeleton creature tokens.
 Nonlegendary creatures you control have base power and toughness 2/1 and are Skeletons in addition to their other types.
 Whenever an opponent casts a spell except during their turn, create a 2/1 black Skeleton creature token.
 ---
-(Front): Portkey to Little Hangleton Graveyard </text>
-      <related attach="transform">Portkey to Little Hangleton Graveyard </related>
+(Front): Portkey to Little Hangleton Graveyard</text>
+      <related attach="transform">Portkey to Little Hangleton Graveyard</related>
       <related>Skeleton</related>
       <related>Back Art at 400%</related>
     </card>
