@@ -4368,12 +4368,12 @@
 	        }
 	    },
 	    {
-	        "name": "Thestral",
+	        "name": "Thestral Token;",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Token Creature — Thestral ",
 	        "image_uris": {
-	            "en": "Thestral.pnghttps;//rawgithubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/"
+	            "en": "Thestral Token;.pnghttps;//rawgithubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/"
 	        }
 	    },
 	    {
