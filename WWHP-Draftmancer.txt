@@ -2639,7 +2639,7 @@
 	    {
 	        "name": "Wiggenweld Potion",
 	        "rarity": "common",
-	        "mana_cost": "{1}/G{1}/G",
+	        "mana_cost": "{2/G}{2/G}",
 	        "type": "Artifact — Potion ",
 	        "image_uris": {
 	            "en": "Wiggenweld Potion.pnghttps;//rawgithubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/"
