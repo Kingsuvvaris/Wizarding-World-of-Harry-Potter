@@ -3841,7 +3841,7 @@
 	                "en": "O.W.L Defence Against the Dark Arts"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/O.W.L Defence Against the Dark Arts.png"
+	                "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/OWL%20Defence%20Against%20the%20Dark%20Arts.png"
 	            },
 	            "type": "Enchantment — Class "
 	        }
@@ -3862,7 +3862,7 @@
 	                "en": "O.W.L Transfiguration"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/O.W.L Transfiguration.png"
+	                "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/OWL%20Transfiguration.png"
 	            },
 	            "type": "Enchantment — Class "
 	        }
@@ -3883,7 +3883,7 @@
 	                "en": "O.W.L Dark Arts"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/O.W.L Dark Arts.png"
+	                "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/OWL%20Dark%20Arts.png"
 	            },
 	            "type": "Enchantment — Class "
 	        }
@@ -3904,7 +3904,7 @@
 	                "en": "O.W.L Potions"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/O.W.L Potions.png"
+	                "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/OWL%20Potions.png"
 	            },
 	            "type": "Enchantment — Class "
 	        }
@@ -3925,7 +3925,7 @@
 	                "en": "O.W.L Care of Magical Creatures"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/O.W.L Care of Magical Creatures.png"
+	                "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/OWL%20Care%20of%20Magical%20Creatures.png"
 	            },
 	            "type": "Enchantment — Class "
 	        }
@@ -3946,7 +3946,7 @@
 	                "en": "O.W.L History of Magic"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/O.W.L History of Magic.png"
+	                "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/OWL%20History%20of%20Magic.png"
 	            },
 	            "type": "Enchantment — Class "
 	        }
@@ -3967,7 +3967,7 @@
 	                "en": "O.W.L Herbology"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/O.W.L Herbology.png"
+	                "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/OWL%20Herbology.png"
 	            },
 	            "type": "Enchantment — Class "
 	        }
@@ -4159,7 +4159,7 @@
 	                "en": "O.W.L Charms"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/O.W.L Charms.png"
+	                "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/OWL%20Charms.png"
 	            },
 	            "type": "Enchantment — Class "
 	        }
@@ -4180,7 +4180,7 @@
 	                "en": "O.W.L Divination"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/O.W.L Divination.png"
+	                "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/OWL%20Divination.png"
 	            },
 	            "type": "Enchantment — Class "
 	        }
