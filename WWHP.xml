@@ -3279,7 +3279,7 @@ Whenever a Wizard enters, scry X, where X is that creatures mana value.</text>
       <text>Whenever Frank Bryce enters or dies, search you library for a basic land card, and reveal it. If that card could produce mana of a color that a land you control could produce, put that card onto the battlefield tapped. Otherwise put it into your hand. Then shuffle.</text>
     </card>
     <card>
-      <name>The Dursleys, Antimagic Enthusiasts </name>
+      <name>The Dursleys, Antimagic Enthusiasts</name>
       <set rarity="rare">WWHP</set>
       <prop>
         <colors></colors>
@@ -3781,8 +3781,8 @@ Lesson cycling {2} (Discard this card. You may reveal a lesson card you own from
 When Sybill Trelawney has thirteen or more divination counters on her, exile her. The next time a player draws a card, that player loses the game.</text>
     </card>
     <card>
-      <name>Trial of the Wizengamot </name>
-      <set rarity="uncommon" splitterPath="/Trial of the Wizengamot .png" >WWHP</set>
+      <name>Trial of the Wizengamot</name>
+      <set rarity="uncommon" splitterPath="/Trial of the Wizengamot.png" >WWHP</set>
       <prop>
         <colors>W</colors>
         <manacost>XXXWW</manacost>
@@ -3812,8 +3812,8 @@ When this battle enters, create X Ministry Tribunal tokens. (They’re 2/2 white
       <tablerow>3</tablerow>
       <text>Create X Student tokens, where X is equal to the number of creatures on the battlefield, then put a lifelink counter on each student token you control. You gain life equal to the number of creatures you control. (They’re 1/1 white Human Wizard creature tokens with “Studious”.)
 ---
-(Front): Trial of the Wizengamot </text>
-      <related attach="transform">Trial of the Wizengamot </related>
+(Front): Trial of the Wizengamot</text>
+      <related attach="transform">Trial of the Wizengamot</related>
       <related>Ministry Tribunal</related>
       <related> Student</related>
       <related>reart</related>
@@ -4834,7 +4834,7 @@ Bewitchment storm (When you cast this spell, copy it for each bewitchment spell 
       <tablerow>2</tablerow>
       <text>Flying
 Gallant 2 (Whenever a creature an opponent controls with greater power enters or attacks and this creature isn’t courageous, put two +1/+1 counters on this creature and it becomes courageous.)
-When Hedwig enters damage, draw a card. Then you gain 3 life if you control a creature that is courageous. </text>
+When Hedwig enters or deals combat damage, draw a card. Then you gain 3 life if you control a creature that is courageous. </text>
     </card>
     <card>
       <name>Moaning Myrtle</name>
@@ -6105,7 +6105,7 @@ Remove all shield counters from target nonartifact creature. Destroy that creatu
 Bewitchment Storm</text>
     </card>
     <card>
-      <name>Bellatrix Lestrange, Enthralled Death Eater </name>
+      <name>Bellatrix Lestrange, Enthralled Death Eater</name>
       <set rarity="rare">WWHP</set>
       <prop>
         <colors>UBR</colors>
