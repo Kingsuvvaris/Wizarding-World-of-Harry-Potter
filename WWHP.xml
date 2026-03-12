@@ -2616,7 +2616,7 @@ Partner with Lucius Malfoy. (When this creature enters, target player may put Lu
       <tablerow>2</tablerow>
       <text>Trample
 At the beginning of your upkeep, you may sacrifice a land or Potion. When you do, return target noncreature card from your graveyard to your hand.
-4UR: Exile Alaster, then return him to the battlefield transformed.
+4UR: Exile Alaster Mad-Eye Moody, then return him to the battlefield transformed.
 ---
 (Back): Barty Crouch Jr, Dark Arts Infiltraitor</text>
       <related attach="transform">Barty Crouch Jr, Dark Arts Infiltraitor</related>
@@ -2666,7 +2666,7 @@ XX: This creature gets +X/+0 until end of turn.</text>
       <tablerow>1</tablerow>
       <text>Equipped creature has “Whenever you commit a crime, put a +1/+1 counter on this creature and it gains ward {X} until end of turn where  X is the number of times you committed a crime this turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime. Whenever this permanent becomes the target of a spell or ability an opponent controls, counter it unless that player pays {X}.)
 Equip {5}
-Equip Wizard U/B/RU/B/RU/B/R</text>
+Equip Wizard UBR</text>
     </card>
     <card>
       <name>Ravenclaw Robes</name>
@@ -2682,7 +2682,7 @@ Equip Wizard U/B/RU/B/RU/B/R</text>
       <text>Equipped creature gets +1/+1 for each card in your hand.
 As long as equipped creature isn’t studious, the first time a player would draw a card each turn, you may draw a card.
 Equip {5}
-Equip Wizard R/W/UR/W/UR/W/U</text>
+Equip Wizard URW</text>
     </card>
     <card>
       <name>Slytherin Robes</name>
@@ -2698,7 +2698,7 @@ Equip Wizard R/W/UR/W/UR/W/U</text>
       <text>Whenever an unpaired creature you control enters, you may pair it with the equipped creature. 
 Equipped creature can be paired with any number of other creatures at the same time and gets +1/+1 for each creature its paired with.
 Equip {5}
-Equip Wizard G/U/BG/U/BG/U/B</text>
+Equip Wizard BGU</text>
     </card>
     <card>
       <name>Huffelpuff Robes</name>
@@ -2713,7 +2713,7 @@ Equip Wizard G/U/BG/U/BG/U/B</text>
       <tablerow>1</tablerow>
       <text>Whenever an opponent attacks you, until end of turn, equipped creature gets +1/+1 for each creature attacking you and can block an additional creature for each creature you control.
 Equip {5}
-Equip Wizard B/G/WB/G/WB/G/W</text>
+Equip Wizard WBG</text>
     </card>
     <card>
       <name>Plains 4</name>
@@ -4460,14 +4460,14 @@ Recipe— 2/G2/G2/G, {T}, Sacrifice this Potion: Regenerate each creature target
       <set rarity="common">WWHP</set>
       <prop>
         <colors>G</colors>
-        <manacost>1/G1/G</manacost>
-        <cmc>2</cmc>
+        <manacost>2/G2/G</manacost>
+        <cmc>4</cmc>
         <type>Artifact - Potion </type>
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
       <text>Whenever you cast a Potion spell, you gain 1 life.
-Recipe — {1/G}, Sacrifice this Potion: You gain 5 life</text>
+Recipe — {2/G}, Sacrifice this Potion: You gain 5 life</text>
     </card>
     <card>
       <name>Potion Storage Cabinet</name>
@@ -6925,8 +6925,8 @@ Whenever you cast an Incantation spell, you may draw a card. If you do discard a
       <name>First-Year Ravenclaw</name>
       <set rarity="common">WWHP</set>
       <prop>
-        <colors>WUR</colors>
-        <manacost>R/W/UR/W/U</manacost>
+        <colors>U</colors>
+        <manacost>UU</manacost>
         <cmc>2</cmc>
         <type>Creature - Human Wizard </type>
         <maintype>Creature</maintype>
@@ -6940,8 +6940,8 @@ As long as you control another creature that is studious, this creature has stud
       <name>First-Year Gryffindor</name>
       <set rarity="common">WWHP</set>
       <prop>
-        <colors>WRG</colors>
-        <manacost>R/G/WR/G/W</manacost>
+        <colors>R</colors>
+        <manacost>RR</manacost>
         <cmc>2</cmc>
         <type>Creature - Human Wizard </type>
         <maintype>Creature</maintype>
@@ -6955,8 +6955,8 @@ When this creature enters, put a +1/+1 counter on target creature then you may g
       <name>First-Year Slytherin</name>
       <set rarity="common">WWHP</set>
       <prop>
-        <colors>UBG</colors>
-        <manacost>G/U/BG/U/B</manacost>
+        <colors>G</colors>
+        <manacost>GG</manacost>
         <cmc>2</cmc>
         <type>Creature - Human Wizard </type>
         <maintype>Creature</maintype>
@@ -6970,8 +6970,8 @@ When this creature enters, each opponent discards a card then mills a card for e
       <name>First-Year Hufflepuff</name>
       <set rarity="common">WWHP</set>
       <prop>
-        <colors>WBG</colors>
-        <manacost>B/G/WB/G/W</manacost>
+        <colors>W</colors>
+        <manacost>WW</manacost>
         <cmc>2</cmc>
         <type>Creature - Human Wizard </type>
         <maintype>Creature</maintype>
@@ -6979,14 +6979,14 @@ When this creature enters, each opponent discards a card then mills a card for e
       </prop>
       <tablerow>2</tablerow>
       <text>When this creature enters, choose a creature type.
-This creature has dedication to the chosen creature type B/G/WB/G/WB/G/WB/G/W. (Whenever this creature attacks, you may pay B/G/WB/G/WB/G/WB/G/W. If you do it gets +1/+1 for each creature of the chosen type you control until end of turn.)</text>
+This creature has dedication to the chosen creature type G/WG/WG/WG/W. (Whenever this creature attacks, you may pay G/WG/WG/WG/W. If you do it gets +1/+1 for each creature of the chosen type you control until end of turn.)</text>
     </card>
     <card>
       <name>First-Week Snatcher</name>
       <set rarity="common">WWHP</set>
       <prop>
-        <colors>UBR</colors>
-        <manacost>U/B/RU/B/R</manacost>
+        <colors>B</colors>
+        <manacost>BB</manacost>
         <cmc>2</cmc>
         <type>Creature - Werewolf Wizard </type>
         <maintype>Creature</maintype>
@@ -7318,7 +7318,7 @@ Theme: Bolstering creatures on the field</text>
       <token>1</token>
     </card>
     <card>
-      <name>Harry Potter the Gathering Draft Archetypes 3 color</name>
+      <name>WWHP Archetypes 2</name>
       <set>WWHP</set>
       <prop>
         <colors></colors>
@@ -7346,7 +7346,7 @@ Squad X (As an additional cost to cast this spell, you may pay X any number of t
       <token>1</token>
     </card>
     <card>
-      <name>Harry Potter the Gathering Draft Archetypes 2 color</name>
+      <name>WWHP Archetypes 1</name>
       <set>WWHP</set>
       <prop>
         <colors></colors>
@@ -7575,7 +7575,7 @@ Whenever a player commits a crime or casts a nonpermanent spell that targets thi
       <token>1</token>
     </card>
     <card>
-      <name>Thestral</name>
+      <name>Thestral Token</name>
       <set>WWHP</set>
       <prop>
         <colors>B</colors>
@@ -7807,7 +7807,7 @@ Ward {1}</text>
         <colors>G</colors>
         <type>Token Creature - Insect Beast </type>
         <maintype>Creature</maintype>
-        <pt></pt>
+        <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Squad 4GG
@@ -7863,18 +7863,6 @@ Flying, Defender
       <prop>
         <colors></colors>
         <type>Token Artifact</type>
-        <maintype>Artifact</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>{2}, Sacrifice this artifact: Draw a card.</text>
-      <token>1</token>
-    </card>
-    <card>
-      <name>Clue</name>
-      <set>WWHP</set>
-      <prop>
-        <colors></colors>
-        <type>Token Artifact - Clue </type>
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
