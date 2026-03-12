@@ -4834,7 +4834,7 @@ Bewitchment storm (When you cast this spell, copy it for each bewitchment spell 
       <tablerow>2</tablerow>
       <text>Flying
 Gallant 2 (Whenever a creature an opponent controls with greater power enters or attacks and this creature isn’t courageous, put two +1/+1 counters on this creature and it becomes courageous.)
-When Hedwig enters or deals combat damage, draw a card. Then you gain 3 life if you control a creature that is courageous. </text>
+When Hedwig enters or deals combat damage to a player, draw a card. Then you gain 3 life if you control a creature that is courageous. </text>
     </card>
     <card>
       <name>Moaning Myrtle</name>
