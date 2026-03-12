@@ -3581,7 +3581,7 @@
 	        "mana_cost": "{2}{U}{B}{R}",
 	        "type": "Legendary Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Bellatrix Lestrange, Enthralled Death Eater.png"
+	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Bellatrix%20Lestrange%2C%20Enthralled%20Death%20Eater%20.png"
 	        }
 	    },
 	    {
