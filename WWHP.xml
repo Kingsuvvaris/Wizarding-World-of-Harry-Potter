@@ -1329,7 +1329,7 @@ Incantations enchanted player casts can’t target you, spells, permanent, abili
         <colors>B</colors>
         <manacost>B</manacost>
         <cmc>1</cmc>
-        <type>Instant</type>
+        <type>Instant - Incantation </type>
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
@@ -1774,8 +1774,8 @@ If a permanent card would be put into a graveyard from anywhere other then the f
       <text>Target player reveals their hand. Choose a number of those cards up to the number Incantations you’ve cast this turn. That player discards the chosen cards.</text>
     </card>
     <card>
-      <name>Skirmish in Underground Chambers      </name>
-      <set rarity="rare" splitterPath="/Skirmish in Underground Chambers      .png" >WWHP</set>
+      <name>Skirmish in Underground Chambers</name>
+      <set rarity="rare" splitterPath="/Skirmish in Underground Chambers.png" >WWHP</set>
       <prop>
         <colors>B</colors>
         <manacost>1BB</manacost>
@@ -1802,8 +1802,8 @@ If a permanent card would be put into a graveyard from anywhere other then the f
       <text>You may look at the top card of your library at any time.
 {T}: Put the top card of your library on the bottom of your library. You may pay {2}. If you do draw a card.
 ---
-(Front): Skirmish in Underground Chambers      </text>
-      <related attach="transform">Skirmish in Underground Chambers      </related>
+(Front): Skirmish in Underground Chambers</text>
+      <related attach="transform">Skirmish in Underground Chambers</related>
     </card>
     <card>
       <name>Peeves, Poltergeist Trickster</name>
@@ -1828,7 +1828,7 @@ Whenever you commit a crime, untap Peeves. (Targeting opponents, anything they c
         <colors>B</colors>
         <manacost>XXBBB</manacost>
         <cmc>3</cmc>
-        <type>Sorcery</type>
+        <type>Sorcery - Lesson </type>
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
@@ -2199,8 +2199,8 @@ Whenever this creature attacks and isn’t blocked, defending player may discard
 Bewitchment storm (When you cast this spell, copy it for each bewitchment spell cast before it this turn. You may choose new targets for the copies. Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)</text>
     </card>
     <card>
-      <name>Flight of the Seven Potters </name>
-      <set rarity="rare" splitterPath="/Flight of the Seven Potters .png" >WWHP</set>
+      <name>Flight of the Seven Potters</name>
+      <set rarity="rare" splitterPath="/Flight of the Seven Potters.png" >WWHP</set>
       <prop>
         <colors>WRG</colors>
         <manacost>2RGW</manacost>
@@ -2229,8 +2229,8 @@ Whenever damage is dealt to this Siege, create a token copy of the chosen creatu
       <tablerow>3</tablerow>
       <text>Choose target opponent. Choose a random nontoken creature they control. That player sacrifices the chosen creature. At the beginning of your next precombat main phase, add X mana in any combination of colors, where X is that creature’s mana value.
 ---
-(Front): Flight of the Seven Potters </text>
-      <related attach="transform">Flight of the Seven Potters </related>
+(Front): Flight of the Seven Potters</text>
+      <related attach="transform">Flight of the Seven Potters</related>
       <related>Copy</related>
       <related>Revised 1/29/25</related>
     </card>
@@ -2562,7 +2562,7 @@ All creatures able to block this creature do so.</text>
       <tablerow>2</tablerow>
       <text>Vigilance
 Skulk (This creature can’t be blocked by creatures with greater power.)
-Whenever an opponent commits a crime, transform Mrs. Norris. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)
+Whenever an opponent commits a crime, transform Mrs Norris. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)
 ---
 (Back): Argus Filch, Dungeons Caretaker</text>
       <related attach="transform">Argus Filch, Dungeons Caretaker</related>
@@ -2881,7 +2881,7 @@ III — Exile all creatures that aren’t studious.</text>
         <colors>WG</colors>
         <manacost>3GGW</manacost>
         <cmc>6</cmc>
-        <type>Sorcery</type>
+        <type>Sorcery - Incantation </type>
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
@@ -3303,7 +3303,7 @@ Whenever The Dursleys attack, put a -1/-1 counter on target creature defending p
         <colors>W</colors>
         <manacost>1W</manacost>
         <cmc>2</cmc>
-        <type>Instant</type>
+        <type>Instant - Incantation </type>
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
@@ -3825,7 +3825,7 @@ When this battle enters, create X Ministry Tribunal tokens. (They’re 2/2 white
         <colors>W</colors>
         <manacost>W</manacost>
         <cmc>1</cmc>
-        <type>Sorcery</type>
+        <type>Sorcery - Lesson </type>
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
@@ -3888,7 +3888,7 @@ At the beginning of your combat, goad target creature unless its controller pays
         <pt>3/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Walden Macnair enters or a player commits a crime, you may tap this creature. If you do, each opponent faces a villainous choice — That player discards a card and Walden Macnair deals damage to that player equal to the converted mana value of the card discarded this way, or each that player sacrifices a creature and you return this creature to its owner’s hand. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)</text>
+      <text>When Walden Macnair enters or a player commits a crime, each opponent faces a villainous choice — That player discards a card and Walden Macnair deals damage to that player equal to the converted mana value of the discarded card, or that player sacrifices a permanent and return this creature to its owner’s hand. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)</text>
     </card>
     <card>
       <name>Folio Magi</name>
@@ -4048,7 +4048,7 @@ Recipe — 3R, {T}, Put a stun counter on this creature: This creature deals dam
       <related>Potion</related>
     </card>
     <card>
-      <name>Saint Mungo&apos;s Healing Potioneer </name>
+      <name>Saint Mungos Healing Potioneer</name>
       <set rarity="common">WWHP</set>
       <prop>
         <colors>W</colors>
@@ -4392,12 +4392,12 @@ Recipe — X2/R2/R, {T}, Sacrifice this Potion: This potion deals 5 damage to an
         <colors>R</colors>
         <manacost>3R</manacost>
         <cmc>4</cmc>
-        <type>Instant</type>
+        <type>Instant - Lesson </type>
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>Destroy target artifact. If a permanent with a recipe ability was destroyed this way, you may copy that ability and you may choose new targets for the copy.
-Lesson cycling {2} (Discard this card. You may reveal a lesson card you own from outside the game and put it into your hand or draw a card.)</text>
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
     </card>
     <card>
       <name>Thunder Brew Potion</name>
@@ -4890,7 +4890,7 @@ Saddle 2</text>
         <colors>U</colors>
         <manacost>3UUU</manacost>
         <cmc>6</cmc>
-        <type>Legendary Creature - Kraken Beast </type>
+        <type>Creature - Kraken Beast </type>
         <maintype>Creature</maintype>
         <pt>6/10</pt>
       </prop>
@@ -5186,7 +5186,7 @@ Whenever a player commits a crime or casts a nonpermanent spell that targets thi
         <colors>B</colors>
         <manacost>2B</manacost>
         <cmc>3</cmc>
-        <type>Instant</type>
+        <type>Instant - Incantation </type>
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
@@ -5292,7 +5292,7 @@ Bewitchment storm (When you cast this spell, copy it for each bewitchment spell 
         <colors>R</colors>
         <manacost>2R</manacost>
         <cmc>3</cmc>
-        <type>Sorcery</type>
+        <type>Sorcery - Incantation </type>
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
@@ -5505,7 +5505,7 @@ Combat damage dealt to Justin Flinchfletchly is dealt in the form of stun counte
         <colors>G</colors>
         <manacost>2G</manacost>
         <cmc>3</cmc>
-        <type>Sorcery</type>
+        <type>Sorcery - Incantation </type>
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
