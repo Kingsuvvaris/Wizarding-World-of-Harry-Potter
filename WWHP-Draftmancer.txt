@@ -4557,15 +4557,6 @@
 	        }
 	    },
 	    {
-	        "name": "Clue",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Token Artifact — Clue ",
-	        "image_uris": {
-	            "en": "Clue.pnghttps;//rawgithubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/"
-	        }
-	    },
-	    {
 	        "name": "Food",
 	        "rarity": "common",
 	        "mana_cost": "",
