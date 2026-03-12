@@ -1039,7 +1039,7 @@
 	        "mana_cost": "{1}{B}{B}",
 	        "type": "Battle — Siege ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Skirmish in Underground Chambers.png"
+	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Skirmish%20in%20Underground%20Chambers%20%20%20%20%20%20.png"
 	        },
 	        "printed names": {
 	            "en": "Skirmish in Underground Chambers"
@@ -1078,7 +1078,7 @@
 	        "mana_cost": "{X}{X}{X}{B}{B}{B}",
 	        "type": "Battle — Siege ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Portkey to Little Hangleton Graveyard.png"
+	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Portkey%20to%20Little%20Hangleton%20Graveyard%20%20%20%20%20%20.png"
 	        },
 	        "printed names": {
 	            "en": "Portkey to Little Hangleton Graveyard"
@@ -1291,7 +1291,7 @@
 	        "mana_cost": "{2}{R}{G}{W}",
 	        "type": "Battle — Siege ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Flight of the Seven Potters.png"
+	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Flight%20of%20the%20Seven%20Potters%20.png"
 	        },
 	        "printed names": {
 	            "en": "Flight of the Seven Potters"
@@ -1510,7 +1510,7 @@
 	        "mana_cost": "{B}{B}",
 	        "type": "Legendary Creature — Cat ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Mrs. Norris.png"
+	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Mrs%20Norris.png"
 	        },
 	        "printed names": {
 	            "en": "Mrs. Norris"
@@ -2390,7 +2390,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Creature — Human Wizard  ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Saint Mungo's Healing Potioneer.png"
+	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Saint%20Mungo's%20Healing%20Potioneer%20.png"
 	        }
 	    },
 	    {
@@ -3840,7 +3840,7 @@
 	                "en": "O.W.L Defence Against the Dark Arts"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/O.W.L Defence Against the Dark Arts.png"
+	                "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/OWL%20Defence%20Against%20the%20Dark%20Arts.png"
 	            },
 	            "type": "Enchantment — Class "
 	        }
@@ -3861,7 +3861,7 @@
 	                "en": "O.W.L Transfiguration"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/O.W.L Transfiguration.png"
+	                "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/OWL%20Transfiguration.png"
 	            },
 	            "type": "Enchantment — Class "
 	        }
@@ -3882,7 +3882,7 @@
 	                "en": "O.W.L Dark Arts"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/O.W.L Dark Arts.png"
+	                "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/OWL%20Dark%20Arts.png"
 	            },
 	            "type": "Enchantment — Class "
 	        }
@@ -3903,7 +3903,7 @@
 	                "en": "O.W.L Potions"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/O.W.L Potions.png"
+	                "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/OWL%20Potions.png"
 	            },
 	            "type": "Enchantment — Class "
 	        }
@@ -3924,7 +3924,7 @@
 	                "en": "O.W.L Care of Magical Creatures"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/O.W.L Care of Magical Creatures.png"
+	                "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/OWL%20Care%20of%20Magical%20Creatures.png"
 	            },
 	            "type": "Enchantment — Class "
 	        }
@@ -3945,7 +3945,7 @@
 	                "en": "O.W.L History of Magic"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/O.W.L History of Magic.png"
+	                "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/OWL%20History%20of%20Magic.png"
 	            },
 	            "type": "Enchantment — Class "
 	        }
@@ -3966,7 +3966,7 @@
 	                "en": "O.W.L Herbology"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/O.W.L Herbology.png"
+	                "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/OWL%20Herbology.png"
 	            },
 	            "type": "Enchantment — Class "
 	        }
@@ -4158,7 +4158,7 @@
 	                "en": "O.W.L Charms"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/O.W.L Charms.png"
+	                "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/OWL%20Charms.png"
 	            },
 	            "type": "Enchantment — Class "
 	        }
@@ -4179,7 +4179,7 @@
 	                "en": "O.W.L Divination"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/O.W.L Divination.png"
+	                "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/OWL%20Divination.png"
 	            },
 	            "type": "Enchantment — Class "
 	        }
@@ -4200,7 +4200,7 @@
 	                "en": "N.E.W.T.S Alchemy"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/N.E.W.T.S Alchemy.png"
+	                "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/NEWTS%20Alchemy.png"
 	            },
 	            "type": "Enchantment — Class "
 	        }
