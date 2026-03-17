@@ -79,7 +79,7 @@
 	    },
 	    {
 	        "name": "Watchful Observer",
-	        "mana_cost": "{2}{R}{G}{W}",
+	        "mana_cost": "{R}{G}{W}",
 	        "type": "Legendary Creature — Cat Animagus ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Watchful Observer.png"
@@ -164,7 +164,7 @@
 	    {
 	        "name": "Dementor of Azkaban",
 	        "rarity": "uncommon",
-	        "mana_cost": "{2}{U}{B}{B}",
+	        "mana_cost": "{U}{B}{B}",
 	        "type": "Creature — Spirit ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Dementor of Azkaban.png"
@@ -777,7 +777,7 @@
 	        "name": "Serpensortia",
 	        "rarity": "common",
 	        "mana_cost": "{B}",
-	        "type": "Instant — Incantation ",
+	        "type": "Sorcery — Incantation ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Serpensortia.png"
 	        }
@@ -812,7 +812,7 @@
 	    {
 	        "name": "Erkling",
 	        "rarity": "common",
-	        "mana_cost": "{2}{B}",
+	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Faerie Beast ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Erkling.png"
@@ -896,7 +896,7 @@
 	    {
 	        "name": "Wizard-Cracker Imp",
 	        "rarity": "uncommon",
-	        "mana_cost": "{3}{B}",
+	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Imp Beast ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Wizard-Cracker Imp.png"
@@ -975,12 +975,24 @@
 	        }
 	    },
 	    {
-	        "name": "Hunt for the Divided Souls",
-	        "rarity": "rare",
+	        "name": "Secrets of the Dark Lord",
 	        "mana_cost": "{2}{U}{U}",
-	        "type": "Enchantment — Saga ",
+	        "type": "Sorcery — Lesson ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Hunt for the Divided Souls.png"
+	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Secrets of the Dark Lord.png"
+	        },
+	        "printed names": {
+	            "en": "Secrets of the Dark Lord"
+	        },
+	        "back": {
+	            "name": "Hunt for the Divided Souls",
+	            "printed_names": {
+	                "en": "Hunt for the Divided Souls"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Hunt for the Divided Souls.png"
+	            },
+	            "type": "Enchantment — Case "
 	        }
 	    },
 	    {
@@ -1157,7 +1169,7 @@
 	    {
 	        "name": "Escape of the Azkaban Prisoner",
 	        "mana_cost": "{3}{R}{R}{R}",
-	        "type": "Enchantment — Saga ",
+	        "type": "Enchantment — Case ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Escape of the Azkaban Prisoner.png"
 	        },
@@ -1260,12 +1272,24 @@
 	        }
 	    },
 	    {
-	        "name": "Opening of Slytherin's Chamber",
-	        "rarity": "rare",
-	        "mana_cost": "{2}{B}",
-	        "type": "Enchantment — Saga ",
+	        "name": "Writting on the Wall",
+	        "mana_cost": "{1}{B}{B}",
+	        "type": "Instant — Lesson ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Opening of Slytherin's Chamber.png"
+	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Writting on the Wall.png"
+	        },
+	        "printed names": {
+	            "en": "Writting on the Wall"
+	        },
+	        "back": {
+	            "name": "Opening of Slytherin's Chamber",
+	            "printed_names": {
+	                "en": "Opening of Slytherin's Chamber"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Opening of Slytherin's Chamber.png"
+	            },
+	            "type": "Enchantment — Case "
 	        }
 	    },
 	    {
@@ -1805,7 +1829,7 @@
 	    {
 	        "name": "Black Lake Merperson",
 	        "rarity": "common",
-	        "mana_cost": "{2}{U}",
+	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Merfolk Beast ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Black Lake Merperson.png"
@@ -2948,7 +2972,7 @@
 	    {
 	        "name": "Marcus Flint, Slytherin Quidditch Captain",
 	        "rarity": "uncommon",
-	        "mana_cost": "{4}{U}",
+	        "mana_cost": "{3}{U}",
 	        "type": "Legendary Creature — Human Wizard ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Marcus Flint, Slytherin Quidditch Captain.png"
@@ -3254,7 +3278,7 @@
 	    {
 	        "name": "Nundu Leopard",
 	        "rarity": "mythic",
-	        "mana_cost": "{4}{G}{G}",
+	        "mana_cost": "{5}{G}{G}",
 	        "type": "Creature — Cat Beast ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Nundu Leopard.png"
@@ -3418,7 +3442,7 @@
 	    },
 	    {
 	        "name": "Permission to Visit Hogsmeade",
-	        "mana_cost": "{X}{X}{X}{U}{U}",
+	        "mana_cost": "{X}{U}{U}",
 	        "type": "Battle — Siege ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Permission to Visit Hogsmeade.png"
@@ -3972,12 +3996,12 @@
 	        }
 	    },
 	    {
-	        "name": "Dolorus Umbridge, Lawfully Maddened Official",
+	        "name": "Dolores Umbridge, Lawfully Maddened Official",
 	        "rarity": "rare",
 	        "mana_cost": "{1}{B}{B}{B}",
 	        "type": "Legendary Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Dolorus Umbridge, Lawfully Maddened Official.png"
+	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Dolores Umbridge, Lawfully Maddened Official.png"
 	        }
 	    },
 	    {
@@ -4010,7 +4034,7 @@
 	    {
 	        "name": "First-Year Ravenclaw",
 	        "rarity": "common",
-	        "mana_cost": "{U}{U}",
+	        "mana_cost": "{R/W}{U}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/First-Year Ravenclaw.png"
@@ -4019,7 +4043,7 @@
 	    {
 	        "name": "First-Year Gryffindor",
 	        "rarity": "common",
-	        "mana_cost": "{R}{R}",
+	        "mana_cost": "{R}{G/W}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/First-Year Gryffindor.png"
@@ -4028,7 +4052,7 @@
 	    {
 	        "name": "First-Year Slytherin",
 	        "rarity": "common",
-	        "mana_cost": "{G}{G}",
+	        "mana_cost": "{G}{U/B}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/First-Year Slytherin.png"
@@ -4037,7 +4061,7 @@
 	    {
 	        "name": "First-Year Hufflepuff",
 	        "rarity": "common",
-	        "mana_cost": "{W}{W}",
+	        "mana_cost": "{B/G}{W}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/First-Year Hufflepuff.png"
@@ -4046,7 +4070,7 @@
 	    {
 	        "name": "First-Week Snatcher",
 	        "rarity": "common",
-	        "mana_cost": "{B}{B}",
+	        "mana_cost": "{B}{U/R}",
 	        "type": "Creature — Werewolf Wizard ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/First-Week Snatcher.png"
@@ -4664,7 +4688,7 @@
 		1 Vermiculus
 		1 Horace Slughorn, Old Potions Master
 		1 Vanishing Cabinet
-		1 Hunt for the Divided Souls
+		1 Secrets of the Dark Lord
 		1 Explore the Restricted Section
 		1 Department of Mysteries
 		1 Legilimens
@@ -4673,7 +4697,7 @@
 		1 Journey Beneath Gringotts Bank
 		1 Escape of the Azkaban Prisoner
 		1 Rennervate
-		1 Opening of Slytherin's Chamber
+		1 Writting on the Wall
 		1 Flight of the Seven Potters
 		1 Theseus Scamander, Loyal Auror
 		1 Ordinary Wizarding Level Examinations
@@ -4716,7 +4740,7 @@
 		1 Receipt of Hogwarts Letter
 		1 Traverse the Secret Passage
 		1 Reawakining of the Dark Mark
-		1 Dolorus Umbridge, Lawfully Maddened Official
+		1 Dolores Umbridge, Lawfully Maddened Official
 		1 Imperio
 		1 Watchful Observer
 		1 Severus Snape, Head of Slytherin House

@@ -116,6 +116,7 @@ Equip {2}
       <tablerow>2</tablerow>
       <text>First strike, deathtouch
 As long as you control a creature with “Voldemort” in its name, Nagini gets +0/+2 and has “Ward—pay 3 life.”  (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 3 life.” .)
+Whenever a wizard enters, if you don’t control a creature with “Voldemort in its name, transform Nagini.
 ---
 (Front): Nagini, Maladictus Performer</text>
       <related attach="transform">Nagini, Maladictus Performer</related>
@@ -129,11 +130,11 @@ As long as you control a creature with “Voldemort” in its name, Nagini gets 
         <cmc>3</cmc>
         <type>Legendary Creature - Wizard Werewolf </type>
         <maintype>Creature</maintype>
-        <pt>2/2</pt>
+        <pt>3/3</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Werewolf creatures you control attack each combat if able.
-1UBR, {T}: Fenrir Grayback deals damage equal to its power to any target nontoken nonartifact creature. Then each opponent faces a villainous choice — You create a 2/2 black and red Werewolf Wizard creature token named Snatcher with haste and a treasure token, or that player discards a number of cards and and distributes a number of -1/-1 counters among creatures the control equal to Fenrir Grayback’s power.</text>
+UBR, {T}: Fenrir Grayback deals damage equal to its power to any target nonartifact creature. Then each opponent faces a villainous choice — You create a 2/2 black and red Werewolf Wizard creature token named Snatcher with haste and a treasure token, or that player distributes a number of -1/-1 counters among creatures the control equal to Fenrir Grayback’s power.</text>
       <related>Snatcher</related>
       <related> Treasure</related>
     </card>
@@ -142,15 +143,15 @@ As long as you control a creature with “Voldemort” in its name, Nagini gets 
       <set rarity="mythic" splitterPath="/Watchful Observer.png" >WWHP</set>
       <prop>
         <colors>WRG</colors>
-        <manacost>2RGW</manacost>
-        <cmc>5</cmc>
+        <manacost>RGW</manacost>
+        <cmc>3</cmc>
         <type>Legendary Creature - Cat Animagus </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Vigilance
-Alteration RGW (You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield for RGW.)
+Alteration R/GW (You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield for R/GW.)
 The first face-down creature spell you cast each turn costs {3} less to cast.
 Whenever you cast a spell from the battlefield, transform Watchful Observer.
 ---
@@ -163,14 +164,14 @@ Whenever you cast a spell from the battlefield, transform Watchful Observer.
       <prop>
         <colors>WRG</colors>
         <manacost></manacost>
-        <cmc>5</cmc>
+        <cmc>3</cmc>
         <type>Legendary Creature - Wizard Animagus Professor </type>
         <pt>3/4</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Face-down creatures you control have gallant 1. (Whenever a creature an opponent controls with greater power enters or attacks and this creature isn’t courageous, put a +1/+1 counter on this creature and it becomes courageous.)
 Whenever a permanent with one or more counters on it dies, you may put those counters on target courageous creature you control.
-Whenever you successfully cast a bewitchment, learn.  (Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments. To learn, you may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)
+Whenever you successfully cast a bewitchment spell, learn.  (Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments. To learn, you may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)
 ---
 (Front): Watchful Observer</text>
       <related attach="transform">Watchful Observer</related>
@@ -203,8 +204,8 @@ Whenever you exile the top card of your library, you may instead search your lib
         <pt>4/5</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Studious (Whenever you draw a card, this creature gets +1/+1 until end of turn. If this is the third time this effect has resolved this turn and this creature isn’t studious, it becomes studious.)
-As long as, Filius Flitwick is studious, at the beginning of your upkeep, you may reveal your hand. If you do, shuffle each non-Incantation card revealed this way. Then you may reveal cards from the top of your library until you reveal that many Incantation cards, put them into your hand, then shuffle all other cards revealed this way.
+      <text>Scholarly
+At the beginning of your upkeep, if Filius Flitwick is studious, you may reveal your hand. If you do, shuffle each non-Incantation card revealed this way. Then you may reveal cards from the top of your library until you reveal that many Incantation cards, put them into your hand, then shuffle all other cards revealed this way.
 Whenever you cast your first Incantation on each of your turns, learn.</text>
     </card>
     <card>
@@ -221,7 +222,7 @@ Whenever you cast your first Incantation on each of your turns, learn.</text>
       <tablerow>2</tablerow>
       <text>Prevent all damage that would be dealt to this creature unless the damage was dealt from a red spell or permanent.
 2UB: Return this creature from the graveyard or exile to the battlefield tapped.
-Whenever another creature dies, you may pay 3 life. If you do, create a copy of this creature. Activate this ability only one each turn.</text>
+Whenever another creature dies, you may pay 3 life. If you do, create a copy of this creature. This ability triggers only once each turn.</text>
     </card>
     <card>
       <name>Lumos</name>
@@ -286,8 +287,8 @@ Whenever another creature enters, put a +1/+1 counter on this creature. This cre
       <set rarity="uncommon">WWHP</set>
       <prop>
         <colors>UB</colors>
-        <manacost>2UBB</manacost>
-        <cmc>5</cmc>
+        <manacost>UBB</manacost>
+        <cmc>3</cmc>
         <type>Creature - Spirit </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
@@ -520,14 +521,14 @@ Whenever a creature attacks you or a permanent you protect, that creature gets -
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>[level 0+] Level up {1} ({1}: Put a level counter on this. Level up only as a sorcery.)
+      <text>[level 0+] Level up {2} ({2}: Put a level counter on this. Level up only as a sorcery.)
 Equipped creature has flying
 Equip {2}
-[level 2+] Equipped creature has haste.
-[level 4+] Equipped creature gets +1/+1 and has hexproof.
-LEVEL 2+
+[level 3+] Equipped creature has haste.
+[level 6+] Equipped creature gets +1/+1 and has ward {2}. (Whenever this permanent becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+LEVEL 3+
 
-LEVEL 4+
+LEVEL 6+
 </text>
     </card>
     <card>
@@ -853,8 +854,8 @@ Bewitchment storm (When you cast this spell, copy it for each bewitchment spell 
       </prop>
       <tablerow>2</tablerow>
       <text>Ward {2}
-Studious  (Whenever you draw a card, this creature gets +1/+1 until end of turn. If this is the third time this effect has resolved this turn and this creature isn’t studious, it becomes studious.)
-As long as Luna Lovegood is studious, she has first strike and “Whenever a creature an opponent controls enters, learn. If you drew a card this way, scry 1.” (To learn, you may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)</text>
+Scholarly
+As long as Luna Lovegood is studious, she has first strike and “Whenever a creature an opponent controls enters, learn. If you drew a card this way, scry 1.”</text>
     </card>
     <card>
       <name>Draco Malfoy</name>
@@ -1329,11 +1330,11 @@ Incantations enchanted player casts can’t target you, spells, permanent, abili
         <colors>B</colors>
         <manacost>B</manacost>
         <cmc>1</cmc>
-        <type>Instant - Incantation </type>
-        <maintype>Instant</maintype>
+        <type>Sorcery - Incantation </type>
+        <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Alteration 1G (You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield for 1G.)
+      <text>Alteration {G} (You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield for {G}.)
 Create a 1/1 black Snake creature token with deathtouch. If Serpensortia was cast from the battlefield, create three of them instead.</text>
       <related>Snake</related>
     </card>
@@ -1383,15 +1384,14 @@ Bewitchment storm (When you cast this spell, copy it for each bewitchment spell 
       <set rarity="common">WWHP</set>
       <prop>
         <colors>B</colors>
-        <manacost>2B</manacost>
-        <cmc>3</cmc>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
         <type>Creature - Faerie Beast </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Flash
-Morph 1B (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+      <text>Morph 1B (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
 1B, Sacrifice Erkling: Target creature gets -2/-2 until end of turn.
 When Erkling dies, exile it. Until end of turn, you may cast it from exile face down as a 2/2 creature for {3}.</text>
     </card>
@@ -1531,8 +1531,8 @@ Whenever Zacharias Smith attacks, Wizards you control gain menace until end of t
       <set rarity="uncommon">WWHP</set>
       <prop>
         <colors>B</colors>
-        <manacost>3B</manacost>
-        <cmc>4</cmc>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
         <type>Creature - Imp Beast </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
@@ -1673,20 +1673,39 @@ The first time you commit a crime each turn, you may attach this Equipment to ta
 {3}: Attach this Equipment to target creature you control.</text>
     </card>
     <card>
-      <name>Hunt for the Divided Souls</name>
-      <set rarity="rare">WWHP</set>
+      <name>Secrets of the Dark Lord</name>
+      <set rarity="rare" splitterPath="/Secrets of the Dark Lord.png" >WWHP</set>
       <prop>
         <colors>U</colors>
         <manacost>2UU</manacost>
         <cmc>4</cmc>
-        <type>Enchantment - Saga </type>
-        <maintype>Enchantment</maintype>
+        <type>Sorcery - Lesson </type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Look at target players hand and the top four cards of that player’s library. Then investigate three times. (To investigate, create a Clue token. It’s an artifact with “{2}, Sacrifice this token: Draw a card.”)
+If you control a legendary creature, exile this spell, then cast it transformed.
+---
+(Back): Hunt for the Divided Souls</text>
+      <related attach="transform">Hunt for the Divided Souls</related>
+    </card>
+    <card>
+      <name>Hunt for the Divided Souls</name>
+      <set rarity="rare" splitterPath="/Hunt for the Divided Souls.png" >WWHP</set>
+      <prop>
+        <colors>U</colors>
+        <manacost></manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - Case </type>
       </prop>
       <tablerow>1</tablerow>
-      <text>(As this Saga enters and after your draw step, add a lore counter.)
-I — Investigate for each artifact you control.
-II — Whenever you sacrifice a Clue this turn, scry 1.
-III — Return each nonland permanent  you don’t control to its owner’s hand.</text>
+      <text>When this case enters investigate for each artifact you control.  (To investigate, create a Clue token. It’s an artifact with “{2}, Sacrifice this token: Draw a card.”)
+Whenever you sacrifice a Clue, scry 1.
+To solve — Control seven or more clue tokens. (If unsolved, solve at the beginning of your end step.)
+Solved — Sacrifice this case and each Clue you control: Return each nonland permanent that you don’t control to its owners hand.
+---
+(Front): Secrets of the Dark Lord</text>
+      <related attach="transform">Secrets of the Dark Lord</related>
     </card>
     <card>
       <name>Explore the Restricted Section</name>
@@ -1818,7 +1837,7 @@ If a permanent card would be put into a graveyard from anywhere other then the f
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-2B, {T}: Put a -1/-1 counter on target creature.
+2B, {T}: Target creature gets -1/-1 until end of turn.
 Whenever you commit a crime, untap Peeves. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)</text>
     </card>
     <card>
@@ -1984,14 +2003,13 @@ When Nearly Headless Nick becomes courageous, you may have the owners of Nearly 
         <colors>R</colors>
         <manacost>3RRR</manacost>
         <cmc>6</cmc>
-        <type>Enchantment - Saga </type>
+        <type>Enchantment - Case </type>
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>(As this Saga enters and after your draw step, add a lore counter.)
-I — Each opponent faces a villainous choice — You create a clue token for each creature that player controls, or they put two stun counters on each creature they control.
-II — Until end of turn you whenever you sacrifice a Clue, you may draw two cards instead. If you do, discard a card.
-III — Each tapped creature deals damage to its controller and itself equal to its power. Then exile this Saga, then return it to the battlefield under transformed under your control.
+      <text>When this case enters, each tapped creature deals damage to itself equal to its power.
+To solve — You and target opponent control a legendary creature (If unsolved, solve at the beginning of your end step.)
+Solved — 2R: Investigate Then if you control thirteen or more clue tokens, you may sacrifice each clue you control. If you do, you may put target legendary creature from your library or command zone onto the battlefield tapped and transform this case. (To investigate, create a Clue token. It’s an artifact with “{2}, Sacrifice this token: Draw a card.”)
 ---
 (Back): Dark Tower, Topmost cell</text>
       <related attach="transform">Dark Tower, Topmost cell</related>
@@ -2006,7 +2024,7 @@ III — Each tapped creature deals damage to its controller and itself equal to 
         <type>Legendary Land - Tower </type>
       </prop>
       <tablerow>0</tablerow>
-      <text>{T}: Add CC
+      <text>{T}: Add CCC
 {X}, {T}: Put X stun counters on Dark Tower and target creature an opponent controls.
 At the beginning of each end step, if Dark Tower didn’t untap this turn, Dark Tower deals 1 damage to target creature.
 ---
@@ -2041,7 +2059,7 @@ Bewitchment storm (When you cast this spell, copy it for each bewitchment spell 
       <tablerow>2</tablerow>
       <text>Flying
 Soulbond (You may pair this creature with another unpaired creature when either enters. They remain paired for as long as you control both of them.)
-Whenever Bloody Barron or another creature you control becomes paired with another creature, each opponent faces a villainous choice — You put a +1/+1 counter on target creature you control, or you may search your library for up to one land card and put it onto the battlefield tapped, then shuffle.</text>
+Whenever Bloody Barron or another creature you control becomes paired with a creature other then Bloody Barron, each opponent faces a villainous choice — You put a +1/+1 counter on target creature you control, or you may search your library for up to one basic land card and add it to your hand.</text>
     </card>
     <card>
       <name>Chase the Hidden Traitor</name>
@@ -2153,20 +2171,38 @@ Bewitchment storm (When you cast this spell, copy it for each bewitchment spell 
 When this creature deals damage to a creature,  put a stun counter on it.</text>
     </card>
     <card>
-      <name>Opening of Slytherin&apos;s Chamber</name>
-      <set rarity="rare">WWHP</set>
+      <name>Writting on the Wall</name>
+      <set rarity="rare" splitterPath="/Writting on the Wall.png" >WWHP</set>
       <prop>
         <colors>B</colors>
-        <manacost>2B</manacost>
+        <manacost>1BB</manacost>
         <cmc>3</cmc>
-        <type>Enchantment - Saga </type>
-        <maintype>Enchantment</maintype>
+        <type>Instant - Lesson </type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature phases out then investigate. When that creature phases back in, put it onto the bottom of its owner’s library instead. (Treat it and anything attached to it as though they don’t exist until its controller’s next turn. To investigate, create a Clue token. It’s an artifact with “{2}, Sacrifice this token: Draw a card.”)
+If an opponent controls a creature, exile this spell, then cast it transformed.
+---
+(Back): Opening of Slytherin&apos;s Chamber</text>
+      <related attach="transform">Opening of Slytherin&apos;s Chamber</related>
+    </card>
+    <card>
+      <name>Opening of Slytherin&apos;s Chamber</name>
+      <set rarity="rare" splitterPath="/Opening of Slytherin's Chamber.png" >WWHP</set>
+      <prop>
+        <colors>B</colors>
+        <manacost></manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Case </type>
       </prop>
       <tablerow>1</tablerow>
-      <text>(As this Saga enters and after your draw step, add a lore counter.)
-I — Investigate. Whenever one or more creatures leave the battlefield this turn, investigate
-II — Put a petrification counter on each of up to X target creatures, where X is the number of Clues you control. They gain defender and becomes colorless artifacts in addition to their other types. Their activated abilities can’t be activated.
-III — Return up to one target creature card from your graveyard to the battlefield.</text>
+      <text>Whenever one or more creatures leave the battlefield, investigate (Create a Clue token. It’s an artifact with “{2}, Sacrifice this token: Draw a card.”)
+To solve —  Control seven or more clue tokens.  (If unsolved, solve at the beginning of your end step.)
+Solved — 2B: Put a petrification counter on target creature. (Creatures with petrification counters become colorless artifacts in addition to their other types, can’t attack and their activated abilities can’t be activated.)
+---
+(Front): Writting on the Wall</text>
+      <related attach="transform">Writting on the Wall</related>
     </card>
     <card>
       <name>Screaming Howler</name>
@@ -2969,8 +3005,8 @@ Saddle 2 (Tap any number of other creatures you control with total power 2 or mo
         <pt>3/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Studious  (Whenever you draw a card, this creature gets +1/+1 until end of turn. If this is the third time this effect has resolved this turn and this creature isn’t studious, it becomes studious.)
-As long as  Cho Chang is studious, she has flying during your turn and whenever you cast a noncreature spell, you may put a Shield counter on target creature that doesn’t have one. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)</text>
+      <text>Scholarly (Whenever you draw a card, this creature gets +1/+1 until end of turn. If this is the third time this effect has resolved this turn and this creature isn’t studious, it becomes studious.)
+As long as  Cho Chang is studious, she has flying and during your turn and whenever you cast a noncreature spell, you may put a Shield counter on target creature that doesn’t have one. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)</text>
     </card>
     <card>
       <name>Delivery Owl</name>
@@ -3038,8 +3074,8 @@ III — Each player draws a number of cards and gains an amount of life equal to
       <set rarity="common">WWHP</set>
       <prop>
         <colors>U</colors>
-        <manacost>2U</manacost>
-        <cmc>3</cmc>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
         <type>Creature - Merfolk Beast </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
@@ -3434,8 +3470,8 @@ Whenever this creature deals combat damage to a player, investigate. (Create a C
         <pt>1/4</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Studious (Whenever you draw a card, this creature gets +1/+1 until end of turn. If this is the third time this effect has resolved this turn and this creature isn’t studious, it becomes studious.)
-As long as this creature is studious, during the beginning of each player’s upkeep, investigate. (Create a Clue token. It’s an artifact with “{2}, Sacrifice this token: Draw a card.”)</text>
+      <text>Scholarly (Whenever you draw a card, this creature gets +1/+1 until end of turn. If this is the third time this effect has resolved this turn and this creature isn’t studious, it becomes studious.)
+At the beginning of each player’s upkeep, if this creature is studious, investigate. (Create a Clue token. It’s an artifact with “{2}, Sacrifice this token: Draw a card.”)</text>
       <related>Clue</related>
       <related>Art at 400%</related>
     </card>
@@ -3810,7 +3846,7 @@ When this battle enters, create X Ministry Tribunal tokens. (They’re 2/2 white
         <type>Sorcery</type>
       </prop>
       <tablerow>3</tablerow>
-      <text>Create X Student tokens, where X is equal to the number of creatures on the battlefield, then put a lifelink counter on each student token you control. You gain life equal to the number of creatures you control. (They’re 1/1 white Human Wizard creature tokens with “Studious”.)
+      <text>Create X Student tokens, where X is equal to the number of creatures on the battlefield, then put a lifelink counter on each student token you control. You gain life equal to the number of creatures you control. (They’re 1/1 white Human Wizard creature tokens with “Scholarly”.)
 ---
 (Front): Trial of the Wizengamot</text>
       <related attach="transform">Trial of the Wizengamot</related>
@@ -3983,12 +4019,12 @@ Equip—Discard a card.</text>
         <cmc>6</cmc>
         <type>Legendary Creature - Human Wizard </type>
         <maintype>Creature</maintype>
-        <pt>3/3</pt>
+        <pt>4/3</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Haste
-Studious  (Whenever you draw a card, this creature gets +1/+1 until end of turn. If this is the third time this effect has resolved this turn and this creature isn’t studious, it becomes studious.)
-As long as Marietta Edgecomb is studious, during each opponents end step, this creature’s controller gains life and draws a number of cards equal to the number of cards the turn player cast this turn. Then Marietta Edgecomb deals damage to that player equal to the number of cards drawn this way and you exchange control of Marietta Edgecomb with target opponent.</text>
+Scholarly (Whenever you draw a card, this creature gets +1/+1 until end of turn. If this is the third time this effect has resolved this turn and this creature isn’t studious, it becomes studious.)
+At the  beginning each opponents end step, if Marietta Edgecomb is studious, this creature’s controller gains life and draws a number of cards equal to the number of cards the turn player cast this turn. Then you exchange control of Marietta Edgecomb with target opponent.</text>
     </card>
     <card>
       <name>Albus Dumbledore</name>
@@ -4042,8 +4078,8 @@ You draw an additional card during each of your draw steps for each legendary cr
         <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Studious (Whenever you draw a card, this creature gets +1/+1 until end of turn. If this is the third time this effect has resolved this turn and this creature isn’t studious, it becomes studious.)
-As long as this creature is studious during the beginning of your upkeep create a Potion token. (It’s an artifact token with “{2}, {T}, Sacrifice this Potion: You may activate a Recipe ability of a permanent you control without paying its activation cost.”)
+      <text>Scholarly (Whenever you draw a card, this creature gets +1/+1 until end of turn. If this is the third time this effect has resolved this turn and this creature isn’t studious, it becomes studious.)
+At the beginning of your upkeep, if this creature is studious, create a Potion token. (It’s an artifact token with “{2}, {T}, Sacrifice this Potion: You may activate a Recipe ability of a permanent you control without paying its activation cost.”)
 Recipe — 3R, {T}, Put a stun counter on this creature: This creature deals damage equal to its power to another target creature.</text>
       <related>Potion</related>
     </card>
@@ -4170,7 +4206,7 @@ Recipe— {B}, Pay 2 life: Untap this creature.</text>
         <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever you commit a crime, create a Potion token. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime. A Potion token is an artifact with “{2}, {T}, Sacrifice this Potion: You may activate a Recipe ability of a permanent you control without paying its activation cost.”)
+      <text>Whenever you commit a crime, create a Potion token. This ability triggers only once each turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime. A Potion token is an artifact with “{2}, {T}, Sacrifice this Potion: You may activate a Recipe ability of a permanent you control without paying its activation cost.”)
 Recipe — Draw a card. You lose 2 life.</text>
       <related>Potion</related>
       <related>Art at 400%</related>
@@ -4625,8 +4661,8 @@ Recipe — 2/R2/R2/G2/G, {T}, Sacrifice this Potion: Return control of all perma
         <pt>2/4</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Studious (Whenever you draw a card, this creature gets +1/+1 until end of turn. If this is the third time this effect has resolved this turn and this creature isn’t studious, it becomes studious.)
-As long as this creature is studious during the beginning of each of your end-steps you may pay {2}. If you do, create your choice of a Clue, Food, Map, Potion, Treasure, or Wizard-Cracker token. (A Wizard-Cracker token is an artifact with “{T}, Sacrifice this artifact: Put a -1/-1 counter on target creature.”)</text>
+      <text>Scholarly (Whenever you draw a card, this creature gets +1/+1 until end of turn. If this is the third time this effect has resolved this turn and this creature isn’t studious, it becomes studious.)
+At the beginning of each of your end-steps, if this creature is studious, you may pay {2}. If you do, create your choice of a Clue, Food, Map, Potion, Treasure, or Wizard-Cracker token. (A Wizard-Cracker token is an artifact with “{T}, Sacrifice this artifact: Put a -1/-1 counter on target creature.” A Potion token is an artifact with “{2}, {T}, Sacrifice this Potion: You may activate a Recipe ability of a permanent you control without paying its activation cost.”)</text>
       <related>Clue</related>
       <related> Food</related>
       <related> Map</related>
@@ -4849,8 +4885,8 @@ When Hedwig enters or deals combat damage to a player, draw a card. Then you gai
       </prop>
       <tablerow>2</tablerow>
       <text>Flying, vigilance
-Studious (Whenever you draw a card, this creature gets +1/+1 until end of turn. If this is the third time this effect has resolved this turn and this creature isn’t studious, it becomes studious.)
-As long as this creature is studious during the beginning of each player’s end step, if a creature entered under that player’s control this turn, you gain 1 life and draw a card.</text>
+Scholarly (Whenever you draw a card, this creature gets +1/+1 until end of turn. If this is the third time this effect has resolved this turn and this creature isn’t studious, it becomes studious.)
+At the beginning of each player’s end step, if Moaning Myrtle is studious and a creature entered under that player’s control this turn, you gain 1 life and draw a card.</text>
     </card>
     <card>
       <name>Repello Inimicum</name>
@@ -4981,8 +5017,8 @@ Whenever this creature dies, scry 2 then draw a card.</text>
       <set rarity="uncommon">WWHP</set>
       <prop>
         <colors>U</colors>
-        <manacost>4U</manacost>
-        <cmc>5</cmc>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
         <type>Legendary Creature - Human Wizard </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
@@ -5191,7 +5227,7 @@ Whenever a player commits a crime or casts a nonpermanent spell that targets thi
       </prop>
       <tablerow>3</tablerow>
       <text>Alteration 1GG (You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield for 1GG.)
-Target player sacrifices enchantment. Then that player creates a 1/1 black Rat creature token with “{1}, {T}, Sacrifice this token: Create a Treasure token.” If this spell was cast from the battlefield, the targeted player may sacrifice an artifact instead.</text>
+Target player sacrifices an enchantment. Then that player creates a 1/1 black Rat creature token with “{1}, {T}, Sacrifice this token: Create a Treasure token.” If this spell was cast from the battlefield, the targeted player may sacrifice an artifact instead.</text>
       <related>Rat</related>
     </card>
     <card>
@@ -5518,14 +5554,14 @@ Search your library for a land card, reveal it, put it onto the battlefield tapp
       <set rarity="mythic">WWHP</set>
       <prop>
         <colors>G</colors>
-        <manacost>4GG</manacost>
-        <cmc>6</cmc>
+        <manacost>5GG</manacost>
+        <cmc>7</cmc>
         <type>Creature - Cat Beast </type>
         <maintype>Creature</maintype>
         <pt>7/7</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Deathtouch, trample
+      <text>Deathtouch
 Ward {2}
 This creature can’t be blocked except by three or more creatures.
 {1}: This creature can block an additional creature this turn.</text>
@@ -5724,7 +5760,7 @@ As long as Fred and George Weasley are courageous, each courageous creature you 
       </prop>
       <tablerow>1</tablerow>
       <text>(As this Saga enters and after your draw step, add a lore counter.)
-I — This saga gains “Creatures you control have Studious” (Whenever you draw a card, this creature gets +1/+1 until end of turn. If this is the third time this effect has resolved this turn and this creature isn’t studious, it becomes studious.)
+I — This saga gains “Creatures you control have Scholarly”
 II — This Saga gains “Creatures can’t attack you or permanents you protect unless their controller pays {X}, where X is the number of cards in your hand for each attacking creature they control.”  (Players protect permanents that can be attacked.)
 III — You gain a life and draw a card for each studious creature you control. You have no maximum hand size the rest of the game.</text>
     </card>
@@ -5755,7 +5791,7 @@ As long as Neville Longbottem is courageous, whenever another another creature y
         <pt>2/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Studious  (Whenever you draw a card, this creature gets +1/+1 until end of turn. If this is the third time this effect has resolved this turn and this creature isn’t studious, it becomes studious.)
+      <text>Scholarly
 As long as Olympe Maxime is studious, she has trample, double-strike and whenever she deals combat damage to a player, draw a card.
 You have no maximum hand size.</text>
     </card>
@@ -5831,7 +5867,7 @@ At the beginning of your end step, if you control a Wizard, Wand, Clue, Food, Po
       <set rarity="uncommon" splitterPath="/Permission to Visit Hogsmeade.png" >WWHP</set>
       <prop>
         <colors>U</colors>
-        <manacost>XXXUU</manacost>
+        <manacost>XUU</manacost>
         <cmc>2</cmc>
         <type>Battle - Siege </type>
         <maintype>Battle</maintype>
@@ -5969,9 +6005,9 @@ Pestis Incendium, Fiendfyre deals X damage to each creature, where X is the numb
         <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Studious  (Whenever you draw a card, this creature gets +1/+1 until end of turn. If this is the third time this effect has resolved this turn and this creature isn’t studious, it becomes studious.)
+      <text>Scholarly (Whenever you draw a card, this creature gets +1/+1 until end of turn. If this is the third time this effect has resolved this turn and this creature isn’t studious, it becomes studious.)
 As long as Quirinus Quirrell  is studious, bewitchment spells you cast cost {1} less to cast.
-Whenever you cast a bewitchment, untap Quirinus Quirrell. Then you may pay {3} or transform him. If you do learn. (Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments. To learn, you may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)
+Whenever you cast a bewitchment, untap Quirinus Quirrell. Then you may transform him. If you transform him, learn. (Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments. To learn, you may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)
 ---
 (Back): Remnant of Lord Voldemort</text>
       <related attach="transform">Remnant of Lord Voldemort</related>
@@ -6113,7 +6149,7 @@ Bewitchment Storm</text>
         <cmc>5</cmc>
         <type>Legendary Creature - Human Wizard </type>
         <maintype>Creature</maintype>
-        <pt>4/4</pt>
+        <pt>5/5</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever you commit a crime, the next bewitchment spell you cast this turn costs 1U, 1B, or 1R less to cast. Put a +1/+1 counter on Bellatrix Lestrange.
@@ -6308,7 +6344,7 @@ III — Create a token that is a copy of target nonhuman creature you control. T
       </prop>
       <tablerow>1</tablerow>
       <text>(As this Saga enters and after your draw step, add a lore counter. Exile and return this Saga to the battlefield transformed after III.)
-I — Create a 1/1 Student token. Then create a 1/1 student token for each land you control. (Its a 1/1 white Human Wizard creature token with “Studious”.)
+I — Create a 1/1 Student token. Then create a 1/1 student token for each land you control. (Its a 1/1 white Human Wizard creature token with “Scholarly”.)
 II — For each student you control, create a tapped Treasure token.
 III — Until end of turn, Whenever you sacrifice a treasure token, you gain 1 life.
 ---
@@ -6469,7 +6505,7 @@ III — Return target creature from your graveyard or exile to the battlefield t
       </prop>
       <tablerow>1</tablerow>
       <text>(As this Saga enters and after your draw step, add a lore counter. Exile and return this Saga to the battlefield transformed after III.)
-I — This saga has “ Whenever a land or enchantment enters under your control create a Student token.  (Its a 1/1 white Human Wizard creature token with “Studious”.)
+I — This saga has “ Whenever a land or enchantment enters under your control create a Student token.  (Its a 1/1 white Human Wizard creature token with “Scholarly”.)
 II — For each land and enchantment you control create a 1/1 white Bird creature token with Flying.
 III — Until end of turn, creatures you control have “{T}: Tap target creature and put a stun counter on it. You gain 1 life.
 ---
@@ -6849,7 +6885,7 @@ If you control a Plant, exile this spell, then cast it transformed.
       <text>(Gain the next level as a sorcery to add its ability.)
 Plants you control get +1/+1.
 2G/WG/W: Year 2
-Creatures can’t attack a player unless that player cast a spell or put a nontoken permanent onto the battlefield.
+Creatures can’t attack a player this turn unless that player cast a spell or put a nontoken permanent onto the battlefield.
 3G/WG/W: Year 3
 You may cast Plant spells as though they had flash.
 4G/WG/W: Year 4
@@ -6860,7 +6896,7 @@ Whenever a player casts a Plant spell, you may pay {2}. If you do, copy that spe
       <related>Copy</related>
     </card>
     <card>
-      <name>Dolorus Umbridge, Lawfully Maddened Official</name>
+      <name>Dolores Umbridge, Lawfully Maddened Official</name>
       <set rarity="rare">WWHP</set>
       <prop>
         <colors>B</colors>
@@ -6871,9 +6907,9 @@ Whenever a player casts a Plant spell, you may pay {2}. If you do, copy that spe
         <pt>2/4</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Dolorus Umbridge enters tapped.
+      <text>Dolores Umbridge enters tapped.
 Soulbond (You may pair this creature with another unpaired creature when either enters. They remain paired for as long as you control both of them.)
-2BBBB,  {T}, Put two stun counters on Dolorus Umbridge: For each creature, its controller sacrifices a permanent of their choice unless they pay {1} or 2 life. Activate only if Dolorus Umbridge is paired with a creature.</text>
+2BBBB,  {T}, Put two stun counters on Dolores Umbridge: For each creature, its controller sacrifices a permanent of their choice unless they pay {1} or 2 life. Activate only if Dolores Umbridge is paired with a creature.</text>
     </card>
     <card>
       <name>Magizoologist Trainee</name>
@@ -6884,7 +6920,7 @@ Soulbond (You may pair this creature with another unpaired creature when either 
         <cmc>5</cmc>
         <type>Creature - Human Wizard </type>
         <maintype>Creature</maintype>
-        <pt>1/1</pt>
+        <pt>3/3</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Dedication to Beast 1GG (Whenever this creature attacks,  you may pay 1GG. If you do it gets +1/+1 for each Beast you control until end of turn.)
@@ -6902,7 +6938,7 @@ Whenever this creature attacks, Beasts you control gain trample until end of tur
         <pt>1/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Dedication to Plants 2GG (Whenever this creature attacks,  you may pay 2GG. If you do it gets +1/+1 for each Plants you control until end of turn.)
+      <text>Dedication to Plants 2/GG (Whenever this creature attacks,  you may pay 2/GG. If you do it gets +1/+1 for each Plants you control until end of turn.)
 Whenever this creature attacks, you may pay 3 life. If you do create a token that is a copy of target Plant you control. It enters tapped and attacking.</text>
       <related>Copy</related>
     </card>
@@ -6918,15 +6954,15 @@ Whenever this creature attacks, you may pay 3 life. If you do create a token tha
         <pt>1/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Studious (Whenever you draw a card, this creature gets +1/+1 until end of turn. If this is the third time this effect has resolved this turn and this creature isn’t studious, it becomes studious.)
+      <text>Scholarly (Whenever you draw a card, this creature gets +1/+1 until end of turn. If this is the third time this effect has resolved this turn and this creature isn’t studious, it becomes studious.)
 Whenever you cast an Incantation spell, you may draw a card. If you do discard a card.</text>
     </card>
     <card>
       <name>First-Year Ravenclaw</name>
       <set rarity="common">WWHP</set>
       <prop>
-        <colors>U</colors>
-        <manacost>UU</manacost>
+        <colors>WUR</colors>
+        <manacost>R/WU</manacost>
         <cmc>2</cmc>
         <type>Creature - Human Wizard </type>
         <maintype>Creature</maintype>
@@ -6934,14 +6970,14 @@ Whenever you cast an Incantation spell, you may draw a card. If you do discard a
       </prop>
       <tablerow>2</tablerow>
       <text>When this creature enters,  you may draw a card. If you do discard two cards or discard a creature card.
-As long as you control another creature that is studious, this creature has studious and haste. (Whenever you draw a card, this creature gets +1/+1 until end of turn. If this is the third time this effect has resolved this turn and this creature isn’t studious, it becomes studious.)</text>
+As long as you control another creature that is studious, this creature has haste and scholarly. (Whenever you draw a card, this creature gets +1/+1 until end of turn. If this is the third time this effect has resolved this turn and this creature isn’t studious, it becomes studious.)</text>
     </card>
     <card>
       <name>First-Year Gryffindor</name>
       <set rarity="common">WWHP</set>
       <prop>
-        <colors>R</colors>
-        <manacost>RR</manacost>
+        <colors>WRG</colors>
+        <manacost>RG/W</manacost>
         <cmc>2</cmc>
         <type>Creature - Human Wizard </type>
         <maintype>Creature</maintype>
@@ -6955,8 +6991,8 @@ When this creature enters, put a +1/+1 counter on target creature then you may g
       <name>First-Year Slytherin</name>
       <set rarity="common">WWHP</set>
       <prop>
-        <colors>G</colors>
-        <manacost>GG</manacost>
+        <colors>UBG</colors>
+        <manacost>GU/B</manacost>
         <cmc>2</cmc>
         <type>Creature - Human Wizard </type>
         <maintype>Creature</maintype>
@@ -6970,8 +7006,8 @@ When this creature enters, each opponent discards a card then mills a card for e
       <name>First-Year Hufflepuff</name>
       <set rarity="common">WWHP</set>
       <prop>
-        <colors>W</colors>
-        <manacost>WW</manacost>
+        <colors>WBG</colors>
+        <manacost>B/GW</manacost>
         <cmc>2</cmc>
         <type>Creature - Human Wizard </type>
         <maintype>Creature</maintype>
@@ -6985,8 +7021,8 @@ This creature has dedication to the chosen creature type G/WG/WG/WG/W. (Whenever
       <name>First-Week Snatcher</name>
       <set rarity="common">WWHP</set>
       <prop>
-        <colors>B</colors>
-        <manacost>BB</manacost>
+        <colors>UBR</colors>
+        <manacost>BU/R</manacost>
         <cmc>2</cmc>
         <type>Creature - Werewolf Wizard </type>
         <maintype>Creature</maintype>
@@ -7120,9 +7156,9 @@ Minister’s Censorship deals damage equal to the number of Legendary creatures 
         <pt>0/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever a creature you control enters that has Studious, you may learn. If you do, that creature enters tapped. (To learn, you may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)
-2/U2/U: Choose one—
-• Create two 1/1 blue Book enchantment creature tokens with flying and “When this token dies, draw a card.”
+      <text>Whenever a creature you control enters that has Scholarly, you may learn. If you do, that creature enters tapped. (To learn, you may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)
+2/U2/U2/U: Choose one—
+• Create a 1/1 blue Book enchantment creature tokens with flying and “When this token dies you may pay {1}. If you do, draw a card.”
 • Search your library for a Book card, reveal it, put it to your hand, then shuffle.</text>
       <related>Book</related>
     </card>
@@ -7138,8 +7174,8 @@ Minister’s Censorship deals damage equal to the number of Legendary creatures 
         <pt>3/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Studious (Whenever you draw a card, this creature gets +1/+1 until end of turn. If this is the third time this effect has resolved this turn and this creature isn’t studious, it becomes studious.)
-As long as Madam Hooch is studious, she has during the beginning of players upkeep that player may put a flying counter on a creature they control. 
+      <text>Scholarly (Whenever you draw a card, this creature gets +1/+1 until end of turn. If this is the third time this effect has resolved this turn and this creature isn’t studious, it becomes studious.)
+At the during the beginning of each players upkeep, if Madam Hooch is studious, that player may put a flying counter on a creature they control. 
 Whenever an opponent put’s a flying counter on a creature they control, learn. (you may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)</text>
     </card>
     <card>
@@ -7275,7 +7311,7 @@ Whenever a nontoken permanent you control leaves the battlefield, each opponent 
         <pt>3/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever a legendary creature leaves the field or an opponent commits a crime, each opponent faces a villainous choice — That player loses 1 life or mills a card. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)</text>
+      <text>Whenever a legendary creature leaves the field or an opponent commits a crime, each opponent faces a villainous choice — That player loses 5 life or mills ten cards. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)</text>
     </card>
     <card>
       <name>Spot Ministry Raid</name>
@@ -7288,7 +7324,7 @@ Whenever a nontoken permanent you control leaves the battlefield, each opponent 
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>When you cast this spell, any player may pay 5 life and discard or mill a card. If a player does, counter this spell.
+      <text>When you cast this spell, any player may pay 5 life and either discard two cards or mill ten cards. If a player does, counter this spell.
 Counter target spell.</text>
     </card>
 
@@ -7416,7 +7452,7 @@ Whenever this token enters, investigate. (Create a Clue token. It’s an artifac
         <pt>1/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Studious (Whenever you draw a card, this creature gets +1/+1 until end of turn. If this is the third time this effect has resolved this turn and this creature isn’t studious, it becomes studious.)</text>
+      <text>Scholarly (Whenever you draw a card, this creature gets +1/+1 until end of turn. If this is the third time this effect has resolved this turn and this creature isn’t studious, it becomes studious.)</text>
       <token>1</token>
     </card>
     <card>
@@ -7445,7 +7481,7 @@ BG, {T}: Each opponent loses 1 life. You gain life equal to the amount lost this
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-When this creature dies, draw a card</text>
+When this creature dies you may pay {1}. If you do, draw a card</text>
       <token>1</token>
     </card>
     <card>
