@@ -927,15 +927,15 @@ Whenever Nymphadora Tonks attacks, until end of turn Wizards in your hand have A
       <name>Blast Ended Screwt</name>
       <set rarity="common">WWHP</set>
       <prop>
-        <colors>R</colors>
-        <manacost>RRRR</manacost>
+        <colors>RG</colors>
+        <manacost>RRGG</manacost>
         <cmc>4</cmc>
         <type>Creature - Beast </type>
         <maintype>Creature</maintype>
         <pt>3/5</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Squad RR (As an additional cost to cast this spell, you may pay RR any number of times. When this creature enters, create that many tokens that are copies of it.)
+      <text>Squad R/GR/G (As an additional cost to cast this spell, you may pay R/GR/G any number of times. When this creature enters, create that many tokens that are copies of it.)
 Trample, menace
 Whenever this creature deals combat damage to another creature, if you control this creature, tap the other creature and put a stun counter on it.
 2RRR, {T}: This creature deals damage equal to its power divided among any number of target permanents.</text>
@@ -1325,7 +1325,7 @@ Incantations enchanted player casts can’t target you, spells, permanent, abili
     </card>
     <card>
       <name>Serpensortia</name>
-      <set rarity="common">WWHP</set>
+      <set rarity="uncommon">WWHP</set>
       <prop>
         <colors>B</colors>
         <manacost>B</manacost>
@@ -1856,7 +1856,7 @@ Return up to X target creature cards from your graveyard to the battlefield. The
     </card>
     <card>
       <name>Portkey to Little Hangleton Graveyard</name>
-      <set rarity="uncommon" splitterPath="/Portkey to Little Hangleton Graveyard.png" >WWHP</set>
+      <set rarity="rare" splitterPath="/Portkey to Little Hangleton Graveyard.png" >WWHP</set>
       <prop>
         <colors>B</colors>
         <manacost>XXXBBB</manacost>
@@ -1875,7 +1875,7 @@ When this Siege enters, create X 2/1 black Skeleton creature tokens.
     </card>
     <card>
       <name>Charmed Skeleton</name>
-      <set rarity="uncommon" splitterPath="/Charmed Skeleton.png" >WWHP</set>
+      <set rarity="rare" splitterPath="/Charmed Skeleton.png" >WWHP</set>
       <prop>
         <colors>B</colors>
         <manacost></manacost>
@@ -2156,14 +2156,14 @@ Bewitchment storm (When you cast this spell, copy it for each bewitchment spell 
     </card>
     <card>
       <name>Giant Purple Toad</name>
-      <set rarity="common">WWHP</set>
+      <set rarity="uncommon">WWHP</set>
       <prop>
         <colors>U</colors>
         <manacost>2UU</manacost>
         <cmc>4</cmc>
         <type>Creature - Frog Beast </type>
         <maintype>Creature</maintype>
-        <pt>3/3</pt>
+        <pt>4/4</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Reach, Protection from red. (This creature can’t be blocked, targeted, dealt damage, enchanted, or equipped by anything red..)
@@ -2569,7 +2569,7 @@ Skulk (This creature can’t be blocked by creatures with greater power.)</text>
     </card>
     <card>
       <name>Red Cap Tower Guard</name>
-      <set rarity="common">WWHP</set>
+      <set rarity="uncommon">WWHP</set>
       <prop>
         <colors>R</colors>
         <manacost>2R</manacost>
@@ -3274,8 +3274,8 @@ Crew 2
       <name>Snatcher Ambush</name>
       <set rarity="common">WWHP</set>
       <prop>
-        <colors>R</colors>
-        <manacost>2RR</manacost>
+        <colors>BR</colors>
+        <manacost>2BR</manacost>
         <cmc>4</cmc>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
@@ -3381,15 +3381,15 @@ Bewitchment storm (When you cast this spell, copy it for each bewitchment spell 
       <name>Animated Torch</name>
       <set rarity="common">WWHP</set>
       <prop>
-        <colors>R</colors>
-        <manacost>3R</manacost>
+        <colors>WR</colors>
+        <manacost>2RW</manacost>
         <cmc>4</cmc>
         <type>Artifact Creature - Beast Incantation </type>
         <maintype>Creature</maintype>
         <pt>1/4</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Alteration XXXW (You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield for XXXW.)
+      <text>Alteration XXW (You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield for XXW.)
 Flying, Defender
 {R}, {T}: This creature deals damage to target creature equal to the number of creatures that share a name with it. Activate only if you were dealt damage this turn. 
 If this creature was cast from the battlefield, create X tokens that are copies of it.</text>
@@ -4651,7 +4651,7 @@ Recipe — 2/R2/R2/G2/G, {T}, Sacrifice this Potion: Return control of all perma
     </card>
     <card>
       <name>Hogsmeade Potioneer</name>
-      <set rarity="uncommon">WWHP</set>
+      <set rarity="common">WWHP</set>
       <prop>
         <colors>W</colors>
         <manacost>3W</manacost>
@@ -5061,7 +5061,7 @@ Recipe— {3}, {T}, Remove a charge counter from this creature: Counter target s
     </card>
     <card>
       <name>Greedy Niffler</name>
-      <set rarity="uncommon">WWHP</set>
+      <set rarity="rare">WWHP</set>
       <prop>
         <colors>U</colors>
         <manacost>3U</manacost>
@@ -5814,7 +5814,7 @@ You have no maximum hand size.</text>
     </card>
     <card>
       <name>Letters from No One</name>
-      <set rarity="uncommon" splitterPath="/Letters from No One.png" >WWHP</set>
+      <set rarity="rare" splitterPath="/Letters from No One.png" >WWHP</set>
       <prop>
         <colors>R</colors>
         <manacost>XXXRR</manacost>
@@ -5837,7 +5837,7 @@ When Letters from No One enters put X defense counters on it and you create X 1/
     </card>
     <card>
       <name>Wizard School Supply List</name>
-      <set rarity="uncommon" splitterPath="/Wizard School Supply List.png" >WWHP</set>
+      <set rarity="rare" splitterPath="/Wizard School Supply List.png" >WWHP</set>
       <prop>
         <colors>R</colors>
         <manacost></manacost>
@@ -6908,17 +6908,17 @@ Soulbond (You may pair this creature with another unpaired creature when either 
     </card>
     <card>
       <name>Magizoologist Trainee</name>
-      <set rarity="common">WWHP</set>
+      <set rarity="uncommon">WWHP</set>
       <prop>
         <colors>G</colors>
-        <manacost>4G</manacost>
-        <cmc>5</cmc>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
         <type>Creature - Human Wizard </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Dedication to Beast 1GG (Whenever this creature attacks,  you may pay 1GG. If you do it gets +1/+1 for each Beast you control until end of turn.)
+      <text>Dedication to Beast GG (Whenever this creature attacks,  you may pay GG. If you do it gets +1/+1 for each Beast you control until end of turn.)
 Whenever this creature attacks, Beasts you control gain trample until end of turn.</text>
     </card>
     <card>
@@ -7100,7 +7100,7 @@ Whenever a creature becomes courageous, put an additional +1/+1 counter on it.</
     </card>
     <card>
       <name>Merlin&apos;s Trial</name>
-      <set rarity="uncommon">WWHP</set>
+      <set rarity="rare">WWHP</set>
       <prop>
         <colors>G</colors>
         <manacost>1G</manacost>

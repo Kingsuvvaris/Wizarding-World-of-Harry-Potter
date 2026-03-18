@@ -536,7 +536,7 @@
 	    {
 	        "name": "Blast Ended Screwt",
 	        "rarity": "common",
-	        "mana_cost": "{R}{R}{R}{R}",
+	        "mana_cost": "{R}{R}{G}{G}",
 	        "type": "Creature — Beast ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Blast Ended Screwt.png"
@@ -775,7 +775,7 @@
 	    },
 	    {
 	        "name": "Serpensortia",
-	        "rarity": "common",
+	        "rarity": "uncommon",
 	        "mana_cost": "{B}",
 	        "type": "Sorcery — Incantation ",
 	        "image_uris": {
@@ -1264,7 +1264,7 @@
 	    },
 	    {
 	        "name": "Giant Purple Toad",
-	        "rarity": "common",
+	        "rarity": "uncommon",
 	        "mana_cost": "{2}{U}{U}",
 	        "type": "Creature — Frog Beast ",
 	        "image_uris": {
@@ -1522,7 +1522,7 @@
 	    },
 	    {
 	        "name": "Red Cap Tower Guard",
-	        "rarity": "common",
+	        "rarity": "uncommon",
 	        "mana_cost": "{2}{R}",
 	        "type": "Creature — Goblin Beast ",
 	        "image_uris": {
@@ -1943,7 +1943,7 @@
 	    {
 	        "name": "Snatcher Ambush",
 	        "rarity": "common",
-	        "mana_cost": "{2}{R}{R}",
+	        "mana_cost": "{2}{B}{R}",
 	        "type": "Enchantment",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Snatcher Ambush.png"
@@ -2015,7 +2015,7 @@
 	    {
 	        "name": "Animated Torch",
 	        "rarity": "common",
-	        "mana_cost": "{3}{R}",
+	        "mana_cost": "{2}{R}{W}",
 	        "type": "Artifact Creature — Beast Incantation ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Animated Torch.png"
@@ -2761,7 +2761,7 @@
 	    },
 	    {
 	        "name": "Hogsmeade Potioneer",
-	        "rarity": "uncommon",
+	        "rarity": "common",
 	        "mana_cost": "{3}{W}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
@@ -2998,7 +2998,7 @@
 	    },
 	    {
 	        "name": "Greedy Niffler",
-	        "rarity": "uncommon",
+	        "rarity": "rare",
 	        "mana_cost": "{3}{U}",
 	        "type": "Creature — Platypus Beast ",
 	        "image_uris": {
@@ -4006,8 +4006,8 @@
 	    },
 	    {
 	        "name": "Magizoologist Trainee",
-	        "rarity": "common",
-	        "mana_cost": "{4}{G}",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{G}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Magizoologist Trainee.png"
@@ -4123,7 +4123,7 @@
 	    },
 	    {
 	        "name": "Merlin's Trial",
-	        "rarity": "uncommon",
+	        "rarity": "rare",
 	        "mana_cost": "{1}{G}",
 	        "type": "Instant — Lesson ",
 	        "image_uris": {
@@ -4693,6 +4693,7 @@
 		2 Department of Mysteries
 		2 Legilimens
 		2 Skirmish in Underground Chambers
+		2 Portkey to Little Hangleton Graveyard
 		2 Tradgey at the World Cup
 		2 Journey Beneath Gringotts Bank
 		2 Escape of the Azkaban Prisoner
@@ -4716,6 +4717,7 @@
 		2 Grand Pepperup Potion
 		2 Repello Inimicum
 		2 Melding of Minds
+		2 Greedy Niffler
 		2 Pius Thicknesse, Dark Lord Puppet
 		2 Blaize Zabini, Entitled Beneficiary
 		2 Goldstein Sisters, Queeny and Tina
@@ -4725,6 +4727,7 @@
 		2 Pansi Parkinson, Combatent Instigator
 		2 Bertie Botts Every Flavor Beans
 		2 Olympe Maxime, Headmistress of Beauxbatons
+		2 Letters from No One
 		2 Mystery of the Golden Egg
 		2 Molly and Arthur Weasley, Protective Parents
 		2 Trial of the Goblet of Fire
@@ -4742,6 +4745,7 @@
 		2 Traverse the Secret Passage
 		2 Reawakining of the Dark Mark
 		2 Dolores Umbridge, Lawfully Maddened Official
+		2 Merlin's Trial
 		1 Imperio
 		1 Watchful Observer
 		1 Severus Snape, Head of Slytherin House
@@ -4800,6 +4804,7 @@
 		3 Remus Lupin, Master of the Dark Arts
 		3 Cedric Diggory, Fiercely Loyal Friend
 		3 Broken Wand
+		3 Serpensortia
 		3 Dobby, the House Elf
 		3 Rita Skeeter, Gossip Reporter
 		3 Thestral
@@ -4809,15 +4814,16 @@
 		3 Orchideous
 		3 Helena, Ghost of Ravenclaw
 		3 Peeves, Poltergeist Trickster
-		3 Portkey to Little Hangleton Graveyard
 		3 Nearly Headless Nick, Ghost of Gryffindor
 		3 Bloody Barron, Ghost of Slytherin
 		3 Ronald Weasley, House King
 		3 Inflatus
+		3 Giant Purple Toad
 		3 Bundimun
 		3 Corban Yaxley, Registered Interrogator
 		3 Three Headed Guard Dog
 		3 Brain Eater
+		3 Red Cap Tower Guard
 		3 Mrs Norris
 		3 Narcissa Malfoy, Devoted Mother
 		3 Alaster Mad-Eye Moody
@@ -4843,13 +4849,11 @@
 		3 Thunder Brew Potion
 		3 Antidote to Poisons
 		3 Whit-Sharpening Potion
-		3 Hogsmeade Potioneer
 		3 Aparecium
 		3 Hedwig, Loyal Protector
 		3 Moaning Myrtle
 		3 Gilderoy Lockhart
 		3 Marcus Flint, Slytherin Quidditch Captain
-		3 Greedy Niffler
 		3 The Patil Twins, Padma and Parvati
 		3 Skiving Snack Boxes
 		3 Graphorn
@@ -4858,14 +4862,13 @@
 		3 Fleur Delacour, Beuxbatons Champion
 		3 Fred and George Weasley, Mischevious Twins
 		3 Neville Longbottem, Courageous Friend
-		3 Letters from No One
 		3 Permission to Visit Hogsmeade
 		3 Ginny Weasley, Underestimated Power
 		3 Quirinus Quirrell, Traitorous Professor
 		3 Scabbers, Frightend Coward
+		3 Magizoologist Trainee
 		3 The Carrow Siblings
 		3 Non-Verbal Cast
-		3 Merlin's Trial
 		3 Join Us or Die!
 		3 Madam Hooch, Quidditch Referee
 	[CommonSlot(9)]
@@ -4907,7 +4910,6 @@
 		4 Hufflepuff Prefect
 		4 Gryffindor Prefect
 		4 Bubotuber
-		4 Serpensortia
 		4 Disillusionment Charm
 		4 Vera Verto
 		4 Melofors
@@ -4919,13 +4921,11 @@
 		4 Flame Infused Armour
 		4 Hidden Boggart
 		4 Rictusempra
-		4 Giant Purple Toad
 		4 Screaming Howler
 		4 Densaugeo
 		4 Surgito
 		4 Furnunculus
 		4 Swarm of Grindylows
-		4 Red Cap Tower Guard
 		4 Fanged Frisbee
 		4 Dark Wizard Robes
 		4 Ravenclaw Robes
@@ -4987,6 +4987,7 @@
 		4 Polyjuice Potion
 		4 Stink Pellet
 		4 Wolfsbane Potion
+		4 Hogsmeade Potioneer
 		4 Knockturn Alley Potioneer
 		4 Currupted Potioneer
 		4 Durmstrang Potioneer
@@ -5031,7 +5032,6 @@
 		4 Intro to Care of Magical Creatures
 		4 Intro to History of Magic
 		4 Intro to Herbology
-		4 Magizoologist Trainee
 		4 Novice Herbologist
 		4 Charms Adept
 		4 First-Year Ravenclaw
