@@ -871,7 +871,7 @@ As long as Luna Lovegood is studious, she has first strike and “Whenever a cre
       <tablerow>2</tablerow>
       <text>Activated abilities of Potions you control cost {2} less to activate.
 Whenever you sacrifice an artifact, Draco Malfoy gets +1/+1 until end of turn.
-Sacrifice one or more artifacts: Search your library for an Bewitchment card with mana value less than or equal to the total mana value of artifacts sacrificed this way, exile that card. You may cast it this turn without paying its mana cost. (Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)</text>
+Sacrifice one or more artifacts: Search your library for an Bewitchment*s card with mana value less than or equal to the total mana value of artifacts sacrificed this way, exile that card. You may cast it this turn without paying its mana cost. (Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)</text>
     </card>
     <card>
       <name>Harry Potter, The Boy Who Lived</name>
@@ -3021,7 +3021,7 @@ As long as  Cho Chang is studious, she has flying and during your turn and whene
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-At the beginning of your upkeep, you may pay UU. If you do, reveal the top card of your library. If a Bewitchment card is revealed this way, draw two cards. Otherwise, draw a card. (Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)</text>
+At the beginning of your upkeep, you may pay UU. If you do, reveal the top card of your library. If a Bewitchment*s card is revealed this way, draw two cards. Otherwise, draw a card. (Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)</text>
     </card>
     <card>
       <name>Erumpent Horn</name>
@@ -4461,7 +4461,7 @@ Recipe — 2/R2/R, Sacrifice this potion: The next time a nonpermanent spell or 
       </prop>
       <tablerow>1</tablerow>
       <text>Whenever a Potion enters, you may remove a counter from target creature or player.
-Recipe — 2/G2/G, {T}, Sacrifice this Potion: Target creature gains ward {1} until end of turn. Untap that creature. (Whenever this permanent becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)</text>
+Recipe — 2/G2/G, {T}, Sacrifice this Potion: Target creature gains ward {1} and cannot be destroyed by creatures with deathtouch until end of turn. Untap that creature. (Whenever this permanent becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)</text>
     </card>
     <card>
       <name>Felix Felicis</name>
@@ -5696,10 +5696,11 @@ Whenever a Plant creature you control enters, create a token copy of this creatu
       </prop>
       <tablerow>1</tablerow>
       <text>When this enchantment enters, create a Food token.
+Food tokens you control have “{T}, Sacrifice this token: Add one mana of any color.”
 Whenever you sacrifice a Food, roll a d20.
 1-5:  You lose 6 life.
 6-19:  Create a Food token.
-20:  Destroy all Foods you control. Search your library for a card, shuffle, then put it on top of your library.</text>
+20:  Destroy all Foods you control. Search your library for a card and add it to your hand, shuffle.</text>
       <related>Food</related>
       <related>reart</related>
     </card>
@@ -5823,7 +5824,7 @@ You have no maximum hand size.</text>
       </prop>
       <tablerow>1</tablerow>
       <text>(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it is defeated, exile it, then cast it transformed.)
-When Letters from No One enters put X defense counters on it and you create X 1/1 white Owl creature tokens with flying, defender and “Whenever this token enters, create a clue token.” 
+When Letters from No One enters put X defense counters on it and you create X 1/1 white bird creature tokens named Owl with flying, defender and “Whenever this token enters, create a clue token.” 
 ---
 (Back): Wizard School Supply List</text>
       <related attach="transform">Wizard School Supply List</related>
@@ -5833,9 +5834,6 @@ When Letters from No One enters put X defense counters on it and you create X 1/
       <related> Potion</related>
       <related> Treasure</related>
       <related> Wizard-Cracker</related>
-      <related>rework</related>
-      <related>Owls are birds too</related>
-      <related>back has reminder text issues how can people know what a potion token and wizard cracker token do too scrunched</related>
     </card>
     <card>
       <name>Wizard School Supply List</name>
@@ -5847,7 +5845,7 @@ When Letters from No One enters put X defense counters on it and you create X 1/
         <type>Enchantment</type>
       </prop>
       <tablerow>1</tablerow>
-      <text>At the beginning of your upkeep, exile the top card of your library. Until the end of your next turn you may cast that card. If you do, create your choice of a Clue, Food, Potion, Treasure, or Wizard-Cracker token. (Its an artifact with “{T}, Sacrifice this artifact: Put a -1/-1 counter on target creature.”)
+      <text>At the beginning of your upkeep, exile the top card of your library. Until the end of your next turn you may cast that card. If you do, create your choice of a Clue, Food, Potion, Treasure, or Wizard-Cracker token. (Potion tokens are artifact tokens with “{2}, {T}, Sacrifice this Potion: You may activate a Recipe ability of a permanent you control without paying its activation cost.” Wizard-Cracker tokens artifact tokens with “{T}, Sacrifice this artifact: Put a -1/-1 counter on target creature.”)
 At the beginning of your end step, if you control a Wizard, Wand, Clue, Food, Potion, Treasure, and Wizard-Cracker, you win the game.
 ---
 (Front): Letters from No One</text>
@@ -5858,9 +5856,6 @@ At the beginning of your end step, if you control a Wizard, Wand, Clue, Food, Po
       <related> Potion</related>
       <related> Treasure</related>
       <related> Wizard-Cracker</related>
-      <related>rework</related>
-      <related>Owls are birds too</related>
-      <related>back has reminder text issues how can people know what a potion token and wizard cracker token do too scrunched</related>
     </card>
     <card>
       <name>Permission to Visit Hogsmeade</name>
@@ -6079,9 +6074,9 @@ UBR, {T}, Pay 2 life: Transform Peter Pettigrew, Traitorus Maruader.
         <pt>7/7</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Reach
-Whenever this creature is dealt combat damage, create a 1/2 green Spider creature tokens with reach. 
-When this creature dies, create your choice of six 1/2 green Spider creature tokens with reach. </text>
+      <text>Reach, Trample, Deathtouch
+Whenever this creature is dealt combat damage, create a 1/2 green Spider creature tokens with reach and deathtouch. 
+When this creature dies, create six 1/2 green Spider creature tokens with reach and deathtouch. </text>
       <related>Spider</related>
     </card>
     <card>
@@ -6506,7 +6501,7 @@ III — Return target creature from your graveyard or exile to the battlefield t
       <tablerow>1</tablerow>
       <text>(As this Saga enters and after your draw step, add a lore counter. Exile and return this Saga to the battlefield transformed after III.)
 I — This saga has “ Whenever a land or enchantment enters under your control create a Student token.  (Its a 1/1 white Human Wizard creature token with “Scholarly”.)
-II — For each land and enchantment you control create a 1/1 white Bird creature token with Flying.
+II — For each land and enchantment you control create 1/1 white bird creature tokens named Owl with flying, defender and “Whenever this token enters, create a clue token.” 
 III — Until end of turn, creatures you control have “{T}: Tap target creature and put a stun counter on it. You gain 1 life.
 ---
 (Back): Hogwarts, School of Witchcraft &amp; Wizardry</text>
@@ -7414,6 +7409,7 @@ Squad X (As an additional cost to cast this spell, you may pay X any number of t
       <tablerow>2</tablerow>
       <text>Flying</text>
       <token>1</token>
+      <reverse-related>Avifors</reverse-related>
     </card>
     <card>
       <name>Ministry Tribunal</name>
@@ -7433,7 +7429,7 @@ Squad X (As an additional cost to cast this spell, you may pay X any number of t
       <set>WWHP</set>
       <prop>
         <colors>W</colors>
-        <type>Token Creature - Owl </type>
+        <type>Token Creature - Bird </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
       </prop>
@@ -7441,6 +7437,8 @@ Squad X (As an additional cost to cast this spell, you may pay X any number of t
       <text>Defender, Flying
 Whenever this token enters, investigate. (Create a Clue token. It’s an artifact with “{2}, Sacrifice this token: Draw a card.”)</text>
       <token>1</token>
+      <reverse-related>[Letters from No one}</reverse-related>
+      <reverse-related> {Reciept of Hogwarts Letter]</reverse-related>
     </card>
     <card>
       <name>Student</name>
@@ -7953,6 +7951,8 @@ Flying, Defender
       <tablerow>1</tablerow>
       <text>{2}, Sacrifice this artifact: Target creature you control phases out. (Treat it and anything attached to it as though they don’t exist until its controller’s next turn.)</text>
       <token>1</token>
+      <reverse-related>Portus</reverse-related>
+      <reverse-related>reart</reverse-related>
     </card>
     <card>
       <name>Potion</name>
