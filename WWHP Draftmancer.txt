@@ -4671,7 +4671,7 @@
 	        }
 	    }
 	]
-	[RareSlot(1)]
+	[RareSlot(2)]
 		2 Crucio
 		2 Tom Riddles Diary
 		2 Sword of Godrick Gryffindor

@@ -329,7 +329,7 @@ Equip courageous creature {2}</text>
       <tablerow>1</tablerow>
       <text>Cup of Helga Hufflepuff enters with X charge counters.
 {T}: Create a Food token for each charge counter on Cup of Helga Hufflepuff.
-Foods you control have “2B, {T}, Sacrifice this artifact. Target player loses 3 life. Activate only if you control a creature with “Voldemort”in its name.</text>
+If you control a creature with “Voldemort” in its name, Foods you control have “1B, {T}, Sacrifice this artifact. Target player loses 3 life.</text>
       <related>Food</related>
     </card>
     <card>
@@ -3524,7 +3524,7 @@ Equip {6}
       <text>Flying
 Gallant 1 (Whenever a creature an opponent controls with greater power enters or attacks and this creature isn’t courageous, put a +1/+1 counter on this creature and it becomes courageous.)
 Whenever this creature attacks while saddled, if this creature is courageous, put a +1/+1 counter on each creature that saddled it this turn.
-Saddle 2</text>
+Saddle 2 (Tap any number of other creatures you control with total power 2 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)</text>
     </card>
     <card>
       <name>Episkey</name>
@@ -3984,10 +3984,10 @@ At the beginning of your upkeep pay {2}. If you don’t transform this enchantme
         <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>{2}, {T}: Behold a nontoken permanent. Then do the following depending on the type of beheld permanent. (To behold a nontoken permanent, choose a nontoken permanent you control or reveal a nontoken permanent card from your hand. If the beheld permanent is more then one type choose one of the abilities that can be activated.)
+      <text>{2}, {T}: Reveal from your hand or choose a nontoken permanent on the battlefield that you control. Then do the following depending on the type of revealed or chosen permanent. 
 Artifact — Create a Treasure token.
 Creature — Create a Food token.
-Enchantment — Create a Clue token..</text>
+Enchantment — Create a Clue token.</text>
       <related>Treasure</related>
       <related> Food</related>
       <related> Clue</related>
@@ -4446,7 +4446,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Whenever a Potion enters, Thunder Brew Potion deals 1 damage to any target.
+      <text>Whenever a Potion enters, Thunder Brew Potion deals 2 damage to any target.
 Recipe — 2/R2/R, Sacrifice this potion: The next time a nonpermanent spell or ability you control would deal damage this turn, it deals that much damage plus 3 instead.”</text>
     </card>
     <card>
@@ -4949,7 +4949,7 @@ When a player casts a black spell, counter that spell unless its controller pays
       <text>Flash
 Flying, haste
 {T}, Shuffle this creature into your library: Counter target spell or ability.
-When this creature attacks while saddled, defending player mills 4.
+When this creature attacks while saddled, defending player mills four.
 Saddle 2</text>
     </card>
     <card>
@@ -4961,7 +4961,7 @@ Saddle 2</text>
         <cmc>2</cmc>
         <type>Creature - Bird Beast </type>
         <maintype>Creature</maintype>
-        <pt>2/1</pt>
+        <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>{U}: This creature phases out. (Treat it and anything attached to it as though they don’t exist until its controller’s next turn.)</text>
@@ -5272,7 +5272,7 @@ Whenever enchanted opponent activates an equip ability or an Equipment an oppone
       </prop>
       <tablerow>3</tablerow>
       <text>Choose one —
-• Gain control of target artifact with a mana value less than or equal or remove to the number of Incantations you’ve cast this turn until end of turn. Untap that permanent. It gains haste until end of turn. 
+• Gain control of target artifact with a mana value less than or equal to the number of Incantations you’ve cast this turn until end of turn. Untap that permanent. It gains haste until end of turn. 
 • Remove a number of shield counters from target creature equal to to the number of bewitchments you’ve cast this turn plus one.  (If a permanent with a shield counter on it would be dealt damage or destroyed, remove a shield counter from it instead. Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)</text>
     </card>
     <card>
@@ -7072,7 +7072,7 @@ Goad each creature target opponent controls. (Until your next turn, that creatur
         <pt>3/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever you cast an bewitchment or lesson, this creature deals 1 damage to each player and creature. (Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)
+      <text>Whenever you cast an bewitchment, this creature deals 1 damage to each player and creature. (Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)
 4R, {T}, Discard a card: Learn, Brew, or draw a card. (To learn, you may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card. To Brew, you may reveal a Potion card you own from outside the game and put it into your hand, or exile the top card of your library. You may play it this turn.)</text>
     </card>
     <card>
