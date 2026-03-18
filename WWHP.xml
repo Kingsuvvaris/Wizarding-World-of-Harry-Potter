@@ -1721,7 +1721,7 @@ Solved — Sacrifice this Case and each Clue you control: Return each nonland pe
       <text>When this Siege enters, choose one—
 • Search your library for a historic card or Incantation card , reveal it, put it into to your hand, then shuffle.
 • Brew.
-Whenever a player casts a creature spell, create a 1/1 blue Book enchantment creature token with flying and “When this token deals combat damage to a player you may sacrifice this token. If you do, draw a card.”
+Whenever a player casts a creature spell, create a 1/1 blue Book enchantment creature token with flying and “Whenever this token deals combat damage to a player sacrifice it. You draw a card.”
 ---
 (Back): Hogwart&apos;s Hidden Map Room</text>
       <related attach="transform">Hogwart&apos;s Hidden Map Room</related>
@@ -7153,7 +7153,7 @@ Minister’s Censorship deals damage equal to the number of Legendary creatures 
       <tablerow>2</tablerow>
       <text>Whenever a creature you control enters, if it has Scholarly, you may learn. (you may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)
 2/U2/U: Choose one—
-• Create a 1/1 blue Book enchantment creature tokens with flying and “When this token deals combat damage to a player you may sacrifice this token. If you do, draw a card.”
+• Create a 1/1 blue Book enchantment creature tokens with flying and “Whenever this token deals combat damage to a player sacrifice it. You draw a card.”
 • Search your library for a Book card, reveal it, put it to your hand, then shuffle.</text>
       <related>Book</related>
     </card>
@@ -7479,7 +7479,7 @@ BG, {T}: Each opponent loses 1 life. You gain life equal to the amount lost this
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-When this token deals combat damage to a player you may sacrifice this token. If you do, draw a card.</text>
+Whenever this token deals combat damage to a player sacrifice it. You draw a card.</text>
       <token>1</token>
     </card>
     <card>

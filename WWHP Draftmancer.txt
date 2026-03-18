@@ -4278,7 +4278,7 @@
 	        "name": "Owl",
 	        "rarity": "common",
 	        "mana_cost": "",
-	        "type": "Token Creature — Owl ",
+	        "type": "Token Creature — Bird ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Owl.png"
 	        }
