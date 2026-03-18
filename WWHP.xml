@@ -116,7 +116,7 @@ Equip {2}
       <tablerow>2</tablerow>
       <text>First strike, deathtouch
 As long as you control a creature with “Voldemort” in its name, Nagini gets +0/+2 and has “Ward—pay 3 life.”  (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 3 life.” .)
-Whenever a wizard enters, if you don’t control a creature with “Voldemort in its name, transform Nagini.
+Whenever a wizard you control enters, if you don’t control a creature with “Voldemort in its name, transform Nagini.
 ---
 (Front): Nagini, Maladictus Performer</text>
       <related attach="transform">Nagini, Maladictus Performer</related>
@@ -1683,7 +1683,7 @@ The first time you commit a crime each turn, you may attach this Equipment to ta
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Look at target players hand and the top four cards of that player’s library. Then investigate three times. (To investigate, create a Clue token. It’s an artifact with “{2}, Sacrifice this token: Draw a card.”)
+      <text>Look at target players hand and the top four cards of their library. Investigate three times. (To investigate, create a Clue token. It’s an artifact with “{2}, Sacrifice this token: Draw a card.”)
 If you control a legendary creature, exile this spell, then cast it transformed.
 ---
 (Back): Hunt for the Divided Souls</text>
@@ -1699,10 +1699,10 @@ If you control a legendary creature, exile this spell, then cast it transformed.
         <type>Enchantment - Case </type>
       </prop>
       <tablerow>1</tablerow>
-      <text>When this case enters investigate for each artifact you control.  (To investigate, create a Clue token. It’s an artifact with “{2}, Sacrifice this token: Draw a card.”)
+      <text>When this Case enters, investigate for each artifact you control.  (To investigate, create a Clue token. It’s an artifact with “{2}, Sacrifice this token: Draw a card.”)
 Whenever you sacrifice a Clue, scry 1.
-To solve — Control seven or more clue tokens. (If unsolved, solve at the beginning of your end step.)
-Solved — Sacrifice this case and each Clue you control: Return each nonland permanent that you don’t control to its owners hand.
+To solve — You control seven or more Clue tokens. (If unsolved, solve at the beginning of your end step.)
+Solved — Sacrifice this Case and each Clue you control: Return each nonland permanent that you don’t control to its owners hand.
 ---
 (Front): Secrets of the Dark Lord</text>
       <related attach="transform">Secrets of the Dark Lord</related>
@@ -1721,7 +1721,7 @@ Solved — Sacrifice this case and each Clue you control: Return each nonland pe
       <text>When this Siege enters, choose one—
 • Search your library for a historic card or Incantation card , reveal it, put it into to your hand, then shuffle.
 • Brew.
-Whenever a player casts a creature spell, create a 1/1 blue Book enchantment creature token with flying and “When this token dies, draw a card.”
+Whenever a player casts a creature spell, create a 1/1 blue Book enchantment creature token with flying and “When this token deals combat damage to a player you may sacrifice this token. If you do, draw a card.”
 ---
 (Back): Hogwart&apos;s Hidden Map Room</text>
       <related attach="transform">Hogwart&apos;s Hidden Map Room</related>
@@ -2007,9 +2007,9 @@ When Nearly Headless Nick becomes courageous, you may have the owners of Nearly 
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>When this case enters, each tapped creature deals damage to itself equal to its power.
+      <text>When this Case enters, each tapped creature deals damage to itself equal to its power.
 To solve — You and target opponent control a legendary creature (If unsolved, solve at the beginning of your end step.)
-Solved — 2R: Investigate Then if you control thirteen or more clue tokens, you may sacrifice each clue you control. If you do, you may put target legendary creature from your library or command zone onto the battlefield tapped and transform this case. (To investigate, create a Clue token. It’s an artifact with “{2}, Sacrifice this token: Draw a card.”)
+Solved — 2R: Investigate. Then if you control thirteen or more clue tokens, you may sacrifice each clue you control. If you do, you may put target legendary creature from your library or command zone onto the battlefield tapped and transform this Case.
 ---
 (Back): Dark Tower, Topmost cell</text>
       <related attach="transform">Dark Tower, Topmost cell</related>
@@ -2181,7 +2181,7 @@ When this creature deals damage to a creature,  put a stun counter on it.</text>
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Target creature phases out then investigate. When that creature phases back in, put it onto the bottom of its owner’s library instead. (Treat it and anything attached to it as though they don’t exist until its controller’s next turn. To investigate, create a Clue token. It’s an artifact with “{2}, Sacrifice this token: Draw a card.”)
+      <text>Target creature phases out then investigate. When that creature phases back in, put it onto the bottom of its owner’s library instead.
 If an opponent controls a creature, exile this spell, then cast it transformed.
 ---
 (Back): Opening of Slytherin&apos;s Chamber</text>
@@ -2198,7 +2198,7 @@ If an opponent controls a creature, exile this spell, then cast it transformed.
       </prop>
       <tablerow>1</tablerow>
       <text>Whenever one or more creatures leave the battlefield, investigate (Create a Clue token. It’s an artifact with “{2}, Sacrifice this token: Draw a card.”)
-To solve —  Control seven or more clue tokens.  (If unsolved, solve at the beginning of your end step.)
+To solve —  You control seven or more Clue tokens.  (If unsolved, solve at the beginning of your end step.)
 Solved — 2B: Put a petrification counter on target creature. (Creatures with petrification counters become colorless artifacts in addition to their other types, can’t attack and their activated abilities can’t be activated.)
 ---
 (Front): Writting on the Wall</text>
@@ -3005,7 +3005,7 @@ Saddle 2 (Tap any number of other creatures you control with total power 2 or mo
         <pt>3/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Scholarly (Whenever you draw a card, this creature gets +1/+1 until end of turn. If this is the third time this effect has resolved this turn and this creature isn’t studious, it becomes studious.)
+      <text>Scholarly (Whenever you draw a card, this creature gets +1/+1 until end of turn. If this is the third time this ability has resolved this turn, this creature becomes studious if it isn’t already.)
 As long as  Cho Chang is studious, she has flying and during your turn and whenever you cast a noncreature spell, you may put a Shield counter on target creature that doesn’t have one. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)</text>
     </card>
     <card>
@@ -3470,7 +3470,7 @@ Whenever this creature deals combat damage to a player, investigate. (Create a C
         <pt>1/4</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Scholarly (Whenever you draw a card, this creature gets +1/+1 until end of turn. If this is the third time this effect has resolved this turn and this creature isn’t studious, it becomes studious.)
+      <text>Scholarly (Whenever you draw a card, this creature gets +1/+1 until end of turn. If this is the third time this ability has resolved this turn, this creature becomes studious if it isn’t already.)
 At the beginning of each player’s upkeep, if this creature is studious, investigate. (Create a Clue token. It’s an artifact with “{2}, Sacrifice this token: Draw a card.”)</text>
       <related>Clue</related>
       <related>Art at 400%</related>
@@ -3738,17 +3738,16 @@ Whenever a creature enters or leaves the battlefield, choose one—
       <name>Procure The Philosopher&apos;s Stone</name>
       <set rarity="rare" splitterPath="/Procure The Philosopher's Stone.png" >WWHP</set>
       <prop>
-        <colors>WG</colors>
-        <manacost>2GW</manacost>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
         <cmc>4</cmc>
-        <type>Enchantment - Saga </type>
+        <type>Enchantment - Case </type>
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>(As this Saga enters and after your draw step, add a lore counter.)
-I — Investigate X times, where X is the number of enchantments you control.
-II — Whenever a creature you control leaves the battlefield this turn, investigate.
-III — Exile this Saga, then return it to the battlefield transformed under your control.
+      <text>Whenever an enchantment you control enters, investigate
+To solve — You control seven or more enchantments. (If unsolved, solve at the beginning of your end step.)
+Solved — Sacrifice this Case: Destroy target creature with power less than the number of Clues you control. Return this Case to the battlefield transformed.
 ---
 (Back): The Philospopher&apos;s Stone</text>
       <related attach="transform">The Philospopher&apos;s Stone</related>
@@ -3937,8 +3936,8 @@ At the beginning of your combat, goad target creature unless its controller pays
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Whenever a Wizard you control enters, put a lore counter on this artifact and create your choice of a tapped Treasure, Clue, or Food Token.
-{T}, Remove a lore counter from this artifact: Add X mana in any combination of colors, where X is the number of lore counters on this artifact. Spend this mana only to cast Wizard spells or activate an ability of a Wizard.
+      <text>Whenever a Wizard you control enters, put a lore counter on this artifact and create a copy of an artifact token you control.
+{T}, Remove a lore counter from this artifact: Add a mana of any color for each lore counter on this artifact. Spend this mana only to cast Wizard spells or activate an ability of a Wizard.
 {2}: Transform this artifact.
 ---
 (Back): Famous Wizards Trading Card</text>
@@ -4023,7 +4022,7 @@ Equip—Discard a card.</text>
       </prop>
       <tablerow>2</tablerow>
       <text>Haste
-Scholarly (Whenever you draw a card, this creature gets +1/+1 until end of turn. If this is the third time this effect has resolved this turn and this creature isn’t studious, it becomes studious.)
+Scholarly (Whenever you draw a card, this creature gets +1/+1 until end of turn. If this is the third time this ability has resolved this turn, this creature becomes studious if it isn’t already.)
 At the  beginning each opponents end step, if Marietta Edgecomb is studious, this creature’s controller gains life and draws a number of cards equal to the number of cards the turn player cast this turn. Then you exchange control of Marietta Edgecomb with target opponent.</text>
     </card>
     <card>
@@ -4078,7 +4077,7 @@ You draw an additional card during each of your draw steps for each legendary cr
         <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Scholarly (Whenever you draw a card, this creature gets +1/+1 until end of turn. If this is the third time this effect has resolved this turn and this creature isn’t studious, it becomes studious.)
+      <text>Scholarly (Whenever you draw a card, this creature gets +1/+1 until end of turn. If this is the third time this ability has resolved this turn, this creature becomes studious if it isn’t already.)
 At the beginning of your upkeep, if this creature is studious, create a Potion token. (It’s an artifact token with “{2}, {T}, Sacrifice this Potion: You may activate a Recipe ability of a permanent you control without paying its activation cost.”)
 Recipe — 3R, {T}, Put a stun counter on this creature: This creature deals damage equal to its power to another target creature.</text>
       <related>Potion</related>
@@ -4661,7 +4660,7 @@ Recipe — 2/R2/R2/G2/G, {T}, Sacrifice this Potion: Return control of all perma
         <pt>2/4</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Scholarly (Whenever you draw a card, this creature gets +1/+1 until end of turn. If this is the third time this effect has resolved this turn and this creature isn’t studious, it becomes studious.)
+      <text>Scholarly (Whenever you draw a card, this creature gets +1/+1 until end of turn. If this is the third time this ability has resolved this turn, this creature becomes studious if it isn’t already.)
 At the beginning of each of your end-steps, if this creature is studious, you may pay {2}. If you do, create your choice of a Clue, Food, Map, Potion, Treasure, or Wizard-Cracker token. (A Wizard-Cracker token is an artifact with “{T}, Sacrifice this artifact: Put a -1/-1 counter on target creature.” A Potion token is an artifact with “{2}, {T}, Sacrifice this Potion: You may activate a Recipe ability of a permanent you control without paying its activation cost.”)</text>
       <related>Clue</related>
       <related> Food</related>
@@ -4778,8 +4777,8 @@ Bewitchment storm (When you cast this spell, copy it for each bewitchment spell 
       <name>Enchanted Shield Armor</name>
       <set rarity="common" splitterPath="/Enchanted Shield Armor.png" >WWHP</set>
       <prop>
-        <colors>W</colors>
-        <manacost>6W</manacost>
+        <colors>WR</colors>
+        <manacost>5RW</manacost>
         <cmc>7</cmc>
         <type>Artifact Creature - Golem Incantation </type>
         <maintype>Creature</maintype>
@@ -4885,7 +4884,7 @@ When Hedwig enters or deals combat damage to a player, draw a card. Then you gai
       </prop>
       <tablerow>2</tablerow>
       <text>Flying, vigilance
-Scholarly (Whenever you draw a card, this creature gets +1/+1 until end of turn. If this is the third time this effect has resolved this turn and this creature isn’t studious, it becomes studious.)
+Scholarly (Whenever you draw a card, this creature gets +1/+1 until end of turn. If this is the third time this ability has resolved this turn, this creature becomes studious if it isn’t already.)
 At the beginning of each player’s end step, if Moaning Myrtle is studious and a creature entered under that player’s control this turn, you gain 1 life and draw a card.</text>
     </card>
     <card>
@@ -6005,7 +6004,7 @@ Pestis Incendium, Fiendfyre deals X damage to each creature, where X is the numb
         <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Scholarly (Whenever you draw a card, this creature gets +1/+1 until end of turn. If this is the third time this effect has resolved this turn and this creature isn’t studious, it becomes studious.)
+      <text>Scholarly (Whenever you draw a card, this creature gets +1/+1 until end of turn. If this is the third time this ability has resolved this turn, this creature becomes studious if it isn’t already.)
 As long as Quirinus Quirrell  is studious, bewitchment spells you cast cost {1} less to cast.
 Whenever you cast a bewitchment, untap Quirinus Quirrell. Then you may transform him. If you transform him, learn. (Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments. To learn, you may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)
 ---
@@ -6954,7 +6953,7 @@ Whenever this creature attacks, you may pay 3 life. If you do create a token tha
         <pt>1/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Scholarly (Whenever you draw a card, this creature gets +1/+1 until end of turn. If this is the third time this effect has resolved this turn and this creature isn’t studious, it becomes studious.)
+      <text>Scholarly (Whenever you draw a card, this creature gets +1/+1 until end of turn. If this is the third time this ability has resolved this turn, this creature becomes studious if it isn’t already.)
 Whenever you cast an Incantation spell, you may draw a card. If you do discard a card.</text>
     </card>
     <card>
@@ -6970,14 +6969,14 @@ Whenever you cast an Incantation spell, you may draw a card. If you do discard a
       </prop>
       <tablerow>2</tablerow>
       <text>When this creature enters,  you may draw a card. If you do discard two cards or discard a creature card.
-As long as you control another creature that is studious, this creature has haste and scholarly. (Whenever you draw a card, this creature gets +1/+1 until end of turn. If this is the third time this effect has resolved this turn and this creature isn’t studious, it becomes studious.)</text>
+As long as you control another creature that is studious, this creature has haste and scholarly. (Whenever you draw a card, this creature gets +1/+1 until end of turn. If this is the third time this ability has resolved this turn, this creature becomes studious if it isn’t already.)</text>
     </card>
     <card>
       <name>First-Year Gryffindor</name>
       <set rarity="common">WWHP</set>
       <prop>
         <colors>WRG</colors>
-        <manacost>RG/W</manacost>
+        <manacost>G/WR</manacost>
         <cmc>2</cmc>
         <type>Creature - Human Wizard </type>
         <maintype>Creature</maintype>
@@ -6992,7 +6991,7 @@ When this creature enters, put a +1/+1 counter on target creature then you may g
       <set rarity="common">WWHP</set>
       <prop>
         <colors>UBG</colors>
-        <manacost>GU/B</manacost>
+        <manacost>U/BG</manacost>
         <cmc>2</cmc>
         <type>Creature - Human Wizard </type>
         <maintype>Creature</maintype>
@@ -7022,7 +7021,7 @@ This creature has dedication to the chosen creature type G/WG/WG/WG/W. (Whenever
       <set rarity="common">WWHP</set>
       <prop>
         <colors>UBR</colors>
-        <manacost>BU/R</manacost>
+        <manacost>U/RB</manacost>
         <cmc>2</cmc>
         <type>Creature - Werewolf Wizard </type>
         <maintype>Creature</maintype>
@@ -7156,9 +7155,9 @@ Minister’s Censorship deals damage equal to the number of Legendary creatures 
         <pt>0/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever a creature you control enters that has Scholarly, you may learn. If you do, that creature enters tapped. (To learn, you may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)
-2/U2/U2/U: Choose one—
-• Create a 1/1 blue Book enchantment creature tokens with flying and “When this token dies you may pay {1}. If you do, draw a card.”
+      <text>Whenever a creature you control enters, if it has Scholarly, you may learn. (you may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)
+2/U2/U: Choose one—
+• Create a 1/1 blue Book enchantment creature tokens with flying and “When this token deals combat damage to a player you may sacrifice this token. If you do, draw a card.”
 • Search your library for a Book card, reveal it, put it to your hand, then shuffle.</text>
       <related>Book</related>
     </card>
@@ -7174,7 +7173,7 @@ Minister’s Censorship deals damage equal to the number of Legendary creatures 
         <pt>3/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Scholarly (Whenever you draw a card, this creature gets +1/+1 until end of turn. If this is the third time this effect has resolved this turn and this creature isn’t studious, it becomes studious.)
+      <text>Scholarly (Whenever you draw a card, this creature gets +1/+1 until end of turn. If this is the third time this ability has resolved this turn, this creature becomes studious if it isn’t already.)
 At the during the beginning of each players upkeep, if Madam Hooch is studious, that player may put a flying counter on a creature they control. 
 Whenever an opponent put’s a flying counter on a creature they control, learn. (you may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)</text>
     </card>
@@ -7452,7 +7451,7 @@ Whenever this token enters, investigate. (Create a Clue token. It’s an artifac
         <pt>1/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Scholarly (Whenever you draw a card, this creature gets +1/+1 until end of turn. If this is the third time this effect has resolved this turn and this creature isn’t studious, it becomes studious.)</text>
+      <text>Scholarly (Whenever you draw a card, this creature gets +1/+1 until end of turn. If this is the third time this ability has resolved this turn, this creature becomes studious if it isn’t already.)</text>
       <token>1</token>
     </card>
     <card>
@@ -7481,7 +7480,7 @@ BG, {T}: Each opponent loses 1 life. You gain life equal to the amount lost this
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-When this creature dies you may pay {1}. If you do, draw a card</text>
+When this token deals combat damage to a player you may sacrifice this token. If you do, draw a card.</text>
       <token>1</token>
     </card>
     <card>

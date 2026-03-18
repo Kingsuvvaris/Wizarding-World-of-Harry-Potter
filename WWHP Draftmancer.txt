@@ -4043,7 +4043,7 @@
 	    {
 	        "name": "First-Year Gryffindor",
 	        "rarity": "common",
-	        "mana_cost": "{R}{G/W}",
+	        "mana_cost": "{G/W}{R}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/First-Year Gryffindor.png"
@@ -4052,7 +4052,7 @@
 	    {
 	        "name": "First-Year Slytherin",
 	        "rarity": "common",
-	        "mana_cost": "{G}{U/B}",
+	        "mana_cost": "{U/B}{G}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/First-Year Slytherin.png"
@@ -4070,7 +4070,7 @@
 	    {
 	        "name": "First-Week Snatcher",
 	        "rarity": "common",
-	        "mana_cost": "{B}{U/R}",
+	        "mana_cost": "{U/R}{B}",
 	        "type": "Creature — Werewolf Wizard ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/First-Week Snatcher.png"
@@ -4672,75 +4672,75 @@
 	    }
 	]
 	[RareSlot(1)]
-		1 Crucio
-		1 Tom Riddles Diary
-		1 Sword of Godrick Gryffindor
-		1 Cup of Helga Hufflepuff
-		1 Lost Diadem of Rowena Ravenclaw
-		1 Hungarian Horntail
-		1 Room of Requirement
-		1 Luna Lovegood, Enthused Reasearcher
-		1 Hermione Granger, Brightest Witch of Her Age
-		1 Amazonian Fire Salamander Pit
-		1 Gaunt Family Ring
-		1 Newt Scamander, First Magizolologist
-		1 Cornelius Fudge, Misguided Minister
-		1 Vermiculus
-		1 Horace Slughorn, Old Potions Master
-		1 Vanishing Cabinet
-		1 Secrets of the Dark Lord
-		1 Explore the Restricted Section
-		1 Department of Mysteries
-		1 Legilimens
-		1 Skirmish in Underground Chambers
-		1 Tradgey at the World Cup
-		1 Journey Beneath Gringotts Bank
-		1 Escape of the Azkaban Prisoner
-		1 Rennervate
-		1 Writting on the Wall
-		1 Flight of the Seven Potters
-		1 Theseus Scamander, Loyal Auror
-		1 Ordinary Wizarding Level Examinations
-		1 Beneath Hogwarts Plumbing
-		1 Follow the Spiders
-		1 The Dursleys, Antimagic Enthusiasts
-		1 Battle of Hogwarts
-		1 Procure The Philosopher's Stone
-		1 Sybill Trelawney, Unreliable Seer
-		1 Wondering Hinkypunk
-		1 Enchanted Field Guide
-		1 Forgetfulness Potion
-		1 Drought of Living Death
-		1 Mandrake Restorative Draught
-		1 Elixir of Life
-		1 Grand Pepperup Potion
-		1 Repello Inimicum
-		1 Melding of Minds
-		1 Pius Thicknesse, Dark Lord Puppet
-		1 Blaize Zabini, Entitled Beneficiary
-		1 Goldstein Sisters, Queeny and Tina
-		1 Chinese Fireball
-		1 Common Welsh Green
-		1 Swedish Shortsnout
-		1 Pansi Parkinson, Combatent Instigator
-		1 Bertie Botts Every Flavor Beans
-		1 Mystery of the Golden Egg
-		1 Ginny Weasley, Underestimated Power
-		1 Trial of the Goblet of Fire
-		1 Avada Kedavra
-		1 Bellatrix Lestrange, Enthralled Death Eater
-		1 Lucius Malfoy
-		1 Rescue of the Night Bus
-		1 Siren Song of the Black Lake
-		1 Detention with the Gamekeeper
-		1 Welcome to the Wizarding World
-		1 Parley with the Giants
-		1 Journey through the Vaults
-		1 Lessons with the Headmaster
-		1 Receipt of Hogwarts Letter
-		1 Traverse the Secret Passage
-		1 Reawakining of the Dark Mark
-		1 Dolores Umbridge, Lawfully Maddened Official
+		2 Crucio
+		2 Tom Riddles Diary
+		2 Sword of Godrick Gryffindor
+		2 Cup of Helga Hufflepuff
+		2 Lost Diadem of Rowena Ravenclaw
+		2 Hungarian Horntail
+		2 Room of Requirement
+		2 Luna Lovegood, Enthused Reasearcher
+		2 Hermione Granger, Brightest Witch of Her Age
+		2 Amazonian Fire Salamander Pit
+		2 Gaunt Family Ring
+		2 Newt Scamander, First Magizolologist
+		2 Cornelius Fudge, Misguided Minister
+		2 Vermiculus
+		2 Horace Slughorn, Old Potions Master
+		2 Vanishing Cabinet
+		2 Secrets of the Dark Lord
+		2 Explore the Restricted Section
+		2 Department of Mysteries
+		2 Legilimens
+		2 Skirmish in Underground Chambers
+		2 Tradgey at the World Cup
+		2 Journey Beneath Gringotts Bank
+		2 Escape of the Azkaban Prisoner
+		2 Rennervate
+		2 Writting on the Wall
+		2 Flight of the Seven Potters
+		2 Theseus Scamander, Loyal Auror
+		2 Ordinary Wizarding Level Examinations
+		2 Beneath Hogwarts Plumbing
+		2 Follow the Spiders
+		2 The Dursleys, Antimagic Enthusiasts
+		2 Battle of Hogwarts
+		2 Procure The Philosopher's Stone
+		2 Sybill Trelawney, Unreliable Seer
+		2 Wondering Hinkypunk
+		2 Enchanted Field Guide
+		2 Forgetfulness Potion
+		2 Drought of Living Death
+		2 Mandrake Restorative Draught
+		2 Elixir of Life
+		2 Grand Pepperup Potion
+		2 Repello Inimicum
+		2 Melding of Minds
+		2 Pius Thicknesse, Dark Lord Puppet
+		2 Blaize Zabini, Entitled Beneficiary
+		2 Goldstein Sisters, Queeny and Tina
+		2 Chinese Fireball
+		2 Common Welsh Green
+		2 Swedish Shortsnout
+		2 Pansi Parkinson, Combatent Instigator
+		2 Bertie Botts Every Flavor Beans
+		2 Mystery of the Golden Egg
+		2 Ginny Weasley, Underestimated Power
+		2 Trial of the Goblet of Fire
+		2 Avada Kedavra
+		2 Bellatrix Lestrange, Enthralled Death Eater
+		2 Lucius Malfoy
+		2 Rescue of the Night Bus
+		2 Siren Song of the Black Lake
+		2 Detention with the Gamekeeper
+		2 Welcome to the Wizarding World
+		2 Parley with the Giants
+		2 Journey through the Vaults
+		2 Lessons with the Headmaster
+		2 Receipt of Hogwarts Letter
+		2 Traverse the Secret Passage
+		2 Reawakining of the Dark Mark
+		2 Dolores Umbridge, Lawfully Maddened Official
 		1 Imperio
 		1 Watchful Observer
 		1 Severus Snape, Head of Slytherin House
@@ -4781,93 +4781,93 @@
 		1 Tom Riddle, Prodigal Orphan
 		1 Madam Pince, School Librarian
 	[UncommonSlot(4)]
-		2 Nagini, Maladictus Performer
-		2 Fenrir Grayback
-		2 Dementor of Azkaban
-		2 Kneazle
-		2 Crab & Goyle
-		2 Cornish Pixie
-		2 Langlock
-		2 Winery Cellar
-		2 Castle Heights
-		2 Dungeon Depths
-		2 Cozey Hearth
-		2 Pureblood Manner
-		2 Draco Malfoy
-		2 Nymphadora Tonks, Metamorphmagus Auror
-		2 Obscurial Parasite
-		2 Whomping Willow
-		2 Self-Stiring Pewter Cauldron
-		2 Remus Lupin, Master of the Dark Arts
-		2 Cedric Diggory, Fiercely Loyal Friend
-		2 Broken Wand
-		2 Dobby, the House Elf
-		2 Rita Skeeter, Gossip Reporter
-		2 Thestral
-		2 Zacharias Smith, Jealous Friend
-		2 Wizard-Cracker Imp
-		2 Point Me
-		2 Orchideous
-		2 Helena, Ghost of Ravenclaw
-		2 Peeves, Poltergeist Trickster
-		2 Portkey to Little Hangleton Graveyard
-		2 Nearly Headless Nick, Ghost of Gryffindor
-		2 Bloody Barron, Ghost of Slytherin
-		2 Ronald Weasley, House King
-		2 Inflatus
-		2 Bundimun
-		2 Corban Yaxley, Registered Interrogator
-		2 Three Headed Guard Dog
-		2 Brain Eater
-		2 Mrs Norris
-		2 Narcissa Malfoy, Devoted Mother
-		2 Alaster Mad-Eye Moody
-		2 Pierototum Locomotor
-		2 Cho Chang, Ravenclaw Seeker
-		2 The Grim
-		2 Quidditch Match
-		2 Frank Bryce, Riddle's Grounds Keeper
-		2 The Fat Friar, Ghost of Hufflepuff
-		2 International Magical Coperation
-		2 Padfoot, Protective Marauder
-		2 Madam Pomfrey
-		2 Reparo
-		2 Trial of the Wizengamot
-		2 The Wand Chooses the Wizard
-		2 Walden Macnair, Dark Executioner
-		2 Marietta Edgecomb, Ministry Sneak
-		2 The Sorting Hat
-		2 Viktor Krum, Durmstrang Champion
-		2 Edurus Potion
-		2 Veritaserum
-		2 Existmulo Maxima Potion
-		2 Thunder Brew Potion
-		2 Antidote to Poisons
-		2 Whit-Sharpening Potion
-		2 Hogsmeade Potioneer
-		2 Aparecium
-		2 Hedwig, Loyal Protector
-		2 Moaning Myrtle
-		2 Gilderoy Lockhart
-		2 Marcus Flint, Slytherin Quidditch Captain
-		2 Greedy Niffler
-		2 The Patil Twins, Padma and Parvati
-		2 Skiving Snack Boxes
-		2 Graphorn
-		2 Justin Flinchfletchly, Wandering Student
-		2 Rubeus Hagrid, Keeper of Keys
-		2 Fleur Delacour, Beuxbatons Champion
-		2 Fred and George Weasley, Mischevious Twins
-		2 Neville Longbottem, Courageous Friend
-		2 Letters from No One
-		2 Permission to Visit Hogsmeade
-		2 Quirinus Quirrell, Traitorous Professor
-		2 Scabbers, Frightend Coward
-		2 The Carrow Siblings
-		2 Non-Verbal Cast
-		2 Merlin's Trial
-		2 Join Us or Die!
-		2 Madam Hooch, Quidditch Referee
+		3 Nagini, Maladictus Performer
+		3 Fenrir Grayback
+		3 Dementor of Azkaban
+		3 Kneazle
+		3 Crab & Goyle
+		3 Cornish Pixie
+		3 Langlock
+		3 Winery Cellar
+		3 Castle Heights
+		3 Dungeon Depths
+		3 Cozey Hearth
+		3 Pureblood Manner
+		3 Draco Malfoy
+		3 Nymphadora Tonks, Metamorphmagus Auror
+		3 Obscurial Parasite
+		3 Whomping Willow
+		3 Self-Stiring Pewter Cauldron
+		3 Remus Lupin, Master of the Dark Arts
+		3 Cedric Diggory, Fiercely Loyal Friend
+		3 Broken Wand
+		3 Dobby, the House Elf
+		3 Rita Skeeter, Gossip Reporter
+		3 Thestral
+		3 Zacharias Smith, Jealous Friend
+		3 Wizard-Cracker Imp
+		3 Point Me
+		3 Orchideous
+		3 Helena, Ghost of Ravenclaw
+		3 Peeves, Poltergeist Trickster
+		3 Portkey to Little Hangleton Graveyard
+		3 Nearly Headless Nick, Ghost of Gryffindor
+		3 Bloody Barron, Ghost of Slytherin
+		3 Ronald Weasley, House King
+		3 Inflatus
+		3 Bundimun
+		3 Corban Yaxley, Registered Interrogator
+		3 Three Headed Guard Dog
+		3 Brain Eater
+		3 Mrs Norris
+		3 Narcissa Malfoy, Devoted Mother
+		3 Alaster Mad-Eye Moody
+		3 Pierototum Locomotor
+		3 Cho Chang, Ravenclaw Seeker
+		3 The Grim
+		3 Quidditch Match
+		3 Frank Bryce, Riddle's Grounds Keeper
+		3 The Fat Friar, Ghost of Hufflepuff
+		3 International Magical Coperation
+		3 Padfoot, Protective Marauder
+		3 Madam Pomfrey
+		3 Reparo
+		3 Trial of the Wizengamot
+		3 The Wand Chooses the Wizard
+		3 Walden Macnair, Dark Executioner
+		3 Marietta Edgecomb, Ministry Sneak
+		3 The Sorting Hat
+		3 Viktor Krum, Durmstrang Champion
+		3 Edurus Potion
+		3 Veritaserum
+		3 Existmulo Maxima Potion
+		3 Thunder Brew Potion
+		3 Antidote to Poisons
+		3 Whit-Sharpening Potion
+		3 Hogsmeade Potioneer
+		3 Aparecium
+		3 Hedwig, Loyal Protector
+		3 Moaning Myrtle
+		3 Gilderoy Lockhart
+		3 Marcus Flint, Slytherin Quidditch Captain
+		3 Greedy Niffler
+		3 The Patil Twins, Padma and Parvati
+		3 Skiving Snack Boxes
+		3 Graphorn
+		3 Justin Flinchfletchly, Wandering Student
+		3 Rubeus Hagrid, Keeper of Keys
+		3 Fleur Delacour, Beuxbatons Champion
+		3 Fred and George Weasley, Mischevious Twins
+		3 Neville Longbottem, Courageous Friend
+		3 Letters from No One
+		3 Permission to Visit Hogsmeade
+		3 Quirinus Quirrell, Traitorous Professor
+		3 Scabbers, Frightend Coward
+		3 The Carrow Siblings
+		3 Non-Verbal Cast
+		3 Merlin's Trial
+		3 Join Us or Die!
+		3 Madam Hooch, Quidditch Referee
 	[CommonSlot(9)]
 		4 Expelliarmus
 		4 Inferi Protector
