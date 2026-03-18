@@ -1344,7 +1344,7 @@
 	        "name": "Bundimun",
 	        "rarity": "uncommon",
 	        "mana_cost": "{2}{G}",
-	        "type": "Creature — Fungus Beast ",
+	        "type": "Creature — Fungus Beast Plant ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Bundimun.png"
 	        }

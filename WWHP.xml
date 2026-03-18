@@ -2292,7 +2292,7 @@ Whenever Theseus Scamander attacks, attacking Wizards you control gain lifelink 
         <colors>G</colors>
         <manacost>2G</manacost>
         <cmc>3</cmc>
-        <type>Creature - Fungus Beast </type>
+        <type>Creature - Fungus Beast Plant </type>
         <maintype>Creature</maintype>
         <pt>1/4</pt>
       </prop>
@@ -3021,7 +3021,7 @@ As long as  Cho Chang is studious, she has flying and during your turn and whene
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-At the beginning of your upkeep, you may pay UU. If you do, reveal the top card of your library. If a Incantation card is revealed this way, draw two cards. Otherwise, draw a card.</text>
+At the beginning of your upkeep, you may pay UU. If you do, reveal the top card of your library. If a Bewitchment card is revealed this way, draw two cards. Otherwise, draw a card. (Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)</text>
     </card>
     <card>
       <name>Erumpent Horn</name>
@@ -4205,7 +4205,8 @@ Recipe— {B}, Pay 2 life: Untap this creature.</text>
         <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever you commit a crime, create a Potion token. This ability triggers only once each turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime. A Potion token is an artifact with “{2}, {T}, Sacrifice this Potion: You may activate a Recipe ability of a permanent you control without paying its activation cost.”)
+      <text>Whenever you commit a crime, you may tap this creature. If you do, create a Potion token. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime. A Potion token is an artifact with “{2}, {T}, Sacrifice this Potion: You may activate a Recipe ability of a permanent you control without paying its activation cost.”)
+Whenever a creature dies, untap this creature.
 Recipe — Draw a card. You lose 2 life.</text>
       <related>Potion</related>
       <related>Art at 400%</related>
@@ -5560,7 +5561,7 @@ Search your library for a land card, reveal it, put it onto the battlefield tapp
         <pt>7/7</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Deathtouch
+      <text>Deathtouch, trample
 Ward {2}
 This creature can’t be blocked except by three or more creatures.
 {1}: This creature can block an additional creature this turn.</text>
