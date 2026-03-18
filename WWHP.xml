@@ -5782,7 +5782,7 @@ As long as Neville Longbottem is courageous, whenever another another creature y
     </card>
     <card>
       <name>Olympe Maxime, Headmistress of Beauxbatons</name>
-      <set rarity="mythic">WWHP</set>
+      <set rarity="rare">WWHP</set>
       <prop>
         <colors>WR</colors>
         <manacost>2RW</manacost>
@@ -5929,7 +5929,7 @@ Whenever Permission to Visit Hogsmeade is dealt damage create a Map token for ea
     </card>
     <card>
       <name>Ginny Weasley, Underestimated Power</name>
-      <set rarity="rare">WWHP</set>
+      <set rarity="uncommon">WWHP</set>
       <prop>
         <colors>WRG</colors>
         <manacost>1RGW</manacost>
@@ -5944,7 +5944,7 @@ Whenever Ginny Weasley deals combat damage to a player, if she’s courageous, y
     </card>
     <card>
       <name>Molly and Arthur Weasley, Protective Parents</name>
-      <set rarity="mythic">WWHP</set>
+      <set rarity="rare">WWHP</set>
       <prop>
         <colors>WRG</colors>
         <manacost>2RGW</manacost>
@@ -6173,11 +6173,11 @@ Partner with Narcissa Malfoy, Devoted Mother (When this creature enters, target 
       <set rarity="mythic" splitterPath="/Tom Riddle, Prodigal Orphan.png" >WWHP</set>
       <prop>
         <colors>UBR</colors>
-        <manacost>2UBR</manacost>
-        <cmc>5</cmc>
+        <manacost>UBR</manacost>
+        <cmc>3</cmc>
         <type>Legendary Creature - Human Wizard </type>
         <maintype>Creature</maintype>
-        <pt>4/4</pt>
+        <pt>3/3</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>As Tom Riddle enters, if you control a Horcrux, you may have him enter transformed.
@@ -6194,7 +6194,7 @@ Whenever a Horcrux you control enters, transform this card then learn.
       <prop>
         <colors>UBR</colors>
         <manacost></manacost>
-        <cmc>5</cmc>
+        <cmc>3</cmc>
         <type>Legendary Creature - Human Wizard </type>
         <pt>4/4</pt>
       </prop>

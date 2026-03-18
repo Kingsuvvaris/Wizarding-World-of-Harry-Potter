@@ -3403,7 +3403,7 @@
 	    },
 	    {
 	        "name": "Olympe Maxime, Headmistress of Beauxbatons",
-	        "rarity": "mythic",
+	        "rarity": "rare",
 	        "mana_cost": "{2}{R}{W}",
 	        "type": "Legendary Creature — Giant Wizard ",
 	        "image_uris": {
@@ -3484,7 +3484,7 @@
 	    },
 	    {
 	        "name": "Ginny Weasley, Underestimated Power",
-	        "rarity": "rare",
+	        "rarity": "uncommon",
 	        "mana_cost": "{1}{R}{G}{W}",
 	        "type": "Legendary Creature — Human Wizard ",
 	        "image_uris": {
@@ -3493,7 +3493,7 @@
 	    },
 	    {
 	        "name": "Molly and Arthur Weasley, Protective Parents",
-	        "rarity": "mythic",
+	        "rarity": "rare",
 	        "mana_cost": "{2}{R}{G}{W}",
 	        "type": "Legendary Creature — Human Wizard ",
 	        "image_uris": {
@@ -3619,7 +3619,7 @@
 	    },
 	    {
 	        "name": "Tom Riddle, Prodigal Orphan",
-	        "mana_cost": "{2}{U}{B}{R}",
+	        "mana_cost": "{U}{B}{R}",
 	        "type": "Legendary Creature — Human Wizard ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Tom Riddle, Prodigal Orphan.png"
@@ -4724,8 +4724,9 @@
 		2 Swedish Shortsnout
 		2 Pansi Parkinson, Combatent Instigator
 		2 Bertie Botts Every Flavor Beans
+		2 Olympe Maxime, Headmistress of Beauxbatons
 		2 Mystery of the Golden Egg
-		2 Ginny Weasley, Underestimated Power
+		2 Molly and Arthur Weasley, Protective Parents
 		2 Trial of the Goblet of Fire
 		2 Avada Kedavra
 		2 Bellatrix Lestrange, Enthralled Death Eater
@@ -4774,8 +4775,6 @@
 		1 Nundu Leopard
 		1 Igor Karkaroff, Durmstrang Headmaster
 		1 Nastily Exhausting Wizarding Tests
-		1 Olympe Maxime, Headmistress of Beauxbatons
-		1 Molly and Arthur Weasley, Protective Parents
 		1 Locket of Salazar Slytherin
 		1 Pestis Incendium, Fiendfyre
 		1 Tom Riddle, Prodigal Orphan
@@ -4861,6 +4860,7 @@
 		3 Neville Longbottem, Courageous Friend
 		3 Letters from No One
 		3 Permission to Visit Hogsmeade
+		3 Ginny Weasley, Underestimated Power
 		3 Quirinus Quirrell, Traitorous Professor
 		3 Scabbers, Frightend Coward
 		3 The Carrow Siblings
