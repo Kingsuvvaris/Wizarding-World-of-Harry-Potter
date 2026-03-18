@@ -2218,8 +2218,8 @@
 	    },
 	    {
 	        "name": "Procure The Philosopher's Stone",
-	        "mana_cost": "{2}{G}{W}",
-	        "type": "Enchantment — Saga ",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Enchantment — Case ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Procure The Philosopher's Stone.png"
 	        },
@@ -2833,7 +2833,7 @@
 	    },
 	    {
 	        "name": "Enchanted Shield Armor",
-	        "mana_cost": "{6}{W}",
+	        "mana_cost": "{5}{R}{W}",
 	        "type": "Artifact Creature — Golem Incantation ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Enchanted Shield Armor.png"
