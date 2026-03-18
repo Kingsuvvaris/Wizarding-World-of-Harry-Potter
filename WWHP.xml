@@ -920,7 +920,7 @@ Whenever a courageous creature you control deals damage to a player, if Hermione
       </prop>
       <tablerow>2</tablerow>
       <text>Alteration 3W (You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield for 3W.)
-Dedication to Wizard WW (Whenever this creature attacks,  you may pay WW. If you do it gets +1/+1 for each Wizard you control until end of turn.)
+Dedication to Wizard WW (Whenever this creature attacks or blocks, you may pay WW. If you do it gets +1/+1 for each Wizard you control until end of turn.)
 Whenever Nymphadora Tonks attacks, until end of turn Wizards in your hand have Alteration {X} where X is its mana value minus {2} and whenever you cast a Wizard, if it was cast from the battlefield, put a first-strike counter on it then you may draw a card.</text>
     </card>
     <card>
@@ -1111,9 +1111,9 @@ RW: Regenerate Lonesome Phoenix. Put a shield counter on another target creature
         <pt>2/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Dedication to Beast GG (Whenever this creature attacks,  you may pay GG. If you do it gets +1/+1 for each Beast you control until end of turn.)
+      <text>Dedication to Beast GG (Whenever this creature attacks or blocks, you may pay GG. If you do it gets +1/+1 for each Beast you control until end of turn.)
 Whenever an opponent attacks you, you may put a Beast you control from your hand onto the battlefield. Return it to your hand during the next end step. Gain control of all Beasts until end of turn.
-Other Wizards you control have Dedication to beast cost {0}.</text>
+Other Wizards you control have Dedication to beast {0}.</text>
     </card>
     <card>
       <name>Pomona Sprout, Head of Hufflepuff</name>
@@ -1128,7 +1128,7 @@ Other Wizards you control have Dedication to beast cost {0}.</text>
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever an opponent attacks you, you may pay {3}. If you do, create a token that’s a copy of target plant you control and plants you control gain deathtouch, vigilance, and lifelink until end of turn. Then learn. (you may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)
-Wizards you control have Dedication to Plant {G} (Whenever this creature attacks,  you may pay {G}. If you do it gets +1/+1 for each Plant you control until end of turn.)</text>
+Wizards you control have Dedication to Plant {G} (Whenever this creature attacks or blocks, you may pay {G}. If you do it gets +1/+1 for each Plant you control until end of turn.)</text>
       <related>Copy</related>
     </card>
     <card>
@@ -1181,7 +1181,7 @@ At the beginning of each upkeep, if a player cast two or more spells last turn, 
         <pt>1/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Dedication 2WBG (Whenever this creature attacks, you may pay 2WBG. If you do it gets +1/+1 for each creature you control until end of turn.)
+      <text>Dedication WBG (Whenever this creature attacks or blocks, you may pay WBG. If you do it gets +1/+1 for each creature you control until end of turn.)
 Whenever Cedric Diggory deals combat damage to a player, you may scry 1. If you do, you may pay 3 life and draw a card.</text>
     </card>
     <card>
@@ -1523,7 +1523,7 @@ Saddle 1 (Tap any number of other creatures you control with total power 1 or mo
         <pt>1/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Dedication to Wizard 2B (Whenever this creature attacks,  you may pay 2B. If you do it gets +1/+1 for each Wizard you control until end of turn.)
+      <text>Dedication to Wizard 2B (Whenever this creature attacks or blocks, you may pay 2B. If you do it gets +1/+1 for each Wizard you control until end of turn.)
 Whenever Zacharias Smith attacks, Wizards you control gain menace until end of turn.</text>
     </card>
     <card>
@@ -2282,7 +2282,7 @@ Whenever damage is dealt to this Siege, create a token copy of the chosen creatu
         <pt>3/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Dedication to Wizard 2WB (Whenever this creature attacks,  you may pay 2WB. If you do it gets +1/+1 for each Wizard you control until end of turn.)
+      <text>Dedication to Wizard 2WB (Whenever this creature attacks or blocks, you may pay 2WB. If you do it gets +1/+1 for each Wizard you control until end of turn.)
 Whenever Theseus Scamander attacks, attacking Wizards you control gain lifelink until end of turn. Draw a card for each wizard that deals combat damage to a player this turn.</text>
     </card>
     <card>
@@ -3453,7 +3453,7 @@ This creature has first strike as long as it’s courageous.</text>
         <pt>1/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Dedication to opponents creatures 3WW (Whenever this creature attacks you may pay 3WW. If you do this creature gets +1/+1 for each creature your opponents control.)
+      <text>Dedication to opponents creatures 3WW (Whenever this creature attacks or blocks you may pay 3WW. If you do this creature gets +1/+1 for each creature your opponents control.)
 Whenever this creature deals combat damage to a player, investigate. (Create a Clue token. It’s an artifact with “{2}, Sacrifice this token: Draw a card.”)</text>
       <related>Clue</related>
       <related>Art at 400%</related>
@@ -5179,7 +5179,7 @@ Bewitchment storm (When you cast this spell, copy it for each bewitchment spell 
         <pt>3/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Dedication to Wizard 3BB (Whenever this creature attacks,  you may pay 3BB. If you do it gets +1/+1 for each Wizard you control until end of turn.)
+      <text>Dedication to Wizard 3BB (Whenever this creature attacks or blocks, you may pay 3BB. If you do it gets +1/+1 for each Wizard you control until end of turn.)
 Whenever The Goldstein Sisters attack, target player discards a card for each attacking Wizard you control. If they can’t, then they mill a card instead.</text>
     </card>
     <card>
@@ -5530,7 +5530,7 @@ Whenever a creature with Manticore in its name deals damage to a creature, if th
         <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Dedication to Wizard 2G (Whenever this creature attacks,  you may pay 2G. If you do it gets +1/+1 for each Wizard you control until end of turn.)
+      <text>Dedication to Wizard 2G (Whenever this creature attacks or blocks, you may pay 2G. If you do it gets +1/+1 for each Wizard you control until end of turn.)
 Whenever Justin Flinchfletchly attacks, Wizards you control gain reach until end of turn, and you may have all combat damage that would be dealt to target creature you control be dealt as combat damage to Justin Flinchfletchly instead.
 Combat damage dealt to Justin Flinchfletchly is dealt in the form of stun counters.</text>
     </card>
@@ -5824,7 +5824,7 @@ You have no maximum hand size.</text>
       </prop>
       <tablerow>1</tablerow>
       <text>(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it is defeated, exile it, then cast it transformed.)
-When Letters from No One enters put X defense counters on it and you create X 1/1 white bird creature tokens named Owl with flying, defender and “Whenever this token enters, create a clue token.” 
+When Letters from No One enters put X defense counters on it and you create X 1/1 white Bird creature tokens named Owl with flying, defender and “Whenever this token enters, create a clue token.” 
 ---
 (Back): Wizard School Supply List</text>
       <related attach="transform">Wizard School Supply List</related>
@@ -6501,7 +6501,7 @@ III — Return target creature from your graveyard or exile to the battlefield t
       <tablerow>1</tablerow>
       <text>(As this Saga enters and after your draw step, add a lore counter. Exile and return this Saga to the battlefield transformed after III.)
 I — This saga has “ Whenever a land or enchantment enters under your control create a Student token.  (Its a 1/1 white Human Wizard creature token with “Scholarly”.)
-II — For each land and enchantment you control create 1/1 white bird creature tokens named Owl with flying, defender and “Whenever this token enters, create a clue token.” 
+II — For each land and enchantment you control create 1/1 white Bird creature tokens named Owl with flying, defender and “Whenever this token enters, investigate.” 
 III — Until end of turn, creatures you control have “{T}: Tap target creature and put a stun counter on it. You gain 1 life.
 ---
 (Back): Hogwarts, School of Witchcraft &amp; Wizardry</text>
@@ -6918,7 +6918,7 @@ Soulbond (You may pair this creature with another unpaired creature when either 
         <pt>3/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Dedication to Beast GG (Whenever this creature attacks,  you may pay GG. If you do it gets +1/+1 for each Beast you control until end of turn.)
+      <text>Dedication to Beast GG (Whenever this creature attacks or blocks, you may pay GG. If you do it gets +1/+1 for each Beast you control until end of turn.)
 Whenever this creature attacks, Beasts you control gain trample until end of turn.</text>
     </card>
     <card>
@@ -6933,7 +6933,7 @@ Whenever this creature attacks, Beasts you control gain trample until end of tur
         <pt>1/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Dedication to Plants 2/GG (Whenever this creature attacks,  you may pay 2/GG. If you do it gets +1/+1 for each Plants you control until end of turn.)
+      <text>Dedication to Plants 2/GG (Whenever this creature attacks or blocks, you may pay 2/GG. If you do it gets +1/+1 for each Plants you control until end of turn.)
 Whenever this creature attacks, you may pay 3 life. If you do create a token that is a copy of target Plant you control. It enters tapped and attacking.</text>
       <related>Copy</related>
     </card>
@@ -7010,7 +7010,7 @@ When this creature enters, each opponent discards a card then mills a card for e
       </prop>
       <tablerow>2</tablerow>
       <text>When this creature enters, choose a creature type.
-This creature has dedication to the chosen creature type G/WG/WG/WG/W. (Whenever this creature attacks, you may pay G/WG/WG/WG/W. If you do it gets +1/+1 for each creature of the chosen type you control until end of turn.)</text>
+This creature has dedication to the chosen creature type G/WG/W. (Whenever this creature attacks or blocks, you may pay G/WG/WG/WG/W. If you do it gets +1/+1 for each creature of the chosen type you control until end of turn.)</text>
     </card>
     <card>
       <name>First-Week Snatcher</name>
