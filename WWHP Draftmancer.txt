@@ -2609,7 +2609,7 @@
 	    {
 	        "name": "Exploding Potion",
 	        "rarity": "common",
-	        "mana_cost": "{2/R}{2/R}",
+	        "mana_cost": "{2/R}{2/R}{2/R}{2/R}",
 	        "type": "Artifact — Potion ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Exploding Potion.png"
@@ -3640,7 +3640,7 @@
 	    },
 	    {
 	        "name": "Rescue of the Night Bus",
-	        "mana_cost": "{1}{W}{U}",
+	        "mana_cost": "{3}{W}{U}",
 	        "type": "Enchantment — Saga ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Rescue of the Night Bus.png"

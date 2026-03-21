@@ -134,7 +134,7 @@ Whenever a wizard you control enters, if you don’t control a creature with “
       </prop>
       <tablerow>2</tablerow>
       <text>Werewolf creatures you control attack each combat if able.
-UBR, {T}: Fenrir Grayback deals damage equal to its power to any target nonartifact creature. Then each opponent faces a villainous choice — You create a 2/2 black and red Werewolf Wizard creature token named Snatcher with haste and a treasure token, or that player distributes a number of -1/-1 counters among creatures the control equal to Fenrir Grayback’s power.</text>
+UBR, {T}: Fenrir Grayback deals damage equal to its power to any target nonartifact creature. Then each opponent faces a villainous choice — You create a 2/2 black and red Werewolf Wizard creature token named Snatcher with haste and a Treasure token, or that player distributes a number of -1/-1 counters among creatures the control equal to Fenrir Grayback’s power.</text>
       <related>Snatcher</related>
       <related> Treasure</related>
     </card>
@@ -2009,7 +2009,7 @@ When Nearly Headless Nick becomes courageous, you may have the owners of Nearly 
       <tablerow>1</tablerow>
       <text>When this Case enters, each tapped creature deals damage to itself equal to its power.
 To solve — You and target opponent control a legendary creature (If unsolved, solve at the beginning of your end step.)
-Solved — 2R: Investigate. Then if you control thirteen or more clue tokens, you may sacrifice each clue you control. If you do, you may put target legendary creature from your library or command zone onto the battlefield tapped and transform this Case.
+Solved — 2R: Investigate. Then if you control thirteen or more Clue tokens, you may sacrifice each Clue you control. If you do, you may put target legendary creature from your library or command zone onto the battlefield tapped and transform this Case.
 ---
 (Back): Dark Tower, Topmost cell</text>
       <related attach="transform">Dark Tower, Topmost cell</related>
@@ -4112,7 +4112,7 @@ Recipe — 4W: Creatures you control get +1/+1 until end of turn.</text>
       </prop>
       <tablerow>2</tablerow>
       <text>{2}, {T}: Brew. (You may reveal a Potion card you own from outside the game and put it into your hand, or exile the top card of your library. You may play it this turn.)
-Recipe — {2}, Sacrifice this creature: Scry 1, then complete another recipe. (You may activate a Recipe ability of a permanent you control without paying its activation cost.)</text>
+Recipe — {3}, {T}: Scry 1, then activate the recipe of another permanent you control without paying its activation cost.</text>
     </card>
     <card>
       <name>Traveling Potioneer</name>
@@ -4206,7 +4206,7 @@ Recipe— {B}, Pay 2 life: Untap this creature.</text>
         <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever you commit a crime, you may tap this creature. If you do, create a Potion token. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime. A Potion token is an artifact with “{2}, {T}, Sacrifice this Potion: You may activate a Recipe ability of a permanent you control without paying its activation cost.”)
+      <text>Whenever you commit a crime, you may tap this creature. If you do, create a tapped Potion token. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime. A Potion token is an artifact with “{2}, {T}, Sacrifice this Potion: You may activate a Recipe ability of a permanent you control without paying its activation cost.”)
 Whenever a creature dies, untap this creature.
 Recipe — Draw a card. You lose 2 life.</text>
       <related>Potion</related>
@@ -4413,8 +4413,8 @@ Recipe — 2/R2/R, Sacrifice this Potion: If a source would deal damage this tur
       <set rarity="common">WWHP</set>
       <prop>
         <colors>R</colors>
-        <manacost>2/R2/R</manacost>
-        <cmc>4</cmc>
+        <manacost>2/R2/R2/R2/R</manacost>
+        <cmc>8</cmc>
         <type>Artifact - Potion </type>
         <maintype>Artifact</maintype>
       </prop>
@@ -5825,7 +5825,7 @@ You have no maximum hand size.</text>
       </prop>
       <tablerow>1</tablerow>
       <text>(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it is defeated, exile it, then cast it transformed.)
-When Letters from No One enters put X defense counters on it and you create X 1/1 white Bird creature tokens named Owl with flying, defender and “Whenever this token enters, create a clue token.” 
+When Letters from No One enters put X defense counters on it and you create X 1/1 white Bird creature tokens named Owl with flying, defender and “Whenever this token enters, create a Clue token.” 
 ---
 (Back): Wizard School Supply List</text>
       <related attach="transform">Wizard School Supply List</related>
@@ -6100,7 +6100,6 @@ III — Exile this Saga, then return it to the battlefield under transformed und
       <related attach="transform">The Triwizard Cup</related>
       <related>Clue</related>
       <related> Treasure</related>
-      <related>reart scrunched</related>
     </card>
     <card>
       <name>The Triwizard Cup</name>
@@ -6119,7 +6118,6 @@ Whenever a creature enters, it fights target creature its owner doesn’t contro
       <related attach="transform">Trial of the Goblet of Fire</related>
       <related>Clue</related>
       <related> Treasure</related>
-      <related>reart scrunched</related>
     </card>
     <card>
       <name>Avada Kedavra</name>
@@ -6213,17 +6211,17 @@ When Voldemort enters and whenever a Horcrux enters, each opponent faces a villa
       <set rarity="rare" splitterPath="/Rescue of the Night Bus.png" >WWHP</set>
       <prop>
         <colors>WU</colors>
-        <manacost>1WU</manacost>
-        <cmc>3</cmc>
+        <manacost>3WU</manacost>
+        <cmc>5</cmc>
         <type>Enchantment - Saga </type>
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>(As this Saga enters and after your draw step, add a lore counter. Exile and return this Saga to the battlefield transformed after III..)
-I — Create a tapped treasure token. Then create another Treasure token for each permanent you control with a counter on it.
+      <text>(As this Saga enters and after your draw step, add a lore counter.)
+I — Create a tapped Treasure token. Then create another Treasure token for each permanent you control with a counter on it.
 II — Proliferate. Then proliferate again for each permanent that got a counter this way. (To proliferate, choose any number of permanents and/or players, then give each another counter of each kind already there.)
 III — Remove any number of counters from among permanents you control. Draw a card for each counter removed this way.
-You have no maximum hand size for the rest of the game.
+Exile this Saga, then return it to the battlefield transformed under your control.
 ---
 (Back): Leaky Cauldron, Wizardy Pub</text>
       <related attach="transform">Leaky Cauldron, Wizardy Pub</related>
@@ -6235,7 +6233,7 @@ You have no maximum hand size for the rest of the game.
       <prop>
         <colors>WU</colors>
         <manacost></manacost>
-        <cmc>3</cmc>
+        <cmc>5</cmc>
         <type>Legendary Land - Plains Island </type>
       </prop>
       <tablerow>0</tablerow>
@@ -6257,10 +6255,11 @@ You have no maximum hand size for the rest of the game.
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>(As this Saga enters and after your draw step, add a lore counter. Exile and return this Saga to the battlefield transformed after III.)
+      <text>(As this Saga enters and after your draw step, add a lore counter.)
 I — Create X tapped Treasure tokens, where X is the number of creatures you control plus one.
 II — Draw a card. You gain 1 life for each card in your hand.
-III — Until end of turn, creatures you control gain “{2}: This creature phases out.” (Treat it and anything attached to it as though they don’t exist until its controller’s next turn.)
+III — Until end of turn, creatures you control gain “{2}: This creature phases out.”
+Exile this Saga, then return it to the battlefield transformed under your control.
 ---
 (Back): The Black Lake</text>
       <related attach="transform">The Black Lake</related>
@@ -6296,10 +6295,10 @@ III — Until end of turn, creatures you control gain “{2}: This creature phas
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>(As this Saga enters and after your draw step, add a lore counter. Exile and return this Saga to the battlefield transformed after III.)
+      <text>(As this Saga enters and after your draw step, add a lore counter.)
 I — Search your library for up to two land cards. Reveal and add them to your hand. Shuffle. 
 II — Target player creates a 3/3 green Centaur creature token. Another target player creates a 1/1 black Vampire creature token with lifelink. 
-III — Create a token that is a copy of target nonhuman creature you control. Then target creature you control fights target creature you don’t control.
+III — Create a token that is a copy of target nonhuman creature you control. Then exile this Saga, then return it to the battlefield transformed under your control.
 ---
 (Back): Forbidden Forest</text>
       <related attach="transform">Forbidden Forest</related>
@@ -6339,10 +6338,11 @@ III — Create a token that is a copy of target nonhuman creature you control. T
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>(As this Saga enters and after your draw step, add a lore counter. Exile and return this Saga to the battlefield transformed after III.)
+      <text>(As this Saga enters and after your draw step, add a lore counter.)
 I — Create a 1/1 Student token. Then create a 1/1 student token for each land you control. (Its a 1/1 white Human Wizard creature token with “Scholarly”.)
 II — For each student you control, create a tapped Treasure token.
-III — Until end of turn, Whenever you sacrifice a treasure token, you gain 1 life.
+III — Until end of turn, Whenever you sacrifice a Treasure token, you gain 1 life.
+Exile this Saga, then return it to the battlefield transformed under your control.
 ---
 (Back): Diagon Alley, Center for all Wizarding Needs</text>
       <related attach="transform">Diagon Alley, Center for all Wizarding Needs</related>
@@ -6380,9 +6380,9 @@ III — Until end of turn, Whenever you sacrifice a treasure token, you gain 1 l
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>(As this Saga enters and after your draw step, add a lore counter. Exile and return this Saga to the battlefield transformed after III.)
+      <text>(As this Saga enters and after your draw step, add a lore counter.)
 I, II — Create X tapped Treasure tokens, where X is the number of creatures you control plus one.
-III — Create a tapped */* red and white Giant creature token with “This token’s power and toughness are equal to the number of Treasure tokens you control.” and “{T}: This creature deals damage equal to its power to another target creature.”
+III — Create a tapped */* red and white Giant creature token with “This token’s power and toughness are equal to the number of Treasure tokens you control.” and “{T}: This creature deals damage equal to its power to another target creature.” Then exile this Saga and return it to the battlefield transformed under your control.
 	
 Atomhawk Design Ltd
 ---
@@ -6424,10 +6424,10 @@ Atomhawk Design Ltd
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>(As this Saga enters and after your draw step, add a lore counter. Exile and return this Saga to the battlefield transformed after III.)
+      <text>(As this Saga enters and after your draw step, add a lore counter.)
 I — Create a 1/1 red Goblin creature token. Then create a 1/1 red Goblin token for each land you control.
 II — Create a tapped Treasure token. Then create a tapped treasure token for each Goblin you control.
-III — Search your library for an artifact card, reveal it, put that card on top, then shuffle.
+III — Search your library for an artifact card, reveal it, put that card on top, then shuffle and exile this Saga, then return it to the battlefield transformed under your control..
 ---
 (Back): Gringotts Wizarding Bank</text>
       <related attach="transform">Gringotts Wizarding Bank</related>
@@ -6465,10 +6465,10 @@ III — Search your library for an artifact card, reveal it, put that card on to
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>(As this Saga enters and after your draw step, add a lore counter. Exile and return this Saga to the battlefield transformed after III.)
+      <text>(As this Saga enters and after your draw step, add a lore counter. 
 I — This Saga has “At the beginning of your upkeep, surveil 1.” (To surveil 1, look at the top card of your library. You may put it into your graveyard.)
 II — Scry 2. Draw four cards. Then put two cards from your hand on top of your library in any order unless you put two stun counters on target creature you control.
-III — Return target creature from your graveyard or exile to the battlefield tapped. Then add a number of {B} equal to that creatures mana value.”
+III — Return target creature from your graveyard or exile to the battlefield tapped. Then add a number of {B} equal to that creatures mana value and exile this Saga, then return it to the battlefield transformed under your control.
 ---
 (Back): House of Gaunt</text>
       <related attach="transform">House of Gaunt</related>
@@ -6500,10 +6500,11 @@ III — Return target creature from your graveyard or exile to the battlefield t
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>(As this Saga enters and after your draw step, add a lore counter. Exile and return this Saga to the battlefield transformed after III.)
+      <text>(As this Saga enters and after your draw step, add a lore counter.)
 I — This saga has “ Whenever a land or enchantment enters under your control create a Student token.  (Its a 1/1 white Human Wizard creature token with “Scholarly”.)
 II — For each land and enchantment you control create 1/1 white Bird creature tokens named Owl with flying, defender and “Whenever this token enters, investigate.” 
 III — Until end of turn, creatures you control have “{T}: Tap target creature and put a stun counter on it. You gain 1 life.
+Exile this Saga, then return it to the battlefield transformed under your control.
 ---
 (Back): Hogwarts, School of Witchcraft &amp; Wizardry</text>
       <related attach="transform">Hogwarts, School of Witchcraft &amp; Wizardry</related>
@@ -6541,10 +6542,10 @@ III — Until end of turn, creatures you control have “{T}: Tap target creatur
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>(As this Saga enters and after your draw step, add a lore counter. Exile and return this Saga to the battlefield transformed after III.)
+      <text>(As this Saga enters and after your draw step, add a lore counter.)
 I — Create a Map token. Then create a Map token for each land you control.  (It’s an artifact with “{1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery.”)
-II — This saga has “ Whenever a creature explores, target creature can’t block this turn.” (To explore, reveal the top card of your library. Put that card into your hand if it’s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)
-III — Create a tapped Treasure token for each +1/+1 counter among creatures you control.
+II — This saga has “Whenever a creature explores, target creature can’t block this turn.” (To explore, reveal the top card of your library. Put that card into your hand if it’s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)
+III — Create a tapped Treasure token for each +1/+1 counter among creatures you control. Then exile this Saga, then return it to the battlefield transformed under your control.
 ---
 (Back): Hogsmeade, Isolated Wizard Village</text>
       <related attach="transform">Hogsmeade, Isolated Wizard Village</related>
@@ -6580,10 +6581,10 @@ III — Create a tapped Treasure token for each +1/+1 counter among creatures yo
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>(As this Saga enters and after your draw step, add a lore counter. Exile and return this Saga to the battlefield transformed after III.)
-I — Destroy target creature. It can’t be regenerated. It’s controller loses life equal to that creature’s toughness.
+      <text>(As this Saga enters and after your draw step, add a lore counter.)
+I — Destroy target creature. It can’t be regenerated.
 II — Sagas you control have “At the beginning of each players upkeep, exile the top card of that players library. You may cast cards exiled this way without paying their mana value. If you do, you lose life equal to that cards mana value.” 
-III — Until the start of your next turn, whenever one or more player loses life, that player shuffles all nonland permanents they control into their library and lose life equal to the number of permanents they shuffled this way.
+III — Exile this Saga, then return it to the battlefield transformed under your control.
 ---
 (Back): Durmstrang, Institute of Dark Magic</text>
       <related attach="transform">Durmstrang, Institute of Dark Magic</related>
@@ -7441,7 +7442,7 @@ Squad X (As an additional cost to cast this spell, you may pay X any number of t
 {U/B}:Dark arts: Commit a crime (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)
 {U/R}:Charms: Incantations tribal
 {G/U}:Potions Brew (You may reveal a Potion card you own from outside the game and put it into your hand, or exile the top card of your library. You may play it this turn.)
-{B/R}: Alchemy: Turn resources into treasure tokens
+{B/R}: Alchemy: Turn resources into Treasure tokens
 {B/G}: Herbology Plant tribal
 {R/G}: Care of Magical Creatures: Beast tribal</text>
       <token>1</token>
