@@ -7033,11 +7033,11 @@ This creature has dedication to the chosen creature type G/WG/W. (Whenever this 
       <set rarity="uncommon">WWHP</set>
       <prop>
         <colors>R</colors>
-        <manacost>3RRR</manacost>
-        <cmc>6</cmc>
+        <manacost>2RRR</manacost>
+        <cmc>5</cmc>
         <type>Legendary Creature - Human Wizard </type>
         <maintype>Creature</maintype>
-        <pt>2/2</pt>
+        <pt>4/4</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever you become the target of a crime, each opponent makes a villainous choice — The Carrow Siblings deal 2 damage to each player or you may learn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime. To learn, you may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)
