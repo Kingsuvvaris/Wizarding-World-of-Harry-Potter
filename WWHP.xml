@@ -521,14 +521,14 @@ Whenever a creature attacks you or a permanent you protect, that creature gets -
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>[level 0+] Level up {2} ({2}: Put a level counter on this. Level up only as a sorcery.)
+      <text>[level 0+] Level up {1} ({1}: Put a level counter on this. Level up only as a sorcery.)
 Equipped creature has flying
 Equip {2}
-[level 3+] Equipped creature has haste.
-[level 6+] Equipped creature gets +1/+1 and has ward {2}. (Whenever this permanent becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
-LEVEL 3+
+[level 2+] Equipped creature has haste.
+[level 4+] Equipped creature gets +1/+1 and has ward {2}. (Whenever this permanent becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+LEVEL 2+
 
-LEVEL 6+
+LEVEL 4+
 </text>
     </card>
     <card>
@@ -618,7 +618,7 @@ When this creature enters, gain control of target artifact unless its controller
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Return target to the top of its owner’s library
+      <text>Return target nonland permanent to the top of its owner’s library
 Bewitchment storm (When you cast this spell, copy it for each bewitchment spell cast before it this turn. You may choose new targets for the copies. Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)</text>
     </card>
     <card>
@@ -871,7 +871,7 @@ As long as Luna Lovegood is studious, she has first strike and “Whenever a cre
       <tablerow>2</tablerow>
       <text>Activated abilities of Potions you control cost {2} less to activate.
 Whenever you sacrifice an artifact, Draco Malfoy gets +1/+1 until end of turn.
-Sacrifice one or more artifacts: Search your library for an Bewitchment card with mana value less than or equal to the total mana value of artifacts sacrificed this way, exile that card. You may cast it this turn without paying its mana cost. (Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)</text>
+Sacrifice one or more artifacts: Search your library for an Bewitchment*s card with mana value less than or equal to the total mana value of artifacts sacrificed this way, exile that card. You may cast it this turn without paying its mana cost until end of turn. (Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)</text>
     </card>
     <card>
       <name>Harry Potter, The Boy Who Lived</name>
@@ -1164,7 +1164,7 @@ Partner with Nymphadora Lupin, Childish Auror. (When this creature enters, targe
       <tablerow>2</tablerow>
       <text>Trample, menace
 Maurauder Lupin attacks each turn if able.
-At the beginning of each upkeep, if a player cast two or more spells last turn, transform Maurauder Lupin, Lycanthropic Striken.
+At the beginning of each upkeep, if a player cast two or more spells last turn, transform Maurauder Lupin
 ---
 (Front): Remus Lupin, Master of the Dark Arts</text>
       <related attach="transform">Remus Lupin, Master of the Dark Arts</related>
@@ -1453,8 +1453,8 @@ Whenever an opponent commits a crime, untap Dobby, the House Elf. (Targeting opp
       </prop>
       <tablerow>2</tablerow>
       <text>Lifelink
-Protection from black and red
-Whenever an opponent commits a crime or forces you to make any choice, you may exile target creature you control and return it to the battlefield during the end step. If you do, you may choose not to make any choice. That opponent loses 1 life and you gain 1 life. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)</text>
+Protection from black
+Whenever an opponent commits a crime that targets a creature you control or forces you to make any choice, you may have another creature you control phase out. If you do, you may choose not to make any choice. That opponent loses 1 life and you gain 1 life. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)</text>
     </card>
     <card>
       <name>Rita Skeeter, Gossip Reporter</name>
@@ -1921,7 +1921,7 @@ If this creature was cast from the battlefield, you may draw two cards. If you d
         <maintype>Battle</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>When this Siege enters, each opponent faces a villainous choice — You search your library for a creature with Villainous choice or a mountain and put it onto the battlefield. or Tradgey at the World Cup deals 1 damage to each creature that player control and that player discards or mills a card for each creature dealt damage this way
+      <text>When this Siege enters, each opponent faces a villainous choice — You search your library for a creature with Villainous choice or a Mountain and put it onto the battlefield. or Tradgey at the World Cup deals 1 damage to each creature that player control and that player discards or mills a card for each creature dealt damage this way
 ---
 (Back): Foreboding Warning</text>
       <related attach="transform">Foreboding Warning</related>
@@ -2168,7 +2168,7 @@ Bewitchment storm (When you cast this spell, copy it for each bewitchment spell 
       <tablerow>2</tablerow>
       <text>Reach, Protection from red. (This creature can’t be blocked, targeted, dealt damage, enchanted, or equipped by anything red..)
 {T}: Tap target permanent. Put a stun counter on that permanent.
-When this creature deals damage to a creature,  put a stun counter on it.</text>
+When this creature deals damage to a creature, put a stun counter on that creature.</text>
     </card>
     <card>
       <name>Writting on the Wall</name>
@@ -2297,7 +2297,8 @@ Whenever Theseus Scamander attacks, attacking Wizards you control gain lifelink 
         <pt>1/4</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever one or more artifacts or enchantments enter, for each of them, its controller sacrifices it unless they pay {1}.</text>
+      <text>Vigilance
+Whenever one or more artifacts or enchantments enter, for each of them, its controller sacrifices it unless they pay {1}.</text>
     </card>
     <card>
       <name>Surgito</name>
@@ -4376,7 +4377,7 @@ Recipe— {2/B}, {T}, Sacrifice this Potion: Target opponent reveals their hand.
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Whenever a Potion enters, target creature gets -1/-1 until end of turn.
+      <text>Whenever a Potion enters, up to one target creature gets -1/-0 until end of turn.
 Recipe — 2/B2/B, {T}, Sacrifice this Potion: Target creature gets -4/-4 until end of turn.</text>
     </card>
     <card>
@@ -4404,7 +4405,7 @@ Recipe — 2/R2/R2/R, {T}, Sacrifice this Potion: Gain control of target nonarti
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Whenever a potion enters, put a brew counter on this Potion. Add {C} for each brew counter on this Potion. (To Brew, you may reveal a Potion card you own from outside the game and put it into your hand, or exile the top card of your library. You may play it this turn.)
+      <text>Whenever a Potion enters, put a brew counter on this Potion. Add {C} for each brew counter on this Potion. (To Brew, you may reveal a Potion card you own from outside the game and put it into your hand, or exile the top card of your library. You may play it this turn.)
 Recipe — 2/R2/R, Sacrifice this Potion: If a source would deal damage this turn, it deals twice that much damage instead.</text>
     </card>
     <card>
@@ -4605,7 +4606,7 @@ Recipe — B/RB/R, {T}, Sacrifice this Potion: Goad target creature. (Until your
       </prop>
       <tablerow>1</tablerow>
       <text>Whenever a Potion enters, return target creature to its owners hand.
-Recipe — 2/G2/G2/U2/U, {T}, Sacrifice this potion: Target creature you control becomes a copy of target creature an opponent controls. Return each other creature with the same name as the creature you control to their owner’s hand.</text>
+Recipe — 2/G2/G2/U2/U, {T}, Sacrifice this Potion: Target creature you control becomes a copy of target creature an opponent controls. Return each other creature with the same name as the creature you control to their owner’s hand.</text>
     </card>
     <card>
       <name>Stink Pellet</name>
@@ -5103,7 +5104,7 @@ Bewitchment storm (When you cast this spell, copy it for each bewitchment spell 
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever you commit a crime, scry 1 then draw a card. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)
-Whenever you draw your first creature spell each turn, you may reveal it. If its a wizard, tap target creature and put a stun counter on it. Then each opponent faces a villainous choice — You draw a card and each opponent discards a card, or each opponent mills a card and puts a stun counter on target creature they control. </text>
+Whenever you draw your first creature spell each turn, you may reveal it. If a Wizard is revealed this way, tap target creature and put a stun counter on it. Then each opponent faces a villainous choice — You draw a card and each opponent discards a card, or each opponent mills a card and puts a stun counter on target creature they control. </text>
     </card>
     <card>
       <name>Blaize Zabini, Entitled Beneficiary</name>
@@ -5164,7 +5165,7 @@ Menace</text>
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Until end of target permanent can’t become tapped unless its controller pays 1 life.
+      <text>Until the end of turn, whenever target permanent becomes tapped, its controller loses 1 life. Players can’t activate abilities as long as this spell is on the stack.
 Bewitchment storm (When you cast this spell, copy it for each bewitchment spell cast before it this turn. You may choose new targets for the copies. Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)</text>
     </card>
     <card>
@@ -6296,7 +6297,7 @@ III — Until end of turn, creatures you control gain “{2}: This creature phas
       </prop>
       <tablerow>1</tablerow>
       <text>(As this Saga enters and after your draw step, add a lore counter. Exile and return this Saga to the battlefield transformed after III.)
-I — Search your library for up to two land cards. Reveal and add them to your hand. Shuffle your library. If a basic land is revealed this way, you may put it onto the battlefield instead.
+I — Search your library for up to two land cards. Reveal and add them to your hand. Shuffle. 
 II — Target player creates a 3/3 green Centaur creature token. Another target player creates a 1/1 black Vampire creature token with lifelink. 
 III — Create a token that is a copy of target nonhuman creature you control. Then target creature you control fights target creature you don’t control.
 ---
@@ -6465,9 +6466,9 @@ III — Search your library for an artifact card, reveal it, put that card on to
       </prop>
       <tablerow>1</tablerow>
       <text>(As this Saga enters and after your draw step, add a lore counter. Exile and return this Saga to the battlefield transformed after III.)
-I — This saga has “At the beginning of your upkeep, surveil 1.” (To surveil 1, look at the top card of your library. You may put it into your graveyard.)
+I — This Saga has “At the beginning of your upkeep, surveil 1.” (To surveil 1, look at the top card of your library. You may put it into your graveyard.)
 II — Scry 2. Draw four cards. Then put two cards from your hand on top of your library in any order unless you put two stun counters on target creature you control.
-III — Return target creature from your graveyard or exile to the battlefield tapped. Then add a number of B equal to that creatures mana value.”
+III — Return target creature from your graveyard or exile to the battlefield tapped. Then add a number of {B} equal to that creatures mana value.”
 ---
 (Back): House of Gaunt</text>
       <related attach="transform">House of Gaunt</related>
@@ -7306,7 +7307,7 @@ Whenever a nontoken permanent you control leaves the battlefield, each opponent 
         <pt>3/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever a legendary creature leaves the field or an opponent commits a crime, each opponent faces a villainous choice — That player loses 5 life or mills ten cards. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)</text>
+      <text>Whenever a legendary creature leaves the battlefield or an opponent commits a crime, each opponent faces a villainous choice — That player loses 5 life or mills ten cards. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)</text>
     </card>
     <card>
       <name>Spot Ministry Raid</name>
@@ -7319,8 +7320,56 @@ Whenever a nontoken permanent you control leaves the battlefield, each opponent 
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>When you cast this spell, any player may pay 5 life and either discard two cards or mill ten cards. If a player does, counter this spell.
+      <text>When you cast this spell, any player may pay 5 life and mill ten cards. If a player does, counter this spell.
 Counter target spell.</text>
+    </card>
+    <card>
+      <name>Antonin Dolohov&apos;s Curse</name>
+      <set rarity="rare" splitterPath="/Antonin Dolohov's Curse.png" >WWHP</set>
+      <prop>
+        <colors>UBR</colors>
+        <manacost>3UUBBRR</manacost>
+        <cmc>9</cmc>
+        <type>Legendary Sorcery - Lesson  </type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>(You may cast a legendary sorcery only if you control a legendary creature or planeswalker.)
+Target player sacrifices a creature and discards a card. If that player can’t discard, that player sacrifices another permanent and mills ten cards. Antonin Dolohov’s Curse deals damage to that player equal to the total mana value of permanents sacrificed this way.
+If you an opponent controls more nonland permanents then you, or this spell was cast from anywhere other than your hand, then cast it transformed.
+---
+(Back): Antonin Dolohov, Sadistic Follower</text>
+      <related attach="transform">Antonin Dolohov, Sadistic Follower</related>
+    </card>
+    <card>
+      <name>Antonin Dolohov, Sadistic Follower</name>
+      <set rarity="rare" splitterPath="/Antonin Dolohov, Sadistic Follower.png" >WWHP</set>
+      <prop>
+        <colors>UBR</colors>
+        <manacost>2UBR</manacost>
+        <cmc>9</cmc>
+        <type>Legendary Creature - Human Wizard </type>
+        <pt>6/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of each end step, if a player lost 4 or more life this turn, that player faces a villainous choice — That player mills a number of cards equal to Antonin Dolohov’s power or you exile Antonin Dolohov and cast him transformed.
+---
+(Front): Antonin Dolohov&apos;s Curse</text>
+      <related attach="transform">Antonin Dolohov&apos;s Curse</related>
+    </card>
+    <card>
+      <name>Agustus Rookwood, Unspeakable Spy</name>
+      <set rarity="uncommon">WWHP</set>
+      <prop>
+        <colors>UBR</colors>
+        <manacost>1UBR</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/5 </pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text> Whenever you commit a crime you may pay {2}. If you do, the target player or owner of the targeted permanent makes a villainous choice — You scry two and draw a card or Agustus Rookwood deals 3 damage to that player or a permanent they control and that player mills five cards. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)</text>
     </card>
 
     <!-->Tokens</-->
