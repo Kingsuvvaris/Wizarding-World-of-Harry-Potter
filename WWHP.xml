@@ -1312,8 +1312,8 @@ BG, {T}: Each opponent loses 1 life. You gain life equal to the amount lost this
       <name>Broken Wand</name>
       <set rarity="uncommon">WWHP</set>
       <prop>
-        <colors>UBR</colors>
-        <manacost>UBR</manacost>
+        <colors>U</colors>
+        <manacost>UUU</manacost>
         <cmc>3</cmc>
         <type>Enchantment - Aura Curse </type>
         <maintype>Enchantment</maintype>
@@ -2320,8 +2320,8 @@ Bewitchment storm (When you cast this spell, copy it for each bewitchment spell 
       <name>Corban Yaxley, Registered Interrogator</name>
       <set rarity="uncommon">WWHP</set>
       <prop>
-        <colors>U</colors>
-        <manacost>1UU</manacost>
+        <colors>UBR</colors>
+        <manacost>UBR</manacost>
         <cmc>3</cmc>
         <type>Legendary Creature - Human Wizard </type>
         <maintype>Creature</maintype>
@@ -3022,7 +3022,7 @@ As long as  Cho Chang is studious, she has flying and during your turn and whene
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-At the beginning of your upkeep, you may pay UU. If you do, reveal the top card of your library. If a Bewitchment*s card is revealed this way, draw two cards. Otherwise, draw a card. (Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)</text>
+At the beginning of your upkeep, you may pay UU. If you do, reveal the top card of your library. If a Bewitchment card is revealed this way, draw two cards. Otherwise, draw a card. (Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)</text>
     </card>
     <card>
       <name>Erumpent Horn</name>

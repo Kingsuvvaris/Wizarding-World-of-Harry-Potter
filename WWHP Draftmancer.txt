@@ -767,7 +767,7 @@
 	    {
 	        "name": "Broken Wand",
 	        "rarity": "uncommon",
-	        "mana_cost": "{U}{B}{R}",
+	        "mana_cost": "{U}{U}{U}",
 	        "type": "Enchantment — Aura Curse ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Broken Wand.png"
@@ -1361,7 +1361,7 @@
 	    {
 	        "name": "Corban Yaxley, Registered Interrogator",
 	        "rarity": "uncommon",
-	        "mana_cost": "{1}{U}{U}",
+	        "mana_cost": "{U}{B}{R}",
 	        "type": "Legendary Creature — Human Wizard ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Corban Yaxley, Registered Interrogator.png"
