@@ -98,7 +98,7 @@ Equip {2}
         <pt>0/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>1B, {T}: Put a -1/-1 counter on target nonartifact creature or a poison counter on target player. Transform Nagini. Then each opponent faces a villainous choice — That player puts a -1/-1 counter on target non artifact creature they control or you may search your library for another creature with villainous choice, reveal it and add it to your hand. Then shuffle.
+      <text>1B, {T}: Put a -1/-1 counter on target nonartifact creature. Transform Nagini. Then each opponent faces a villainous choice — That player puts a -1/-1 counter on target non artifact creature they control or you may search your library for another creature with villainous choice, reveal it and put it in your hand. Then shuffle.
 ---
 (Back): Nagini, Loyal Darklord Servant</text>
       <related attach="transform">Nagini, Loyal Darklord Servant</related>
@@ -871,7 +871,7 @@ As long as Luna Lovegood is studious, she has first strike and “Whenever a cre
       <tablerow>2</tablerow>
       <text>Activated abilities of Potions you control cost {2} less to activate.
 Whenever you sacrifice an artifact, Draco Malfoy gets +1/+1 until end of turn.
-Sacrifice one or more artifacts: Search your library for an Bewitchment*s card with mana value less than or equal to the total mana value of artifacts sacrificed this way, exile that card. You may cast it this turn without paying its mana cost until end of turn. (Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)</text>
+Sacrifice one or more artifacts: Search your library for an Bewitchment card with mana value less than or equal to the total mana value of artifacts sacrificed this way, exile that card. You may cast it this turn without paying its mana cost until end of turn. (Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)</text>
     </card>
     <card>
       <name>Harry Potter, The Boy Who Lived</name>
@@ -1539,7 +1539,7 @@ Whenever Zacharias Smith attacks, Wizards you control gain menace until end of t
       </prop>
       <tablerow>2</tablerow>
       <text>Squad 1B (As an additional cost to cast this spell, you may pay 1B any number of times. When this creature enters, create that many tokens that are copies of it.)
-During your upkeep, create a Wizard-Cracker token. (Its an artifact with “{T}, Sacrifice this artifact: Put a -1/-1 counter on target creature.”)</text>
+During your upkeep, create a Wizard-Cracker token. (Its an artifact with “{1},{T}, Sacrifice this artifact: Put a -1/-1 counter on target creature.”)</text>
       <related>Wizard-Cracker Imp Token</related>
       <related> Wizard-Cracker</related>
     </card>
@@ -2716,7 +2716,7 @@ Equip Wizard UBR</text>
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Equipped creature gets +1/+1 for each card in your hand.
+      <text>Equipped creature gets +1/+0 for each card in your hand.
 As long as equipped creature isn’t studious, the first time a player would draw a card each turn, you may draw a card.
 Equip {5}
 Equip Wizard URW</text>
@@ -2896,7 +2896,7 @@ Equip Wizard WBG</text>
       <text>(As this Saga enters and after your draw step, add a lore counter.)
 I — Draw two cards. You gain 2 life.
 II — Spells you cast this turn cost {1} less to cast for each studious creature you control.
-III — Exile all creatures that aren’t studious.</text>
+III — Each creature that isn’t studious phases out. (Treat it and anything attached to it as though they don’t exist until its controller’s next turn.)</text>
     </card>
     <card>
       <name>Protego Diabolica</name>
@@ -2969,7 +2969,7 @@ Bewitchment storm (When you cast this spell, copy it for each bewitchment spell 
         <pt>1/6</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Deathtouch
+      <text>Deathtouch, trample
 Ward—Put a stun counter on a tapped creature they control. (Whenever this permanent becomes the target of a spell or ability an opponent controls, counter it unless that player puts a stun counter on a tapped creature they control.)
 Permanents your opponents control lose indestructible and can’t have or gain indestructible.
 Whenever Salazar Slytherin’s Basilisk attacks and isn’t blocked, it gets +5/+0 until end of turn.
@@ -3096,11 +3096,11 @@ Skulk (This creature can’t be blocked by creatures with greater power.)</text>
         <cmc>2</cmc>
         <type>Artifact Creature - Beast Incantation Book </type>
         <maintype>Creature</maintype>
-        <pt>2/1</pt>
+        <pt>1/1</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>When this creature enters, put a +1/+1 counter on each of up to X target creatures you control. Then this creature deals damage equal to its power to another target creature.
-{2}: Transform The Monster Book of Monsters and put a number of lore counters on it equal to the number of non human-creatures you control plus one.
+{2}: Transform The Monster Book of Monsters and put a number of lore counters on it equal to the number of non human-creatures you control plus one. Activate only as a sorcery.
 ---
 (Back): Folio Bruti</text>
       <related attach="transform">Folio Bruti</related>
@@ -3471,7 +3471,7 @@ Whenever this creature deals combat damage to a player, investigate. (Create a C
         <pt>1/4</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Scholarly (Whenever you draw a card, this creature gets +1/+1 until end of turn. If this is the third time this ability has resolved this turn, this creature becomes studious if it isn’t already.)
+      <text>Scholarly (Whenever you draw a card, this creature gets +1/+1 until end of turn. If this is the third time this ability has resolved this turn, this creature becomes studious if it isn’t already.) 
 At the beginning of each player’s upkeep, if this creature is studious, investigate. (Create a Clue token. It’s an artifact with “{2}, Sacrifice this token: Draw a card.”)</text>
       <related>Clue</related>
       <related>Art at 400%</related>
@@ -3747,7 +3747,7 @@ Whenever a creature enters or leaves the battlefield, choose one—
       </prop>
       <tablerow>1</tablerow>
       <text>Whenever an enchantment you control enters, investigate
-To solve — You control seven or more enchantments. (If unsolved, solve at the beginning of your end step.)
+To solve — You control or have cast seven or more bewitchments. (If unsolved, solve at the beginning of your end step. Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)
 Solved — Sacrifice this Case: Destroy target creature with power less than the number of Clues you control. Return this Case to the battlefield transformed.
 ---
 (Back): The Philospopher&apos;s Stone</text>
@@ -3846,7 +3846,7 @@ When this battle enters, create X Ministry Tribunal tokens. (They’re 2/2 white
         <type>Sorcery</type>
       </prop>
       <tablerow>3</tablerow>
-      <text>Create X Student tokens, where X is equal to the number of creatures on the battlefield, then put a lifelink counter on each student token you control. You gain life equal to the number of creatures you control. (They’re 1/1 white Human Wizard creature tokens with “Scholarly”.)
+      <text>Create X Student tokens, where X is equal to the number of creatures on the battlefield, then put a lifelink counter on each Student token you control. You gain life equal to the number of creatures you control. (They’re 1/1 white Human Wizard creature tokens with “Scholarly”. Its a 1/1 white Human Wizard creature token with “Scholarly”.)
 ---
 (Front): Trial of the Wizengamot</text>
       <related attach="transform">Trial of the Wizengamot</related>
@@ -5073,7 +5073,9 @@ Recipe— {3}, {T}, Remove a charge counter from this creature: Counter target s
       </prop>
       <tablerow>2</tablerow>
       <text>You may choose to not untap this creature during your untap step.
-{T}: Gain control of target noncreature artifact for as long as this creature remains tapped or create a Treasure token for each nontoken noncreature artifact you control. </text>
+{T}: Choose one — 
+• Gain control of target noncreature artifact for as long as this creature remains tapped.
+• Create a Treasure token for each nontoken noncreature artifact you control. </text>
       <related>Treasure</related>
       <related>reart</related>
     </card>
@@ -5513,8 +5515,8 @@ Whenever a creature enters under an opponents control, you this creature fights 
         <pt>5/5</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Reach
-3GG: Create three 1/1 green Insect Manticore creature tokens with deathtouch. Activate only as a sorcery.
+      <text>Deathtouch, trample, reach
+GGG: Create three 1/1 green Insect Manticore creature tokens with deathtouch. Activate only as a sorcery.
 Whenever a creature with Manticore in its name deals damage to a creature, if that creature dies, the controller of that creature loses life equal to that creatures power unless they pay {2}.</text>
       <related>Insect Manticore</related>
       <related>reart</related>
@@ -6219,9 +6221,8 @@ When Voldemort enters and whenever a Horcrux enters, each opponent faces a villa
       <tablerow>1</tablerow>
       <text>(As this Saga enters and after your draw step, add a lore counter.)
 I — Create a tapped Treasure token. Then create another Treasure token for each permanent you control with a counter on it.
-II — Proliferate. Then proliferate again for each permanent that got a counter this way. (To proliferate, choose any number of permanents and/or players, then give each another counter of each kind already there.)
-III — Remove any number of counters from among permanents you control. Draw a card for each counter removed this way.
-Exile this Saga, then return it to the battlefield transformed under your control.
+II — Draw a card for each treasure token you control.
+III — Exile this Saga, then return it to the battlefield transformed under your control.
 ---
 (Back): Leaky Cauldron, Wizardy Pub</text>
       <related attach="transform">Leaky Cauldron, Wizardy Pub</related>
@@ -6974,7 +6975,7 @@ As long as you control another creature that is studious, this creature has hast
       <set rarity="common">WWHP</set>
       <prop>
         <colors>WRG</colors>
-        <manacost>G/WR</manacost>
+        <manacost>R/GW</manacost>
         <cmc>2</cmc>
         <type>Creature - Human Wizard </type>
         <maintype>Creature</maintype>
@@ -6989,7 +6990,7 @@ When this creature enters, put a +1/+1 counter on target creature then you may g
       <set rarity="common">WWHP</set>
       <prop>
         <colors>UBG</colors>
-        <manacost>U/BG</manacost>
+        <manacost>G/UB</manacost>
         <cmc>2</cmc>
         <type>Creature - Human Wizard </type>
         <maintype>Creature</maintype>
@@ -7004,7 +7005,7 @@ When this creature enters, each opponent discards a card then mills a card for e
       <set rarity="common">WWHP</set>
       <prop>
         <colors>WBG</colors>
-        <manacost>B/GW</manacost>
+        <manacost>W/BG</manacost>
         <cmc>2</cmc>
         <type>Creature - Human Wizard </type>
         <maintype>Creature</maintype>
@@ -7019,7 +7020,7 @@ This creature has dedication to the chosen creature type G/WG/W. (Whenever this 
       <set rarity="common">WWHP</set>
       <prop>
         <colors>UBR</colors>
-        <manacost>U/RB</manacost>
+        <manacost>U/BR</manacost>
         <cmc>2</cmc>
         <type>Creature - Werewolf Wizard </type>
         <maintype>Creature</maintype>
@@ -8037,7 +8038,7 @@ Flying, Defender
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>{T}, Sacrifice this artifact: Put a -1/-1 counter on target creature.</text>
+      <text>{1}, {T}, Sacrifice this artifact: Put a -1/-1 counter on target creature.</text>
       <token>1</token>
     </card>
     <card>
