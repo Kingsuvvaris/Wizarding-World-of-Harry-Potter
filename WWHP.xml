@@ -90,8 +90,8 @@ Equip {2}
       <name>Nagini, Maladictus Performer</name>
       <set rarity="uncommon" splitterPath="/Nagini, Maladictus Performer.png" >WWHP</set>
       <prop>
-        <colors>B</colors>
-        <manacost>1BB</manacost>
+        <colors>UBRG</colors>
+        <manacost>UBR/G</manacost>
         <cmc>3</cmc>
         <type>Legendary Creature - Human Beast </type>
         <maintype>Creature</maintype>
@@ -107,7 +107,7 @@ Equip {2}
       <name>Nagini, Loyal Darklord Servant</name>
       <set rarity="uncommon" splitterPath="/Nagini, Loyal Darklord Servant.png" >WWHP</set>
       <prop>
-        <colors>B</colors>
+        <colors>UBR</colors>
         <manacost></manacost>
         <cmc>3</cmc>
         <type>Legendary Creature - Snake Horcrux </type>
@@ -1135,8 +1135,8 @@ Wizards you control have Dedication to Plant {G} (Whenever this creature attacks
       <name>Remus Lupin, Master of the Dark Arts</name>
       <set rarity="uncommon" splitterPath="/Remus Lupin, Master of the Dark Arts.png" >WWHP</set>
       <prop>
-        <colors>G</colors>
-        <manacost>2GG</manacost>
+        <colors>WRG</colors>
+        <manacost>1RGW</manacost>
         <cmc>4</cmc>
         <type>Legendary Creature - Human Werewolf Wizard Professor </type>
         <maintype>Creature</maintype>
@@ -1155,7 +1155,7 @@ Partner with Nymphadora Lupin, Childish Auror. (When this creature enters, targe
       <name>Maurauder Lupin, Lycanthropic Striken</name>
       <set rarity="uncommon" splitterPath="/Maurauder Lupin, Lycanthropic Striken.png" >WWHP</set>
       <prop>
-        <colors>R</colors>
+        <colors>WRG</colors>
         <manacost></manacost>
         <cmc>4</cmc>
         <type>Legendary Creature - Werewolf Beast </type>
@@ -1429,8 +1429,8 @@ Whenever you commit a crime, each opponent loses 1 life unless they pay {1}. You
       <name>Dobby, the House Elf</name>
       <set rarity="uncommon">WWHP</set>
       <prop>
-        <colors>U</colors>
-        <manacost>2U</manacost>
+        <colors>UBR</colors>
+        <manacost>1UB/R</manacost>
         <cmc>3</cmc>
         <type>Legendary Creature - Elf </type>
         <maintype>Creature</maintype>
@@ -1444,17 +1444,17 @@ Whenever an opponent commits a crime, untap Dobby, the House Elf. (Targeting opp
       <name>Cornelius Fudge, Misguided Minister</name>
       <set rarity="rare">WWHP</set>
       <prop>
-        <colors>W</colors>
-        <manacost>1WW</manacost>
+        <colors>WRG</colors>
+        <manacost>RGW</manacost>
         <cmc>3</cmc>
         <type>Legendary Creature - Human Wizard </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Lifelink
-Protection from black
-Whenever an opponent commits a crime that targets a creature you control or forces you to make any choice, you may have another creature you control phase out. If you do, you may choose not to make any choice. That opponent loses 1 life and you gain 1 life. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)</text>
+      <text>Lifelink.
+Gallant 1 (Whenever a creature an opponent controls with greater power enters or attacks and this creature isn’t courageous, put a +1/+1 counter on this creature and it becomes courageous.)
+As long as Cornelius Fudge is courageous, whenever an opponent commits a crime that targets a creature you control or forces you to make any choice, you may have another creature you control phase out. If you do, you may choose not to make any choice and Cornelius Fudge loses courageous. That opponent loses 1 life and you gain 1 life. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)</text>
     </card>
     <card>
       <name>Rita Skeeter, Gossip Reporter</name>
@@ -1515,8 +1515,8 @@ Saddle 1 (Tap any number of other creatures you control with total power 1 or mo
       <name>Zacharias Smith, Jealous Friend</name>
       <set rarity="uncommon">WWHP</set>
       <prop>
-        <colors>B</colors>
-        <manacost>1B</manacost>
+        <colors>WBG</colors>
+        <manacost>G/WB</manacost>
         <cmc>2</cmc>
         <type>Legendary Creature - Human Wizard </type>
         <maintype>Creature</maintype>
@@ -1624,8 +1624,8 @@ Enchanted permanent is a colorless land with “{T}: Add {C}” and loses all ot
       <name>Helena, Ghost of Ravenclaw</name>
       <set rarity="uncommon">WWHP</set>
       <prop>
-        <colors>U</colors>
-        <manacost>2UU</manacost>
+        <colors>WUR</colors>
+        <manacost>1URW</manacost>
         <cmc>4</cmc>
         <type>Legendary Creature - Spirit </type>
         <maintype>Creature</maintype>
@@ -1640,8 +1640,8 @@ Whenever you sacrifice an artifact, return up to one target Incantation card fro
       <name>Horace Slughorn, Old Potions Master</name>
       <set rarity="rare">WWHP</set>
       <prop>
-        <colors>U</colors>
-        <manacost>2UU</manacost>
+        <colors>UBG</colors>
+        <manacost>1BGU</manacost>
         <cmc>4</cmc>
         <type>Legendary Creature - Human Wizard </type>
         <maintype>Creature</maintype>
@@ -1994,7 +1994,7 @@ Saddle 8
       <tablerow>2</tablerow>
       <text>Haste
 Gallant 1 (Whenever a creature an opponent controls with greater power enters or attacks and this creature isn’t courageous, put a +1/+1 counter on this creature and it becomes courageous.)
-When Nearly Headless Nick becomes courageous, you may have the owners of Nearly Headless Nick and another creature you control shuffle them into their libraries. If you do, Nearly Headless Nick deals damage equal to its power to any target.</text>
+When Nearly Headless Nick becomes courageous, you may pay {G/W}. If you do, the owners of Nearly Headless Nick and another creature you control shuffle them into their libraries. If you do, Nearly Headless Nick deals damage equal to its power to any target.</text>
     </card>
     <card>
       <name>Escape of the Azkaban Prisoner</name>
@@ -2049,8 +2049,8 @@ Bewitchment storm (When you cast this spell, copy it for each bewitchment spell 
       <name>Bloody Barron, Ghost of Slytherin</name>
       <set rarity="uncommon">WWHP</set>
       <prop>
-        <colors>G</colors>
-        <manacost>2G</manacost>
+        <colors>UBG</colors>
+        <manacost>BGU</manacost>
         <cmc>3</cmc>
         <type>Legendary Creature - Spirit </type>
         <maintype>Creature</maintype>
@@ -2274,8 +2274,8 @@ Whenever damage is dealt to this Siege, create a token copy of the chosen creatu
       <name>Theseus Scamander, Loyal Auror</name>
       <set rarity="rare">WWHP</set>
       <prop>
-        <colors>W</colors>
-        <manacost>1WW</manacost>
+        <colors>WBG</colors>
+        <manacost>WBG</manacost>
         <cmc>3</cmc>
         <type>Legendary Creature - Human Wizard </type>
         <maintype>Creature</maintype>
@@ -2589,8 +2589,8 @@ All creatures able to block this creature do so.</text>
       <name>Mrs Norris</name>
       <set rarity="uncommon" splitterPath="/Mrs Norris.png" >WWHP</set>
       <prop>
-        <colors>B</colors>
-        <manacost>BB</manacost>
+        <colors>WBG</colors>
+        <manacost>G/WB</manacost>
         <cmc>2</cmc>
         <type>Legendary Creature - Cat </type>
         <maintype>Creature</maintype>
@@ -2608,7 +2608,7 @@ Whenever an opponent commits a crime, transform Mrs Norris. (Targeting opponents
       <name>Argus Filch, Dungeons Caretaker</name>
       <set rarity="uncommon" splitterPath="/Argus Filch, Dungeons Caretaker.png" >WWHP</set>
       <prop>
-        <colors>B</colors>
+        <colors>WB</colors>
         <manacost></manacost>
         <cmc>2</cmc>
         <type>Legendary Creature - Human Squib </type>
@@ -2625,8 +2625,8 @@ When an opponent commits a crime, put a -1/-1 counter on target creature that pl
       <name>Narcissa Malfoy, Devoted Mother</name>
       <set rarity="uncommon">WWHP</set>
       <prop>
-        <colors>B</colors>
-        <manacost>3B</manacost>
+        <colors>UBG</colors>
+        <manacost>1BGU</manacost>
         <cmc>4</cmc>
         <type>Legendary Creature - Human Wizard </type>
         <maintype>Creature</maintype>
@@ -2643,8 +2643,8 @@ Partner with Lucius Malfoy. (When this creature enters, target player may put Lu
       <name>Alaster Mad-Eye Moody</name>
       <set rarity="uncommon" splitterPath="/Alaster Mad-Eye Moody.png" >WWHP</set>
       <prop>
-        <colors>R</colors>
-        <manacost>4R</manacost>
+        <colors>WUBR</colors>
+        <manacost>2URW/B</manacost>
         <cmc>5</cmc>
         <type>Legendary Creature - Human Wizard </type>
         <maintype>Creature</maintype>
@@ -2653,7 +2653,7 @@ Partner with Lucius Malfoy. (When this creature enters, target player may put Lu
       <tablerow>2</tablerow>
       <text>Trample
 At the beginning of your upkeep, you may sacrifice a land or Potion. When you do, return target noncreature card from your graveyard to your hand.
-4UR: Exile Alaster Mad-Eye Moody, then return him to the battlefield transformed.
+3UBR: Exile Alaster Mad-Eye Moody, then return him to the battlefield transformed.
 ---
 (Back): Barty Crouch Jr, Dark Arts Infiltraitor</text>
       <related attach="transform">Barty Crouch Jr, Dark Arts Infiltraitor</related>
@@ -2662,7 +2662,7 @@ At the beginning of your upkeep, you may sacrifice a land or Potion. When you do
       <name>Barty Crouch Jr, Dark Arts Infiltraitor</name>
       <set rarity="uncommon" splitterPath="/Barty Crouch Jr, Dark Arts Infiltraitor.png" >WWHP</set>
       <prop>
-        <colors>UR</colors>
+        <colors>UBR</colors>
         <manacost></manacost>
         <cmc>5</cmc>
         <type>Legendary Creature - Human Wizard </type>
@@ -3561,12 +3561,12 @@ Sacrifice this enchantment: Scry 2.</text>
       <name>The Fat Friar, Ghost of Hufflepuff</name>
       <set rarity="uncommon">WWHP</set>
       <prop>
-        <colors>W</colors>
-        <manacost>1W</manacost>
-        <cmc>2</cmc>
+        <colors>WBG</colors>
+        <manacost>WBG</manacost>
+        <cmc>3</cmc>
         <type>Legendary Creature - Spirit </type>
         <maintype>Creature</maintype>
-        <pt>2/1</pt>
+        <pt>3/2</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
@@ -3670,8 +3670,8 @@ Spells your opponents cast that target one or more Wizards you control cost {1} 
       <name>Padfoot, Protective Marauder</name>
       <set rarity="uncommon" splitterPath="/Padfoot, Protective Marauder.png" >WWHP</set>
       <prop>
-        <colors>W</colors>
-        <manacost>2W</manacost>
+        <colors>WRG</colors>
+        <manacost>RGW</manacost>
         <cmc>3</cmc>
         <type>Legendary Creature - Dog Animagus </type>
         <maintype>Creature</maintype>
@@ -3689,7 +3689,7 @@ Whenever this creature transforms into Padfoot, Protective Marauder, he can’t 
       <name>Sirius Black, Angered Outcast</name>
       <set rarity="uncommon" splitterPath="/Sirius Black, Angered Outcast.png" >WWHP</set>
       <prop>
-        <colors>W</colors>
+        <colors>WRG</colors>
         <manacost></manacost>
         <cmc>3</cmc>
         <type>Legendary Creature - Human Wizard </type>
@@ -3721,8 +3721,8 @@ Bewitchment storm (When you cast this spell, copy it for each bewitchment spell 
       <name>Madam Pomfrey</name>
       <set rarity="uncommon">WWHP</set>
       <prop>
-        <colors>W</colors>
-        <manacost>1WW</manacost>
+        <colors>WG</colors>
+        <manacost>GWW</manacost>
         <cmc>3</cmc>
         <type>Legendary Creature - Human Wizard </type>
         <maintype>Creature</maintype>
@@ -3805,8 +3805,8 @@ Lesson cycling {2} (Discard this card. You may reveal a lesson card you own from
       <name>Sybill Trelawney, Unreliable Seer</name>
       <set rarity="rare">WWHP</set>
       <prop>
-        <colors>W</colors>
-        <manacost>3W</manacost>
+        <colors>WU</colors>
+        <manacost>WWUU</manacost>
         <cmc>4</cmc>
         <type>Legendary Creature - Human Wizard </type>
         <maintype>Creature</maintype>
@@ -4166,9 +4166,9 @@ Azkaban — {T}: Add {U}, {B}, or {R}.</text>
       <name>Viktor Krum, Durmstrang Champion</name>
       <set rarity="uncommon">WWHP</set>
       <prop>
-        <colors>R</colors>
-        <manacost>RR</manacost>
-        <cmc>2</cmc>
+        <colors>UBR</colors>
+        <manacost>UBR</manacost>
+        <cmc>3</cmc>
         <type>Legendary Creature - Human Wizard </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
@@ -4541,15 +4541,15 @@ Recipe — W/BW/BW/BW/B, {T}, Sacrifice this Potion: If {W} was paid target crea
       <name>Elixir of Life</name>
       <set rarity="rare">WWHP</set>
       <prop>
-        <colors>WG</colors>
-        <manacost>22/W2/W2/G2/G</manacost>
-        <cmc>10</cmc>
+        <colors>W</colors>
+        <manacost>22/W2/W</manacost>
+        <cmc>6</cmc>
         <type>Artifact - Potion </type>
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
       <text>Whenever a Potion enters, target creature gains indestructible until end of turn.
-Recipe — 2/W2/W2/G2/G, {T}, Sacrifice this potion:  The next time you would lose the game, instead end the turn and shuffle your hand, your graveyard, and all permanents you own into your library, then draw seven cards and your life total becomes 10. Exile this artifact unless you control The Philosopher’s Stone.</text>
+Recipe — 2/W2/W, {T}, Sacrifice this potion:  The next time you would lose the game, instead end the turn and shuffle your hand, your graveyard, and all permanents you own into your library, then draw seven cards and your life total becomes 10. Exile this artifact unless you control The Philosopher’s Stone.</text>
     </card>
     <card>
       <name>Gilleyweed</name>
@@ -4571,8 +4571,8 @@ Recipe — U/BU/BU/B, Sacrifice this Potion: The next time one or more creatures
       <set rarity="rare">WWHP</set>
       <prop>
         <colors>WR</colors>
-        <manacost>2/W2/W2/R2/R</manacost>
-        <cmc>8</cmc>
+        <manacost>2/W2/W</manacost>
+        <cmc>4</cmc>
         <type>Artifact - Potion </type>
         <maintype>Artifact</maintype>
       </prop>
@@ -4613,14 +4613,14 @@ Recipe — 2/G2/G2/U2/U, {T}, Sacrifice this Potion: Target creature you control
       <set rarity="common">WWHP</set>
       <prop>
         <colors>UR</colors>
-        <manacost>2/R2/U</manacost>
+        <manacost>22/U</manacost>
         <cmc>4</cmc>
         <type>Artifact - Potion </type>
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
       <text>Whenever a Potion enters, target creature phases out. (Treat it and anything attached to it as though they don’t exist until its controller’s next turn.)
-Recipe — 2/R2/U, {T}, Sacrifice this Potion: Put a stun counter on target creature and Stink Pellet deals 2 damage to any target.</text>
+Recipe — {22/U}, {T}, Sacrifice this Potion: Put a stun counter on target creature and Stink Pellet deals 2 damage to any target.</text>
     </card>
     <card>
       <name>Whit-Sharpening Potion</name>
@@ -4861,8 +4861,8 @@ Bewitchment storm (When you cast this spell, copy it for each bewitchment spell 
       <name>Hedwig, Loyal Protector</name>
       <set rarity="uncommon">WWHP</set>
       <prop>
-        <colors>W</colors>
-        <manacost>1W</manacost>
+        <colors>WRG</colors>
+        <manacost>R/GW</manacost>
         <cmc>2</cmc>
         <type>Legendary Creature - Bird Beast </type>
         <maintype>Creature</maintype>
@@ -4877,8 +4877,8 @@ When Hedwig enters or deals combat damage to a player, draw a card. Then you gai
       <name>Moaning Myrtle</name>
       <set rarity="uncommon">WWHP</set>
       <prop>
-        <colors>W</colors>
-        <manacost>1W</manacost>
+        <colors>WUR</colors>
+        <manacost>WU/R</manacost>
         <cmc>2</cmc>
         <type>Legendary Creature - Spirit Wizard </type>
         <maintype>Creature</maintype>
@@ -4987,8 +4987,8 @@ Whenever this creature deals damage to another creature with flying, put a +1/+1
       <name>Gilderoy Lockhart</name>
       <set rarity="uncommon">WWHP</set>
       <prop>
-        <colors>U</colors>
-        <manacost>2U</manacost>
+        <colors>WUR</colors>
+        <manacost>URW</manacost>
         <cmc>3</cmc>
         <type>Legendary Creature - Human Wizard </type>
         <maintype>Creature</maintype>
@@ -4996,7 +4996,7 @@ Whenever this creature deals damage to another creature with flying, put a +1/+1
       </prop>
       <tablerow>2</tablerow>
       <text>When Gilderoy Lockhart enters, you may search your graveyard library for a card named Obliviate, reveal it, put it into your hand, then shuffle.
-If a player would mill one or more cards, they mill twice that many cards instead.</text>
+If a player would mill one or more cards, they mill twice that many cards instead and you draw a card.</text>
     </card>
     <card>
       <name>Jobberknoll</name>
@@ -5017,8 +5017,8 @@ Whenever this creature dies, scry 2 then draw a card.</text>
       <name>Marcus Flint, Slytherin Quidditch Captain</name>
       <set rarity="uncommon">WWHP</set>
       <prop>
-        <colors>U</colors>
-        <manacost>3U</manacost>
+        <colors>UBG</colors>
+        <manacost>1BGU</manacost>
         <cmc>4</cmc>
         <type>Legendary Creature - Human Wizard </type>
         <maintype>Creature</maintype>
@@ -5097,8 +5097,8 @@ Bewitchment storm (When you cast this spell, copy it for each bewitchment spell 
       <name>Pius Thicknesse, Dark Lord Puppet</name>
       <set rarity="rare">WWHP</set>
       <prop>
-        <colors>U</colors>
-        <manacost>2UU</manacost>
+        <colors>UBR</colors>
+        <manacost>1UBR</manacost>
         <cmc>4</cmc>
         <type>Legendary Creature - Human Wizard </type>
         <maintype>Creature</maintype>
@@ -5112,8 +5112,8 @@ Whenever you draw your first creature spell each turn, you may reveal it. If a W
       <name>Blaize Zabini, Entitled Beneficiary</name>
       <set rarity="rare">WWHP</set>
       <prop>
-        <colors>B</colors>
-        <manacost>3BB</manacost>
+        <colors>UBG</colors>
+        <manacost>2BGU</manacost>
         <cmc>5</cmc>
         <type>Legendary Creature - Human Wizard </type>
         <maintype>Creature</maintype>
@@ -5169,21 +5169,6 @@ Menace</text>
       <tablerow>3</tablerow>
       <text>Until the end of turn, whenever target permanent becomes tapped, its controller loses 1 life. Players can’t activate abilities as long as this spell is on the stack.
 Bewitchment storm (When you cast this spell, copy it for each bewitchment spell cast before it this turn. You may choose new targets for the copies. Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)</text>
-    </card>
-    <card>
-      <name>Goldstein Sisters, Queeny and Tina</name>
-      <set rarity="rare">WWHP</set>
-      <prop>
-        <colors>B</colors>
-        <manacost>2BB</manacost>
-        <cmc>4</cmc>
-        <type>Legendary Creature - Human Wizard </type>
-        <maintype>Creature</maintype>
-        <pt>3/3</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Dedication to Wizard 3BB (Whenever this creature attacks or blocks, you may pay 3BB. If you do it gets +1/+1 for each Wizard you control until end of turn.)
-Whenever The Goldstein Sisters attack, target player discards a card for each attacking Wizard you control. If they can’t, then they mill a card instead.</text>
     </card>
     <card>
       <name>Lethifold</name>
@@ -5361,8 +5346,8 @@ Whenever one or more nontoken creatures enchanted player controls enter, create 
       <name>The Patil Twins, Padma and Parvati</name>
       <set rarity="uncommon">WWHP</set>
       <prop>
-        <colors>R</colors>
-        <manacost>1RR</manacost>
+        <colors>WURG</colors>
+        <manacost>RWG/U</manacost>
         <cmc>3</cmc>
         <type>Legendary Creature - Human Wizard </type>
         <maintype>Creature</maintype>
@@ -5525,8 +5510,8 @@ Whenever a creature with Manticore in its name deals damage to a creature, if th
       <name>Justin Flinchfletchly, Wandering Student</name>
       <set rarity="uncommon">WWHP</set>
       <prop>
-        <colors>G</colors>
-        <manacost>2GG</manacost>
+        <colors>WBG</colors>
+        <manacost>1WBG</manacost>
         <cmc>4</cmc>
         <type>Legendary Creature - Human Wizard </type>
         <maintype>Creature</maintype>
@@ -5573,8 +5558,8 @@ This creature can’t be blocked except by three or more creatures.
       <name>Pansi Parkinson, Combatent Instigator</name>
       <set rarity="rare">WWHP</set>
       <prop>
-        <colors>G</colors>
-        <manacost>3G</manacost>
+        <colors>UBG</colors>
+        <manacost>1BGU</manacost>
         <cmc>4</cmc>
         <type>Legendary Creature - Human Wizard </type>
         <maintype>Creature</maintype>
@@ -5605,8 +5590,8 @@ Whenever you sacrifice a Food, put a +1/+1 counter on up to one target creature.
       <name>Rubeus Hagrid, Keeper of Keys</name>
       <set rarity="uncommon">WWHP</set>
       <prop>
-        <colors>G</colors>
-        <manacost>3GG</manacost>
+        <colors>WRG</colors>
+        <manacost>2RGW</manacost>
         <cmc>5</cmc>
         <type>Legendary Creature - Wizard Giant </type>
         <maintype>Creature</maintype>
@@ -5711,8 +5696,8 @@ Whenever you sacrifice a Food, roll a d20.
       <name>Fleur Delacour, Beuxbatons Champion</name>
       <set rarity="uncommon">WWHP</set>
       <prop>
-        <colors>W</colors>
-        <manacost>1W</manacost>
+        <colors>WRG</colors>
+        <manacost>R/GW</manacost>
         <cmc>2</cmc>
         <type>Legendary Creature - Human Wizard </type>
         <maintype>Creature</maintype>
@@ -5742,8 +5727,8 @@ As long as Fred and George Weasley are courageous, each courageous creature you 
       <name>Igor Karkaroff, Durmstrang Headmaster</name>
       <set rarity="mythic">WWHP</set>
       <prop>
-        <colors>R</colors>
-        <manacost>2RRR</manacost>
+        <colors>UBR</colors>
+        <manacost>2UBR</manacost>
         <cmc>5</cmc>
         <type>Legendary Creature - Human Wizard </type>
         <maintype>Creature</maintype>
@@ -5995,8 +5980,8 @@ Pestis Incendium, Fiendfyre deals X damage to each creature, where X is the numb
       <name>Quirinus Quirrell, Traitorous Professor</name>
       <set rarity="uncommon" splitterPath="/Quirinus Quirrell, Traitorous Professor.png" >WWHP</set>
       <prop>
-        <colors>R</colors>
-        <manacost>2RR</manacost>
+        <colors>WUBR</colors>
+        <manacost>1URW/B</manacost>
         <cmc>4</cmc>
         <type>Legendary Creature - Human Wizard  </type>
         <maintype>Creature</maintype>
@@ -6897,8 +6882,8 @@ Whenever a player casts a Plant spell, you may pay {2}. If you do, copy that spe
       <name>Dolores Umbridge, Lawfully Maddened Official</name>
       <set rarity="rare">WWHP</set>
       <prop>
-        <colors>B</colors>
-        <manacost>1BBB</manacost>
+        <colors>WB</colors>
+        <manacost>1WBB</manacost>
         <cmc>4</cmc>
         <type>Legendary Creature - Human Wizard </type>
         <maintype>Creature</maintype>
@@ -6907,7 +6892,7 @@ Whenever a player casts a Plant spell, you may pay {2}. If you do, copy that spe
       <tablerow>2</tablerow>
       <text>Dolores Umbridge enters tapped.
 Soulbond (You may pair this creature with another unpaired creature when either enters. They remain paired for as long as you control both of them.)
-2BBBB,  {T}, Put two stun counters on Dolores Umbridge: For each creature, its controller sacrifices a permanent of their choice unless they pay {1} or 2 life. Activate only if Dolores Umbridge is paired with a creature.</text>
+2WWBB,  {T}, Put two stun counters on Dolores Umbridge: For each creature, its controller sacrifices a permanent of their choice unless they pay {1} or 2 life. Activate only if Dolores Umbridge is paired with a creature.</text>
     </card>
     <card>
       <name>Magizoologist Trainee</name>
@@ -7033,8 +7018,8 @@ This creature has dedication to the chosen creature type G/WG/W. (Whenever this 
       <name>The Carrow Siblings</name>
       <set rarity="uncommon">WWHP</set>
       <prop>
-        <colors>R</colors>
-        <manacost>2RRR</manacost>
+        <colors>UBR</colors>
+        <manacost>2UBR</manacost>
         <cmc>5</cmc>
         <type>Legendary Creature - Human Wizard </type>
         <maintype>Creature</maintype>
@@ -7146,8 +7131,8 @@ Minister’s Censorship deals damage equal to the number of Legendary creatures 
       <name>Madam Pince, School Librarian</name>
       <set rarity="mythic">WWHP</set>
       <prop>
-        <colors>U</colors>
-        <manacost>2UU</manacost>
+        <colors>WUR</colors>
+        <manacost>1URW</manacost>
         <cmc>4</cmc>
         <type>Legendary Creature - Human Wizard </type>
         <maintype>Creature</maintype>

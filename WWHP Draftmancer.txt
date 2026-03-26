@@ -49,7 +49,7 @@
 	    },
 	    {
 	        "name": "Nagini, Maladictus Performer",
-	        "mana_cost": "{1}{B}{B}",
+	        "mana_cost": "{U}{B}{R/G}",
 	        "type": "Legendary Creature — Human Beast ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Nagini, Maladictus Performer.png"
@@ -655,7 +655,7 @@
 	    },
 	    {
 	        "name": "Remus Lupin, Master of the Dark Arts",
-	        "mana_cost": "{2}{G}{G}",
+	        "mana_cost": "{1}{R}{G}{W}",
 	        "type": "Legendary Creature — Human Werewolf Wizard Professor ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Remus Lupin, Master of the Dark Arts.png"
@@ -839,7 +839,7 @@
 	    {
 	        "name": "Dobby, the House Elf",
 	        "rarity": "uncommon",
-	        "mana_cost": "{2}{U}",
+	        "mana_cost": "{1}{U}{B/R}",
 	        "type": "Legendary Creature — Elf ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Dobby, the House Elf.png"
@@ -848,7 +848,7 @@
 	    {
 	        "name": "Cornelius Fudge, Misguided Minister",
 	        "rarity": "rare",
-	        "mana_cost": "{1}{W}{W}",
+	        "mana_cost": "{R}{G}{W}",
 	        "type": "Legendary Creature — Human Wizard ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Cornelius Fudge, Misguided Minister.png"
@@ -887,7 +887,7 @@
 	    {
 	        "name": "Zacharias Smith, Jealous Friend",
 	        "rarity": "uncommon",
-	        "mana_cost": "{1}{B}",
+	        "mana_cost": "{G/W}{B}",
 	        "type": "Legendary Creature — Human Wizard ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Zacharias Smith, Jealous Friend.png"
@@ -950,7 +950,7 @@
 	    {
 	        "name": "Helena, Ghost of Ravenclaw",
 	        "rarity": "uncommon",
-	        "mana_cost": "{2}{U}{U}",
+	        "mana_cost": "{1}{U}{R}{W}",
 	        "type": "Legendary Creature — Spirit ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Helena, Ghost of Ravenclaw.png"
@@ -959,7 +959,7 @@
 	    {
 	        "name": "Horace Slughorn, Old Potions Master",
 	        "rarity": "rare",
-	        "mana_cost": "{2}{U}{U}",
+	        "mana_cost": "{1}{B}{G}{U}",
 	        "type": "Legendary Creature — Human Wizard ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Horace Slughorn, Old Potions Master.png"
@@ -1199,7 +1199,7 @@
 	    {
 	        "name": "Bloody Barron, Ghost of Slytherin",
 	        "rarity": "uncommon",
-	        "mana_cost": "{2}{G}",
+	        "mana_cost": "{B}{G}{U}",
 	        "type": "Legendary Creature — Spirit ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Bloody Barron, Ghost of Slytherin.png"
@@ -1334,7 +1334,7 @@
 	    {
 	        "name": "Theseus Scamander, Loyal Auror",
 	        "rarity": "rare",
-	        "mana_cost": "{1}{W}{W}",
+	        "mana_cost": "{W}{B}{G}",
 	        "type": "Legendary Creature — Human Wizard ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Theseus Scamander, Loyal Auror.png"
@@ -1531,7 +1531,7 @@
 	    },
 	    {
 	        "name": "Mrs Norris",
-	        "mana_cost": "{B}{B}",
+	        "mana_cost": "{G/W}{B}",
 	        "type": "Legendary Creature — Cat ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Mrs Norris.png"
@@ -1553,7 +1553,7 @@
 	    {
 	        "name": "Narcissa Malfoy, Devoted Mother",
 	        "rarity": "uncommon",
-	        "mana_cost": "{3}{B}",
+	        "mana_cost": "{1}{B}{G}{U}",
 	        "type": "Legendary Creature — Human Wizard ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Narcissa Malfoy, Devoted Mother.png"
@@ -1561,7 +1561,7 @@
 	    },
 	    {
 	        "name": "Alaster Mad-Eye Moody",
-	        "mana_cost": "{4}{R}",
+	        "mana_cost": "{2}{U}{R}{W/B}",
 	        "type": "Legendary Creature — Human Wizard ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Alaster Mad-Eye Moody.png"
@@ -2117,7 +2117,7 @@
 	    {
 	        "name": "The Fat Friar, Ghost of Hufflepuff",
 	        "rarity": "uncommon",
-	        "mana_cost": "{1}{W}",
+	        "mana_cost": "{W}{B}{G}",
 	        "type": "Legendary Creature — Spirit ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/The Fat Friar, Ghost of Hufflepuff.png"
@@ -2179,7 +2179,7 @@
 	    },
 	    {
 	        "name": "Padfoot, Protective Marauder",
-	        "mana_cost": "{2}{W}",
+	        "mana_cost": "{R}{G}{W}",
 	        "type": "Legendary Creature — Dog Animagus ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Padfoot, Protective Marauder.png"
@@ -2210,7 +2210,7 @@
 	    {
 	        "name": "Madam Pomfrey",
 	        "rarity": "uncommon",
-	        "mana_cost": "{1}{W}{W}",
+	        "mana_cost": "{G}{W}{W}",
 	        "type": "Legendary Creature — Human Wizard ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Madam Pomfrey.png"
@@ -2258,7 +2258,7 @@
 	    {
 	        "name": "Sybill Trelawney, Unreliable Seer",
 	        "rarity": "rare",
-	        "mana_cost": "{3}{W}",
+	        "mana_cost": "{W}{W}{U}{U}",
 	        "type": "Legendary Creature — Human Wizard ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Sybill Trelawney, Unreliable Seer.png"
@@ -2456,7 +2456,7 @@
 	    {
 	        "name": "Viktor Krum, Durmstrang Champion",
 	        "rarity": "uncommon",
-	        "mana_cost": "{R}{R}",
+	        "mana_cost": "{U}{B}{R}",
 	        "type": "Legendary Creature — Human Wizard ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Viktor Krum, Durmstrang Champion.png"
@@ -2690,7 +2690,7 @@
 	    {
 	        "name": "Elixir of Life",
 	        "rarity": "rare",
-	        "mana_cost": "{2}{2/W}{2/W}{2/G}{2/G}",
+	        "mana_cost": "{2}{2/W}{2/W}",
 	        "type": "Artifact — Potion ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Elixir of Life.png"
@@ -2708,7 +2708,7 @@
 	    {
 	        "name": "Grand Pepperup Potion",
 	        "rarity": "rare",
-	        "mana_cost": "{2/W}{2/W}{2/R}{2/R}",
+	        "mana_cost": "{2/W}{2/W}",
 	        "type": "Artifact — Potion ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Grand Pepperup Potion.png"
@@ -2735,7 +2735,7 @@
 	    {
 	        "name": "Stink Pellet",
 	        "rarity": "common",
-	        "mana_cost": "{2/R}{2/U}",
+	        "mana_cost": "{2}{2/U}",
 	        "type": "Artifact — Potion ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Stink Pellet.png"
@@ -2882,7 +2882,7 @@
 	    {
 	        "name": "Hedwig, Loyal Protector",
 	        "rarity": "uncommon",
-	        "mana_cost": "{1}{W}",
+	        "mana_cost": "{R/G}{W}",
 	        "type": "Legendary Creature — Bird Beast ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Hedwig, Loyal Protector.png"
@@ -2891,7 +2891,7 @@
 	    {
 	        "name": "Moaning Myrtle",
 	        "rarity": "uncommon",
-	        "mana_cost": "{1}{W}",
+	        "mana_cost": "{W}{U/R}",
 	        "type": "Legendary Creature — Spirit Wizard ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Moaning Myrtle.png"
@@ -2954,7 +2954,7 @@
 	    {
 	        "name": "Gilderoy Lockhart",
 	        "rarity": "uncommon",
-	        "mana_cost": "{2}{U}",
+	        "mana_cost": "{U}{R}{W}",
 	        "type": "Legendary Creature — Human Wizard ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Gilderoy Lockhart.png"
@@ -2972,7 +2972,7 @@
 	    {
 	        "name": "Marcus Flint, Slytherin Quidditch Captain",
 	        "rarity": "uncommon",
-	        "mana_cost": "{3}{U}",
+	        "mana_cost": "{1}{B}{G}{U}",
 	        "type": "Legendary Creature — Human Wizard ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Marcus Flint, Slytherin Quidditch Captain.png"
@@ -3017,7 +3017,7 @@
 	    {
 	        "name": "Pius Thicknesse, Dark Lord Puppet",
 	        "rarity": "rare",
-	        "mana_cost": "{2}{U}{U}",
+	        "mana_cost": "{1}{U}{B}{R}",
 	        "type": "Legendary Creature — Human Wizard ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Pius Thicknesse, Dark Lord Puppet.png"
@@ -3026,7 +3026,7 @@
 	    {
 	        "name": "Blaize Zabini, Entitled Beneficiary",
 	        "rarity": "rare",
-	        "mana_cost": "{3}{B}{B}",
+	        "mana_cost": "{2}{B}{G}{U}",
 	        "type": "Legendary Creature — Human Wizard ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Blaize Zabini, Entitled Beneficiary.png"
@@ -3057,15 +3057,6 @@
 	        "type": "Instant — Incantation ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Flagrante.png"
-	        }
-	    },
-	    {
-	        "name": "Goldstein Sisters, Queeny and Tina",
-	        "rarity": "rare",
-	        "mana_cost": "{2}{B}{B}",
-	        "type": "Legendary Creature — Human Wizard ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Goldstein Sisters, Queeny and Tina.png"
 	        }
 	    },
 	    {
@@ -3170,7 +3161,7 @@
 	    {
 	        "name": "The Patil Twins, Padma and Parvati",
 	        "rarity": "uncommon",
-	        "mana_cost": "{1}{R}{R}",
+	        "mana_cost": "{R}{W}{G/U}",
 	        "type": "Legendary Creature — Human Wizard ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/The Patil Twins, Padma and Parvati.png"
@@ -3260,7 +3251,7 @@
 	    {
 	        "name": "Justin Flinchfletchly, Wandering Student",
 	        "rarity": "uncommon",
-	        "mana_cost": "{2}{G}{G}",
+	        "mana_cost": "{1}{W}{B}{G}",
 	        "type": "Legendary Creature — Human Wizard ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Justin Flinchfletchly, Wandering Student.png"
@@ -3287,7 +3278,7 @@
 	    {
 	        "name": "Pansi Parkinson, Combatent Instigator",
 	        "rarity": "rare",
-	        "mana_cost": "{3}{G}",
+	        "mana_cost": "{1}{B}{G}{U}",
 	        "type": "Legendary Creature — Human Wizard ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Pansi Parkinson, Combatent Instigator.png"
@@ -3305,7 +3296,7 @@
 	    {
 	        "name": "Rubeus Hagrid, Keeper of Keys",
 	        "rarity": "uncommon",
-	        "mana_cost": "{3}{G}{G}",
+	        "mana_cost": "{2}{R}{G}{W}",
 	        "type": "Legendary Creature — Wizard Giant ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Rubeus Hagrid, Keeper of Keys.png"
@@ -3359,7 +3350,7 @@
 	    {
 	        "name": "Fleur Delacour, Beuxbatons Champion",
 	        "rarity": "uncommon",
-	        "mana_cost": "{1}{W}",
+	        "mana_cost": "{R/G}{W}",
 	        "type": "Legendary Creature — Human Wizard ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Fleur Delacour, Beuxbatons Champion.png"
@@ -3377,7 +3368,7 @@
 	    {
 	        "name": "Igor Karkaroff, Durmstrang Headmaster",
 	        "rarity": "mythic",
-	        "mana_cost": "{2}{R}{R}{R}",
+	        "mana_cost": "{2}{U}{B}{R}",
 	        "type": "Legendary Creature — Human Wizard ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Igor Karkaroff, Durmstrang Headmaster.png"
@@ -3520,7 +3511,7 @@
 	    },
 	    {
 	        "name": "Quirinus Quirrell, Traitorous Professor",
-	        "mana_cost": "{2}{R}{R}",
+	        "mana_cost": "{1}{U}{R}{W/B}",
 	        "type": "Legendary Creature — Human Wizard  ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Quirinus Quirrell, Traitorous Professor.png"
@@ -3998,7 +3989,7 @@
 	    {
 	        "name": "Dolores Umbridge, Lawfully Maddened Official",
 	        "rarity": "rare",
-	        "mana_cost": "{1}{B}{B}{B}",
+	        "mana_cost": "{1}{W}{B}{B}",
 	        "type": "Legendary Creature — Human Wizard ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Dolores Umbridge, Lawfully Maddened Official.png"
@@ -4079,7 +4070,7 @@
 	    {
 	        "name": "The Carrow Siblings",
 	        "rarity": "uncommon",
-	        "mana_cost": "{2}{R}{R}{R}",
+	        "mana_cost": "{2}{U}{B}{R}",
 	        "type": "Legendary Creature — Human Wizard ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/The Carrow Siblings.png"
@@ -4151,7 +4142,7 @@
 	    {
 	        "name": "Madam Pince, School Librarian",
 	        "rarity": "mythic",
-	        "mana_cost": "{2}{U}{U}",
+	        "mana_cost": "{1}{U}{R}{W}",
 	        "type": "Legendary Creature — Human Wizard ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Madam Pince, School Librarian.png"
@@ -4750,7 +4741,6 @@
 		2 Greedy Niffler
 		2 Pius Thicknesse, Dark Lord Puppet
 		2 Blaize Zabini, Entitled Beneficiary
-		2 Goldstein Sisters, Queeny and Tina
 		2 Chinese Fireball
 		2 Common Welsh Green
 		2 Swedish Shortsnout
