@@ -1120,11 +1120,11 @@ Other Wizards you control have Dedication to beast {0}.</text>
       <set rarity="mythic">WWHP</set>
       <prop>
         <colors>WBG</colors>
-        <manacost>2WBG</manacost>
-        <cmc>5</cmc>
+        <manacost>1WBG</manacost>
+        <cmc>4</cmc>
         <type>Legendary Creature - Human Wizard </type>
         <maintype>Creature</maintype>
-        <pt> 2/2</pt>
+        <pt> 3/3</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever an opponent attacks you, you may pay {3}. If you do, create a token that’s a copy of target plant you control and plants you control gain deathtouch, vigilance, and lifelink until end of turn. Then learn. (you may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)
@@ -1271,7 +1271,7 @@ Whenever Cedric Diggory deals combat damage to a player, you may scry 1. If you 
         <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>1W, {T}: You gain 3 life.
+      <text>1W, {T}: Create a food token. (It’s an artifact with “{2}, {T}, Sacrifice this token: You gain 3 life.”)
 {B}, {T}: Target opponent loses 1 life and you gain 1 life. Activate only if you control another Wizard.
 1GG, {T}: Search your library for a basic land, put it onto the battlefield tapped, then shuffle.</text>
     </card>
@@ -1370,8 +1370,8 @@ Bewitchment storm</text>
       <set rarity="common">WWHP</set>
       <prop>
         <colors>G</colors>
-        <manacost>3G</manacost>
-        <cmc>4</cmc>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
         <type>Instant - Incantation </type>
         <maintype>Instant</maintype>
       </prop>
@@ -1662,14 +1662,14 @@ When Horace Slughorn becomes paired with a creature and whenever Horace Slughorn
       <set rarity="rare">WWHP</set>
       <prop>
         <colors>U</colors>
-        <manacost>U</manacost>
-        <cmc>1</cmc>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
         <type>Artifact - Equipment Incantation </type>
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
       <text>{3}: Equipped creature phases out. (Treat it and anything attached to it as though they don’t exist until its controller’s next turn.)
-The first time you commit a crime each turn, you may attach this Equipment to target creature an opponent control.
+The first time you commit a crime each turn, if this artifact isn’t attached to a creature, you may attach this Equipment to target creature an opponent control.
 {3}: Attach this Equipment to target creature you control.</text>
     </card>
     <card>
@@ -1838,7 +1838,7 @@ If a permanent card would be put into a graveyard from anywhere other then the f
       <tablerow>2</tablerow>
       <text>Flying
 2B, {T}: Target creature gets -1/-1 until end of turn.
-Whenever you commit a crime, untap Peeves. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)</text>
+Whenever a source other then Peeves you control commits a crime, untap Peeves. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)</text>
     </card>
     <card>
       <name>Return of the Dark Lord</name>
@@ -2171,8 +2171,8 @@ Bewitchment storm (When you cast this spell, copy it for each bewitchment spell 
 When this creature deals damage to a creature, put a stun counter on that creature.</text>
     </card>
     <card>
-      <name>Writting on the Wall</name>
-      <set rarity="rare" splitterPath="/Writting on the Wall.png" >WWHP</set>
+      <name>Writing on the Wall</name>
+      <set rarity="rare" splitterPath="/Writing on the Wall.png" >WWHP</set>
       <prop>
         <colors>B</colors>
         <manacost>1BB</manacost>
@@ -2181,7 +2181,7 @@ When this creature deals damage to a creature, put a stun counter on that creatu
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Target creature phases out then investigate. When that creature phases back in, put it onto the bottom of its owner’s library instead.
+      <text>Target creature phases out then investigate. As that creature phases back in, put it onto the bottom of its owner’s library instead.
 If an opponent controls a creature, exile this spell, then cast it transformed.
 ---
 (Back): Opening of Slytherin&apos;s Chamber</text>
@@ -2201,8 +2201,8 @@ If an opponent controls a creature, exile this spell, then cast it transformed.
 To solve —  You control seven or more Clue tokens.  (If unsolved, solve at the beginning of your end step.)
 Solved — 2B: Put a petrification counter on target creature. (Creatures with petrification counters become colorless artifacts in addition to their other types, can’t attack and their activated abilities can’t be activated.)
 ---
-(Front): Writting on the Wall</text>
-      <related attach="transform">Writting on the Wall</related>
+(Front): Writing on the Wall</text>
+      <related attach="transform">Writing on the Wall</related>
     </card>
     <card>
       <name>Screaming Howler</name>
@@ -2916,14 +2916,14 @@ III — Each creature that isn’t studious phases out. (Treat it and anything a
       <set rarity="uncommon">WWHP</set>
       <prop>
         <colors>WG</colors>
-        <manacost>3GGW</manacost>
-        <cmc>6</cmc>
+        <manacost>GGW</manacost>
+        <cmc>3</cmc>
         <type>Sorcery - Incantation </type>
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>Alteration 1GW (You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield for 1GW.)
-Create X 3/3 Golem artifact creature tokens, where X is the number of other Incantations you’ve cast this turn plus one. If you cast this spell from the battlefield, create an additional two of those tokens.</text>
+Create a 3/3 Golem artifact creature token for each bewitchment you have cast this turn plus one. If you cast this spell from the battlefield, create an additional two of those tokens. (Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)</text>
       <related>Golem</related>
     </card>
     <card>
@@ -3092,7 +3092,7 @@ Skulk (This creature can’t be blocked by creatures with greater power.)</text>
       <set rarity="common" splitterPath="/The Monster Book of Monsters.png" >WWHP</set>
       <prop>
         <colors>G</colors>
-        <manacost>XX1G</manacost>
+        <manacost>X1G</manacost>
         <cmc>2</cmc>
         <type>Artifact Creature - Beast Incantation Book </type>
         <maintype>Creature</maintype>
@@ -4612,7 +4612,7 @@ Recipe — 2/G2/G2/U2/U, {T}, Sacrifice this Potion: Target creature you control
       <name>Stink Pellet</name>
       <set rarity="common">WWHP</set>
       <prop>
-        <colors>UR</colors>
+        <colors>U</colors>
         <manacost>22/U</manacost>
         <cmc>4</cmc>
         <type>Artifact - Potion </type>
@@ -4909,16 +4909,17 @@ You and this enchantment have protection from enchanted player. (You and this pe
       <set rarity="mythic">WWHP</set>
       <prop>
         <colors>W</colors>
-        <manacost>2WW</manacost>
-        <cmc>4</cmc>
+        <manacost>2WWW</manacost>
+        <cmc>5</cmc>
         <type>Creature - Lion Beast </type>
         <maintype>Creature</maintype>
-        <pt>6/4</pt>
+        <pt>6/6</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Trample, haste, lifelink
+      <text>Flash
+Trample, lifelink
 Whenever this creature becomes blocked while saddled, you may phase out this creature and each creature that saddled it this turn.
-Saddle 2</text>
+Saddle 2 (Tap any number of other creatures you control with total power 2 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)</text>
     </card>
     <card>
       <name>Black Lake Giant Squid</name>
@@ -4944,12 +4945,12 @@ When a player casts a black spell, counter that spell unless its controller pays
         <cmc>4</cmc>
         <type>Creature - Bird Beast Mount </type>
         <maintype>Creature</maintype>
-        <pt>4/4</pt>
+        <pt>5/4</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
-Flying, haste
-{T}, Shuffle this creature into your library: Counter target spell or ability.
+Flying
+{T}, Shuffle this creature into your library: Counter target spell or ability. You may activate this ability the turn this creature enters as though it has haste.
 When this creature attacks while saddled, defending player mills four.
 Saddle 2</text>
     </card>
@@ -5858,7 +5859,7 @@ At the beginning of your end step, if you control a Wizard, Wand, Clue, Food, Po
       <tablerow>1</tablerow>
       <text>(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it is defeated, exile it, then cast it transformed.)
 Permission to Visit Hogsmeade enters with X defense counters.
-Whenever Permission to Visit Hogsmeade is dealt damage create a Map token for each damage dealt. (It’s an artifact with “{1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery.”)
+Whenever you remove a defense counter from this siege create a Map token. (It’s an artifact with “{1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery.”)
 ---
 (Back): Maurauder&apos;s Map</text>
       <related attach="transform">Maurauder&apos;s Map</related>
@@ -6243,7 +6244,7 @@ III — Exile this Saga, then return it to the battlefield transformed under you
       <tablerow>1</tablerow>
       <text>(As this Saga enters and after your draw step, add a lore counter.)
 I — Create X tapped Treasure tokens, where X is the number of creatures you control plus one.
-II — Draw a card. You gain 1 life for each card in your hand.
+II — Draw a card. You gain 1 life for each treasure token you control.
 III — Until end of turn, creatures you control gain “{2}: This creature phases out.”
 Exile this Saga, then return it to the battlefield transformed under your control.
 ---
@@ -6282,7 +6283,7 @@ Exile this Saga, then return it to the battlefield transformed under your contro
       </prop>
       <tablerow>1</tablerow>
       <text>(As this Saga enters and after your draw step, add a lore counter.)
-I — Search your library for up to two land cards. Reveal and add them to your hand. Shuffle. 
+I — Search your library for up to two basic land cards. Reveal and add them to your hand. Shuffle. 
 II — Target player creates a 3/3 green Centaur creature token. Another target player creates a 1/1 black Vampire creature token with lifelink. 
 III — Create a token that is a copy of target nonhuman creature you control. Then exile this Saga, then return it to the battlefield transformed under your control.
 ---
@@ -6325,7 +6326,7 @@ III — Create a token that is a copy of target nonhuman creature you control. T
       </prop>
       <tablerow>1</tablerow>
       <text>(As this Saga enters and after your draw step, add a lore counter.)
-I — Create a 1/1 Student token. Then create a 1/1 student token for each land you control. (Its a 1/1 white Human Wizard creature token with “Scholarly”.)
+I — Create a number of Student tokens equal to half the number of lands you control rounded up. (They’re 1/1 white Human Wizard creature tokens with “Scholarly”.)
 II — For each student you control, create a tapped Treasure token.
 III — Until end of turn, Whenever you sacrifice a Treasure token, you gain 1 life.
 Exile this Saga, then return it to the battlefield transformed under your control.
@@ -6411,9 +6412,9 @@ Atomhawk Design Ltd
       </prop>
       <tablerow>1</tablerow>
       <text>(As this Saga enters and after your draw step, add a lore counter.)
-I — Create a 1/1 red Goblin creature token. Then create a 1/1 red Goblin token for each land you control.
-II — Create a tapped Treasure token. Then create a tapped treasure token for each Goblin you control.
-III — Search your library for an artifact card, reveal it, put that card on top, then shuffle and exile this Saga, then return it to the battlefield transformed under your control..
+I — Create a 1/1 red Goblin creature token. Then create a number of 1/1 red Goblin tokens equal to half the number of lands you control rounded down.
+II — Then create a tapped treasure token for each Goblin you control plus one.
+III — Search your library for an artifact card, reveal it, put that card on top, then shuffle and exile this Saga, then return it to the battlefield transformed under your control.
 ---
 (Back): Gringotts Wizarding Bank</text>
       <related attach="transform">Gringotts Wizarding Bank</related>
@@ -6522,14 +6523,14 @@ Exile this Saga, then return it to the battlefield transformed under your contro
       <set rarity="rare" splitterPath="/Traverse the Secret Passage.png" >WWHP</set>
       <prop>
         <colors>RG</colors>
-        <manacost>2RG</manacost>
-        <cmc>4</cmc>
+        <manacost>3RG</manacost>
+        <cmc>5</cmc>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
       <text>(As this Saga enters and after your draw step, add a lore counter.)
-I — Create a Map token. Then create a Map token for each land you control.  (It’s an artifact with “{1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery.”)
+I — Create a number of Map tokens equal to half the number of lands you control rounded up.  (They’re artifacts with “{1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery.”)
 II — This saga has “Whenever a creature explores, target creature can’t block this turn.” (To explore, reveal the top card of your library. Put that card into your hand if it’s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)
 III — Create a tapped Treasure token for each +1/+1 counter among creatures you control. Then exile this Saga, then return it to the battlefield transformed under your control.
 ---
@@ -6544,7 +6545,7 @@ III — Create a tapped Treasure token for each +1/+1 counter among creatures yo
       <prop>
         <colors>RG</colors>
         <manacost></manacost>
-        <cmc>4</cmc>
+        <cmc>5</cmc>
         <type>Legendary Land - Mountain Forest </type>
       </prop>
       <tablerow>0</tablerow>

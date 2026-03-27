@@ -647,7 +647,7 @@
 	    {
 	        "name": "Pomona Sprout, Head of Hufflepuff",
 	        "rarity": "mythic",
-	        "mana_cost": "{2}{W}{B}{G}",
+	        "mana_cost": "{1}{W}{B}{G}",
 	        "type": "Legendary Creature — Human Wizard ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Pomona Sprout, Head of Hufflepuff.png"
@@ -803,7 +803,7 @@
 	    {
 	        "name": "Melofors",
 	        "rarity": "common",
-	        "mana_cost": "{3}{G}",
+	        "mana_cost": "{2}{G}",
 	        "type": "Instant — Incantation ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Melofors.png"
@@ -968,7 +968,7 @@
 	    {
 	        "name": "Vanishing Cabinet",
 	        "rarity": "rare",
-	        "mana_cost": "{U}",
+	        "mana_cost": "{2}{U}",
 	        "type": "Artifact — Equipment Incantation ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Vanishing Cabinet.png"
@@ -1272,14 +1272,14 @@
 	        }
 	    },
 	    {
-	        "name": "Writting on the Wall",
+	        "name": "Writing on the Wall",
 	        "mana_cost": "{1}{B}{B}",
 	        "type": "Instant — Lesson ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Writting on the Wall.png"
+	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Writing on the Wall.png"
 	        },
 	        "printed names": {
-	            "en": "Writting on the Wall"
+	            "en": "Writing on the Wall"
 	        },
 	        "back": {
 	            "name": "Opening of Slytherin's Chamber",
@@ -1736,7 +1736,7 @@
 	    {
 	        "name": "Pierototum Locomotor",
 	        "rarity": "uncommon",
-	        "mana_cost": "{3}{G}{G}{W}",
+	        "mana_cost": "{G}{G}{W}",
 	        "type": "Sorcery — Incantation ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Pierototum Locomotor.png"
@@ -1837,7 +1837,7 @@
 	    },
 	    {
 	        "name": "The Monster Book of Monsters",
-	        "mana_cost": "{X}{X}{1}{G}",
+	        "mana_cost": "{X}{1}{G}",
 	        "type": "Artifact Creature — Beast Incantation Book ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/The Monster Book of Monsters.png"
@@ -2909,7 +2909,7 @@
 	    {
 	        "name": "Zou Wu Beast",
 	        "rarity": "mythic",
-	        "mana_cost": "{2}{W}{W}",
+	        "mana_cost": "{2}{W}{W}{W}",
 	        "type": "Creature — Lion Beast ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Zou Wu Beast.png"
@@ -3799,7 +3799,7 @@
 	    },
 	    {
 	        "name": "Traverse the Secret Passage",
-	        "mana_cost": "{2}{R}{G}",
+	        "mana_cost": "{3}{R}{G}",
 	        "type": "Enchantment",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Traverse the Secret Passage.png"
@@ -4719,7 +4719,7 @@
 		2 Journey Beneath Gringotts Bank
 		2 Escape of the Azkaban Prisoner
 		2 Rennervate
-		2 Writting on the Wall
+		2 Writing on the Wall
 		2 Flight of the Seven Potters
 		2 Theseus Scamander, Loyal Auror
 		2 Ordinary Wizarding Level Examinations
