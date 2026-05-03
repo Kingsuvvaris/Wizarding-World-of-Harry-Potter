@@ -875,20 +875,40 @@ Sacrifice one or more artifacts: Search your library for an Bewitchment card wit
     </card>
     <card>
       <name>Harry Potter, The Boy Who Lived</name>
-      <set rarity="common">WWHP</set>
+      <set rarity="common" splitterPath="/Harry Potter, The Boy Who Lived.png" >WWHP</set>
       <prop>
         <colors>WRG</colors>
         <manacost>RGW</manacost>
         <cmc>3</cmc>
-        <type>Legendary Creature - Human Wizard </type>
+        <type>Legendary Creature - Wizard Horcrux </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Harry Potter enters, if you cast him, he becomes Horcrux in addition to his other types.
-Trample
-When Harry Potter dies, if he’s a Horcrux, return him from your graveyard to the battlefield tapped under its owners control at the beginning of the next end step with three +1/+1 counters.
-Whenever Harry Potter attacks or blocks, he gets +1/+1 for each +1/+1 counter among creatures you control with courageous.</text>
+      <text>Gallant 3 (Whenever a creature an opponent controls with greater power enters or attacks and this creature isn’t courageous, put three +1/+1 counters on this creature and it becomes courageous.)
+Whenever Harry Potter attacks or blocks, he gets +1/+1 for each creature you control that is courageous.
+When Harry Potter dies or is exiled, return him to the battlefield transformed.
+---
+(Back): Harry Potter, The Chosen One</text>
+      <related attach="transform">Harry Potter, The Chosen One</related>
+    </card>
+    <card>
+      <name>Harry Potter, The Chosen One</name>
+      <set rarity="common" splitterPath="/Harry Potter, The Chosen One.png" >WWHP</set>
+      <prop>
+        <colors>WRG</colors>
+        <manacost></manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Human Wizard </type>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample, Vigilance
+Creatures you control have Gallant X where X is equal to that creatures power. (Whenever a creature an opponent controls with greater power enters or attacks and this creature isn’t courageous, put X +1/+1 counters on this creature and it becomes courageous.)
+As long Harry Potter is courageous, he gets +1/+1 for each +1/+1 counter among creatures that you control that are courageous.
+---
+(Front): Harry Potter, The Boy Who Lived</text>
+      <related attach="transform">Harry Potter, The Boy Who Lived</related>
     </card>
     <card>
       <name>Hermione Granger, Brightest Witch of Her Age</name>

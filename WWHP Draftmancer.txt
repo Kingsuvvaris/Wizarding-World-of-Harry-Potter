@@ -508,11 +508,23 @@
 	    },
 	    {
 	        "name": "Harry Potter, The Boy Who Lived",
-	        "rarity": "common",
 	        "mana_cost": "{R}{G}{W}",
-	        "type": "Legendary Creature — Human Wizard ",
+	        "type": "Legendary Creature — Wizard Horcrux ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Harry Potter, The Boy Who Lived.png"
+	        },
+	        "printed names": {
+	            "en": "Harry Potter, The Boy Who Lived"
+	        },
+	        "back": {
+	            "name": "Harry Potter, The Chosen One",
+	            "printed_names": {
+	                "en": "Harry Potter, The Chosen One"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Harry Potter, The Chosen One.png"
+	            },
+	            "type": "Legendary Creature — Human Wizard "
 	        }
 	    },
 	    {
