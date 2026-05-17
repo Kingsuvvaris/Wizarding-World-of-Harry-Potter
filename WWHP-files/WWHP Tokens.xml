@@ -1,0 +1,762 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <cards>
+
+    <card>
+      <name>Harry Potter the Gathering Commander Decks WWHP</name>
+      <set>WWHP</set>
+      <prop>
+        <colors></colors>
+        <type></type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Corruption of the Dark Arts GUBR
+Commander: Delphini Diggory, Dark Heir
+Theme: Commit a crime and opponent manipulation (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)
+Fantastic Beasts &amp; Where to Find Them RGWB
+Commander: Qilin, Elector of the Supreme Mugwump
+Theme: Beasts Tribal, Monarch Group Hug
+Ministry Crackdown WUBR
+Commander:Rufus Scrimger, Auror Minister
+Theme: Control
+Guardians of the Phoenix RWGU
+Commander: Alaster Moody, Keeper of the Order of the Phoenix
+Theme: Bolstering creatures on the field</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>WWHP Archetypes 2 WWHP</name>
+      <set>WWHP</set>
+      <prop>
+        <colors></colors>
+        <type></type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>GRYFFINDOR RGW 
+Gallant x (Whenever a creature an opponent controls with greater power enters or attacks and that creature isn’t courageous, put x +1/+1 counters on that creature and it becomes courageous.)
+As long as this creature is courageous, it gains [effect]
+HUFFLEPUFF WBG 
+Dedication X (Whenever this creature attacks, you may pay {X}. If you do it gets +1/+1 for each creature you control until end of turn.)
+Variant: Dedication to X  (Whenever this creature attacks, you may pay {X}. If you do it gets +1/+1 for each creature you control of the chosen type you control until end of turn.) (Tribal Beast, Plant, or Wizard)
+RAVENCLAW URW 
+Studious (Whenever you draw a card, this creature gets +1/+1 until end of turn. If this is the third time this effect has resolved this turn and this creature isn’t studious, it becomes studious.)
+SLYTHERIN  GBU
+Soulbond (You may pair {this_or_that(“creature”)} with another unpaired creature when either enters. They remain paired for as long as you control both of them.)
+As long as this creature is paired, [effect]
+THE DARK ARTS UBR
+Commit a crime &amp; Villainous choice (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.) [Trigger] {that player_or each opponent} faces a villainous choice — [effect 1] or [effect 2}
+Bewitchments WUBRG (Non creatures)
+Bewitchment Storm (hen you cast this spell, copy it for each bewitchment spell cast before it this turn.{ if is_targeted() then “ You may choose new targets for the copies.” }{if not is_spell(card.type) then “ Copies become tokens.”} Auras, Conjurations, Curses, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)
+Beasts WGRUB (Creatures)
+Squad X (As an additional cost to cast this spell, you may pay X any number of times. When this creature enters, create that many tokens that are copies of it.)</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>WWHP Archetypes 1 WWHP</name>
+      <set>WWHP</set>
+      <prop>
+        <colors></colors>
+        <type></type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{W/U}:Divination Scry and Card Draw
+{W/B}:History of Magic Historic (Artifacts, legendaries, and Sagas are historic.)
+{R/W}:DADA Shield counters (If a permanent with a shield counter on it would be dealt damage or destroyed, remove a shield counter from it instead.)
+{G/W}:Transfiguration Alteration X (You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield for {X}.)
+{U/B}:Dark arts: Commit a crime (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)
+{U/R}:Charms: Incantations tribal
+{G/U}:Potions Brew (You may reveal a Potion card you own from outside the game and put it into your hand, or exile the top card of your library. You may play it this turn.)
+{B/R}: Alchemy: Turn resources into Treasure tokens
+{B/G}: Herbology Plant tribal
+{R/G}: Care of Magical Creatures: Beast tribal</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Bird WWHP</name>
+      <set>WWHP</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Owl </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+      <token>1</token>
+      <reverse-related>[Avifors]</reverse-related>
+    </card>
+    <card>
+      <name>Ministry Tribunal WWHP</name>
+      <set>WWHP</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance</text>
+      <token>1</token>
+      <reverse-related>[Trial of the Wizengamot // Creation of Dumoldore&apos;s Army]</reverse-related>
+    </card>
+    <card>
+      <name>Owl WWHP</name>
+      <set>WWHP</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Bird </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Defender, Flying
+Whenever this token enters, investigate. (Create a Clue token. It’s an artifact with “{2}, Sacrifice this token: Draw a card.”)</text>
+      <token>1</token>
+      <reverse-related>[Letters from No one]</reverse-related>
+      <reverse-related> [Reciept of Hogwarts Letter]</reverse-related>
+    </card>
+    <card>
+      <name>Student WWHP</name>
+      <set>WWHP</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Student </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Scholarly (Whenever you draw a card, this creature gets +1/+1 until end of turn. If this is the third time this ability has resolved this turn, this creature becomes studious if it isn’t already.)</text>
+      <token>1</token>
+      <reverse-related count="x">[Trial of the Wizengamot // Creation of Dumoldore&apos;s Army]  [Receipt of Hogwarts Letter // Hogwarts, School of Witchcraft &amp; Wizardry]  [Welcome to the Wizarding World // Diagon Alley, Center for all Wizarding Needs]</reverse-related>
+    </card>
+    <card>
+      <name>Bubotuber Token WWHP</name>
+      <set>WWHP</set>
+      <prop>
+        <colors>BG</colors>
+        <type>Token Creature - Merfolk Beast </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Squad {G} — Discard a card
+Defender
+BG, {T}: Each opponent loses 1 life. You gain life equal to the amount lost this way.</text>
+      <token>1</token>
+      <reverse-related>[Bubotuber]</reverse-related>
+      <reverse-related>reart</reverse-related>
+    </card>
+    <card>
+      <name>Book WWHP</name>
+      <set>WWHP</set>
+      <prop>
+        <colors>U</colors>
+        <type>Token Enchantment Creature - Incantation </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever this token deals combat damage to a player sacrifice it. You draw a card.</text>
+      <token>1</token>
+      <reverse-related>[Explore the Restricted Section // Hogwart&apos;s Hidden Map Room]  [Madam Pince, School Librarian]</reverse-related>
+    </card>
+    <card>
+      <name>Cornish Pixie Token WWHP</name>
+      <set>WWHP</set>
+      <prop>
+        <colors>U</colors>
+        <type>Token Creature - Faerie Beast </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Squad {2}
+Flying
+When this creature enters, gain control of target artifact unless its controller pays {X} or pays X life. Where X is the number of creatures you control named Cornish Pixie. This affect triggers only once each turn.</text>
+      <token>1</token>
+      <reverse-related>[Cornish Pixie]</reverse-related>
+      <reverse-related>reart</reverse-related>
+    </card>
+    <card>
+      <name>Doxy Token WWHP</name>
+      <set>WWHP</set>
+      <prop>
+        <colors>U</colors>
+        <type>Token Creature - Faerie Beast </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Squad GU 
+Flying, Defender
+Infect
+Whenever you are dealt damage, this creature loses defender until the end of your next turn.</text>
+      <token>1</token>
+      <reverse-related>[Doxy]</reverse-related>
+      <reverse-related>reart</reverse-related>
+    </card>
+    <card>
+      <name>Swarm of Grindylows Token WWHP</name>
+      <set>WWHP</set>
+      <prop>
+        <colors>U</colors>
+        <type>Token Creature - Merfolk Beast </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Squad {12/U}
+Skulk (This creature can’t be blocked by creatures with greater power.)</text>
+      <token>1</token>
+      <reverse-related>[Swarm of Grindylows]</reverse-related>
+      <reverse-related>reart</reverse-related>
+    </card>
+    <card>
+      <name>Death Eater Token WWHP</name>
+      <set>WWHP</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Squad 2B
+Whenever you commit a crime, each opponent loses 1 life unless they pay {1}. You gain life equal to the amount lost this way.</text>
+      <token>1</token>
+      <reverse-related>[Death Eater]</reverse-related>
+    </card>
+    <card>
+      <name>Inferi Hoard Token WWHP</name>
+      <set>WWHP</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Creature - Zombie Beast </type>
+        <maintype>Creature</maintype>
+        <pt>6/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Squad—Pay 4 life
+Decayed. (This creature can’t block. When it attacks, sacrifice it at end of combat.)</text>
+      <token>1</token>
+      <reverse-related>[Inferi Hoard]</reverse-related>
+    </card>
+    <card>
+      <name>Matagot Familiar Token WWHP</name>
+      <set>WWHP</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Creature - Cat Beast </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, each opponent loses 1 life, you gain life equal to the amount of life lost this way.
+Whenever a player commits a crime or casts a nonpermanent spell that targets this creature, create a token that’s a copy of this creature. This ability only triggers once each turn.  (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)</text>
+      <token>1</token>
+      <reverse-related>[Matagot Familiar]</reverse-related>
+      <reverse-related>reart</reverse-related>
+    </card>
+    <card>
+      <name>Rat WWHP</name>
+      <set>WWHP</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Creature - Rat </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{1}, {T}, Sacrifice this token: Create a Treasure token.</text>
+      <token>1</token>
+      <reverse-related>[Snufflifores]</reverse-related>
+    </card>
+    <card>
+      <name>Skeleton WWHP</name>
+      <set>WWHP</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Creature - Skeleton </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>[Durmstrang Prefect]  [Portkey to Little Hangleton Graveyard // Charmed Skeleton]</reverse-related>
+    </card>
+    <card>
+      <name>Snake WWHP</name>
+      <set>WWHP</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Creature - Snake </type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch</text>
+      <token>1</token>
+      <reverse-related count="3" count="x">[Serpensortia]  [Serpensortia]   [Tom Riddle, Prodigal Orphan // Voldemort, The Darklord] </reverse-related>
+    </card>
+    <card>
+      <name>Thestral Token WWHP</name>
+      <set>WWHP</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Creature - Thestral </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+      <token>1</token>
+      <reverse-related>[Thestral]</reverse-related>
+      <reverse-related>reart</reverse-related>
+    </card>
+    <card>
+      <name>Wizard-Cracker Imp Token WWHP</name>
+      <set>WWHP</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Creature - Imp Beast </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Squad 1B
+1BB, {T}: Create a Wizard-Cracker token.</text>
+      <token>1</token>
+      <reverse-related>[Wizard-Cracker Imp]</reverse-related>
+    </card>
+    <card>
+      <name>Blast Ended Screwt Token WWHP</name>
+      <set>WWHP</set>
+      <prop>
+        <colors>R</colors>
+        <type>Token Creature - Beast </type>
+        <maintype>Creature</maintype>
+        <pt>3/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Squad RR 
+Trample, menace
+Whenever this creature deals combat damage to another creature, if you control this creature, tap the other creature and put a stun counter on it.
+2RRR, {T}: This creature deals damage equal to its power divided among any number of target permanents.</text>
+      <token>1</token>
+      <reverse-related>[Blast Ended Screwt]</reverse-related>
+    </card>
+    <card>
+      <name>Dragon WWHP</name>
+      <set>WWHP</set>
+      <prop>
+        <colors>R</colors>
+        <type>Token Creature - Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Fire breath — {R}: This creature gets +1/+0 until end of turn.</text>
+      <token>1</token>
+      <reverse-related count="2" count="2">[Draconifors]  [Draconifors]   [Chinese Fireball] </reverse-related>
+    </card>
+    <card>
+      <name>Elemental WWHP</name>
+      <set>WWHP</set>
+      <prop>
+        <colors>R</colors>
+        <type>Token Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>X/X</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>[Pestis Incendium, Fiendfyre]</reverse-related>
+      <reverse-related>reart</reverse-related>
+    </card>
+    <card>
+      <name>Red Cap Tower Guard Token WWHP</name>
+      <set>WWHP</set>
+      <prop>
+        <colors>R</colors>
+        <type>Token Creature - Goblin Beast </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Squad RW
+This creature and each token copy of it enter with a shield on them if you created at least one token copy.
+All creatures able to block this creature do so.</text>
+      <token>1</token>
+      <reverse-related>[Red Cap Tower Guard]</reverse-related>
+    </card>
+    <card>
+      <name>Salamander Beast WWHP</name>
+      <set>WWHP</set>
+      <prop>
+        <colors>R</colors>
+        <type>Token Creature - Salamander Beast </type>
+        <maintype>Creature</maintype>
+        <pt>3/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{R/G}, {T}: Regenerate this token.
+1R: This token gets +1/+0 until end of turn.</text>
+      <token>1</token>
+      <reverse-related>[Amazonian Fire Salamander Pit]</reverse-related>
+    </card>
+    <card>
+      <name>Bowtruckle Token WWHP</name>
+      <set>WWHP</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature - Plant Beast </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Squad 2G
+Whenever this creature enters, return up to one target enchantment or Incantation card from your graveyard to your hand.</text>
+      <token>1</token>
+      <reverse-related>[Bowtruckle]</reverse-related>
+      <reverse-related>reart</reverse-related>
+    </card>
+    <card>
+      <name>Chinese Chomping Cabbage Token WWHP</name>
+      <set>WWHP</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature - Plant Beast </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Squad {12/G}. 
+When this creature enters, if you paid GG to cast it, it deals damage equal to its power to any target.</text>
+      <token>1</token>
+      <reverse-related>[Chinese Chomping Cabbage]</reverse-related>
+    </card>
+    <card>
+      <name>Fang WWHP</name>
+      <set>WWHP</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Legendary Creature - Dog </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>[Rubeus Hagrid, Keeper of Keys]</reverse-related>
+      <reverse-related>reart</reverse-related>
+    </card>
+    <card>
+      <name>Insect Manticore WWHP</name>
+      <set>WWHP</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature - Insect Manticore </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch</text>
+      <token>1</token>
+      <reverse-related count="3">[Insectoid Manticore Mother] </reverse-related>
+    </card>
+    <card>
+      <name>Mallowseet WWHP</name>
+      <set>WWHP</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature - Plant </type>
+        <maintype>Creature</maintype>
+        <pt>0/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Defender
+{1}, {T}, Sacrifice a land: Search your library for up to two basic lands and put them onto the battlefield tapped, then shuffle.
+{2}, {T}: Add a number of one color of mana equal to the number of lands in your graveyard.</text>
+      <token>1</token>
+      <reverse-related>[Merlin&apos;s Trial]</reverse-related>
+    </card>
+    <card>
+      <name>Puffskein Token WWHP</name>
+      <set>WWHP</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature - Beast </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Squad 2/GG
+{T}: Puffskein deals 1 damage to target creature with flying.</text>
+      <token>1</token>
+      <reverse-related>[Puffskein]</reverse-related>
+      <reverse-related>reart</reverse-related>
+    </card>
+    <card>
+      <name>Spider WWHP</name>
+      <set>WWHP</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature - Spider </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach (This creature can block creatures with flying.)</text>
+      <token>1</token>
+      <reverse-related count="6">[Acromantula]  [Acromantula]   [Follow the Spiders // Weasley Ford Angela]</reverse-related>
+      <reverse-related>reart</reverse-related>
+    </card>
+    <card>
+      <name>Steeler Snail Token WWHP</name>
+      <set>WWHP</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature - Snail Beast </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Squad GG 
+This creature enters tapped.
+When this creature enters, it deals damage equal to its power to target creature an opponent control.</text>
+      <token>1</token>
+      <reverse-related>[Steeler Snail]</reverse-related>
+      <reverse-related>reart</reverse-related>
+    </card>
+    <card>
+      <name>Stoneback Dugbog Token WWHP</name>
+      <set>WWHP</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature - Beast </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Squad GGG
+Flash
+Ward {1}</text>
+      <token>1</token>
+      <reverse-related>[Stoneback Dugbog]</reverse-related>
+      <reverse-related>reart</reverse-related>
+    </card>
+    <card>
+      <name>Vampyr Mosp Token WWHP</name>
+      <set>WWHP</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature - Insect Beast </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Squad 4GG
+Flying
+This token gets +1/+1 for each creature named Vampyr Mosp and costs {1} less to cast for each plant you control.
+Whenever a Plant creature you control enters, create a token copy of this creature. This ability triggers only once each turn.</text>
+      <token>1</token>
+      <reverse-related>[Vampyr Mosp]</reverse-related>
+    </card>
+    <card>
+      <name>Worm WWHP</name>
+      <set>WWHP</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature - Worm </type>
+        <maintype>Creature</maintype>
+        <pt>0/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Add one mana of any color.</text>
+      <token>1</token>
+      <reverse-related>[Vermiculus]</reverse-related>
+      <reverse-related>reart</reverse-related>
+    </card>
+    <card>
+      <name>Snatcher WWHP</name>
+      <set>WWHP</set>
+      <prop>
+        <colors>BR</colors>
+        <type>Token Creature - Werewolf Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>[Fenrir Grayback]  [Snatcher Ambush]</reverse-related>
+    </card>
+    <card>
+      <name>Animated Torch Token WWHP</name>
+      <set>WWHP</set>
+      <prop>
+        <colors>R</colors>
+        <type>Token Artifact Creature - Beast Incantation </type>
+        <maintype>Creature</maintype>
+        <pt>1/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Alteration XXXW
+Flying, Defender
+{R}, {T}: This creature deals damage to target creature equal to the number of creatures that share a name with it. Activate only if you were dealt damage this turn. </text>
+      <token>1</token>
+      <reverse-related>[Animated Torch]</reverse-related>
+    </card>
+    <card>
+      <name>Clue WWHP</name>
+      <set>WWHP</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{2}, Sacrifice this artifact: Draw a card.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Food WWHP</name>
+      <set>WWHP</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{2}, {T}, Sacrifice this artifact: You gain 3 life.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Golem WWHP</name>
+      <set>WWHP</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact Creature - Golem </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Map WWHP</name>
+      <set>WWHP</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Map </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Portkey WWHP</name>
+      <set>WWHP</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Portkey </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{2}, Sacrifice this artifact: Target creature you control phases out. (Treat it and anything attached to it as though they don’t exist until its controller’s next turn.)</text>
+      <token>1</token>
+      <reverse-related>[Portus]</reverse-related>
+      <reverse-related>reart</reverse-related>
+    </card>
+    <card>
+      <name>Potion WWHP</name>
+      <set>WWHP</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Potion </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{2}, {T}, Sacrifice this Potion: You may activate a Recipe ability of a permanent you control without paying its activation cost.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Treasure WWHP</name>
+      <set>WWHP</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Wizard Cracker WWHP</name>
+      <set>WWHP</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{1}, {T}, Sacrifice this artifact: Put a -1/-1 counter on target creature.</text>
+      <token>1</token>
+      <reverse-related>[Hogsmeade Potioneer]  [Wizard-Cracker Imp]  [Wizard-Cracker Imp Token]  [Letters from No One // Wizard School Supply List]</reverse-related>
+    </card>
+    <card>
+      <name>append Set Code To Tokens WWHP</name>
+      <set>WWHP</set>
+      <prop>
+        <colors></colors>
+        <type>Token </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>This token can be used to represent a copy of something else.</text>
+      <token>1</token>
+      <reverse-related>[Novice Herbologist]  [Pomona Sprout, Head of Hufflepuff]  [Intro to Herbology // OWL Herbology]</reverse-related>
+    </card>
+    <card>
+      <name>Black Lake Merperson Token WWHP</name>
+      <set>WWHP</set>
+      <prop>
+        <colors>U</colors>
+        <type>Token Creature - Merfolk Beast </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Squad {22/U}
+Skulk</text>
+      <token>1</token>
+      <reverse-related>[Black Lake Merperson]</reverse-related>
+    </card>
+    <card>
+      <name>Proffesor Binns WWHP</name>
+      <set>WWHP</set>
+      <prop>
+        <colors>WB</colors>
+        <type>Token Legendary Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+      <token>1</token>
+      <reverse-related>[Intro to History of Magic // OWL History of Magic]</reverse-related>
+    </card>
+
+  </cards>
+</cockatrice_carddatabase>
