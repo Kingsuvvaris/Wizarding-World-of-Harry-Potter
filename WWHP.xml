@@ -135,8 +135,6 @@ Whenever a wizard you control enters, if you don’t control a creature with “
       <tablerow>2</tablerow>
       <text>Werewolf creatures you control attack each combat if able.
 UBR, {T}: Fenrir Grayback deals damage equal to its power to any target nonartifact creature. Then each opponent faces a villainous choice — You create a 2/2 black and red Werewolf Wizard creature token named Snatcher with haste and a Treasure token, or that player distributes a number of -1/-1 counters among creatures the control equal to Fenrir Grayback’s power.</text>
-      <related>Snatcher</related>
-      <related> Treasure</related>
     </card>
     <card>
       <name>Watchful Observer</name>
@@ -296,9 +294,6 @@ Whenever another creature enters, put a +1/+1 counter on this creature. This cre
       <tablerow>2</tablerow>
       <text>Flying, deathtouch
 UB, {T}: Put a -1/-1 counter on target creature. When that creature dies this turn, create a token copy of Dementor of Azkaban at the beginning of your next upkeep.</text>
-      <related>Copy</related>
-      <related>rework</related>
-      <related>create dementor token</related>
     </card>
     <card>
       <name>Sword of Godrick Gryffindor</name>
@@ -330,7 +325,6 @@ Equip courageous creature {2}</text>
       <text>Cup of Helga Hufflepuff enters with X charge counters.
 {T}: Create a Food token for each charge counter on Cup of Helga Hufflepuff.
 If you control a creature with “Voldemort” in its name, Foods you control have “1B, {T}, Sacrifice this artifact. Target player loses 3 life.</text>
-      <related>Food</related>
     </card>
     <card>
       <name>Lost Diadem of Rowena Ravenclaw</name>
@@ -361,7 +355,6 @@ As long as you control a creature with “Voldemort” in its name, you may look
       <tablerow>2</tablerow>
       <text>Squad 2/B2/B, — Pay 4 life (As an additional cost to cast this spell, you may pay {2/B} and 4 life any number of times. When this creature enters, create that many tokens that are copies of it.)
 Prevent all damage that would be dealt to this creature unless the damage was dealt from a red spell or permanent.</text>
-      <related>Inferi Hoard Token</related>
     </card>
     <card>
       <name>Armored Mountain Troll</name>
@@ -407,8 +400,6 @@ All creatures able to block this creature do so.</text>
       <tablerow>2</tablerow>
       <text>Squad GG (As an additional cost to cast this spell, you may pay GG any number of times. When this creature enters, create that many tokens that are copies of it.)
 {T}: Puffskein deals 1 damage to target creature with flying.</text>
-      <related>Puffskein Token</related>
-      <related>Revised 12/26/24 see scattershot archer</related>
     </card>
     <card>
       <name>Kneazle</name>
@@ -590,7 +581,6 @@ Bewitchment storm (When you cast this spell, copy it for each bewitchment spell 
       <text>Squad {2} (As an additional cost to cast this spell, you may pay {2} any number of times. When this creature enters, create that many tokens that are copies of it.)
 Flying
 When this creature enters, gain control of target artifact unless its controller pays {X} or pays X life. Where X is the number of creatures you control named Cornish Pixie. This affect triggers only once each turn.</text>
-      <related>Cornish Pixie Token</related>
     </card>
     <card>
       <name>Hungarian Horntail</name>
@@ -647,13 +637,12 @@ Counter target spell or ability unless its controller pays {1} plus an additiona
       </prop>
       <tablerow>1</tablerow>
       <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-I — Create three 1/1 blue Wizard creature tokens with prowess.
+I — Create three 1/1 black Wizard creature tokens with “Whenever you cast an instant or sorcery each opponent loses 1 life. You gain life equal to the amount lost this way..
 II — Search your library for an artifact, battle, instant, or sorcery card, reveal it, put it into your hand, then shuffle.
 III — Exile this Saga. Then return it to the battlefield transformed. When it enters, attach it to target creature you control.
 ---
 (Back): The Cloak of Invisibility</text>
       <related attach="transform">The Cloak of Invisibility</related>
-      <related count="3">Wizard</related>
     </card>
     <card>
       <name>The Cloak of Invisibility</name>
@@ -672,7 +661,6 @@ Equip {5}
 ---
 (Front): Tale of the Three Brothers</text>
       <related attach="transform">Tale of the Three Brothers</related>
-      <related count="3">Wizard</related>
     </card>
     <card>
       <name>Winery Cellar</name>
@@ -837,9 +825,8 @@ Bewitchment storm (When you cast this spell, copy it for each bewitchment spell 
       </prop>
       <tablerow>2</tablerow>
       <text>{U}, {T}: Draw a card, then discard a card.
-1B, {T}, Exile a card from your graveyard: Create a 1/1 black Skeleton creature token.
+1B, {T}, Exile a card from a graveyard: Create a 2/1 black Skeleton creature token.
 2R, {T}: Target creature can’t block this turn. This creature deals 1 damage that creature’s controller.</text>
-      <related>Skeleton</related>
     </card>
     <card>
       <name>Luna Lovegood, Enthused Reasearcher</name>
@@ -871,7 +858,7 @@ As long as Luna Lovegood is studious, she has first strike and “Whenever a cre
       <tablerow>2</tablerow>
       <text>Activated abilities of Potions you control cost {2} less to activate.
 Whenever you sacrifice an artifact, Draco Malfoy gets +1/+1 until end of turn.
-Sacrifice one or more artifacts: Search your library for an Bewitchment card with mana value less than or equal to the total mana value of artifacts sacrificed this way, exile that card. You may cast it this turn without paying its mana cost until end of turn. (Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)</text>
+Sacrifice one or more artifacts: Search your library for an Bewitchment*s card with mana value less than or equal to the total mana value of artifacts sacrificed this way, exile that card. You may cast it this turn without paying its mana cost until end of turn. (Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)</text>
     </card>
     <card>
       <name>Harry Potter, The Boy Who Lived</name>
@@ -959,7 +946,6 @@ Whenever Nymphadora Tonks attacks, until end of turn Wizards in your hand have A
 Trample, menace
 Whenever this creature deals combat damage to another creature, if you control this creature, tap the other creature and put a stun counter on it.
 2RRR, {T}: This creature deals damage equal to its power divided among any number of target permanents.</text>
-      <related>Blast Ended Screwt Token</related>
     </card>
     <card>
       <name>Obscurial Parasite</name>
@@ -989,7 +975,6 @@ Whenever this creature Saddles a Wizard, that creature loses all abilities and g
       </prop>
       <tablerow>1</tablerow>
       <text>Whenever an opponent casts a creature spell, they may pay {2/U}. If they don’t, create a 1/1 red Salamander Beast token with “{R/G}, {T}: Regenerate this token.” and “1R: This token gets +1/+0 until end of turn.” (The next time a regenerating creature would be destroyed this turn, instead tap it, remove it from combat, and heal all damage on it.)</text>
-      <related>Salamander Beast</related>
     </card>
     <card>
       <name>Oppugno</name>
@@ -1033,9 +1018,6 @@ Bewitchment storm (When you cast this spell, copy it for each bewitchment spell 
       <tablerow>2</tablerow>
       <text>Squad 2G (As an additional cost to cast this spell, you may pay 2G any number of times. When this creature enters, create that many tokens that are copies of it.)
 Whenever this creature enters, return up to one target bewitchment card from your graveyard to your hand. (Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)</text>
-      <related>Bowtruckle Token</related>
-      <related>Reviewed Christmas 2024</related>
-      <related>Revised 12/26/24</related>
     </card>
     <card>
       <name>Whomping Willow</name>
@@ -1097,9 +1079,7 @@ Equip {5}
       </prop>
       <tablerow>1</tablerow>
       <text>Whenever you sacrifice a nontoken Potion, you may pay {1}. When you do, shuffle that card from your graveyard into your library, then create a Potion token. (It’s an artifact token with “{2}, {T}, Sacrifice this Potion: You may activate a Recipe ability of a permanent you control without paying its activation cost.”)
-{4}, {T}: Complete a Recipe (You may activate a Recipe ability of a permanent you control without paying its activation cost.)</text>
-      <related>Potion</related>
-      <related>rework remove complete a</related>
+{4}, {T}: Activate a Recipe ability of a permanent you control without paying its activation cost.</text>
     </card>
     <card>
       <name>Lonesome Phoenix</name>
@@ -1149,7 +1129,6 @@ Other Wizards you control have Dedication to beast {0}.</text>
       <tablerow>2</tablerow>
       <text>Whenever an opponent attacks you, you may pay {3}. If you do, create a token that’s a copy of target plant you control and plants you control gain deathtouch, vigilance, and lifelink until end of turn. Then learn. (you may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)
 Wizards you control have Dedication to Plant {G} (Whenever this creature attacks or blocks, you may pay {G}. If you do it gets +1/+1 for each Plant you control until end of turn.)</text>
-      <related>Copy</related>
     </card>
     <card>
       <name>Remus Lupin, Master of the Dark Arts</name>
@@ -1326,7 +1305,6 @@ Whenever Cedric Diggory deals combat damage to a player, you may scry 1. If you 
       <text>Squad {G} — Discard a card (As an additional cost to cast this spell, you may pay {G} and discard a card any number of times. When this creature enters, create that many tokens that are copies of it.)
 Defender
 BG, {T}: Each opponent loses 1 life. You gain life equal to the amount lost this way.</text>
-      <related>Bubotuber Token</related>
     </card>
     <card>
       <name>Broken Wand</name>
@@ -1356,7 +1334,6 @@ Incantations enchanted player casts can’t target you, spells, permanent, abili
       <tablerow>3</tablerow>
       <text>Alteration {G} (You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield for {G}.)
 Create a 1/1 black Snake creature token with deathtouch. If Serpensortia was cast from the battlefield, create three of them instead.</text>
-      <related>Snake</related>
     </card>
     <card>
       <name>Disillusionment Charm</name>
@@ -1443,7 +1420,6 @@ Bewitchment storm (When you cast this spell, copy it for each bewitchment spell 
       <tablerow>2</tablerow>
       <text>Squad 2B (As an additional cost to cast this spell, you may pay 2B any number of times. When this creature enters, create that many tokens that are copies of it.)
 Whenever you commit a crime, each opponent loses 1 life unless they pay {1}. You gain life equal to the amount lost this way. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)</text>
-      <related>Death Eater Token</related>
     </card>
     <card>
       <name>Dobby, the House Elf</name>
@@ -1474,7 +1450,7 @@ Whenever an opponent commits a crime, untap Dobby, the House Elf. (Targeting opp
       <tablerow>2</tablerow>
       <text>Lifelink.
 Gallant 1 (Whenever a creature an opponent controls with greater power enters or attacks and this creature isn’t courageous, put a +1/+1 counter on this creature and it becomes courageous.)
-As long as Cornelius Fudge is courageous, whenever an opponent commits a crime that targets a creature you control or forces you to make any choice, you may have another creature you control phase out. If you do, you may choose not to make any choice and Cornelius Fudge loses courageous. That opponent loses 1 life and you gain 1 life. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)</text>
+As long as Cornelius Fudge is courageous, whenever an opponent commits a crime that targets a creature you control or forces you to make any choice, you may have another creature you control phase out. If you do, you may choose not to make any choice and Cornelius Fudge is not courageous. That opponent loses 1 life and you gain 1 life. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)</text>
     </card>
     <card>
       <name>Rita Skeeter, Gossip Reporter</name>
@@ -1528,8 +1504,6 @@ Each opponent plays with their hand revealed.
 Whenever a creature dies, put a +1/+1 counter on another target creature.
 When this creature becomes saddled, if you don’t control a Thestral token, you may pay XX. Where X is up to the number of creatures that saddled it. If you do, create X 1/1 Black Thestral creature tokens with flying. 
 Saddle 1 (Tap any number of other creatures you control with total power 1 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)</text>
-      <related>Thestral</related>
-      <related>Reviewed Christmas 2024</related>
     </card>
     <card>
       <name>Zacharias Smith, Jealous Friend</name>
@@ -1560,8 +1534,6 @@ Whenever Zacharias Smith attacks, Wizards you control gain menace until end of t
       <tablerow>2</tablerow>
       <text>Squad 1B (As an additional cost to cast this spell, you may pay 1B any number of times. When this creature enters, create that many tokens that are copies of it.)
 During your upkeep, create a Wizard-Cracker token. (Its an artifact with “{1},{T}, Sacrifice this artifact: Put a -1/-1 counter on target creature.”)</text>
-      <related>Wizard-Cracker Imp Token</related>
-      <related> Wizard-Cracker</related>
     </card>
     <card>
       <name>Dungeon Red Cap Agressor</name>
@@ -1594,7 +1566,6 @@ Whenever a creature enters under an opponents control, if this creature is untap
 Flying, Defender
 Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
 Whenever you are dealt damage, this creature loses defender until the end of your next turn.</text>
-      <related>Doxy Token</related>
     </card>
     <card>
       <name>Point Me</name>
@@ -1623,8 +1594,6 @@ Bewitchment storm (When you cast this spell, copy it for each bewitchment spell 
       <tablerow>3</tablerow>
       <text>Destroy up to one target creature with flying or reach. Its controller creates a 0/1 green Worm creature token with “{T}: Add one mana of any color.”
 Bewitchment storm (When you cast this spell, copy it for each bewitchment spell cast before it this turn. You may choose new targets for the copies. Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)</text>
-      <related>Worm</related>
-      <related>reart watermark</related>
     </card>
     <card>
       <name>Orchideous</name>
@@ -1673,9 +1642,6 @@ Whenever you create or sacrifice a Potion, create a Treasure token.
 When Horace Slughorn becomes paired with a creature and whenever Horace Slughorn and/or a creature paired with him attacks, choose one—
 • Create a Potion token.
 • Brew. (You may reveal a Potion card you own from outside the game and put it into your hand, or exile the top card of your library. You may play it this turn.)</text>
-      <related>Treasure</related>
-      <related> Potion</related>
-      <related>reart</related>
     </card>
     <card>
       <name>Vanishing Cabinet</name>
@@ -1745,7 +1711,6 @@ Whenever a player casts a creature spell, create a 1/1 blue Book enchantment cre
 ---
 (Back): Hogwart&apos;s Hidden Map Room</text>
       <related attach="transform">Hogwart&apos;s Hidden Map Room</related>
-      <related>Book</related>
     </card>
     <card>
       <name>Hogwart&apos;s Hidden Map Room</name>
@@ -1764,7 +1729,6 @@ Whenever you tap a basic land for mana, add one mana of any type that land produ
 ---
 (Front): Explore the Restricted Section</text>
       <related attach="transform">Explore the Restricted Section</related>
-      <related>Book</related>
     </card>
     <card>
       <name>Department of Mysteries</name>
@@ -1890,8 +1854,6 @@ When this Siege enters, create X 2/1 black Skeleton creature tokens.
 ---
 (Back): Charmed Skeleton</text>
       <related attach="transform">Charmed Skeleton</related>
-      <related>Skeleton</related>
-      <related>Back Art at 400%</related>
     </card>
     <card>
       <name>Charmed Skeleton</name>
@@ -1910,8 +1872,6 @@ Whenever an opponent casts a spell except during their turn, create a 2/1 black 
 ---
 (Front): Portkey to Little Hangleton Graveyard</text>
       <related attach="transform">Portkey to Little Hangleton Graveyard</related>
-      <related>Skeleton</related>
-      <related>Back Art at 400%</related>
     </card>
     <card>
       <name>Flame Infused Armour</name>
@@ -1941,7 +1901,7 @@ If this creature was cast from the battlefield, you may draw two cards. If you d
         <maintype>Battle</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>When this Siege enters, each opponent faces a villainous choice — You search your library for a creature with Villainous choice or a Mountain and put it onto the battlefield. or Tradgey at the World Cup deals 1 damage to each creature that player control and that player discards or mills a card for each creature dealt damage this way
+      <text>When this Siege enters, each opponent faces a villainous choice — You search your library for a creature with Villainous choice or a Mountain and put it onto the battlefield. or Tradgey at the World Cup deals 1 damage to each creature that player controls and that player discards or mills a card for each creature dealt damage this way
 ---
 (Back): Foreboding Warning</text>
       <related attach="transform">Foreboding Warning</related>
@@ -1978,7 +1938,6 @@ Whenever this Siege is dealt damage, create that many Treasure tokens.
 ---
 (Back): Wounded Ukranian Iron Belly</text>
       <related attach="transform">Wounded Ukranian Iron Belly</related>
-      <related>Treasure</related>
     </card>
     <card>
       <name>Wounded Ukranian Iron Belly</name>
@@ -1998,7 +1957,6 @@ Saddle 8
 ---
 (Front): Journey Beneath Gringotts Bank</text>
       <related attach="transform">Journey Beneath Gringotts Bank</related>
-      <related>Treasure</related>
     </card>
     <card>
       <name>Nearly Headless Nick, Ghost of Gryffindor</name>
@@ -2097,7 +2055,6 @@ When Chase the Hidden Traitor is put into a graveyard or exiled, its owner shuff
 ---
 (Back): Hermione&apos;s Time Turner</text>
       <related attach="transform">Hermione&apos;s Time Turner</related>
-      <related>Clue</related>
     </card>
     <card>
       <name>Hermione&apos;s Time Turner</name>
@@ -2114,7 +2071,6 @@ When Chase the Hidden Traitor is put into a graveyard or exiled, its owner shuff
 ---
 (Front): Chase the Hidden Traitor</text>
       <related attach="transform">Chase the Hidden Traitor</related>
-      <related>Clue</related>
     </card>
     <card>
       <name>Ronald Weasley, House King</name>
@@ -2270,8 +2226,6 @@ Whenever damage is dealt to this Siege, create a token copy of the chosen creatu
 ---
 (Back): Honor the Fallen Ally</text>
       <related attach="transform">Honor the Fallen Ally</related>
-      <related>Copy</related>
-      <related>Revised 1/29/25</related>
     </card>
     <card>
       <name>Honor the Fallen Ally</name>
@@ -2287,8 +2241,6 @@ Whenever damage is dealt to this Siege, create a token copy of the chosen creatu
 ---
 (Front): Flight of the Seven Potters</text>
       <related attach="transform">Flight of the Seven Potters</related>
-      <related>Copy</related>
-      <related>Revised 1/29/25</related>
     </card>
     <card>
       <name>Theseus Scamander, Loyal Auror</name>
@@ -2586,7 +2538,6 @@ At the beginning of your upkeep, mill X cards where X is this creatures power.</
       <tablerow>2</tablerow>
       <text>Squad {12/U} (As an additional cost to cast this spell, you may pay {12/U} any number of times. When this creature enters, create that many tokens that are copies of it.)
 Skulk (This creature can’t be blocked by creatures with greater power.)</text>
-      <related>Swarm of Grindylows Token</related>
     </card>
     <card>
       <name>Red Cap Tower Guard</name>
@@ -2603,7 +2554,6 @@ Skulk (This creature can’t be blocked by creatures with greater power.)</text>
       <text>Squad RW (As an additional cost to cast this spell, you may pay RW any number of times. When this creature enters, create that many tokens that are copies of it.)
 When this creature enters, if its a token or you paid an additional cost to cast it, put a shield counter on it. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)
 All creatures able to block this creature do so.</text>
-      <related>Red Cap Tower Guard Token</related>
     </card>
     <card>
       <name>Mrs Norris</name>
@@ -2657,7 +2607,6 @@ When an opponent commits a crime, put a -1/-1 counter on target creature that pl
 When Narcissa Malfoy becomes paired with a creature, you may pay 3 life. If you do, put a +1/+1 counter on each of up to three target creatures.
 Whenever you sacrifice a Food, you may pay 3 life. If you do, put a lifelink counter on target creature you control.
 Partner with Lucius Malfoy. (When this creature enters, target player may put Lucius Malfoy. into their hand from their library, then shuffle.)</text>
-      <related>Food</related>
     </card>
     <card>
       <name>Alaster Mad-Eye Moody</name>
@@ -2944,7 +2893,6 @@ III — Each creature that isn’t studious phases out. (Treat it and anything a
       <tablerow>3</tablerow>
       <text>Alteration 1GW (You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield for 1GW.)
 Create a 3/3 Golem artifact creature token for each bewitchment you have cast this turn plus one. If you cast this spell from the battlefield, create an additional two of those tokens. (Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)</text>
-      <related>Golem</related>
     </card>
     <card>
       <name>Portus</name>
@@ -2959,8 +2907,6 @@ Create a 3/3 Golem artifact creature token for each bewitchment you have cast th
       <tablerow>3</tablerow>
       <text>Create a Portkey token. (Its an artifact with “{2}, Sacrifice this artifact: Target creature you control phases out.”)
 Bewitchment storm (When you cast this spell, copy it for each bewitchment spell cast before it this turn. You may choose new targets for the copies. Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)</text>
-      <related>Portkey</related>
-      <related>reart</related>
     </card>
     <card>
       <name>Beneath Hogwarts Plumbing</name>
@@ -3042,7 +2988,7 @@ As long as  Cho Chang is studious, she has flying and during your turn and whene
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-At the beginning of your upkeep, you may pay UU. If you do, reveal the top card of your library. If a Bewitchment card is revealed this way, draw two cards. Otherwise, draw a card. (Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)</text>
+At the beginning of your upkeep, you may pay UU. If you do, reveal the top card of your library. If a Bewitchment*s card is revealed this way, draw two cards. Otherwise, draw a card. (Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)</text>
     </card>
     <card>
       <name>Erumpent Horn</name>
@@ -3104,8 +3050,6 @@ III — Each player draws a number of cards and gains an amount of life equal to
       <tablerow>2</tablerow>
       <text>Squad {22/U} (As an additional cost to cast this spell, you may pay {22/U} any number of times. When this creature enters, create that many tokens that are copies of it.)
 Skulk (This creature can’t be blocked by creatures with greater power.)</text>
-      <related>Black Lake Merperson Token</related>
-      <related>reart</related>
     </card>
     <card>
       <name>The Monster Book of Monsters</name>
@@ -3248,7 +3192,6 @@ LEVEL 3+
       <text>Equipped creature has absorb 1. When damage is prevented this way, create a tapped Potion token. (If a source would deal damage to that creature, prevent 1 of that damage. A Potion token is an artifact with “{2}, {T}, Sacrifice this Potion: You may activate a Recipe ability of a permanent you control without paying its activation cost.”)
 Whenever a Potion you control enters, you may attach this Equipment to target creature you control.
 Equip {2}</text>
-      <related>Potion</related>
     </card>
     <card>
       <name>Follow the Spiders</name>
@@ -3266,8 +3209,6 @@ Whenever this Siege or a nontoken creature you own is dealt damage, create a 1/2
 ---
 (Back): Weasley Ford Angela</text>
       <related attach="transform">Weasley Ford Angela</related>
-      <related>Spider</related>
-      <related>reart</related>
     </card>
     <card>
       <name>Weasley Ford Angela</name>
@@ -3283,13 +3224,11 @@ Whenever this Siege or a nontoken creature you own is dealt damage, create a 1/2
 Weasley Ford Angela’s power and toughness are each equal to the number of time counters on it.
 Weasley Ford Angela enters with a time counter on it.
 Whenever you crew Weasley Ford Angela, put a time counter on it.
-At the beginning of your upkeep, remove a time counter from Weasley Ford Angela. When the last is removed shuffle it into your library.
+At the beginning of each of your opponents end-step, remove a time counter from Weasley Ford Angela. When the last is removed shuffle it into your library.
 Crew 2 
 ---
 (Front): Follow the Spiders</text>
       <related attach="transform">Follow the Spiders</related>
-      <related>Spider</related>
-      <related>reart</related>
     </card>
     <card>
       <name>Snatcher Ambush</name>
@@ -3304,7 +3243,6 @@ Crew 2
       <tablerow>1</tablerow>
       <text>At the beginning of each opponents upkeep, target creature that player controls cannot block until the end of your next turn. 
 2R: Create a 2/2 black and red Wizard Werewolf creature token named Snatcher with haste. If {B} was paid to activate this ability, create two of those token instead. This ability costs {1} less for each creature that died this turn.</text>
-      <related>Snatcher</related>
     </card>
     <card>
       <name>The British Prime Minister</name>
@@ -3348,10 +3286,7 @@ Whenever a Wizard enters, scry X, where X is that creatures mana value.</text>
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever a Wizard enters, put a -1/-1 counter on it.
-Whenever The Dursleys attack, put a -1/-1 counter on target creature defending player controls, then create a Treasure token. (It’s an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)</text>
-      <related>Treasure</related>
-      <related>Art at 400%</related>
-      <related>reart</related>
+Whenever The Dursleys attack, put a -1/-1 counter on target creature defending player controls, then create a Treasure token for each -1/-1 counter among creatures your opponents control. (It’s an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)</text>
     </card>
     <card>
       <name>Avifors</name>
@@ -3366,9 +3301,6 @@ Whenever The Dursleys attack, put a -1/-1 counter on target creature defending p
       <tablerow>3</tablerow>
       <text>Alteration 3W (You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield for 3W.)
 Create two 1/1 white Bird creature tokens with flying. If this spell was cast from the battlefield, create four of those tokens instead.</text>
-      <related count="2">Bird</related>
-      <related count="4"> Bird</related>
-      <related>Art at 400%</related>
     </card>
     <card>
       <name>Locomotor Mortis</name>
@@ -3414,7 +3346,6 @@ Bewitchment storm (When you cast this spell, copy it for each bewitchment spell 
 Flying, Defender
 {R}, {T}: This creature deals damage to target creature equal to the number of creatures that share a name with it. Activate only if you were dealt damage this turn. 
 If this creature was cast from the battlefield, create X tokens that are copies of it.</text>
-      <related>Animated Torch Token</related>
     </card>
     <card>
       <name>Gringotts Banking Goblin</name>
@@ -3430,8 +3361,6 @@ If this creature was cast from the battlefield, create X tokens that are copies 
       <tablerow>2</tablerow>
       <text>When this creature enters, create a Treasure token. (It’s an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)
 Whenever a creature an opponent controls deals combat damage to a player, create a Treasure token.</text>
-      <related>Treasure</related>
-      <related>reart</related>
     </card>
     <card>
       <name>Basic Cast</name>
@@ -3476,8 +3405,6 @@ This creature has first strike as long as it’s courageous.</text>
       <tablerow>2</tablerow>
       <text>Dedication to opponents creatures 3WW (Whenever this creature attacks or blocks you may pay 3WW. If you do this creature gets +1/+1 for each creature your opponents control.)
 Whenever this creature deals combat damage to a player, investigate. (Create a Clue token. It’s an artifact with “{2}, Sacrifice this token: Draw a card.”)</text>
-      <related>Clue</related>
-      <related>Art at 400%</related>
     </card>
     <card>
       <name>Auror Tracker</name>
@@ -3493,8 +3420,6 @@ Whenever this creature deals combat damage to a player, investigate. (Create a C
       <tablerow>2</tablerow>
       <text>Scholarly (Whenever you draw a card, this creature gets +1/+1 until end of turn. If this is the third time this ability has resolved this turn, this creature becomes studious if it isn’t already.) 
 At the beginning of each player’s upkeep, if this creature is studious, investigate. (Create a Clue token. It’s an artifact with “{2}, Sacrifice this token: Draw a card.”)</text>
-      <related>Clue</related>
-      <related>Art at 400%</related>
     </card>
     <card>
       <name>Battle of Hogwarts</name>
@@ -3592,9 +3517,6 @@ Sacrifice this enchantment: Scry 2.</text>
       <text>Flying
 Whenever an opponent attacks you, create a Food token. (It’s an artifact with “{2}, {T}, Sacrifice this token: You gain 3 life.”)
 Activated abilities of Food you control cost {1} less to activate.</text>
-      <related>Food</related>
-      <related>Pending Testing 1/29/25</related>
-      <related>reart</related>
     </card>
     <card>
       <name>Fianto Duri</name>
@@ -3652,8 +3574,6 @@ Creatures you control have Dedication to the chosen creature type 2W. (Whenever 
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever an opponent attacks you, you may create a Food token. (It’s an artifact with “{2}, {T}, Sacrifice this token: You gain 3 life.”)</text>
-      <related>Food</related>
-      <related>reart</related>
     </card>
     <card>
       <name>Magicus Extremos</name>
@@ -3683,8 +3603,6 @@ Whenever you cast an bewitchment spell, put a +1/+1 counter on each Wizard you c
       <tablerow>2</tablerow>
       <text>Whenever a Wizard enters, each player may pay {1}. If they do, that player creates a Treasure token. (It’s an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)
 Spells your opponents cast that target one or more Wizards you control cost {1} more to cast for each Wizard you control.</text>
-      <related>Treasure</related>
-      <related>reart</related>
     </card>
     <card>
       <name>Padfoot, Protective Marauder</name>
@@ -3772,8 +3690,6 @@ Solved — Sacrifice this Case: Destroy target creature with power less than the
 ---
 (Back): The Philospopher&apos;s Stone</text>
       <related attach="transform">The Philospopher&apos;s Stone</related>
-      <related>Clue</related>
-      <related>reart</related>
     </card>
     <card>
       <name>The Philospopher&apos;s Stone</name>
@@ -3790,8 +3706,6 @@ Whenever a creature you control dies, you may discard two cards. If you do retur
 ---
 (Front): Procure The Philosopher&apos;s Stone</text>
       <related attach="transform">Procure The Philosopher&apos;s Stone</related>
-      <related>Clue</related>
-      <related>reart</related>
     </card>
     <card>
       <name>Protego</name>
@@ -3852,9 +3766,6 @@ When this battle enters, create X Ministry Tribunal tokens. (They’re 2/2 white
 ---
 (Back): Creation of Dumoldore&apos;s Army</text>
       <related attach="transform">Creation of Dumoldore&apos;s Army</related>
-      <related>Ministry Tribunal</related>
-      <related> Student</related>
-      <related>reart</related>
     </card>
     <card>
       <name>Creation of Dumoldore&apos;s Army</name>
@@ -3870,9 +3781,6 @@ When this battle enters, create X Ministry Tribunal tokens. (They’re 2/2 white
 ---
 (Front): Trial of the Wizengamot</text>
       <related attach="transform">Trial of the Wizengamot</related>
-      <related>Ministry Tribunal</related>
-      <related> Student</related>
-      <related>reart</related>
     </card>
     <card>
       <name>The Wand Chooses the Wizard</name>
@@ -3963,11 +3871,6 @@ At the beginning of your combat, goad target creature unless its controller pays
 ---
 (Back): Famous Wizards Trading Card</text>
       <related attach="transform">Famous Wizards Trading Card</related>
-      <related>Treasure</related>
-      <related> Clue</related>
-      <related> Food</related>
-      <related>Front Art at 400%</related>
-      <related>reart</related>
     </card>
     <card>
       <name>Famous Wizards Trading Card</name>
@@ -3987,11 +3890,6 @@ At the beginning of your upkeep pay {2}. If you don’t transform this enchantme
 ---
 (Front): Folio Magi</text>
       <related attach="transform">Folio Magi</related>
-      <related>Treasure</related>
-      <related> Clue</related>
-      <related> Food</related>
-      <related>Front Art at 400%</related>
-      <related>reart</related>
     </card>
     <card>
       <name>Localized Shopkeeper</name>
@@ -4009,10 +3907,6 @@ At the beginning of your upkeep pay {2}. If you don’t transform this enchantme
 Artifact — Create a Treasure token.
 Creature — Create a Food token.
 Enchantment — Create a Clue token.</text>
-      <related>Treasure</related>
-      <related> Food</related>
-      <related> Clue</related>
-      <related>Art at 400%</related>
     </card>
     <card>
       <name>Enchanted Field Guide</name>
@@ -4044,7 +3938,7 @@ Equip—Discard a card.</text>
       <tablerow>2</tablerow>
       <text>Haste
 Scholarly (Whenever you draw a card, this creature gets +1/+1 until end of turn. If this is the third time this ability has resolved this turn, this creature becomes studious if it isn’t already.)
-At the  beginning each opponents end step, if Marietta Edgecomb is studious, this creature’s controller gains life and draws a number of cards equal to the number of cards the turn player cast this turn. Then you exchange control of Marietta Edgecomb with target opponent.</text>
+At the beginning each opponents end step, if Marietta Edgecomb is studious, this creature’s controller gains life and draws a number of cards equal to the number of cards the turn player cast this turn. Then you exchange control of Marietta Edgecomb with target opponent.</text>
     </card>
     <card>
       <name>Albus Dumbledore</name>
@@ -4101,7 +3995,6 @@ You draw an additional card during each of your draw steps for each legendary cr
       <text>Scholarly (Whenever you draw a card, this creature gets +1/+1 until end of turn. If this is the third time this ability has resolved this turn, this creature becomes studious if it isn’t already.)
 At the beginning of your upkeep, if this creature is studious, create a Potion token. (It’s an artifact token with “{2}, {T}, Sacrifice this Potion: You may activate a Recipe ability of a permanent you control without paying its activation cost.”)
 Recipe — 3R, {T}, Put a stun counter on this creature: This creature deals damage equal to its power to another target creature.</text>
-      <related>Potion</related>
     </card>
     <card>
       <name>Saint Mungos Healing Potioneer</name>
@@ -4117,7 +4010,6 @@ Recipe — 3R, {T}, Put a stun counter on this creature: This creature deals dam
       <tablerow>2</tablerow>
       <text>{2}, {T}: Create a tapped Potion token. (It’s an artifact token with “{2}, {T}, Sacrifice this Potion: You may activate a Recipe ability of a permanent you control without paying its activation cost.”)
 Recipe — 4W: Creatures you control get +1/+1 until end of turn.</text>
-      <related>Potion</related>
     </card>
     <card>
       <name>Apothecary Shopkeeper</name>
@@ -4148,7 +4040,6 @@ Recipe — {3}, {T}: Scry 1, then activate the recipe of another permanent you c
       <tablerow>2</tablerow>
       <text>Gallant 1 (Whenever a creature an opponent controls with greater power enters or attacks and this creature isn’t courageous, put a +1/+1 counter on this creature and it becomes courageous.)
 When this creature becomes courageous, create a Potion token. (It’s an artifact token with “{2}, {T}, Sacrifice this Potion: You may activate a Recipe ability of a permanent you control without paying its activation cost.”)</text>
-      <related>Potion</related>
     </card>
     <card>
       <name>Stupefy</name>
@@ -4211,8 +4102,6 @@ Whenever an opponent makes a villainous choice, you draw two cards, then discard
       <tablerow>2</tablerow>
       <text>{B}, {T}, Pay 2 life: Remove a counter from target artifact or creature. When a counter is removed from a permanent you control this way, you may put a counter of the same kind on another target permanent. If you do, create a Potion token. (It’s an artifact token with “{2}, {T}, Sacrifice this Potion: You may activate a Recipe ability of a permanent you control without paying its activation cost.”)
 Recipe— {B}, Pay 2 life: Untap this creature.</text>
-      <related>Potion</related>
-      <related>Place holder image not final</related>
     </card>
     <card>
       <name>Underground Potioneer</name>
@@ -4229,8 +4118,6 @@ Recipe— {B}, Pay 2 life: Untap this creature.</text>
       <text>Whenever you commit a crime, you may tap this creature. If you do, create a tapped Potion token. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime. A Potion token is an artifact with “{2}, {T}, Sacrifice this Potion: You may activate a Recipe ability of a permanent you control without paying its activation cost.”)
 Whenever a creature dies, untap this creature.
 Recipe — Draw a card. You lose 2 life.</text>
-      <related>Potion</related>
-      <related>Art at 400%</related>
     </card>
     <card>
       <name>Dungbomb</name>
@@ -4539,9 +4426,6 @@ Recipe — {2/G}, Sacrifice this Potion: You gain 5 life</text>
       <tablerow>1</tablerow>
       <text>Whenever a nontoken Potion enters, you may pay {4}. If you do create a Potion token. (It’s an artifact token with “{2}, {T}, Sacrifice this Potion: You may activate a Recipe ability of a permanent you control without paying its activation cost.”)
 Recipe — 22/B2/G, {T}, Sacrifice this Potion: Brew. (You may reveal a Potion card you own from outside the game and put it into your hand, or exile the top card of your library. You may play it this turn.)</text>
-      <related>Potion</related>
-      <related>rework art scrunched</related>
-      <related>reart</related>
     </card>
     <card>
       <name>Aging Potion</name>
@@ -4584,7 +4468,6 @@ Recipe — 2/W2/W, {T}, Sacrifice this potion:  The next time you would lose the
       <tablerow>1</tablerow>
       <text>When this Potion enters, create a tapped Potion token. (It’s an artifact token with “{2}, {T}, Sacrifice this Potion: You may activate a Recipe ability of a permanent you control without paying its activation cost.”)
 Recipe — U/BU/BU/B, Sacrifice this Potion: The next time one or more creatures you control enter this turn, put an islandwalk or swampwalk counter on one of them.</text>
-      <related>Potion</related>
     </card>
     <card>
       <name>Grand Pepperup Potion</name>
@@ -4684,12 +4567,6 @@ Recipe — 2/R2/R2/G2/G, {T}, Sacrifice this Potion: Return control of all perma
       <tablerow>2</tablerow>
       <text>Scholarly (Whenever you draw a card, this creature gets +1/+1 until end of turn. If this is the third time this ability has resolved this turn, this creature becomes studious if it isn’t already.)
 At the beginning of each of your end-steps, if this creature is studious, you may pay {2}. If you do, create your choice of a Clue, Food, Map, Potion, Treasure, or Wizard-Cracker token. (A Wizard-Cracker token is an artifact with “{T}, Sacrifice this artifact: Put a -1/-1 counter on target creature.” A Potion token is an artifact with “{2}, {T}, Sacrifice this Potion: You may activate a Recipe ability of a permanent you control without paying its activation cost.”)</text>
-      <related>Clue</related>
-      <related> Food</related>
-      <related> Map</related>
-      <related> Potion</related>
-      <related> Treasure</related>
-      <related> Wizard-Cracker</related>
     </card>
     <card>
       <name>Knockturn Alley Potioneer</name>
@@ -4706,7 +4583,6 @@ At the beginning of each of your end-steps, if this creature is studious, you ma
       <text>Soulbond (You may pair this creature with another unpaired creature when either enters. They remain paired for as long as you control both of them.)
 Whenever you brew, if this creature is paired, you may mill a card. If you do, create a Potion token.
 4UU, {T}: Brew. Activate only if this creature is paired. (To Brew, you may reveal a Potion card you own from outside the game and put it into your hand, or exile the top card of your library. You may play it this turn.)</text>
-      <related>Potion</related>
     </card>
     <card>
       <name>Currupted Potioneer</name>
@@ -4722,7 +4598,6 @@ Whenever you brew, if this creature is paired, you may mill a card. If you do, c
       <tablerow>2</tablerow>
       <text>Whenever a creature you control dies, create a Potion token. (It’s an artifact token with “{2}, {T}, Sacrifice this Potion: You may activate a Recipe ability of a permanent you control without paying its activation cost.”)
 Recipe — {T}: Each opponent loses 1 life. You gain 1 life for each player who lost life this way.</text>
-      <related>Potion</related>
     </card>
     <card>
       <name>Durmstrang Potioneer</name>
@@ -4737,7 +4612,6 @@ Recipe — {T}: Each opponent loses 1 life. You gain 1 life for each player who 
       </prop>
       <tablerow>2</tablerow>
       <text>When this creature enters, target opponent faces a villainous choice — You create a Potion token or creatures they control can’t block this turn. (It’s an artifact token with “{2}, {T}, Sacrifice this Potion: You may activate a Recipe ability of a permanent you control without paying its activation cost.”)</text>
-      <related>Potion</related>
     </card>
     <card>
       <name>Student Potioneer</name>
@@ -4813,8 +4687,6 @@ When this creature dies, exile it then return it to the battlefield transformed.
 ---
 (Back): Enchanted Sword Armor</text>
       <related attach="transform">Enchanted Sword Armor</related>
-      <related>Golem</related>
-      <related>reart</related>
     </card>
     <card>
       <name>Enchanted Sword Armor</name>
@@ -4832,8 +4704,6 @@ This creature gets +1/+1 for each other Golem you control.
 ---
 (Front): Enchanted Shield Armor</text>
       <related attach="transform">Enchanted Shield Armor</related>
-      <related>Golem</related>
-      <related>reart</related>
     </card>
     <card>
       <name>Evanesco</name>
@@ -5052,7 +4922,7 @@ Whenever you sacrifice an artifact token, put a flying counter on target creatur
     </card>
     <card>
       <name>Melding of Minds</name>
-      <set rarity="rare">WWHP</set>
+      <set rarity="rare" splitterPath="/Melding of Minds.png" >WWHP</set>
       <prop>
         <colors>U</colors>
         <manacost>XXUU</manacost>
@@ -5062,9 +4932,28 @@ Whenever you sacrifice an artifact token, put a flying counter on target creatur
       </prop>
       <tablerow>1</tablerow>
       <text>Enchant creature
-Melding of Minds enters with X focus counters.
+This Aura enters with X Focus counters.
 You control enchanted creature as long as its mana value is less than or equal to the number of focus counters on this Aura.
-Enchanted creature’s owner plays with their hand revealed.</text>
+Enchanted creature’s owner plays with their hand revealed.
+---
+(Back): Darklord Connection</text>
+      <related attach="transform">Darklord Connection</related>
+    </card>
+    <card>
+      <name>Darklord Connection</name>
+      <set rarity="rare" splitterPath="/Darklord Connection.png" >WWHP</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>XUUBB</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Saga Aura Curse </type>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+As this Saga enters, enchant player. This Saga enters with X Focus counters on it.
+---
+(Front): Melding of Minds</text>
+      <related attach="transform">Melding of Minds</related>
     </card>
     <card>
       <name>Murtlap</name>
@@ -5097,8 +4986,6 @@ Recipe— {3}, {T}, Remove a charge counter from this creature: Counter target s
 {T}: Choose one — 
 • Gain control of target noncreature artifact for as long as this creature remains tapped.
 • Create a Treasure token for each nontoken noncreature artifact you control. </text>
-      <related>Treasure</related>
-      <related>reart</related>
     </card>
     <card>
       <name>Obliviate</name>
@@ -5144,9 +5031,6 @@ Whenever you draw your first creature spell each turn, you may reveal it. If a W
       <text>Soulbond
 Whenever a creature you control dies, if it was paired with Blaize Zabini, create a number of Treasure tokens equal to that creatures toughness.
 Whenever you sacrifice a Treasure token, put a charge counter on Blaize Zabini. Then you may remove any number of charge counters from among creatures you control. If you do, return an artifact from your graveyard to the battlefield with a mana value equal to the number of counters removed.</text>
-      <related>Treasure</related>
-      <related>Slytherin black</related>
-      <related>new</related>
     </card>
     <card>
       <name>Colloshoo</name>
@@ -5221,8 +5105,6 @@ If this creature was cast from the battlefield or is destroyed while face down, 
       <tablerow>2</tablerow>
       <text>When this creature enters, each opponent loses 1 life, you gain life equal to the amount of life lost this way.
 Whenever a player commits a crime or casts a nonpermanent spell that targets this creature, create a token that’s a copy of this creature. This ability only triggers once each turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)</text>
-      <related>Matagot Familiar Token</related>
-      <related>reart</related>
     </card>
     <card>
       <name>Snufflifores</name>
@@ -5237,7 +5119,6 @@ Whenever a player commits a crime or casts a nonpermanent spell that targets thi
       <tablerow>3</tablerow>
       <text>Alteration 1GG (You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield for 1GG.)
 Target player sacrifices an enchantment. Then that player creates a 1/1 black Rat creature token with “{1}, {T}, Sacrifice this token: Create a Treasure token.” If this spell was cast from the battlefield, the targeted player may sacrifice an artifact instead.</text>
-      <related>Rat</related>
     </card>
     <card>
       <name>Swooping Evil</name>
@@ -5298,7 +5179,6 @@ Whenever enchanted opponent activates an equip ability or an Equipment an oppone
       <tablerow>2</tablerow>
       <text>Flying
 When this creature enters you may pay 2RR, create two 2/2 red Dragon creature tokens with flying and “{R}: This creature gets +1/+0 until end of turn.”</text>
-      <related>Dragon</related>
     </card>
     <card>
       <name>Common Welsh Green</name>
@@ -5343,7 +5223,6 @@ Bewitchment storm (When you cast this spell, copy it for each bewitchment spell 
       <tablerow>3</tablerow>
       <text>Alteration 2W (You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield for 2W.)
 Create a 2/2 red Dragon creature token with Flying and “{R}: This creature gets +1/+0 until end of turn.” If this spell was cast from the battlefield create two of those token instead and tokens created this way gain haste.</text>
-      <related>Dragon</related>
     </card>
     <card>
       <name>Geminio Curse</name>
@@ -5359,9 +5238,6 @@ Create a 2/2 red Dragon creature token with Flying and “{R}: This creature get
       <text>Enchant player
 When this Curse enters, exile target artifact.
 Whenever one or more nontoken creatures enchanted player controls enter, create a token copy of the exiled card. Then players with less life then the number of artifacts you control lose the game. </text>
-      <related>Copy</related>
-      <related>rework</related>
-      <related>add token</related>
     </card>
     <card>
       <name>The Patil Twins, Padma and Parvati</name>
@@ -5395,7 +5271,6 @@ Whenever The Patil Twins deal combat damage to a player, if it’s courageous, y
 11-15: Skiving Snack Boxes deals 3 damage to any target.
 16-19: Destroy target land.
 20: Untap all creatures that attacked this turn. After this main phase, there is an additional combat phase followed by an additional main phase. This ability only triggers one each turn.</text>
-      <related>Food</related>
     </card>
     <card>
       <name>Swedish Shortsnout</name>
@@ -5427,8 +5302,6 @@ When this creature dies, put a shield counter on target creature you control.</t
       <text>When this enchantment enters, create a Food token.
 Whenever you sacrifice a Food, you gain life equal to the number of other Foods you control.
 {3}: Create a Food token.</text>
-      <related>Food</related>
-      <related>Reviewed Christmas 2024</related>
     </card>
     <card>
       <name>Chinese Chomping Cabbage</name>
@@ -5445,7 +5318,6 @@ Whenever you sacrifice a Food, you gain life equal to the number of other Foods 
       <text>Flash
 Squad {12/G}.  (As an additional cost to cast this spell, you may pay {12/G} any number of times. When this creature enters, create that many tokens that are copies of it.)
 When this creature enters, if you paid GG to cast it, it deals damage equal to its power to any target.</text>
-      <related>Chinese Chomping Cabbage Token</related>
     </card>
     <card>
       <name>Chocolate Frog</name>
@@ -5461,8 +5333,6 @@ When this creature enters, if you paid GG to cast it, it deals damage equal to i
       <tablerow>2</tablerow>
       <text>When this creature enters, create three Food tokens.
 {1}, Sacrifice a Food: Regenerate target creature. (The next time this creature would be destroyed this turn, it isn’t. Instead tap it, remove all damage from it, and remove it from combat.)</text>
-      <related count="3">Food</related>
-      <related>reart</related>
     </card>
     <card>
       <name>Fumos</name>
@@ -5524,8 +5394,6 @@ Whenever a creature enters under an opponents control, you this creature fights 
       <text>Deathtouch, trample, reach
 GGG: Create three 1/1 green Insect Manticore creature tokens with deathtouch. Activate only as a sorcery.
 Whenever a creature with Manticore in its name deals damage to a creature, if that creature dies, the controller of that creature loses life equal to that creatures power unless they pay {2}.</text>
-      <related>Insect Manticore</related>
-      <related>reart</related>
     </card>
     <card>
       <name>Justin Flinchfletchly, Wandering Student</name>
@@ -5556,7 +5424,6 @@ Combat damage dealt to Justin Flinchfletchly is dealt in the form of stun counte
       <tablerow>3</tablerow>
       <text>Alteration 1G (You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield for 1G.)
 Search your library for a land card, reveal it, put it onto the battlefield tapped, then shuffle. If this spell was cast from the battlefield, untap that land and create a 1/1 green Rabbit creature token for each Forest you control.</text>
-      <related>Rabbit</related>
     </card>
     <card>
       <name>Nundu Leopard</name>
@@ -5589,8 +5456,6 @@ This creature can’t be blocked except by three or more creatures.
       <tablerow>2</tablerow>
       <text>Soulbond
 As long as Pansi Parkinson is paired with a creature, whenever a creature not paired with Pansi Parkinson you control enters, you may have it fight target creature. If a creature you control dies this way, return it to your hand and create a tapped Treasure token.</text>
-      <related>Treasure</related>
-      <related>Slytherin green</related>
     </card>
     <card>
       <name>Pumpkin Pasty</name>
@@ -5605,7 +5470,6 @@ As long as Pansi Parkinson is paired with a creature, whenever a creature not pa
       <tablerow>1</tablerow>
       <text>When this enchantment enters, create a Food token.
 Whenever you sacrifice a Food, put a +1/+1 counter on up to one target creature.</text>
-      <related>Food</related>
     </card>
     <card>
       <name>Rubeus Hagrid, Keeper of Keys</name>
@@ -5624,8 +5488,6 @@ Courageous creatures you control get +0/+2.
 Whenever Rubeus Hagrid becomes courageous, create a Legendary 2/2 green Dog creature token named Fang. then choose one—
 • Search your library for a Beast or basic land card, reveal it, put it into your hand, then shuffle.
 • Learn (you may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)</text>
-      <related>Fang</related>
-      <related>Gryffindor green</related>
     </card>
     <card>
       <name>Skurge</name>
@@ -5656,7 +5518,6 @@ Bewitchment storm (When you cast this spell, copy it for each bewitchment spell 
       <text>Squad GG (As an additional cost to cast this spell, you may pay GG any number of times. When this creature enters, create that many tokens that are copies of it.)
 This creature enters tapped.
 When this creature enters, it deals damage equal to its power to target creature an opponent control.</text>
-      <related>Steeler Snail Token</related>
     </card>
     <card>
       <name>Stoneback Dugbog</name>
@@ -5673,7 +5534,6 @@ When this creature enters, it deals damage equal to its power to target creature
       <text>Squad GGG (As an additional cost to cast this spell, you may pay GGG any number of times. When this creature enters, create that many tokens that are copies of it.)
 Flash
 Ward {1} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)</text>
-      <related>Stoneback Dugbog Token</related>
     </card>
     <card>
       <name>Vampyr Mosp</name>
@@ -5691,7 +5551,6 @@ Ward {1} (Whenever this creature becomes the target of a spell or ability an opp
 Flying
 This creature gets +1/+1 for each creature named Vampyr Mosp and costs {1} less to cast for each plant you control.
 Whenever a Plant creature you control enters, create a token copy of this creature. This ability triggers only once each turn.</text>
-      <related>Vampyr Mosp Token</related>
     </card>
     <card>
       <name>Bertie Botts Every Flavor Beans</name>
@@ -5710,8 +5569,6 @@ Whenever you sacrifice a Food, roll a d20.
 1-5:  You lose 6 life.
 6-19:  Create a Food token.
 20:  Destroy all Foods you control. Search your library for a card and add it to your hand, shuffle.</text>
-      <related>Food</related>
-      <related>reart</related>
     </card>
     <card>
       <name>Fleur Delacour, Beuxbatons Champion</name>
@@ -5819,7 +5676,6 @@ You have no maximum hand size.</text>
       <tablerow>2</tablerow>
       <text>{R}: This creature gets +1/+0 until end of turn.
 {2}, {T}: Create two tapped Treasure tokens.</text>
-      <related count="2">Treasure</related>
     </card>
     <card>
       <name>Letters from No One</name>
@@ -5837,12 +5693,6 @@ When Letters from No One enters put X defense counters on it and you create X 1/
 ---
 (Back): Wizard School Supply List</text>
       <related attach="transform">Wizard School Supply List</related>
-      <related>Owl</related>
-      <related> Clue</related>
-      <related> Food</related>
-      <related> Potion</related>
-      <related> Treasure</related>
-      <related> Wizard-Cracker</related>
     </card>
     <card>
       <name>Wizard School Supply List</name>
@@ -5859,12 +5709,6 @@ At the beginning of your end step, if you control a Wizard, Wand, Clue, Food, Po
 ---
 (Front): Letters from No One</text>
       <related attach="transform">Letters from No One</related>
-      <related>Owl</related>
-      <related> Clue</related>
-      <related> Food</related>
-      <related> Potion</related>
-      <related> Treasure</related>
-      <related> Wizard-Cracker</related>
     </card>
     <card>
       <name>Permission to Visit Hogsmeade</name>
@@ -5883,8 +5727,6 @@ Whenever you remove a defense counter from this siege create a Map token. (It’
 ---
 (Back): Maurauder&apos;s Map</text>
       <related attach="transform">Maurauder&apos;s Map</related>
-      <related>Map</related>
-      <related>reart</related>
     </card>
     <card>
       <name>Maurauder&apos;s Map</name>
@@ -5901,8 +5743,6 @@ Whenever you remove a defense counter from this siege create a Map token. (It’
 ---
 (Front): Permission to Visit Hogsmeade</text>
       <related attach="transform">Permission to Visit Hogsmeade</related>
-      <related>Map</related>
-      <related>reart</related>
     </card>
     <card>
       <name>Mystery of the Golden Egg</name>
@@ -5994,16 +5834,14 @@ Equip {4}</text>
       <tablerow>3</tablerow>
       <text>If you control a legendary creature, creatures you control gain protection from red until end of turn.
 Pestis Incendium, Fiendfyre deals X damage to each creature, where X is the number of other bewitchments you’ve cast this turn plus one. If X is equal to or greater than {4}, this spell can’t be countered. When a creature dealt damage this way dies this turn, create an X/X red Elemental creature token. Exile this incantation. (Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)</text>
-      <related>Elemental</related>
-      <related>See volcanic fall out thought rare was still warrented because it generates a creature token as well</related>
     </card>
     <card>
       <name>Quirinus Quirrell, Traitorous Professor</name>
       <set rarity="uncommon" splitterPath="/Quirinus Quirrell, Traitorous Professor.png" >WWHP</set>
       <prop>
         <colors>WUBR</colors>
-        <manacost>1URW/B</manacost>
-        <cmc>4</cmc>
+        <manacost>URW/B</manacost>
+        <cmc>3</cmc>
         <type>Legendary Creature - Human Wizard  </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
@@ -6022,7 +5860,7 @@ Whenever you cast a bewitchment, untap Quirinus Quirrell. Then you may transform
       <prop>
         <colors>UB</colors>
         <manacost></manacost>
-        <cmc>4</cmc>
+        <cmc>3</cmc>
         <type>Legendary Creature - Spirit Wizard </type>
         <pt>1/1</pt>
       </prop>
@@ -6086,7 +5924,6 @@ UBR, {T}, Pay 2 life: Transform Peter Pettigrew, Traitorus Maruader.
       <text>Reach, Trample, Deathtouch
 Whenever this creature is dealt combat damage, create a 1/2 green Spider creature tokens with reach and deathtouch. 
 When this creature dies, create six 1/2 green Spider creature tokens with reach and deathtouch. </text>
-      <related>Spider</related>
     </card>
     <card>
       <name>Trial of the Goblet of Fire</name>
@@ -6106,8 +5943,6 @@ III — Exile this Saga, then return it to the battlefield under transformed und
 ---
 (Back): The Triwizard Cup</text>
       <related attach="transform">The Triwizard Cup</related>
-      <related>Clue</related>
-      <related> Treasure</related>
     </card>
     <card>
       <name>The Triwizard Cup</name>
@@ -6124,8 +5959,6 @@ Whenever a creature enters, it fights target creature its owner doesn’t contro
 ---
 (Front): Trial of the Goblet of Fire</text>
       <related attach="transform">Trial of the Goblet of Fire</related>
-      <related>Clue</related>
-      <related> Treasure</related>
     </card>
     <card>
       <name>Avada Kedavra</name>
@@ -6173,7 +6006,6 @@ Whenever you cast a bewitchment, you may remove a counter from a creature you co
 Deathtouch
 Whenever Lucius Malfoy or a creature it’s paired with attacks, create a Treasure token and surveil 1. 
 Partner with Narcissa Malfoy, Devoted Mother (When this creature enters, target player may put Narcissa Malfoy into their hand from their library, then shuffle.)</text>
-      <related>Treasure</related>
     </card>
     <card>
       <name>Tom Riddle, Prodigal Orphan</name>
@@ -6193,7 +6025,6 @@ Whenever a Horcrux you control enters, transform this card then learn.
 ---
 (Back): Voldemort, The Darklord</text>
       <related attach="transform">Voldemort, The Darklord</related>
-      <related>Snake</related>
     </card>
     <card>
       <name>Voldemort, The Darklord</name>
@@ -6212,7 +6043,6 @@ When Voldemort enters and whenever a Horcrux enters, each opponent faces a villa
 ---
 (Front): Tom Riddle, Prodigal Orphan</text>
       <related attach="transform">Tom Riddle, Prodigal Orphan</related>
-      <related>Snake</related>
     </card>
     <card>
       <name>Rescue of the Night Bus</name>
@@ -6232,7 +6062,6 @@ III — Exile this Saga, then return it to the battlefield transformed under you
 ---
 (Back): Leaky Cauldron, Wizardy Pub</text>
       <related attach="transform">Leaky Cauldron, Wizardy Pub</related>
-      <related>Treasure</related>
     </card>
     <card>
       <name>Leaky Cauldron, Wizardy Pub</name>
@@ -6249,7 +6078,6 @@ III — Exile this Saga, then return it to the battlefield transformed under you
 ---
 (Front): Rescue of the Night Bus</text>
       <related attach="transform">Rescue of the Night Bus</related>
-      <related>Treasure</related>
     </card>
     <card>
       <name>Siren Song of the Black Lake</name>
@@ -6270,8 +6098,6 @@ Exile this Saga, then return it to the battlefield transformed under your contro
 ---
 (Back): The Black Lake</text>
       <related attach="transform">The Black Lake</related>
-      <related>Treasure</related>
-      <related>reart</related>
     </card>
     <card>
       <name>The Black Lake</name>
@@ -6288,8 +6114,6 @@ Exile this Saga, then return it to the battlefield transformed under your contro
 ---
 (Front): Siren Song of the Black Lake</text>
       <related attach="transform">Siren Song of the Black Lake</related>
-      <related>Treasure</related>
-      <related>reart</related>
     </card>
     <card>
       <name>Detention with the Gamekeeper</name>
@@ -6309,10 +6133,6 @@ III — Create a token that is a copy of target nonhuman creature you control. T
 ---
 (Back): Forbidden Forest</text>
       <related attach="transform">Forbidden Forest</related>
-      <related>Centaur</related>
-      <related> Vampire</related>
-      <related>rework make tokens</related>
-      <related>reart</related>
     </card>
     <card>
       <name>Forbidden Forest</name>
@@ -6329,10 +6149,6 @@ III — Create a token that is a copy of target nonhuman creature you control. T
 ---
 (Front): Detention with the Gamekeeper</text>
       <related attach="transform">Detention with the Gamekeeper</related>
-      <related>Centaur</related>
-      <related> Vampire</related>
-      <related>rework make tokens</related>
-      <related>reart</related>
     </card>
     <card>
       <name>Welcome to the Wizarding World</name>
@@ -6353,9 +6169,6 @@ Exile this Saga, then return it to the battlefield transformed under your contro
 ---
 (Back): Diagon Alley, Center for all Wizarding Needs</text>
       <related attach="transform">Diagon Alley, Center for all Wizarding Needs</related>
-      <related>Student</related>
-      <related> Treasure</related>
-      <related>reart</related>
     </card>
     <card>
       <name>Diagon Alley, Center for all Wizarding Needs</name>
@@ -6372,9 +6185,6 @@ Exile this Saga, then return it to the battlefield transformed under your contro
 ---
 (Front): Welcome to the Wizarding World</text>
       <related attach="transform">Welcome to the Wizarding World</related>
-      <related>Student</related>
-      <related> Treasure</related>
-      <related>reart</related>
     </card>
     <card>
       <name>Parley with the Giants</name>
@@ -6395,10 +6205,6 @@ Atomhawk Design Ltd
 ---
 (Back): Beauxbatons, Academy of Magic</text>
       <related attach="transform">Beauxbatons, Academy of Magic</related>
-      <related>Treasure</related>
-      <related> Giant</related>
-      <related>rework make giant token</related>
-      <related>reart scrunched</related>
     </card>
     <card>
       <name>Beauxbatons, Academy of Magic</name>
@@ -6415,10 +6221,6 @@ Atomhawk Design Ltd
 ---
 (Front): Parley with the Giants</text>
       <related attach="transform">Parley with the Giants</related>
-      <related>Treasure</related>
-      <related> Giant</related>
-      <related>rework make giant token</related>
-      <related>reart scrunched</related>
     </card>
     <card>
       <name>Journey through the Vaults</name>
@@ -6438,9 +6240,6 @@ III — Search your library for an artifact card, reveal it, put that card on to
 ---
 (Back): Gringotts Wizarding Bank</text>
       <related attach="transform">Gringotts Wizarding Bank</related>
-      <related>Goblin</related>
-      <related> Treasure</related>
-      <related>reart scrunched</related>
     </card>
     <card>
       <name>Gringotts Wizarding Bank</name>
@@ -6457,9 +6256,6 @@ III — Search your library for an artifact card, reveal it, put that card on to
 ---
 (Front): Journey through the Vaults</text>
       <related attach="transform">Journey through the Vaults</related>
-      <related>Goblin</related>
-      <related> Treasure</related>
-      <related>reart scrunched</related>
     </card>
     <card>
       <name>Lessons with the Headmaster</name>
@@ -6515,9 +6311,6 @@ Exile this Saga, then return it to the battlefield transformed under your contro
 ---
 (Back): Hogwarts, School of Witchcraft &amp; Wizardry</text>
       <related attach="transform">Hogwarts, School of Witchcraft &amp; Wizardry</related>
-      <related>Student</related>
-      <related> Bird</related>
-      <related>reart scrunched</related>
     </card>
     <card>
       <name>Hogwarts, School of Witchcraft &amp; Wizardry</name>
@@ -6534,9 +6327,6 @@ Exile this Saga, then return it to the battlefield transformed under your contro
 ---
 (Front): Receipt of Hogwarts Letter</text>
       <related attach="transform">Receipt of Hogwarts Letter</related>
-      <related>Student</related>
-      <related> Bird</related>
-      <related>reart scrunched</related>
     </card>
     <card>
       <name>Traverse the Secret Passage</name>
@@ -6556,8 +6346,6 @@ III — Create a tapped Treasure token for each +1/+1 counter among creatures yo
 ---
 (Back): Hogsmeade, Isolated Wizard Village</text>
       <related attach="transform">Hogsmeade, Isolated Wizard Village</related>
-      <related>Map</related>
-      <related>reart scrunched</related>
     </card>
     <card>
       <name>Hogsmeade, Isolated Wizard Village</name>
@@ -6574,8 +6362,6 @@ III — Create a tapped Treasure token for each +1/+1 counter among creatures yo
 ---
 (Front): Traverse the Secret Passage</text>
       <related attach="transform">Traverse the Secret Passage</related>
-      <related>Map</related>
-      <related>reart scrunched</related>
     </card>
     <card>
       <name>Reawakining of the Dark Mark</name>
@@ -6746,8 +6532,6 @@ If you control a nontoken Potion, exile this spell, then cast it transformed.
 ---
 (Back): OWL Potions</text>
       <related attach="transform">OWL Potions</related>
-      <related>Potion</related>
-      <related>reart scrunched</related>
     </card>
     <card>
       <name>OWL Potions</name>
@@ -6770,8 +6554,6 @@ Whenever you activate a Recipe ability or Brew, copy that ability. You may choos
 ---
 (Front): Intro to Potions</text>
       <related attach="transform">Intro to Potions</related>
-      <related>Potion</related>
-      <related>reart scrunched</related>
     </card>
     <card>
       <name>Intro to Care of Magical Creatures</name>
@@ -6789,8 +6571,6 @@ If you control a Beast, exile this spell, then cast it transformed.
 ---
 (Back): OWL Care of Magical Creatures</text>
       <related attach="transform">OWL Care of Magical Creatures</related>
-      <related>Copy</related>
-      <related>reart scrunch</related>
     </card>
     <card>
       <name>OWL Care of Magical Creatures</name>
@@ -6813,8 +6593,6 @@ Whenever a player casts a Beast spell or activates an ability of a Beast, you ma
 ---
 (Front): Intro to Care of Magical Creatures</text>
       <related attach="transform">Intro to Care of Magical Creatures</related>
-      <related>Copy</related>
-      <related>reart scrunch</related>
     </card>
     <card>
       <name>Intro to History of Magic</name>
@@ -6832,7 +6610,6 @@ If you’ve cast a historic spell this turn, exile this spell, then cast it tran
 ---
 (Back): OWL History of Magic</text>
       <related attach="transform">OWL History of Magic</related>
-      <related>Professor Binns</related>
     </card>
     <card>
       <name>OWL History of Magic</name>
@@ -6856,7 +6633,6 @@ During each draw-step, instead of drawing a card, you may search your library fo
 ---
 (Front): Intro to History of Magic</text>
       <related attach="transform">Intro to History of Magic</related>
-      <related>Professor Binns</related>
     </card>
     <card>
       <name>Intro to Herbology</name>
@@ -6874,7 +6650,6 @@ If you control a Plant, exile this spell, then cast it transformed.
 ---
 (Back): OWL Herbology</text>
       <related attach="transform">OWL Herbology</related>
-      <related>Copy</related>
     </card>
     <card>
       <name>OWL Herbology</name>
@@ -6897,7 +6672,6 @@ Whenever a player casts a Plant spell, you may pay {2}. If you do, copy that spe
 ---
 (Front): Intro to Herbology</text>
       <related attach="transform">Intro to Herbology</related>
-      <related>Copy</related>
     </card>
     <card>
       <name>Dolores Umbridge, Lawfully Maddened Official</name>
@@ -6944,7 +6718,6 @@ Whenever this creature attacks, Beasts you control gain trample until end of tur
       <tablerow>2</tablerow>
       <text>Dedication to Plants 2/GG (Whenever this creature attacks or blocks, you may pay 2/GG. If you do it gets +1/+1 for each Plants you control until end of turn.)
 Whenever this creature attacks, you may pay 3 life. If you do create a token that is a copy of target Plant you control. It enters tapped and attacking.</text>
-      <related>Copy</related>
     </card>
     <card>
       <name>Charms Adept</name>
@@ -7119,7 +6892,6 @@ Whenever a creature becomes courageous, put an additional +1/+1 counter on it.</
       </prop>
       <tablerow>3</tablerow>
       <text>Create an Plant creature token named Mallowsweet. Its a 0/1 Plant creature token with defender, “{1}, {T}, Sacrifice a land: Search your library for up to two basic lands and put them onto the battlefield tapped, then shuffle.” and “{2}, {T}: Add an amount of mana of any one color equal to the number of land cards in your graveyard.”</text>
-      <related>Mallowsweet</related>
     </card>
     <card>
       <name>Join Us or Die!</name>
@@ -7164,7 +6936,6 @@ Minister’s Censorship deals damage equal to the number of Legendary creatures 
 2/U2/U: Choose one—
 • Create a 1/1 blue Book enchantment creature tokens with flying and “Whenever this token deals combat damage to a player sacrifice it. You draw a card.”
 • Search your library for a Book card, reveal it, put it to your hand, then shuffle.</text>
-      <related>Book</related>
     </card>
     <card>
       <name>Madam Hooch, Quidditch Referee</name>
@@ -7276,8 +7047,6 @@ If you control a nontoken artifact, exile this spell, then cast it transformed.
 ---
 (Back): NEWTS Alchemy</text>
       <related attach="transform">NEWTS Alchemy</related>
-      <related>Treasure</related>
-      <related>rework scrunched art pie break color fixing level 4 ability needs nerf</related>
     </card>
     <card>
       <name>NEWTS Alchemy</name>
@@ -7300,8 +7069,6 @@ Whenever a nontoken permanent you control leaves the battlefield, each opponent 
 ---
 (Front): Intro to Alchemy</text>
       <related attach="transform">Intro to Alchemy</related>
-      <related>Treasure</related>
-      <related>rework scrunched art pie break color fixing level 4 ability needs nerf</related>
     </card>
     <card>
       <name>Ministry Spy</name>
@@ -7383,7 +7150,7 @@ If you an opponent controls more nonland permanents then you, or this spell was 
     <!-->Tokens</-->
 
     <card>
-      <name>Harry Potter the Gathering Commander Decks</name>
+      <name>Harry Potter the Gathering Commander Decks WWHP</name>
       <set>WWHP</set>
       <prop>
         <colors></colors>
@@ -7406,7 +7173,7 @@ Theme: Bolstering creatures on the field</text>
       <token>1</token>
     </card>
     <card>
-      <name>WWHP Archetypes 2</name>
+      <name>WWHP Archetypes 2 WWHP</name>
       <set>WWHP</set>
       <prop>
         <colors></colors>
@@ -7434,7 +7201,7 @@ Squad X (As an additional cost to cast this spell, you may pay X any number of t
       <token>1</token>
     </card>
     <card>
-      <name>WWHP Archetypes 1</name>
+      <name>WWHP Archetypes 1 WWHP</name>
       <set>WWHP</set>
       <prop>
         <colors></colors>
@@ -7455,7 +7222,7 @@ Squad X (As an additional cost to cast this spell, you may pay X any number of t
       <token>1</token>
     </card>
     <card>
-      <name>Bird</name>
+      <name>Bird WWHP</name>
       <set>WWHP</set>
       <prop>
         <colors>W</colors>
@@ -7466,10 +7233,10 @@ Squad X (As an additional cost to cast this spell, you may pay X any number of t
       <tablerow>2</tablerow>
       <text>Flying</text>
       <token>1</token>
-      <reverse-related>Avifors</reverse-related>
+      <reverse-related>[Avifors]</reverse-related>
     </card>
     <card>
-      <name>Ministry Tribunal</name>
+      <name>Ministry Tribunal WWHP</name>
       <set>WWHP</set>
       <prop>
         <colors>W</colors>
@@ -7480,9 +7247,10 @@ Squad X (As an additional cost to cast this spell, you may pay X any number of t
       <tablerow>2</tablerow>
       <text>Vigilance</text>
       <token>1</token>
+      <reverse-related>[Trial of the Wizengamot // Creation of Dumoldore&apos;s Army]</reverse-related>
     </card>
     <card>
-      <name>Owl</name>
+      <name>Owl WWHP</name>
       <set>WWHP</set>
       <prop>
         <colors>W</colors>
@@ -7494,11 +7262,11 @@ Squad X (As an additional cost to cast this spell, you may pay X any number of t
       <text>Defender, Flying
 Whenever this token enters, investigate. (Create a Clue token. It’s an artifact with “{2}, Sacrifice this token: Draw a card.”)</text>
       <token>1</token>
-      <reverse-related>[Letters from No one}</reverse-related>
-      <reverse-related> {Reciept of Hogwarts Letter]</reverse-related>
+      <reverse-related>[Letters from No one]</reverse-related>
+      <reverse-related> [Reciept of Hogwarts Letter]</reverse-related>
     </card>
     <card>
-      <name>Student</name>
+      <name>Student WWHP</name>
       <set>WWHP</set>
       <prop>
         <colors>W</colors>
@@ -7509,9 +7277,10 @@ Whenever this token enters, investigate. (Create a Clue token. It’s an artifac
       <tablerow>2</tablerow>
       <text>Scholarly (Whenever you draw a card, this creature gets +1/+1 until end of turn. If this is the third time this ability has resolved this turn, this creature becomes studious if it isn’t already.)</text>
       <token>1</token>
+      <reverse-related count="x">[Trial of the Wizengamot // Creation of Dumoldore&apos;s Army]  [Receipt of Hogwarts Letter // Hogwarts, School of Witchcraft &amp; Wizardry]  [Welcome to the Wizarding World // Diagon Alley, Center for all Wizarding Needs]</reverse-related>
     </card>
     <card>
-      <name>Bubotuber Token</name>
+      <name>Bubotuber Token WWHP</name>
       <set>WWHP</set>
       <prop>
         <colors>BG</colors>
@@ -7524,9 +7293,11 @@ Whenever this token enters, investigate. (Create a Clue token. It’s an artifac
 Defender
 BG, {T}: Each opponent loses 1 life. You gain life equal to the amount lost this way.</text>
       <token>1</token>
+      <reverse-related>[Bubotuber]</reverse-related>
+      <reverse-related>reart</reverse-related>
     </card>
     <card>
-      <name>Book</name>
+      <name>Book WWHP</name>
       <set>WWHP</set>
       <prop>
         <colors>U</colors>
@@ -7538,9 +7309,10 @@ BG, {T}: Each opponent loses 1 life. You gain life equal to the amount lost this
       <text>Flying
 Whenever this token deals combat damage to a player sacrifice it. You draw a card.</text>
       <token>1</token>
+      <reverse-related>[Explore the Restricted Section // Hogwart&apos;s Hidden Map Room]  [Madam Pince, School Librarian]</reverse-related>
     </card>
     <card>
-      <name>Cornish Pixie Token</name>
+      <name>Cornish Pixie Token WWHP</name>
       <set>WWHP</set>
       <prop>
         <colors>U</colors>
@@ -7553,9 +7325,11 @@ Whenever this token deals combat damage to a player sacrifice it. You draw a car
 Flying
 When this creature enters, gain control of target artifact unless its controller pays {X} or pays X life. Where X is the number of creatures you control named Cornish Pixie. This affect triggers only once each turn.</text>
       <token>1</token>
+      <reverse-related>[Cornish Pixie]</reverse-related>
+      <reverse-related>reart</reverse-related>
     </card>
     <card>
-      <name>Doxy Token</name>
+      <name>Doxy Token WWHP</name>
       <set>WWHP</set>
       <prop>
         <colors>U</colors>
@@ -7569,9 +7343,11 @@ Flying, Defender
 Infect
 Whenever you are dealt damage, this creature loses defender until the end of your next turn.</text>
       <token>1</token>
+      <reverse-related>[Doxy]</reverse-related>
+      <reverse-related>reart</reverse-related>
     </card>
     <card>
-      <name>Swarm of Grindylows Token</name>
+      <name>Swarm of Grindylows Token WWHP</name>
       <set>WWHP</set>
       <prop>
         <colors>U</colors>
@@ -7583,9 +7359,11 @@ Whenever you are dealt damage, this creature loses defender until the end of you
       <text>Squad {12/U}
 Skulk (This creature can’t be blocked by creatures with greater power.)</text>
       <token>1</token>
+      <reverse-related>[Swarm of Grindylows]</reverse-related>
+      <reverse-related>reart</reverse-related>
     </card>
     <card>
-      <name>Death Eater Token</name>
+      <name>Death Eater Token WWHP</name>
       <set>WWHP</set>
       <prop>
         <colors>B</colors>
@@ -7597,9 +7375,10 @@ Skulk (This creature can’t be blocked by creatures with greater power.)</text>
       <text>Squad 2B
 Whenever you commit a crime, each opponent loses 1 life unless they pay {1}. You gain life equal to the amount lost this way.</text>
       <token>1</token>
+      <reverse-related>[Death Eater]</reverse-related>
     </card>
     <card>
-      <name>Inferi Hoard Token</name>
+      <name>Inferi Hoard Token WWHP</name>
       <set>WWHP</set>
       <prop>
         <colors>B</colors>
@@ -7611,9 +7390,10 @@ Whenever you commit a crime, each opponent loses 1 life unless they pay {1}. You
       <text>Squad—Pay 4 life
 Decayed. (This creature can’t block. When it attacks, sacrifice it at end of combat.)</text>
       <token>1</token>
+      <reverse-related>[Inferi Hoard]</reverse-related>
     </card>
     <card>
-      <name>Matagot Familiar Token</name>
+      <name>Matagot Familiar Token WWHP</name>
       <set>WWHP</set>
       <prop>
         <colors>B</colors>
@@ -7625,9 +7405,11 @@ Decayed. (This creature can’t block. When it attacks, sacrifice it at end of c
       <text>When this creature enters, each opponent loses 1 life, you gain life equal to the amount of life lost this way.
 Whenever a player commits a crime or casts a nonpermanent spell that targets this creature, create a token that’s a copy of this creature. This ability only triggers once each turn.  (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)</text>
       <token>1</token>
+      <reverse-related>[Matagot Familiar]</reverse-related>
+      <reverse-related>reart</reverse-related>
     </card>
     <card>
-      <name>Rat</name>
+      <name>Rat WWHP</name>
       <set>WWHP</set>
       <prop>
         <colors>B</colors>
@@ -7638,9 +7420,10 @@ Whenever a player commits a crime or casts a nonpermanent spell that targets thi
       <tablerow>2</tablerow>
       <text>{1}, {T}, Sacrifice this token: Create a Treasure token.</text>
       <token>1</token>
+      <reverse-related>[Snufflifores]</reverse-related>
     </card>
     <card>
-      <name>Skeleton</name>
+      <name>Skeleton WWHP</name>
       <set>WWHP</set>
       <prop>
         <colors>B</colors>
@@ -7651,9 +7434,10 @@ Whenever a player commits a crime or casts a nonpermanent spell that targets thi
       <tablerow>2</tablerow>
       <text></text>
       <token>1</token>
+      <reverse-related>[Durmstrang Prefect]  [Portkey to Little Hangleton Graveyard // Charmed Skeleton]</reverse-related>
     </card>
     <card>
-      <name>Snake</name>
+      <name>Snake WWHP</name>
       <set>WWHP</set>
       <prop>
         <colors>B</colors>
@@ -7664,9 +7448,10 @@ Whenever a player commits a crime or casts a nonpermanent spell that targets thi
       <tablerow>2</tablerow>
       <text>Deathtouch</text>
       <token>1</token>
+      <reverse-related count="3" count="x">[Serpensortia]  [Serpensortia]   [Tom Riddle, Prodigal Orphan // Voldemort, The Darklord] </reverse-related>
     </card>
     <card>
-      <name>Thestral Token</name>
+      <name>Thestral Token WWHP</name>
       <set>WWHP</set>
       <prop>
         <colors>B</colors>
@@ -7677,9 +7462,11 @@ Whenever a player commits a crime or casts a nonpermanent spell that targets thi
       <tablerow>2</tablerow>
       <text>Flying</text>
       <token>1</token>
+      <reverse-related>[Thestral]</reverse-related>
+      <reverse-related>reart</reverse-related>
     </card>
     <card>
-      <name>Wizard-Cracker Imp Token</name>
+      <name>Wizard-Cracker Imp Token WWHP</name>
       <set>WWHP</set>
       <prop>
         <colors>B</colors>
@@ -7691,9 +7478,10 @@ Whenever a player commits a crime or casts a nonpermanent spell that targets thi
       <text>Squad 1B
 1BB, {T}: Create a Wizard-Cracker token.</text>
       <token>1</token>
+      <reverse-related>[Wizard-Cracker Imp]</reverse-related>
     </card>
     <card>
-      <name>Blast Ended Screwt Token</name>
+      <name>Blast Ended Screwt Token WWHP</name>
       <set>WWHP</set>
       <prop>
         <colors>R</colors>
@@ -7707,9 +7495,10 @@ Trample, menace
 Whenever this creature deals combat damage to another creature, if you control this creature, tap the other creature and put a stun counter on it.
 2RRR, {T}: This creature deals damage equal to its power divided among any number of target permanents.</text>
       <token>1</token>
+      <reverse-related>[Blast Ended Screwt]</reverse-related>
     </card>
     <card>
-      <name>Dragon</name>
+      <name>Dragon WWHP</name>
       <set>WWHP</set>
       <prop>
         <colors>R</colors>
@@ -7721,9 +7510,10 @@ Whenever this creature deals combat damage to another creature, if you control t
       <text>Flying
 Fire breath — {R}: This creature gets +1/+0 until end of turn.</text>
       <token>1</token>
+      <reverse-related count="2" count="2">[Draconifors]  [Draconifors]   [Chinese Fireball] </reverse-related>
     </card>
     <card>
-      <name>Elemental</name>
+      <name>Elemental WWHP</name>
       <set>WWHP</set>
       <prop>
         <colors>R</colors>
@@ -7734,9 +7524,11 @@ Fire breath — {R}: This creature gets +1/+0 until end of turn.</text>
       <tablerow>2</tablerow>
       <text></text>
       <token>1</token>
+      <reverse-related>[Pestis Incendium, Fiendfyre]</reverse-related>
+      <reverse-related>reart</reverse-related>
     </card>
     <card>
-      <name>Red Cap Tower Guard Token</name>
+      <name>Red Cap Tower Guard Token WWHP</name>
       <set>WWHP</set>
       <prop>
         <colors>R</colors>
@@ -7749,9 +7541,10 @@ Fire breath — {R}: This creature gets +1/+0 until end of turn.</text>
 This creature and each token copy of it enter with a shield on them if you created at least one token copy.
 All creatures able to block this creature do so.</text>
       <token>1</token>
+      <reverse-related>[Red Cap Tower Guard]</reverse-related>
     </card>
     <card>
-      <name>Salamander Beast</name>
+      <name>Salamander Beast WWHP</name>
       <set>WWHP</set>
       <prop>
         <colors>R</colors>
@@ -7763,9 +7556,10 @@ All creatures able to block this creature do so.</text>
       <text>{R/G}, {T}: Regenerate this token.
 1R: This token gets +1/+0 until end of turn.</text>
       <token>1</token>
+      <reverse-related>[Amazonian Fire Salamander Pit]</reverse-related>
     </card>
     <card>
-      <name>Bowtruckle Token</name>
+      <name>Bowtruckle Token WWHP</name>
       <set>WWHP</set>
       <prop>
         <colors>G</colors>
@@ -7777,9 +7571,11 @@ All creatures able to block this creature do so.</text>
       <text>Squad 2G
 Whenever this creature enters, return up to one target enchantment or Incantation card from your graveyard to your hand.</text>
       <token>1</token>
+      <reverse-related>[Bowtruckle]</reverse-related>
+      <reverse-related>reart</reverse-related>
     </card>
     <card>
-      <name>Chinese Chomping Cabbage Token</name>
+      <name>Chinese Chomping Cabbage Token WWHP</name>
       <set>WWHP</set>
       <prop>
         <colors>G</colors>
@@ -7792,9 +7588,10 @@ Whenever this creature enters, return up to one target enchantment or Incantatio
 Squad {12/G}. 
 When this creature enters, if you paid GG to cast it, it deals damage equal to its power to any target.</text>
       <token>1</token>
+      <reverse-related>[Chinese Chomping Cabbage]</reverse-related>
     </card>
     <card>
-      <name>Fang</name>
+      <name>Fang WWHP</name>
       <set>WWHP</set>
       <prop>
         <colors>G</colors>
@@ -7805,9 +7602,11 @@ When this creature enters, if you paid GG to cast it, it deals damage equal to i
       <tablerow>2</tablerow>
       <text></text>
       <token>1</token>
+      <reverse-related>[Rubeus Hagrid, Keeper of Keys]</reverse-related>
+      <reverse-related>reart</reverse-related>
     </card>
     <card>
-      <name>Insect Manticore</name>
+      <name>Insect Manticore WWHP</name>
       <set>WWHP</set>
       <prop>
         <colors>G</colors>
@@ -7818,9 +7617,10 @@ When this creature enters, if you paid GG to cast it, it deals damage equal to i
       <tablerow>2</tablerow>
       <text>Deathtouch</text>
       <token>1</token>
+      <reverse-related count="3">[Insectoid Manticore Mother] </reverse-related>
     </card>
     <card>
-      <name>Mallowseet</name>
+      <name>Mallowseet WWHP</name>
       <set>WWHP</set>
       <prop>
         <colors>G</colors>
@@ -7833,9 +7633,10 @@ When this creature enters, if you paid GG to cast it, it deals damage equal to i
 {1}, {T}, Sacrifice a land: Search your library for up to two basic lands and put them onto the battlefield tapped, then shuffle.
 {2}, {T}: Add a number of one color of mana equal to the number of lands in your graveyard.</text>
       <token>1</token>
+      <reverse-related>[Merlin&apos;s Trial]</reverse-related>
     </card>
     <card>
-      <name>Puffskein Token</name>
+      <name>Puffskein Token WWHP</name>
       <set>WWHP</set>
       <prop>
         <colors>G</colors>
@@ -7847,9 +7648,11 @@ When this creature enters, if you paid GG to cast it, it deals damage equal to i
       <text>Squad 2/GG
 {T}: Puffskein deals 1 damage to target creature with flying.</text>
       <token>1</token>
+      <reverse-related>[Puffskein]</reverse-related>
+      <reverse-related>reart</reverse-related>
     </card>
     <card>
-      <name>Spider</name>
+      <name>Spider WWHP</name>
       <set>WWHP</set>
       <prop>
         <colors>G</colors>
@@ -7860,9 +7663,11 @@ When this creature enters, if you paid GG to cast it, it deals damage equal to i
       <tablerow>2</tablerow>
       <text>Reach (This creature can block creatures with flying.)</text>
       <token>1</token>
+      <reverse-related count="6">[Acromantula]  [Acromantula]   [Follow the Spiders // Weasley Ford Angela]</reverse-related>
+      <reverse-related>reart</reverse-related>
     </card>
     <card>
-      <name>Steeler Snail Token</name>
+      <name>Steeler Snail Token WWHP</name>
       <set>WWHP</set>
       <prop>
         <colors>G</colors>
@@ -7875,9 +7680,11 @@ When this creature enters, if you paid GG to cast it, it deals damage equal to i
 This creature enters tapped.
 When this creature enters, it deals damage equal to its power to target creature an opponent control.</text>
       <token>1</token>
+      <reverse-related>[Steeler Snail]</reverse-related>
+      <reverse-related>reart</reverse-related>
     </card>
     <card>
-      <name>Stoneback Dugbog Token</name>
+      <name>Stoneback Dugbog Token WWHP</name>
       <set>WWHP</set>
       <prop>
         <colors>G</colors>
@@ -7890,9 +7697,11 @@ When this creature enters, it deals damage equal to its power to target creature
 Flash
 Ward {1}</text>
       <token>1</token>
+      <reverse-related>[Stoneback Dugbog]</reverse-related>
+      <reverse-related>reart</reverse-related>
     </card>
     <card>
-      <name>Vampyr Mosp Token</name>
+      <name>Vampyr Mosp Token WWHP</name>
       <set>WWHP</set>
       <prop>
         <colors>G</colors>
@@ -7906,9 +7715,10 @@ Flying
 This token gets +1/+1 for each creature named Vampyr Mosp and costs {1} less to cast for each plant you control.
 Whenever a Plant creature you control enters, create a token copy of this creature. This ability triggers only once each turn.</text>
       <token>1</token>
+      <reverse-related>[Vampyr Mosp]</reverse-related>
     </card>
     <card>
-      <name>Worm</name>
+      <name>Worm WWHP</name>
       <set>WWHP</set>
       <prop>
         <colors>G</colors>
@@ -7919,9 +7729,11 @@ Whenever a Plant creature you control enters, create a token copy of this creatu
       <tablerow>2</tablerow>
       <text>{T}: Add one mana of any color.</text>
       <token>1</token>
+      <reverse-related>[Vermiculus]</reverse-related>
+      <reverse-related>reart</reverse-related>
     </card>
     <card>
-      <name>Snatcher</name>
+      <name>Snatcher WWHP</name>
       <set>WWHP</set>
       <prop>
         <colors>BR</colors>
@@ -7932,9 +7744,10 @@ Whenever a Plant creature you control enters, create a token copy of this creatu
       <tablerow>2</tablerow>
       <text></text>
       <token>1</token>
+      <reverse-related>[Fenrir Grayback]  [Snatcher Ambush]</reverse-related>
     </card>
     <card>
-      <name>Animated Torch Token</name>
+      <name>Animated Torch Token WWHP</name>
       <set>WWHP</set>
       <prop>
         <colors>R</colors>
@@ -7947,9 +7760,10 @@ Whenever a Plant creature you control enters, create a token copy of this creatu
 Flying, Defender
 {R}, {T}: This creature deals damage to target creature equal to the number of creatures that share a name with it. Activate only if you were dealt damage this turn. </text>
       <token>1</token>
+      <reverse-related>[Animated Torch]</reverse-related>
     </card>
     <card>
-      <name>Clue</name>
+      <name>Clue WWHP</name>
       <set>WWHP</set>
       <prop>
         <colors></colors>
@@ -7961,7 +7775,7 @@ Flying, Defender
       <token>1</token>
     </card>
     <card>
-      <name>Food</name>
+      <name>Food WWHP</name>
       <set>WWHP</set>
       <prop>
         <colors></colors>
@@ -7973,7 +7787,7 @@ Flying, Defender
       <token>1</token>
     </card>
     <card>
-      <name>Golem</name>
+      <name>Golem WWHP</name>
       <set>WWHP</set>
       <prop>
         <colors></colors>
@@ -7986,7 +7800,7 @@ Flying, Defender
       <token>1</token>
     </card>
     <card>
-      <name>Map</name>
+      <name>Map WWHP</name>
       <set>WWHP</set>
       <prop>
         <colors></colors>
@@ -7998,7 +7812,7 @@ Flying, Defender
       <token>1</token>
     </card>
     <card>
-      <name>Portkey</name>
+      <name>Portkey WWHP</name>
       <set>WWHP</set>
       <prop>
         <colors></colors>
@@ -8012,7 +7826,7 @@ Flying, Defender
       <reverse-related>reart</reverse-related>
     </card>
     <card>
-      <name>Potion</name>
+      <name>Potion WWHP</name>
       <set>WWHP</set>
       <prop>
         <colors></colors>
@@ -8024,7 +7838,7 @@ Flying, Defender
       <token>1</token>
     </card>
     <card>
-      <name>Treasure</name>
+      <name>Treasure WWHP</name>
       <set>WWHP</set>
       <prop>
         <colors></colors>
@@ -8036,7 +7850,7 @@ Flying, Defender
       <token>1</token>
     </card>
     <card>
-      <name>Wizard Cracker</name>
+      <name>Wizard Cracker WWHP</name>
       <set>WWHP</set>
       <prop>
         <colors></colors>
@@ -8046,9 +7860,10 @@ Flying, Defender
       <tablerow>1</tablerow>
       <text>{1}, {T}, Sacrifice this artifact: Put a -1/-1 counter on target creature.</text>
       <token>1</token>
+      <reverse-related>[Hogsmeade Potioneer]  [Wizard-Cracker Imp]  [Wizard-Cracker Imp Token]  [Letters from No One // Wizard School Supply List]</reverse-related>
     </card>
     <card>
-      <name>Copy</name>
+      <name>append Set Code To Tokens WWHP</name>
       <set>WWHP</set>
       <prop>
         <colors></colors>
@@ -8058,9 +7873,10 @@ Flying, Defender
       <tablerow>1</tablerow>
       <text>This token can be used to represent a copy of something else.</text>
       <token>1</token>
+      <reverse-related>[Novice Herbologist]  [Pomona Sprout, Head of Hufflepuff]  [Intro to Herbology // OWL Herbology]</reverse-related>
     </card>
     <card>
-      <name>Black Lake Merperson Token</name>
+      <name>Black Lake Merperson Token WWHP</name>
       <set>WWHP</set>
       <prop>
         <colors>U</colors>
@@ -8072,9 +7888,10 @@ Flying, Defender
       <text>Squad {22/U}
 Skulk</text>
       <token>1</token>
+      <reverse-related>[Black Lake Merperson]</reverse-related>
     </card>
     <card>
-      <name>Proffesor Binns</name>
+      <name>Proffesor Binns WWHP</name>
       <set>WWHP</set>
       <prop>
         <colors>WB</colors>
@@ -8085,6 +7902,7 @@ Skulk</text>
       <tablerow>2</tablerow>
       <text>Flying</text>
       <token>1</token>
+      <reverse-related>[Intro to History of Magic // OWL History of Magic]</reverse-related>
     </card>
 
   </cards>

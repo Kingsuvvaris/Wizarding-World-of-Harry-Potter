@@ -2992,11 +2992,23 @@
 	    },
 	    {
 	        "name": "Melding of Minds",
-	        "rarity": "rare",
 	        "mana_cost": "{X}{X}{U}{U}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Melding of Minds.png"
+	        },
+	        "printed names": {
+	            "en": "Melding of Minds"
+	        },
+	        "back": {
+	            "name": "Darklord Connection",
+	            "printed_names": {
+	                "en": "Darklord Connection"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Darklord Connection.png"
+	            },
+	            "type": "Enchantment — Saga Aura Curse "
 	        }
 	    },
 	    {
@@ -3523,7 +3535,7 @@
 	    },
 	    {
 	        "name": "Quirinus Quirrell, Traitorous Professor",
-	        "mana_cost": "{1}{U}{R}{W/B}",
+	        "mana_cost": "{U}{R}{W/B}",
 	        "type": "Legendary Creature — Human Wizard  ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Quirinus Quirrell, Traitorous Professor.png"
@@ -4647,12 +4659,12 @@
 	        }
 	    },
 	    {
-	        "name": "Copy",
+	        "name": ""append Set Code To Tokens"",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Token ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Copy.png"
+	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/"append Set Code To Tokens".png"
 	        }
 	    },
 	    {
