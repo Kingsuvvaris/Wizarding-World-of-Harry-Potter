@@ -4659,15 +4659,6 @@
 	        }
 	    },
 	    {
-	        "name": ""append Set Code To Tokens"",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Token ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/"append Set Code To Tokens".png"
-	        }
-	    },
-	    {
 	        "name": "Black Lake Merperson Token",
 	        "rarity": "common",
 	        "mana_cost": "",
