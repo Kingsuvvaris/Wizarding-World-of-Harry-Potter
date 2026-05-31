@@ -2364,12 +2364,12 @@
 	        }
 	    },
 	    {
-	        "name": "Localized Shopkeeper",
+	        "name": "Diagon Alley Shopkeeper",
 	        "rarity": "common",
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Localized Shopkeeper.png"
+	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Diagon Alley Shopkeeper.png"
 	        }
 	    },
 	    {
@@ -2772,12 +2772,12 @@
 	        }
 	    },
 	    {
-	        "name": "Hogsmeade Potioneer",
+	        "name": "Hogsmeade Shopkeeper",
 	        "rarity": "common",
 	        "mana_cost": "{3}{W}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Hogsmeade Potioneer.png"
+	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Hogsmeade Shopkeeper.png"
 	        }
 	    },
 	    {
@@ -3338,7 +3338,7 @@
 	    {
 	        "name": "Steeler Snail",
 	        "rarity": "common",
-	        "mana_cost": "{2}{G}{G}",
+	        "mana_cost": "{1}{G}{G}",
 	        "type": "Creature — Snail Beast ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Steeler Snail.png"
@@ -4272,428 +4272,464 @@
 	        }
 	    },
 	    {
-	        "name": "Bird",
+	        "name": "Bird Token WWHP;",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Token Creature — Owl ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Bird.png"
+	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Bird Token WWHP;.png"
 	        }
 	    },
 	    {
-	        "name": "Ministry Tribunal",
+	        "name": "Ministry Tribunal Token WWHP;",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Token Creature — Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Ministry Tribunal.png"
+	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Ministry Tribunal Token WWHP;.png"
 	        }
 	    },
 	    {
-	        "name": "Owl",
+	        "name": "OWL Token WWHP;",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Token Creature — Bird ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Owl.png"
+	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/OWL Token WWHP;.png"
 	        }
 	    },
 	    {
-	        "name": "Student",
+	        "name": "Student Token WWHP;",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Token Creature — Student ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Student.png"
+	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Student Token WWHP;.png"
 	        }
 	    },
 	    {
-	        "name": "Bubotuber Token",
+	        "name": "Bubotuber Token WWHP;",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Token Creature — Merfolk Beast ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Bubotuber Token.png"
+	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Bubotuber Token WWHP;.png"
 	        }
 	    },
 	    {
-	        "name": "Book",
+	        "name": "Book Token WWHP;",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Token Enchantment Creature — Incantation ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Book.png"
+	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Book Token WWHP;.png"
 	        }
 	    },
 	    {
-	        "name": "Cornish Pixie Token;",
+	        "name": "Cornish Pixie Token WWHP;",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Token Creature — Faerie Beast ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Cornish Pixie Token;.png"
+	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Cornish Pixie Token WWHP;.png"
 	        }
 	    },
 	    {
-	        "name": "Doxy Token;",
+	        "name": "Doxy Token WWHP;",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Token Creature — Faerie Beast ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Doxy Token;.png"
+	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Doxy Token WWHP;.png"
 	        }
 	    },
 	    {
-	        "name": "Swarm of Grindylows Token;",
+	        "name": "Swarm of Grindylows Token WWHP;",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Token Creature — Merfolk Beast ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Swarm of Grindylows Token;.png"
+	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Swarm of Grindylows Token WWHP;.png"
 	        }
 	    },
 	    {
-	        "name": "Death Eater Token;",
+	        "name": "Death Eater Token WWHP;",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Token Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Death Eater Token;.png"
+	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Death Eater Token WWHP;.png"
 	        }
 	    },
 	    {
-	        "name": "Inferi Hoard Token;",
+	        "name": "Inferi Hoard Token WWHP;",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Token Creature — Zombie Beast ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Inferi Hoard Token;.png"
+	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Inferi Hoard Token WWHP;.png"
 	        }
 	    },
 	    {
-	        "name": "Matagot Familiar Token;",
+	        "name": "Matagot Familiar Token WWHP;",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Token Creature — Cat Beast ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Matagot Familiar Token;.png"
+	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Matagot Familiar Token WWHP;.png"
 	        }
 	    },
 	    {
-	        "name": "Rat",
+	        "name": "Rat Token WWHP;",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Token Creature — Rat ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Rat.png"
+	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Rat Token WWHP;.png"
 	        }
 	    },
 	    {
-	        "name": "Skeleton",
+	        "name": "Skeleton Token WWHP;",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Token Creature — Skeleton ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Skeleton.png"
+	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Skeleton Token WWHP;.png"
 	        }
 	    },
 	    {
-	        "name": "Snake",
+	        "name": "Snake Token WWHP;",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Token Creature — Snake ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Snake.png"
+	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Snake Token WWHP;.png"
 	        }
 	    },
 	    {
-	        "name": "Thestral Token;",
+	        "name": "Thestral Token WWHP;",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Token Creature — Thestral ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Thestral Token;.png"
+	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Thestral Token WWHP;.png"
 	        }
 	    },
 	    {
-	        "name": "Wizard-Cracker Imp Token;",
+	        "name": "Wizard-Cracker Imp Token WWHP;",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Token Creature — Imp Beast ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Wizard-Cracker Imp Token;.png"
+	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Wizard-Cracker Imp Token WWHP;.png"
 	        }
 	    },
 	    {
-	        "name": "Blast Ended Screwt Token;",
+	        "name": "Blast Ended Screwt Token WWHP;",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Token Creature — Beast ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Blast Ended Screwt Token;.png"
+	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Blast Ended Screwt Token WWHP;.png"
 	        }
 	    },
 	    {
-	        "name": "Dragon",
+	        "name": "Dragon Token WWHP;",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Token Creature — Dragon ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Dragon.png"
+	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Dragon Token WWHP;.png"
 	        }
 	    },
 	    {
-	        "name": "Elemental",
+	        "name": "Elemental Token WWHP;",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Token Creature — Elemental ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Elemental.png"
+	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Elemental Token WWHP;.png"
 	        }
 	    },
 	    {
-	        "name": "Red Cap Tower Guard Token;",
+	        "name": "Red Cap Tower Guard Token WWHP;",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Token Creature — Goblin Beast ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Red Cap Tower Guard Token;.png"
+	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Red Cap Tower Guard Token WWHP;.png"
 	        }
 	    },
 	    {
-	        "name": "Salamander Beast",
+	        "name": "Salamander Beast Token WWHP;",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Token Creature — Salamander Beast ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Salamander Beast.png"
+	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Salamander Beast Token WWHP;.png"
 	        }
 	    },
 	    {
-	        "name": "Bowtruckle Token;",
+	        "name": "Bowtruckle Token WWHP;",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Token Creature — Plant Beast ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Bowtruckle Token;.png"
+	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Bowtruckle Token WWHP;.png"
 	        }
 	    },
 	    {
-	        "name": "Chinese Chomping Cabbage Token;",
+	        "name": "Chinese Chomping Cabbage Token WWHP;",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Token Creature — Plant Beast ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Chinese Chomping Cabbage Token;.png"
+	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Chinese Chomping Cabbage Token WWHP;.png"
 	        }
 	    },
 	    {
-	        "name": "Fang",
+	        "name": "Fang Token WWHP;",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Token Legendary Creature — Dog ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Fang.png"
+	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Fang Token WWHP;.png"
 	        }
 	    },
 	    {
-	        "name": "Insect Manticore",
+	        "name": "Insect Manticore Token WWHP;",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Token Creature — Insect Manticore ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Insect Manticore.png"
+	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Insect Manticore Token WWHP;.png"
 	        }
 	    },
 	    {
-	        "name": "Mallowseet",
+	        "name": "Mallowsweet Token WWHP;",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Token Creature — Plant ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Mallowseet.png"
+	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Mallowsweet Token WWHP;.png"
 	        }
 	    },
 	    {
-	        "name": "Puffskein Token;",
+	        "name": "Puffskein Token WWHP;",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Token Creature — Beast ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Puffskein Token;.png"
+	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Puffskein Token WWHP;.png"
 	        }
 	    },
 	    {
-	        "name": "Spider",
+	        "name": "Spider Token WWHP;",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Token Creature — Spider ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Spider.png"
+	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Spider Token WWHP;.png"
 	        }
 	    },
 	    {
-	        "name": "Steeler Snail Token;",
+	        "name": "Steeler Snail Token WWHP;",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Token Creature — Snail Beast ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Steeler Snail Token;.png"
+	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Steeler Snail Token WWHP;.png"
 	        }
 	    },
 	    {
-	        "name": "Stoneback Dugbog Token;",
+	        "name": "Stoneback Dugbog Token WWHP;",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Token Creature — Beast ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Stoneback Dugbog Token;.png"
+	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Stoneback Dugbog Token WWHP;.png"
 	        }
 	    },
 	    {
-	        "name": "Vampyr Mosp Token;",
+	        "name": "Vampyr Mosp Token WWHP;",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Token Creature — Insect Beast ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Vampyr Mosp Token;.png"
+	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Vampyr Mosp Token WWHP;.png"
 	        }
 	    },
 	    {
-	        "name": "Worm",
+	        "name": "Worm Token WWHP;",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Token Creature — Worm ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Worm.png"
+	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Worm Token WWHP;.png"
 	        }
 	    },
 	    {
-	        "name": "Snatcher",
+	        "name": "Snatcher Token WWHP;",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Token Creature — Werewolf Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Snatcher.png"
+	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Snatcher Token WWHP;.png"
 	        }
 	    },
 	    {
-	        "name": "Animated Torch Token;",
+	        "name": "Animated Torch Token WWHP;",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Token Artifact Creature — Beast Incantation ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Animated Torch Token;.png"
+	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Animated Torch Token WWHP;.png"
 	        }
 	    },
 	    {
-	        "name": "Clue",
+	        "name": "Clue Token WWHP;",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Token Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Clue.png"
+	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Clue Token WWHP;.png"
 	        }
 	    },
 	    {
-	        "name": "Food",
+	        "name": "Food Token WWHP;",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Token Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Food.png"
+	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Food Token WWHP;.png"
 	        }
 	    },
 	    {
-	        "name": "Golem",
+	        "name": "Golem Token WWHP;",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Token Artifact Creature — Golem ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Golem.png"
+	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Golem Token WWHP;.png"
 	        }
 	    },
 	    {
-	        "name": "Map",
+	        "name": "Map Token WWHP;",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Token Artifact — Map ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Map.png"
+	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Map Token WWHP;.png"
 	        }
 	    },
 	    {
-	        "name": "Portkey",
+	        "name": "Portkey Token WWHP;",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Token Artifact — Portkey ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Portkey.png"
+	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Portkey Token WWHP;.png"
 	        }
 	    },
 	    {
-	        "name": "Potion",
+	        "name": "Potion Token WWHP;",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Token Artifact — Potion ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Potion.png"
+	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Potion Token WWHP;.png"
 	        }
 	    },
 	    {
-	        "name": "Treasure",
+	        "name": "Treasure Token WWHP;",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Token Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Treasure.png"
+	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Treasure Token WWHP;.png"
 	        }
 	    },
 	    {
-	        "name": "Wizard Cracker",
+	        "name": "Wizard-Cracker Token WWHP;",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Token Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Wizard Cracker.png"
+	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Wizard-Cracker Token WWHP;.png"
 	        }
 	    },
 	    {
-	        "name": "Copy",
+	        "name": "Copy Token WWHP;",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Token ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Copy.png"
+	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Copy Token WWHP;.png"
 	        }
 	    },
 	    {
-	        "name": "Black Lake Merperson Token",
+	        "name": "Black Lake Merperson Token WWHP",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Token Creature — Merfolk Beast ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Black Lake Merperson Token.png"
+	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Black Lake Merperson Token WWHP.png"
 	        }
 	    },
 	    {
-	        "name": "Proffesor Binns",
+	        "name": "Proffesor Binns Token WWHP;",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Token Legendary Creature — Spirit ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Proffesor Binns.png"
+	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Proffesor Binns Token WWHP;.png"
 	        }
 	    },
 	    {
-	        "name": "Antonin Dolohov's Curse",
+	        "name": "Agustus Rookwood, Unspeakable Spy",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}{B}{R}",
+	        "type": "Legendary Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Agustus Rookwood, Unspeakable Spy.png"
+	        }
+	    },
+	    {
+	        "name": "Rabbit Token WWHP;",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Rabbit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Rabbit Token WWHP;.png"
+	        }
+	    },
+	    {
+	        "name": "Dementor of Azkaban Token WWHP;",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Dementor of Azkaban Token WWHP;.png"
+	        }
+	    },
+	    {
+	        "name": "Giant Token WWHP;",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Giant ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Giant Token WWHP;.png"
+	        }
+	    },
+	    {
+	        "name": "Dolohov's Curse",
 	        "mana_cost": "{3}{U}{U}{B}{B}{R}{R}",
 	        "type": "Legendary Sorcery — Lesson  ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Antonin Dolohov's Curse.png"
+	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Dolohov's Curse.png"
 	        },
 	        "printed names": {
-	            "en": "Antonin Dolohov's Curse"
+	            "en": "Dolohov's Curse"
 	        },
 	        "back": {
 	            "name": "Antonin Dolohov, Sadistic Follower",
@@ -4704,15 +4740,6 @@
 	                "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Antonin Dolohov, Sadistic Follower.png"
 	            },
 	            "type": "Legendary Creature — Human Wizard "
-	        }
-	    },
-	    {
-	        "name": "Agustus Rookwood, Unspeakable Spy",
-	        "rarity": "uncommon",
-	        "mana_cost": "{1}{U}{B}{R}",
-	        "type": "Legendary Creature — Human Wizard ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Agustus Rookwood, Unspeakable Spy.png"
 	        }
 	    }
 	]
@@ -4790,7 +4817,7 @@
 		2 Reawakining of the Dark Mark
 		2 Dolores Umbridge, Lawfully Maddened Official
 		2 Merlin's Trial
-		2 Antonin Dolohov's Curse
+		2 Dolohov's Curse
 		1 Imperio
 		1 Watchful Observer
 		1 Severus Snape, Head of Slytherin House
@@ -5009,7 +5036,7 @@
 		4 Wingardium Leviosa
 		4 Dragon Hatchling
 		4 Folio Magi
-		4 Localized Shopkeeper
+		4 Diagon Alley Shopkeeper
 		4 Potioneer Duelist
 		4 Saint Mungos Healing Potioneer
 		4 Apothecary Shopkeeper
@@ -5033,7 +5060,7 @@
 		4 Polyjuice Potion
 		4 Stink Pellet
 		4 Wolfsbane Potion
-		4 Hogsmeade Potioneer
+		4 Hogsmeade Shopkeeper
 		4 Knockturn Alley Potioneer
 		4 Currupted Potioneer
 		4 Durmstrang Potioneer
