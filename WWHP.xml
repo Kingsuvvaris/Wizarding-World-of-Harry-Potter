@@ -116,7 +116,7 @@ Equip {2}
       </prop>
       <tablerow>2</tablerow>
       <text>First strike, deathtouch
-As long as you control a creature with “Voldemort” in its name, Nagini gets +0/+2 and has “Ward—pay 3 life.”  (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 3 life.” .)
+As long as you control a creature with “Voldemort” in its name, Nagini gets +0/+2 and has “Ward—pay 3 life.” 
 Whenever a wizard you control enters, if you don’t control a creature with “Voldemort in its name, transform Nagini.
 ---
 (Front): Nagini, Maladictus Performer</text>
@@ -522,7 +522,7 @@ Whenever a creature attacks you or a permanent you protect, that creature gets -
 Equipped creature has flying
 Equip {2}
 [level 2+] Equipped creature has haste.
-[level 4+] Equipped creature gets +1/+1 and has ward {2}. (Whenever this permanent becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+[level 4+] Equipped creature gets +1/+1 and has ward {2}.
 LEVEL 2+
 
 LEVEL 4+
@@ -866,7 +866,7 @@ As long as Luna Lovegood is studious, she has first strike and “Whenever a cre
       <tablerow>2</tablerow>
       <text>Activated abilities of Potions you control cost {2} less to activate.
 Whenever you sacrifice an artifact, Draco Malfoy gets +1/+1 until end of turn.
-Sacrifice one or more artifacts: Search your library for an Bewitchment card with mana value less than or equal to the total mana value of artifacts sacrificed this way, exile that card. You may cast it this turn without paying its mana cost until end of turn. (Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)</text>
+Sacrifice one or more artifacts: Search your library for an Bewitchment*s card with mana value less than or equal to the total mana value of artifacts sacrificed this way, exile that card. You may cast it this turn without paying its mana cost until end of turn. (Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)</text>
     </card>
     <card>
       <name>Harry Potter, The Boy Who Lived</name>
@@ -1713,7 +1713,7 @@ If you control a legendary creature, exile this spell, then cast it transformed.
       <text>When this Case enters, investigate for each artifact you control.  (To investigate, create a Clue token. It’s an artifact with “{2}, Sacrifice this token: Draw a card.”)
 Whenever you sacrifice a Clue, scry 1.
 To solve — You control seven or more artifacts. (If unsolved, solve at the beginning of your end step.)
-Solved —Whenever an opponent casts a Bewitchment, you may draw a card and target player mills a card. (Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)
+Solved —Whenever an opponent casts a Bewitchment*s, you may draw a card and target player mills a card. (Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)
 ---
 (Front): Secrets of the Dark Lord</text>
       <related attach="transform">Secrets of the Dark Lord</related>
@@ -2712,7 +2712,7 @@ XX: This creature gets +X/+0 until end of turn.</text>
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Equipped creature has “Whenever you commit a crime, put a +1/+1 counter on this creature and it gains ward {X} until end of turn where  X is the number of times you committed a crime this turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime. Whenever this permanent becomes the target of a spell or ability an opponent controls, counter it unless that player pays {X}.)
+      <text>Equipped creature has “Whenever you commit a crime, put a +1/+1 counter on this creature and it gains ward {X} until end of turn where  X is the number of times you committed a crime this turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)
 Equip {5}
 Equip Wizard UBR</text>
     </card>
@@ -2981,7 +2981,7 @@ Whenever a creature you control deals combat damage to this Siege, put a stun co
       </prop>
       <tablerow>2</tablerow>
       <text>Deathtouch, trample
-Ward—Put a stun counter on a tapped creature they control. (Whenever this permanent becomes the target of a spell or ability an opponent controls, counter it unless that player puts a stun counter on a tapped creature they control.)
+Ward—Put a stun counter on a tapped creature they control.
 Permanents your opponents control lose indestructible and can’t have or gain indestructible.
 Whenever Salazar Slytherin’s Basilisk attacks and isn’t blocked, it gets +5/+0 until end of turn.
 ---
@@ -4046,8 +4046,8 @@ When Albus Dumbledore dies or is exiled, return him to the battlefield transform
 You draw an additional card during each of your draw steps for each legendary creature you control.
 [+1]: Scry 1. Then you may reveal the top card of your library. If it is an incantation you may cast it without paying its mana cost otherwise add it to your hand.
 [-3]: Put a shield counter on each creature you control (If it would be dealt damage or destroyed, remove a shield counter from it instead.)
-[-7]: You get an emblem with “ Creatures you control have ward X where X is equal to their toughness. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays X.)
-[-7]: You get an emblem with “ Creatures you control have ward X where X is equal to their toughness. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays X.)
+[-7]: You get an emblem with “ Creatures you control have ward X where X is equal to their toughness.
+[-7]: You get an emblem with “ Creatures you control have ward X where X is equal to their toughness.
 ---
 (Front): Albus Dumbledore</text>
       <related attach="transform">Albus Dumbledore</related>
@@ -4446,7 +4446,7 @@ Recipe — 2/R2/R, Sacrifice this potion: The next time a nonpermanent spell or 
       </prop>
       <tablerow>1</tablerow>
       <text>Whenever a Potion enters, you may remove a counter from target creature or player.
-Recipe — 2/G2/G, {T}, Sacrifice this Potion: Target creature gains ward {1} and cannot be destroyed by creatures with deathtouch until end of turn. Untap that creature. (Whenever this permanent becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)</text>
+Recipe — 2/G2/G, {T}, Sacrifice this Potion: Target creature gains ward {1} and cannot be destroyed by creatures with deathtouch until end of turn. Untap that creature.</text>
     </card>
     <card>
       <name>Felix Felicis</name>
@@ -5226,7 +5226,7 @@ Target player sacrifices an enchantment. Then that player creates a 1/1 black Ra
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
-Flying, Ward {1} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)
+Flying, ward {1}
 When this creature enters, each opponent reveals their hand. You may choose a non land card from each opponents hand. That player discards the chosen card.</text>
     </card>
     <card>
@@ -5639,7 +5639,7 @@ When this creature enters, it deals damage equal to its power to target creature
       <tablerow>2</tablerow>
       <text>Squad GG (As an additional cost to cast this spell, you may pay GG any number of times. When this creature enters, create that many tokens that are copies of it.)
 Flash
-Ward {1} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)</text>
+Ward {1}</text>
       <related>Stoneback Dugbog Token</related>
     </card>
     <card>
