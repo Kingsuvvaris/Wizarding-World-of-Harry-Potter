@@ -1687,13 +1687,13 @@ The first time you commit a crime each turn, if this artifact isn’t attached t
       <set rarity="rare" splitterPath="/Secrets of the Dark Lord.jpg" >WWHP</set>
       <prop>
         <colors>U</colors>
-        <manacost>2UU</manacost>
-        <cmc>4</cmc>
+        <manacost>3UU</manacost>
+        <cmc>5</cmc>
         <type>Sorcery - Lesson </type>
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Look at target players hand and the top four cards of their library. You may put cards from that player’s library back in any order. Investigate three times. (To investigate, create a Clue token. It’s an artifact with “{2}, Sacrifice this token: Draw a card.”)
+      <text>Look at target players hand and the top three cards of their library. You may put cards from that player’s library back in any order. Investigate three times. (To investigate, create a Clue token. It’s an artifact with “{2}, Sacrifice this token: Draw a card.”)
 If you control a legendary creature, exile this spell, then cast it transformed.
 ---
 (Back): Hunt for the Divided Souls</text>
@@ -1706,14 +1706,14 @@ If you control a legendary creature, exile this spell, then cast it transformed.
       <prop>
         <colors>U</colors>
         <manacost></manacost>
-        <cmc>4</cmc>
+        <cmc>5</cmc>
         <type>Enchantment - Case </type>
       </prop>
       <tablerow>1</tablerow>
       <text>When this Case enters, investigate for each artifact you control.  (To investigate, create a Clue token. It’s an artifact with “{2}, Sacrifice this token: Draw a card.”)
 Whenever you sacrifice a Clue, scry 1.
 To solve — You control seven or more artifacts. (If unsolved, solve at the beginning of your end step.)
-Solved — Sacrifice each Clue you control (min seven): Return each nonland permanent that you don’t control to its owners hand. Permanents you control gain indestructible and hexproof until end of turn. Then sacrifice this Case. 
+Solved —Whenever an opponent casts a Bewitchment, you may draw a card and target player mills a card. (Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)
 ---
 (Front): Secrets of the Dark Lord</text>
       <related attach="transform">Secrets of the Dark Lord</related>
