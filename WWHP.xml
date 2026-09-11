@@ -135,7 +135,7 @@ Whenever a wizard you control enters, if you don’t control a creature with “
       </prop>
       <tablerow>2</tablerow>
       <text>Werewolf creatures you control attack each combat if able.
-UBR, {T}: Fenrir Grayback deals damage equal to its power to any target nonartifact creature. Then each opponent faces a villainous choice — You create a 2/2 black and red Werewolf Wizard creature token named Snatcher with haste and a Treasure token, or that player distributes a number of -1/-1 counters among creatures they control equal to Fenrir Grayback’s power.</text>
+UBR, {T}: Fenrir Grayback deals damage equal to its power to any target nonartifact creature. Then each opponent faces a villainous choice — You create a 2/2 BR Werewolf Wizard creature token named Snatcher with haste and a Treasure token, or that player distributes a number of -1/-1 counters among creatures they control equal to Fenrir Grayback’s power.</text>
       <related>Snatcher Token WWHP</related>
       <related>Treasure Token WWHP</related>
     </card>
@@ -644,7 +644,7 @@ Counter target spell or ability unless its controller pays {1} plus an additiona
       </prop>
       <tablerow>1</tablerow>
       <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-I — Create three 1/1 black Wizard creature tokens with “Whenever you cast an instant or sorcery each opponent loses 1 life. You gain life equal to the amount lost this way..
+I — Create three 1/1 {B} Wizard creature tokens with “Whenever you cast an instant or sorcery each opponent loses 1 life. You gain life equal to the amount lost this way..
 II — Search your library for an artifact, battle, instant, or sorcery card, reveal it, put it into your hand, then shuffle.
 III — Exile this Saga. Then return it to the battlefield transformed. When it enters, attach it to target creature you control.
 ---
@@ -832,7 +832,7 @@ Bewitchment storm (When you cast this spell, copy it for each bewitchment spell 
       </prop>
       <tablerow>2</tablerow>
       <text>{U}, {T}: Draw a card, then discard a card.
-1B, {T}, Exile a card from a graveyard: Create a 2/1 black Skeleton creature token.
+1B, {T}, Exile a card from a graveyard: Create a 2/1 {B} Skeleton creature token.
 2R, {T}: Target creature can’t block this turn. This creature deals 1 damage that creature’s controller.</text>
       <related>Skeleton WWHP</related>
     </card>
@@ -983,7 +983,7 @@ Whenever this creature Saddles a Wizard, that creature loses all abilities and g
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Whenever an opponent casts a creature spell, they may pay {2/U}. If they don’t, create a 1/1 red Salamander Beast token with “{R/G}, {T}: Regenerate this token.” and “1R: This token gets +1/+0 until end of turn.” (The next time a regenerating creature would be destroyed this turn, instead tap it, remove it from combat, and heal all damage on it.)</text>
+      <text>Whenever an opponent casts a creature spell, they may pay {2/U}. If they don’t, create a 1/1 {R} Salamander Beast token with “{R/G}, {T}: Regenerate this token.” and “1R: This token gets +1/+0 until end of turn.” (The next time a regenerating creature would be destroyed this turn, instead tap it, remove it from combat, and heal all damage on it.)</text>
       <related>Salamander Beast</related>
     </card>
     <card>
@@ -1089,7 +1089,7 @@ Equip {5}
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Whenever you sacrifice a nontoken Potion, you may pay {1}. When you do, shuffle that card from your graveyard into your library, then create a Potion token. (It’s an artifact token with “{2}, {T}, Sacrifice this Potion: You may activate a Recipe ability of a permanent you control without paying its activation cost.”)
+      <text>Whenever you sacrifice a nontoken Potion, you may pay {1}. When you do, shuffle that card from your graveyard into your library, then create a Potion token. (It’s an artifact  with “{2}, {T}, Sacrifice this token: You may activate a Recipe ability of a permanent you control without paying its activation cost.”)
 {4}, {T}: Activate a Recipe ability of a permanent you control without paying its activation cost.</text>
     </card>
     <card>
@@ -1347,7 +1347,7 @@ Incantations enchanted player casts can’t target you, spells, permanent, abili
       </prop>
       <tablerow>3</tablerow>
       <text>Alteration {G} (You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield for {G}.)
-Create a 1/1 black Snake creature token with deathtouch. If Serpensortia was cast from the battlefield, create three of them instead.</text>
+Create a 1/1 {B} Snake creature token with deathtouch. If Serpensortia was cast from the battlefield, create three of them instead.</text>
       <related>Snake WWHP</related>
     </card>
     <card>
@@ -1612,7 +1612,7 @@ Bewitchment storm (When you cast this spell, copy it for each bewitchment spell 
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Destroy up to one target creature with flying or reach. Its controller creates a 0/1 green Worm creature token with “{T}: Add one mana of any color.”
+      <text>Destroy up to one target creature with flying or reach. Its controller creates a 0/1 {G} Worm creature token with “{T}: Add one mana of any color.”
 Bewitchment storm (When you cast this spell, copy it for each bewitchment spell cast before it this turn. You may choose new targets for the copies. Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)</text>
       <related>Worm</related>
       <related>reart watermark</related>
@@ -1733,7 +1733,7 @@ Solved —Whenever an opponent casts a Bewitchment*s, you may draw a card and ta
       <text>When this Siege enters, choose one—
 • Search your library for a historic card or Incantation card , reveal it, put it into to your hand, then shuffle.
 • Brew.
-Whenever a player casts a creature spell, create a 1/1 blue Book enchantment creature token with flying and “Whenever this token deals combat damage to a player sacrifice it. You draw a card.”
+Whenever a player casts a creature spell, create a 1/1 {U} Book enchantment creature token with flying and “Whenever this token deals combat damage to a player sacrifice it. You draw a card.”
 ---
 (Back): Hogwart&apos;s Hidden Map Room</text>
       <related attach="transform">Hogwart&apos;s Hidden Map Room</related>
@@ -1897,7 +1897,7 @@ When this Siege enters, create X 2/1 black Skeleton creature tokens.
       <tablerow>2</tablerow>
       <text>Skeleton creatures you control have deathtouch.
 Nonlegendary creatures you control have base power and toughness 2/1 and are Skeletons in addition to their other types.
-Whenever an opponent casts a spell except during their turn, create a 2/1 black Skeleton creature token.
+Whenever an opponent casts a spell except during their turn, create a 2/1 {B} Skeleton creature token.
 ---
 (Front): Portkey to Little Hangleton Graveyard</text>
       <related attach="transform">Portkey to Little Hangleton Graveyard</related>
@@ -1984,7 +1984,7 @@ Whenever this Siege is dealt damage, create that many Treasure tokens.
       <tablerow>2</tablerow>
       <text>Flying, haste
 This creature gets +1/+1 for each Treasure you control.
-Whenever this creature attacks create X tapped Treasure tokens, where X is the number of creatures that saddled it this turn to a maximum of 8. If this creature is saddled, it deals damage equal to its power to up to one nonplayer target.
+Whenever this creature attacks create X tapped Treasure tokens, where X is the number of creatures that saddled it this turn to a maximum of 8. If this creature is saddled, it deals damage equal to its power to up to one non-player target.
 Saddle 8
 ---
 (Front): Journey Beneath Gringotts Bank</text>
@@ -2211,8 +2211,8 @@ If an opponent controls a creature, exile this spell, then cast it transformed.
         <type>Enchantment - Case </type>
       </prop>
       <tablerow>1</tablerow>
-      <text>Whenever one or more creatures leave the battlefield, investigate (Create a Clue token. It’s an artifact with “{2}, Sacrifice this token: Draw a card.”)
-To solve —  You control seven or more Clue tokens.  (If unsolved, solve at the beginning of your end step.)
+      <text>If a card would be put into an opponent’s graveyard from anywhere, instead exile it with a void counter. Then investigate and you may sacrifice a creature with a petrification counter on it. If you do, choose a card an opponent owns with a void counter on it and cast it as though it had flash without paying its mana cost. (To investigate, create a Clue token. It’s an artifact with “{2}, Sacrifice this token: Draw a card.”)
+To solve —  Your opponents own seven or more or more cards in exile.  (If unsolved, solve at the beginning of your end step.)
 Solved — 2B: Put a petrification counter on target creature. (Creatures with petrification counters become colorless artifacts in addition to their other types, can’t attack and their activated abilities can’t be activated.)
 ---
 (Front): Writing on the Wall</text>
@@ -3033,7 +3033,7 @@ As long as  Cho Chang is studious, she has flying and during your turn and whene
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-At the beginning of your upkeep, you may pay UU. If you do, reveal the top card of your library. If a Bewitchment card is revealed this way, draw two cards. Otherwise, draw a card. (Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)</text>
+At the beginning of your upkeep, you may pay UU. If you do, reveal the top card of your library. If a Bewitchment*s card is revealed this way, draw two cards. Otherwise, draw a card. (Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)</text>
     </card>
     <card>
       <name>Erumpent Horn</name>
@@ -3104,7 +3104,7 @@ Skulk (This creature can’t be blocked by creatures with greater power.)</text>
         <colors>G</colors>
         <manacost>X1G</manacost>
         <cmc>2</cmc>
-        <type>Artifact Creature - Beast Incantation Book </type>
+        <type>Artifact Creature - Beast  Book Lesson </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
       </prop>
@@ -3211,7 +3211,7 @@ Equip Wizard RGW</text>
         <colors></colors>
         <manacost>4</manacost>
         <cmc>4</cmc>
-        <type>Artifact - Book </type>
+        <type>Artifact - Book Lesson </type>
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
@@ -3235,7 +3235,7 @@ LEVEL 3+
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Equipped creature has absorb 1. When damage is prevented this way, create a tapped Potion token. (If a source would deal damage to that creature, prevent 1 of that damage. A Potion token is an artifact with “{2}, {T}, Sacrifice this Potion: You may activate a Recipe ability of a permanent you control without paying its activation cost.”)
+      <text>Equipped creature has absorb 1. When damage is prevented this way, create a tapped Potion token. (If a source would deal damage to that creature, prevent 1 of that damage. A Potion token is an artifact with “{2}, {T}, Sacrifice this token: You may activate a Recipe ability of a permanent you control without paying its activation cost.”)
 Whenever a Potion you control enters, you may attach this Equipment to target creature you control.
 Equip {2}</text>
     </card>
@@ -3251,7 +3251,7 @@ Equip {2}</text>
       </prop>
       <tablerow>1</tablerow>
       <text>(As a Siege enters, choose an opponent to protect it. You and others can attack it. )
-Whenever this Siege or a nontoken creature you own is dealt damage, create a 1/2 green Spider creature token with reach.
+Whenever this Siege or a nontoken creature you own is dealt damage, create a 1/2 {G} Spider creature token with reach.
 ---
 (Back): Weasley Ford Angela</text>
       <related attach="transform">Weasley Ford Angela</related>
@@ -3290,7 +3290,7 @@ Crew 2
       </prop>
       <tablerow>1</tablerow>
       <text>At the beginning of each opponents upkeep, target creature that player controls cannot block until the end of your next turn. 
-2R: Create a 2/2 black and red Wizard Werewolf creature token named Snatcher with haste. If {B} was paid to activate this ability, create two of those token instead. This ability costs {1} less for each creature that died this turn.</text>
+2R: Create a 2/2 BR Wizard Werewolf creature token named Snatcher with haste. If {B} was paid to activate this ability, create two of those token instead. This ability costs {1} less for each creature that died this turn.</text>
       <related>Snatcher</related>
     </card>
     <card>
@@ -3351,7 +3351,7 @@ Whenever The Dursleys attack, put a -1/-1 counter on target creature defending p
       </prop>
       <tablerow>3</tablerow>
       <text>Alteration 3W (You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield for 3W.)
-Create two 1/1 white Bird creature tokens with flying. If this spell was cast from the battlefield, create four of those tokens instead.</text>
+Create two 1/1 {W} Bird creature tokens with flying. If this spell was cast from the battlefield, create four of those tokens instead.</text>
       <related count="2">Bird WWHP</related>
       <related count="4"> Bird WWHP</related>
     </card>
@@ -3827,7 +3827,7 @@ When Sybill Trelawney has thirteen or more divination counters on her, exile her
       </prop>
       <tablerow>1</tablerow>
       <text>(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it is defeated, exile it, then cast it transformed.)
-When this battle enters, create X Ministry Tribunal tokens. (They’re 2/2 white wizard creature tokens with vigilance.)
+When this battle enters, create X Ministry Tribunal tokens. (They’re 2/2 {W} wizard creature tokens with vigilance.)
 ---
 (Back): Creation of Dumoldore&apos;s Army</text>
       <related attach="transform">Creation of Dumoldore&apos;s Army</related>
@@ -3930,7 +3930,7 @@ At the beginning of your combat, goad target creature unless its controller pays
         <colors>U</colors>
         <manacost>3UUU</manacost>
         <cmc>6</cmc>
-        <type>Artifact - Book </type>
+        <type>Artifact - Book Lesson </type>
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
@@ -3987,7 +3987,7 @@ Enchantment — Create a Clue token.</text>
         <colors>W</colors>
         <manacost>3WWW</manacost>
         <cmc>6</cmc>
-        <type>Artifact - Equipment Book </type>
+        <type>Artifact - Equipment Book Lesson </type>
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
@@ -4065,7 +4065,7 @@ You draw an additional card during each of your draw steps for each legendary cr
       </prop>
       <tablerow>2</tablerow>
       <text>Scholarly (Whenever you draw a card, this creature gets +1/+1 until end of turn. If this is the third time this ability has resolved this turn, this creature becomes studious if it isn’t already.)
-At the beginning of your upkeep, if this creature is studious, create a Potion token. (It’s an artifact token with “{2}, {T}, Sacrifice this Potion: You may activate a Recipe ability of a permanent you control without paying its activation cost.”)
+At the beginning of your upkeep, if this creature is studious, create a Potion token. (It’s an artifact  with “{2}, {T}, Sacrifice this token: You may activate a Recipe ability of a permanent you control without paying its activation cost.”)
 Recipe — 3R, {T}, Put a stun counter on this creature: This creature deals damage equal to its power to another target creature.</text>
       <related>Potion</related>
     </card>
@@ -4081,7 +4081,7 @@ Recipe — 3R, {T}, Put a stun counter on this creature: This creature deals dam
         <pt>0/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>{2}, {T}: Create a tapped Potion token. (It’s an artifact token with “{2}, {T}, Sacrifice this Potion: You may activate a Recipe ability of a permanent you control without paying its activation cost.”)
+      <text>{2}, {T}: Create a tapped Potion token. (It’s an artifact  with “{2}, {T}, Sacrifice this token: You may activate a Recipe ability of a permanent you control without paying its activation cost.”)
 Recipe — 4W: Creatures you control get +1/+1 until end of turn.</text>
       <related>Potion</related>
     </card>
@@ -4113,7 +4113,7 @@ Recipe — {3}, {T}: Scry 1, then activate the recipe of another permanent you c
       </prop>
       <tablerow>2</tablerow>
       <text>Gallant 1 (Whenever a creature an opponent controls with greater power enters or attacks and this creature isn’t courageous, put a +1/+1 counter on this creature and it becomes courageous.)
-When this creature becomes courageous, create a Potion token. (It’s an artifact token with “{2}, {T}, Sacrifice this Potion: You may activate a Recipe ability of a permanent you control without paying its activation cost.”)</text>
+When this creature becomes courageous, create a Potion token. (It’s an artifact  with “{2}, {T}, Sacrifice this token: You may activate a Recipe ability of a permanent you control without paying its activation cost.”)</text>
       <related>Potion</related>
     </card>
     <card>
@@ -4175,7 +4175,7 @@ Whenever an opponent makes a villainous choice, you draw two cards, then discard
         <pt>1/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>{B}, {T}, Pay 2 life: Remove a counter from target artifact or creature. When a counter is removed from a permanent you control this way, you may put a counter of the same kind on another target permanent. If you do, create a Potion token. (It’s an artifact token with “{2}, {T}, Sacrifice this Potion: You may activate a Recipe ability of a permanent you control without paying its activation cost.”)
+      <text>{B}, {T}, Pay 2 life: Remove a counter from target artifact or creature. When a counter is removed from a permanent you control this way, you may put a counter of the same kind on another target permanent. If you do, create a Potion token. (It’s an artifact  with “{2}, {T}, Sacrifice this token: You may activate a Recipe ability of a permanent you control without paying its activation cost.”)
 Recipe— {B}, Pay 2 life: Untap this creature.</text>
       <related>Potion</related>
     </card>
@@ -4191,7 +4191,7 @@ Recipe— {B}, Pay 2 life: Untap this creature.</text>
         <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever you commit a crime, you may tap this creature. If you do, create a tapped Potion token. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime. A Potion token is an artifact with “{2}, {T}, Sacrifice this Potion: You may activate a Recipe ability of a permanent you control without paying its activation cost.”)
+      <text>Whenever you commit a crime, you may tap this creature. If you do, create a tapped Potion token. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime. A Potion token is an artifact with “{2}, {T}, Sacrifice this token: You may activate a Recipe ability of a permanent you control without paying its activation cost.”)
 Whenever a creature dies, untap this creature.
 Recipe — Draw a card. You lose 2 life.</text>
       <related>Potion</related>
@@ -4449,7 +4449,7 @@ Recipe — 2/R2/R, Sacrifice this potion: The next time a nonpermanent spell or 
 Recipe — 2/G2/G, {T}, Sacrifice this Potion: Target creature gains ward {1} and cannot be destroyed by creatures with deathtouch until end of turn. Untap that creature.</text>
     </card>
     <card>
-      <name>Felix Felicis</name>
+      <name>Felix Felicis, Liquid Luck</name>
       <set rarity="mythic">WWHP</set>
       <prop>
         <colors>G</colors>
@@ -4501,7 +4501,7 @@ Recipe — {2/G}, Sacrifice this Potion: You gain 5 life</text>
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Whenever a nontoken Potion enters, you may pay {2}. If you do create a Potion token. (It’s an artifact token with “{2}, {T}, Sacrifice this Potion: You may activate a Recipe ability of a permanent you control without paying its activation cost.”)
+      <text>Whenever a nontoken Potion enters, you may pay {2}. If you do create a Potion token. (It’s an artifact  with “{2}, {T}, Sacrifice this token: You may activate a Recipe ability of a permanent you control without paying its activation cost.”)
 Recipe — 22/B2/G, {T}, Sacrifice this Potion: Brew. (You may reveal a Potion card you own from outside the game and put it into your hand, or exile the top card of your library. You may play it this turn.)</text>
     </card>
     <card>
@@ -4543,7 +4543,7 @@ Recipe — 2/W2/W, {T}, Sacrifice this potion:  The next time you would lose the
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>When this Potion enters, create a tapped Potion token. (It’s an artifact token with “{2}, {T}, Sacrifice this Potion: You may activate a Recipe ability of a permanent you control without paying its activation cost.”)
+      <text>When this Potion enters, create a tapped Potion token. (It’s an artifact  with “{2}, {T}, Sacrifice this token: You may activate a Recipe ability of a permanent you control without paying its activation cost.”)
 Recipe — U/BU/BU/B, Sacrifice this Potion: The next time one or more creatures you control enter this turn, put an islandwalk or swampwalk counter on one of them.</text>
     </card>
     <card>
@@ -4680,7 +4680,7 @@ Whenever you brew, if this creature is paired, you may mill a card. If you do, c
         <pt>1/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever a creature you control dies, create a Potion token. (It’s an artifact token with “{2}, {T}, Sacrifice this Potion: You may activate a Recipe ability of a permanent you control without paying its activation cost.”)
+      <text>Whenever a creature you control dies, create a Potion token. (It’s an artifact  with “{2}, {T}, Sacrifice this token: You may activate a Recipe ability of a permanent you control without paying its activation cost.”)
 Recipe — {T}: Each opponent loses 1 life. You gain 1 life for each player who lost life this way.</text>
       <related>Potion</related>
     </card>
@@ -4696,7 +4696,7 @@ Recipe — {T}: Each opponent loses 1 life. You gain 1 life for each player who 
         <pt>3/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When this creature enters, target opponent faces a villainous choice — You create a Potion token or creatures they control can’t block this turn. (It’s an artifact token with “{2}, {T}, Sacrifice this Potion: You may activate a Recipe ability of a permanent you control without paying its activation cost.”)</text>
+      <text>When this creature enters, target opponent faces a villainous choice — You create a Potion token or creatures they control can’t block this turn. (It’s an artifact  with “{2}, {T}, Sacrifice this token: You may activate a Recipe ability of a permanent you control without paying its activation cost.”)</text>
       <related>Potion</related>
     </card>
     <card>
@@ -5180,7 +5180,7 @@ Bewitchment storm (When you cast this spell, copy it for each bewitchment spell 
       <tablerow>2</tablerow>
       <text>Flying
 Alteration GG (You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield for GG.)
-If this creature was cast from the battlefield or is destroyed while face down, target opponent sacrifices a wizard they control.</text>
+If this creature was cast from the battlefield or is destroyed while face down, target opponent sacrifices a creature they control.</text>
     </card>
     <card>
       <name>Matagot Familiar</name>
@@ -5210,7 +5210,7 @@ Whenever a player commits a crime or casts a nonpermanent spell that targets thi
       </prop>
       <tablerow>3</tablerow>
       <text>Alteration 1GG (You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield for 1GG.)
-Target player sacrifices an enchantment. Then that player creates a 1/1 black Rat creature token with “{1}, {T}, Sacrifice this token: Create a Treasure token.” If this spell was cast from the battlefield, the targeted player may sacrifice an artifact instead.</text>
+Target player sacrifices an enchantment. Then that player creates a 1/1 {B} Rat creature token with “{1}, {T}, Sacrifice this token: Create a Treasure token.” If this spell was cast from the battlefield, the targeted player may sacrifice an artifact instead.</text>
       <related>Rat WWHP</related>
     </card>
     <card>
@@ -5271,7 +5271,7 @@ Whenever enchanted opponent activates an equip ability or an Equipment an oppone
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-When this creature enters you may pay 2RR, create two 2/2 red Dragon creature tokens with flying and “{R}: This creature gets +1/+0 until end of turn.”</text>
+When this creature enters you may pay 2RR, create two 2/2 {R} Dragon creature tokens with flying and “{R}: This creature gets +1/+0 until end of turn.”</text>
       <related>Dragon WWHP</related>
     </card>
     <card>
@@ -5316,7 +5316,7 @@ Bewitchment storm (When you cast this spell, copy it for each bewitchment spell 
       </prop>
       <tablerow>3</tablerow>
       <text>Alteration 2W (You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield for 2W.)
-Create a 2/2 red Dragon creature token with Flying and “{R}: This creature gets +1/+0 until end of turn.” If this spell was cast from the battlefield create two of those token instead and tokens created this way gain haste.</text>
+Create a 2/2 {R} Dragon creature token with Flying and “{R}: This creature gets +1/+0 until end of turn.” If this spell was cast from the battlefield create two of those token instead and tokens created this way gain haste.</text>
       <related>Dragon WWHP</related>
     </card>
     <card>
@@ -5492,7 +5492,7 @@ Whenever a creature enters under an opponents control, you this creature fights 
       </prop>
       <tablerow>2</tablerow>
       <text>Deathtouch, trample, reach
-GGG: Create three 1/1 green Insect Manticore creature tokens with deathtouch. Activate only as a sorcery.
+GGG: Create three 1/1 {G} Insect Manticore creature tokens with deathtouch. Activate only as a sorcery.
 Whenever a creature with Manticore in its name deals damage to a creature, if that creature dies, the controller of that creature loses life equal to that creatures power unless they pay {2}.</text>
       <related>Insect Manticore</related>
     </card>
@@ -5524,7 +5524,7 @@ Combat damage dealt to Justin Flinchfletchly is dealt in the form of stun counte
       </prop>
       <tablerow>3</tablerow>
       <text>Alteration 1G (You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield for 1G.)
-Search your library for a land card, reveal it, put it onto the battlefield tapped, then shuffle. If this spell was cast from the battlefield, untap that land and create a 1/1 green Rabbit creature token for each Forest you control.</text>
+Search your library for a land card, reveal it, put it onto the battlefield tapped, then shuffle. If this spell was cast from the battlefield, untap that land and create a 1/1 {G} Rabbit creature token for each Forest you control.</text>
       <related>Rabbit</related>
     </card>
     <card>
@@ -5589,7 +5589,7 @@ Whenever you sacrifice a Food, put a +1/+1 counter on up to one target creature.
       <tablerow>2</tablerow>
       <text>Gallant 1 (Whenever a creature an opponent controls with greater power enters or attacks and this creature isn’t courageous, put a +1/+1 counter on this creature and it becomes courageous.)
 Courageous creatures you control get +0/+2.
-Whenever Rubeus Hagrid becomes courageous, create a Legendary 2/2 green Dog creature token named Fang. then choose one—
+Whenever Rubeus Hagrid becomes courageous, create a Legendary 2/2 {G} Dog creature token named Fang. then choose one—
 • Search your library for a Beast or basic land card, reveal it, put it into your hand, then shuffle.
 • Learn (you may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)</text>
       <related>Fang</related>
@@ -5768,7 +5768,7 @@ As long as Neville Longbottem is courageous, whenever another another creature y
       </prop>
       <tablerow>2</tablerow>
       <text>Scholarly
-As long as Olympe Maxime is studious, she has trample, double-strike and whenever she deals combat damage to a player, draw a card.
+As long as Olympe Maxime is studious, she has trample, double-strike and whenever she deals combat damage to a player, learn.
 You have no maximum hand size.</text>
     </card>
     <card>
@@ -5942,7 +5942,7 @@ When Molly and Arthur Weasley become courageous, Molly and Arthur Weasley deals 
       </prop>
       <tablerow>1</tablerow>
       <text>Each spell a player that doesn’t control “  a creature with “Voldemort” in its name.” casts costs {1} more to cast for each other spell that player has cast this turn.
-Creatures that don’t share a color with equipped creature get -4/-4.
+During the beginning of each players upkeep, creatures that are a color that equipped creature isn’t, put a -1/-1 counter on it. 
 Equip {4}</text>
     </card>
     <card>
@@ -5957,15 +5957,15 @@ Equip {4}</text>
       </prop>
       <tablerow>3</tablerow>
       <text>If you control a legendary creature, creatures you control gain protection from red until end of turn.
-Pestis Incendium, Fiendfyre deals X damage to each creature, where X is the number of other bewitchments you’ve cast this turn plus one. If X is equal to or greater than {4}, this spell can’t be countered. When a creature dealt damage this way dies this turn, create an X/X red Elemental creature token. Exile this incantation. (Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)</text>
+Until this spell resolves, creatures lose indestructible and can’t gain or have indestructible. Pestis Incendium, Fiendfyre deals X damage to each creature, where X is the number of other bewitchments you’ve cast this turn plus one. If X is equal to or greater than {4}, this spell can’t be countered. When a creature dealt damage this way dies this turn, create an X/X {R} Elemental creature token. Exile this incantation. (Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)</text>
       <related>Elemental WWHP</related>
     </card>
     <card>
       <name>Quirinus Quirrell, Traitorous Professor</name>
       <set rarity="uncommon" splitterPath="/Quirinus Quirrell, Traitorous Professor.jpg" >WWHP</set>
       <prop>
-        <colors>WUBR</colors>
-        <manacost>URW/B</manacost>
+        <colors>UR</colors>
+        <manacost>URU/R</manacost>
         <cmc>3</cmc>
         <type>Legendary Creature - Human Wizard  </type>
         <maintype>Creature</maintype>
@@ -6047,8 +6047,8 @@ UBR, {T}, Pay 2 life: Transform Peter Pettigrew, Traitorus Maruader.
       </prop>
       <tablerow>2</tablerow>
       <text>Reach, Trample, Deathtouch
-Whenever this creature is dealt combat damage, create a 1/2 green Spider creature tokens with reach and deathtouch. 
-When this creature dies, create six 1/2 green Spider creature tokens with reach and deathtouch. </text>
+Whenever this creature is dealt combat damage, create a 1/2 {G} Spider creature tokens with reach and deathtouch. 
+When this creature dies, create six 1/2 {G} Spider creature tokens with reach and deathtouch. </text>
       <related>Spider WWHP</related>
     </card>
     <card>
@@ -6063,7 +6063,7 @@ When this creature dies, create six 1/2 green Spider creature tokens with reach 
       </prop>
       <tablerow>1</tablerow>
       <text>(As this Saga enters and after your draw step, add a lore counter.)
-I — Put a +1/+1 counter on each creature you control. Then investigate for each creature you control. (To investigate, create a Clue token. It’s an artifact with “{2}, Sacrifice this token: Draw a card.”)
+I — Put a +1/+1 counter on each creature you control. Then investigate for each creature you control.
 II — For each creature you control, you may have it fight up to one target creature you don’t control. 
 III — Exile this Saga, then return it to the battlefield under transformed under your control.
 ---
@@ -6082,7 +6082,7 @@ III — Exile this Saga, then return it to the battlefield under transformed und
       </prop>
       <tablerow>1</tablerow>
       <text>When The Triwizard Cup enters, search your library for a creature card with mana value equal to or less then the number of Clue tokens you control, reveal it and put it onto the battlefield tapped, then shuffle.
-Whenever a creature enters, it fights target creature its owner doesn’t control. Then the owner of the creature that doesn’t die this way creates a Treasure token. (Each deals damage equal to its power to the other.)
+Whenever a creature enters, it fights target creature its owner doesn’t control. Then the owner of the creature that doesn’t die this way creates a Treasure token. 
 ---
 (Front): Trial of the Goblet of Fire</text>
       <related attach="transform">Trial of the Goblet of Fire</related>
@@ -6149,7 +6149,7 @@ Partner with Narcissa Malfoy, Devoted Mother (When this creature enters, target 
       </prop>
       <tablerow>2</tablerow>
       <text>As Tom Riddle enters, if you control a Horcrux, you may have him enter transformed.
-Whenever a player loses 4 or more life, each opponent faces a villainous choice — You gain that much life, or you create X 1/1 black Snake creature token with deathtouch, where X is equal to the amount of life lost this way.
+Whenever a player loses 4 or more life, each opponent faces a villainous choice — You gain that much life, or you create X 1/1 {B} Snake creature token with deathtouch, where X is equal to the amount of life lost this way.
 Whenever a Horcrux you control enters, transform this card then learn.
 ---
 (Back): Voldemort, The Darklord</text>
@@ -6336,7 +6336,7 @@ Exile this Saga, then return it to the battlefield transformed under your contro
       <tablerow>1</tablerow>
       <text>(As this Saga enters and after your draw step, add a lore counter.)
 I, II — Create X tapped Treasure tokens, where X is the number of creatures you control plus one.
-III — Create a tapped */* red and white Giant creature token with “This token’s power and toughness are equal to the number of Treasure tokens you control.” and “{T}: This creature deals damage equal to its power to another target creature.” Then exile this Saga and return it to the battlefield transformed under your control.
+III — Create a tapped */* RW Giant creature token with “This token’s power and toughness are equal to the number of Treasure tokens you control.” and “{T}: This creature deals damage equal to its power to another target creature.” Then exile this Saga and return it to the battlefield transformed under your control.
 	
 Atomhawk Design Ltd
 ---
@@ -6371,7 +6371,7 @@ Atomhawk Design Ltd
       </prop>
       <tablerow>1</tablerow>
       <text>(As this Saga enters and after your draw step, add a lore counter.)
-I — Create a 1/1 red Goblin creature token. Then create a number of 1/1 red Goblin tokens equal to half the number of lands you control rounded down.
+I — Create a 1/1 {R} Goblin creature token. Then create a number of 1/1 {R} Goblin tokens equal to half the number of lands you control rounded down.
 II — Then create a tapped treasure token for each Goblin you control plus one.
 III — Search your library for an artifact card, reveal it, put that card on top, then shuffle and exile this Saga, then return it to the battlefield transformed under your control.
 ---
@@ -6674,7 +6674,7 @@ Whenever a player makes a Villainous choice, they face that choice an additional
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Create X Potion tokens, where X is the number of nontoken Potions you control plus one. (They’re artifact tokens with “{2}, {T}, Sacrifice this Potion: You may activate a Recipe ability of a permanent you control without paying its activation cost.”)
+      <text>Create X Potion tokens, where X is the number of nontoken Potions you control plus one. (They’re artifact  with “{2}, {T}, Sacrifice this token: You may activate a Recipe ability of a permanent you control without paying its activation cost.”)
 If you control a nontoken Potion, exile this spell, then cast it transformed.
 ---
 (Back): OWL Potions</text>
@@ -6695,7 +6695,7 @@ Abilities of Potions you control cost {1} less to activate.
 2G/UG/U: Level 2
 Whenever you sacrifice a Potion, put a +1/+1 counter on a creature you control.
 3G/UG/U: Level 3
-At the beginning of your end step, create a Potion token. (It’s an artifact token with “{2}, {T}, Sacrifice this Potion: You may activate a Recipe ability of a permanent you control without paying its activation cost.”)
+At the beginning of your end step, create a Potion token. (It’s an artifact  with “{2}, {T}, Sacrifice this token: You may activate a Recipe ability of a permanent you control without paying its activation cost.”)
 4G/UG/U: Level 4
 Whenever you activate a Recipe ability or Brew, copy that ability. You may choose new targets for the copy.
 ---
@@ -7039,7 +7039,7 @@ Whenever a creature becomes courageous, put an additional +1/+1 counter on it.</
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Create a Mallowsweet token. Its a 0/1 Plant creature token with defender, “{1}, {T}, Sacrifice a land: Search your library for up to two basic lands and put them onto the battlefield tapped, then shuffle.” and “{2}, {T}: Add an amount of mana of any one color equal to the number of land cards in your graveyard.”</text>
+      <text>Create a Mallowsweet token. Its a 0/1 {G} Plant creature token with defender, “{1}, {T}, Sacrifice a land: Search your library for up to two basic lands and put them onto the battlefield tapped, then shuffle.” and “{2}, {T}: Add an amount of mana of any one color equal to the number of land cards in your graveyard.”</text>
       <related>Mallowsweet</related>
     </card>
     <card>
@@ -7068,24 +7068,6 @@ Whenever a creature becomes courageous, put an additional +1/+1 counter on it.</
       <tablerow>3</tablerow>
       <text>This spell costs {1} less to cast for each Legendary creature your control.
 Minister’s Censorship deals damage equal to the number of Legendary creatures on the battlefield to each creature target player controls. If a creature dies this way, exile it instead. While each one is exiled, its owner may cast it for its mana value plus {2}.</text>
-    </card>
-    <card>
-      <name>Madam Pince, School Librarian</name>
-      <set rarity="mythic">WWHP</set>
-      <prop>
-        <colors>WUR</colors>
-        <manacost>1URW</manacost>
-        <cmc>4</cmc>
-        <type>Legendary Creature - Human Wizard </type>
-        <maintype>Creature</maintype>
-        <pt>0/2</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Whenever a creature you control enters, if it has Scholarly, you may learn. (you may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)
-2/U2/U: Choose one—
-• Create a 1/1 blue Book enchantment creature tokens with flying and “Whenever this token deals combat damage to a player sacrifice it. You draw a card.”
-• Search your library for a Book card, reveal it, put it to your hand, then shuffle.</text>
-      <related>Book</related>
     </card>
     <card>
       <name>Madam Hooch, Quidditch Referee</name>
@@ -7296,4 +7278,22 @@ Bewitchment storm (When you cast this spell, copy it for each bewitchment spell 
 ---
 (Front): Dolohov&apos;s Curse</text>
       <related attach="transform">Dolohov&apos;s Curse</related>
+    </card>
+    <card>
+      <name>Madam Pince, School Librarian</name>
+      <set rarity="mythic">WWHP</set>
+      <prop>
+        <colors>WUR</colors>
+        <manacost>1URW</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>0/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a creature you control enters, if it has Scholarly, you may learn. (you may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)
+2/U2/U: Choose one—
+• Create a 1/1 {U} Book enchantment creature tokens with flying and “Whenever this token deals combat damage to a player sacrifice it. You draw a card.”
+• Search your library for a Book card, reveal it, put it to your hand or learn. If your library was searched this way, shuffle it.</text>
+      <related>Book</related>
     </card>
