@@ -1850,7 +1850,7 @@
 	    {
 	        "name": "The Monster Book of Monsters",
 	        "mana_cost": "{X}{1}{G}",
-	        "type": "Artifact Creature — Beast Incantation Book ",
+	        "type": "Artifact Creature — Beast  Book Lesson ",
 	        "image_uris": {
 	            "en": "raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/The%20Monster%20Book%20of%20Monsters.png"
 	        },
@@ -1917,7 +1917,7 @@
 	        "name": "Standard Book of Spells",
 	        "rarity": "common",
 	        "mana_cost": "{4}",
-	        "type": "Artifact — Book ",
+	        "type": "Artifact — Book Lesson ",
 	        "image_uris": {
 	            "en": "raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Standard%20Book%20of%20Spells.png"
 	        }
@@ -2345,7 +2345,7 @@
 	    {
 	        "name": "Folio Magi",
 	        "mana_cost": "{3}{U}{U}{U}",
-	        "type": "Artifact — Book ",
+	        "type": "Artifact — Book Lesson ",
 	        "image_uris": {
 	            "en": "raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Folio%20Magi.png"
 	        },
@@ -2376,7 +2376,7 @@
 	        "name": "Enchanted Field Guide",
 	        "rarity": "rare",
 	        "mana_cost": "{3}{W}{W}{W}",
-	        "type": "Artifact — Equipment Book ",
+	        "type": "Artifact — Equipment Book Lesson ",
 	        "image_uris": {
 	            "en": "raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Enchanted%20Field%20Guide.png"
 	        }
@@ -2655,12 +2655,12 @@
 	        }
 	    },
 	    {
-	        "name": "Felix Felicis",
+	        "name": "Felix Felicis, Liquid Luck",
 	        "rarity": "mythic",
 	        "mana_cost": "{2/G}{2/G}{2/G}{2/G}",
 	        "type": "Artifact — Potion ",
 	        "image_uris": {
-	            "en": "raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Felix%20Felicis.png"
+	            "en": "raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Felix%20Felicis%2c%20Liquid%20Luck.png"
 	        }
 	    },
 	    {
@@ -3535,7 +3535,7 @@
 	    },
 	    {
 	        "name": "Quirinus Quirrell, Traitorous Professor",
-	        "mana_cost": "{U}{R}{W/B}",
+	        "mana_cost": "{U}{R}{U/R}",
 	        "type": "Legendary Creature — Human Wizard  ",
 	        "image_uris": {
 	            "en": "raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Quirinus%20Quirrell%2c%20Traitorous%20Professor.png"
@@ -4164,15 +4164,6 @@
 	        }
 	    },
 	    {
-	        "name": "Madam Pince, School Librarian",
-	        "rarity": "mythic",
-	        "mana_cost": "{1}{U}{R}{W}",
-	        "type": "Legendary Creature — Human Wizard ",
-	        "image_uris": {
-	            "en": "raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Madam%20Pince%2c%20School%20Librarian.png"
-	        }
-	    },
-	    {
 	        "name": "Madam Hooch, Quidditch Referee",
 	        "rarity": "uncommon",
 	        "mana_cost": "{1}{U}{R}{W}",
@@ -4741,6 +4732,15 @@
 	            },
 	            "type": "Legendary Creature — Human Wizard "
 	        }
+	    },
+	    {
+	        "name": "Madam Pince, School Librarian",
+	        "rarity": "mythic",
+	        "mana_cost": "{1}{U}{R}{W}",
+	        "type": "Legendary Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "raw.githubusercontent.com/Kingsuvvaris/Wizarding-World-of-Harry-Potter/refs/heads/main/WWHP-files/Madam%20Pince%2c%20School%20Librarian.png"
+	        }
 	    }
 	]
 	[RareSlot(2)]
@@ -4840,7 +4840,7 @@
 		1 Wideye Potion
 		1 Sleeping Potion
 		1 Drink of Dispair
-		1 Felix Felicis
+		1 Felix Felicis, Liquid Luck
 		1 Zou Wu Beast
 		1 Black Lake Giant Squid
 		1 Desert Thunderbird
