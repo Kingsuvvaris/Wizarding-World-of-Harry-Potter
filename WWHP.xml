@@ -287,7 +287,7 @@ All creatures able to block this creature do so.</text>
     </card>
     <card>
       <name>Puffskein</name>
-      <set rarity="common" num="204">WWHP</set>
+      <set rarity="common" num="205">WWHP</set>
       <prop>
         <colors>G</colors>
         <manacost>G</manacost>
@@ -1133,7 +1133,7 @@ Bewitchment storm</text>
     </card>
     <card>
       <name>Melofors</name>
-      <set rarity="common" num="198">WWHP</set>
+      <set rarity="common" num="199">WWHP</set>
       <prop>
         <colors>G</colors>
         <manacost>2G</manacost>
@@ -1163,7 +1163,7 @@ When Erkling dies, exile it. Until end of turn, you may cast it from exile face 
     </card>
     <card>
       <name>Herbivicous</name>
-      <set rarity="common" num="193">WWHP</set>
+      <set rarity="common" num="194">WWHP</set>
       <prop>
         <colors>G</colors>
         <manacost>1G</manacost>
@@ -1310,7 +1310,7 @@ Whenever you are dealt damage, this creature loses defender until the end of you
     </card>
     <card>
       <name>Point Me</name>
-      <set rarity="uncommon" num="203">WWHP</set>
+      <set rarity="uncommon" num="204">WWHP</set>
       <prop>
         <colors>G</colors>
         <manacost>1G</manacost>
@@ -1341,7 +1341,7 @@ Bewitchment storm (When you cast this spell, copy it for each bewitchment spell 
     </card>
     <card>
       <name>Orchideous</name>
-      <set rarity="uncommon" num="202">WWHP</set>
+      <set rarity="uncommon" num="203">WWHP</set>
       <prop>
         <colors>G</colors>
         <manacost>2G</manacost>
@@ -1620,7 +1620,7 @@ When Nearly Headless Nick becomes courageous, you may pay {G/W}. If you do, the 
     </card>
     <card>
       <name>Rennervate</name>
-      <set rarity="rare" num="206">WWHP</set>
+      <set rarity="rare" num="207">WWHP</set>
       <prop>
         <colors>G</colors>
         <manacost>2G</manacost>
@@ -1827,7 +1827,7 @@ Whenever one or more artifacts or enchantments enter, for each of them, its cont
     </card>
     <card>
       <name>Surgito</name>
-      <set rarity="common" num="211">WWHP</set>
+      <set rarity="common" num="212">WWHP</set>
       <prop>
         <colors>G</colors>
         <manacost>2G</manacost>
@@ -1901,7 +1901,7 @@ Whenever you cast a bewitchment, if there is a card in your graveyard with the s
     </card>
     <card>
       <name>Three Headed Guard Dog</name>
-      <set rarity="uncommon" num="212">WWHP</set>
+      <set rarity="uncommon" num="213">WWHP</set>
       <prop>
         <colors>G</colors>
         <manacost>4GG</manacost>
@@ -2451,7 +2451,7 @@ As long as  Cho Chang is studious, she has flying and during your turn and whene
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-At the beginning of your upkeep, you may pay UU. If you do, reveal the top card of your library. If a Bewitchment*s card is revealed this way, draw two cards. Otherwise, draw a card. (Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)</text>
+At the beginning of your upkeep, you may pay UU. If you do, reveal the top card of your library. If a Bewitchment card is revealed this way, draw two cards. Otherwise, draw a card. (Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)</text>
     </card>
     <card>
       <name>Erumpent Horn</name>
@@ -3261,7 +3261,7 @@ Recipe — {3}, {T}: Scry 1, then activate the recipe of another permanent you c
     </card>
     <card>
       <name>Traveling Potioneer</name>
-      <set rarity="common" num="213">WWHP</set>
+      <set rarity="common" num="214">WWHP</set>
       <prop>
         <colors>G</colors>
         <manacost>1G</manacost>
@@ -3626,7 +3626,7 @@ Recipe — 2/G2/G, {T}, Sacrifice this Potion: You may cast creature spells this
     </card>
     <card>
       <name>Mandrake Restorative Draught</name>
-      <set rarity="rare" num="197">WWHP</set>
+      <set rarity="rare" num="198">WWHP</set>
       <prop>
         <colors>G</colors>
         <manacost>2/G2/G2/G</manacost>
@@ -3865,7 +3865,7 @@ Recipe — {T}: Each opponent loses 1 life. You gain 1 life for each player who 
     </card>
     <card>
       <name>Student Potioneer</name>
-      <set rarity="common" num="210">WWHP</set>
+      <set rarity="common" num="211">WWHP</set>
       <prop>
         <colors>G</colors>
         <manacost>1GG</manacost>
@@ -4550,7 +4550,7 @@ Bewitchment storm (When you cast this spell, copy it for each bewitchment spell 
     </card>
     <card>
       <name>Graphorn</name>
-      <set rarity="uncommon" num="191">WWHP</set>
+      <set rarity="uncommon" num="192">WWHP</set>
       <prop>
         <colors>G</colors>
         <manacost>4GG</manacost>
@@ -4566,7 +4566,7 @@ Saddle 4 (Tap any number of other creatures you control with total power 4 or mo
     </card>
     <card>
       <name>Greatspined Dugbog</name>
-      <set rarity="common" num="192">WWHP</set>
+      <set rarity="common" num="193">WWHP</set>
       <prop>
         <colors>G</colors>
         <manacost>3G</manacost>
@@ -4581,7 +4581,7 @@ Whenever a creature enters under an opponents control, you this creature fights 
     </card>
     <card>
       <name>Insectoid Manticore Mother</name>
-      <set rarity="mythic" num="194">WWHP</set>
+      <set rarity="mythic" num="195">WWHP</set>
       <prop>
         <colors>G</colors>
         <manacost>3GG</manacost>
@@ -4614,7 +4614,7 @@ Combat damage dealt to Justin Flinchfletchly is dealt in the form of stun counte
     </card>
     <card>
       <name>Lapifors</name>
-      <set rarity="common" num="195">WWHP</set>
+      <set rarity="common" num="196">WWHP</set>
       <prop>
         <colors>G</colors>
         <manacost>2G</manacost>
@@ -4630,7 +4630,7 @@ Search your library for a land card, reveal it, put it onto the battlefield tapp
     </card>
     <card>
       <name>Nundu Leopard</name>
-      <set rarity="mythic" num="201">WWHP</set>
+      <set rarity="mythic" num="202">WWHP</set>
       <prop>
         <colors>G</colors>
         <manacost>5GG</manacost>
@@ -4664,7 +4664,7 @@ As long as Pansi Parkinson is paired with a creature, whenever a creature not pa
     </card>
     <card>
       <name>Pumpkin Pasty</name>
-      <set rarity="common" num="205">WWHP</set>
+      <set rarity="common" num="206">WWHP</set>
       <prop>
         <colors>G</colors>
         <manacost>1GG</manacost>
@@ -4699,7 +4699,7 @@ Whenever Rubeus Hagrid becomes courageous, create a Legendary 2/2 green Dog crea
     </card>
     <card>
       <name>Skurge</name>
-      <set rarity="common" num="207">WWHP</set>
+      <set rarity="common" num="208">WWHP</set>
       <prop>
         <colors>G</colors>
         <manacost>1G</manacost>
@@ -4713,7 +4713,7 @@ Bewitchment storm (When you cast this spell, copy it for each bewitchment spell 
     </card>
     <card>
       <name>Steeler Snail</name>
-      <set rarity="common" num="208">WWHP</set>
+      <set rarity="common" num="209">WWHP</set>
       <prop>
         <colors>G</colors>
         <manacost>1GG</manacost>
@@ -4731,7 +4731,7 @@ When this creature enters, it deals damage equal to its power to target creature
     </card>
     <card>
       <name>Stoneback Dugbog</name>
-      <set rarity="common" num="209">WWHP</set>
+      <set rarity="common" num="210">WWHP</set>
       <prop>
         <colors>G</colors>
         <manacost>2GG</manacost>
@@ -5090,7 +5090,7 @@ Soulbond (You may pair this creature with another unpaired creature when either 
     </card>
     <card>
       <name>Magizoologist Trainee</name>
-      <set rarity="uncommon" num="196">WWHP</set>
+      <set rarity="uncommon" num="197">WWHP</set>
       <prop>
         <colors>G</colors>
         <manacost>3G</manacost>
@@ -5282,7 +5282,7 @@ Whenever a creature becomes courageous, put an additional +1/+1 counter on it.</
     </card>
     <card>
       <name>Merlin&apos;s Trial</name>
-      <set rarity="rare" num="199">WWHP</set>
+      <set rarity="rare" num="200">WWHP</set>
       <prop>
         <colors>G</colors>
         <manacost>1G</manacost>
@@ -5618,7 +5618,6 @@ Equip {5}
       <text>Gallant 2 (Whenever a creature an opponent controls with greater power enters or attacks and this creature isn’t courageous, put two +1/+1 counters on this creature and it becomes courageous.)
 As long as Remus Lupin, Master of the Dark Arts is courageous, Wizard an Beast spells you cast cost {1} less to cast.
 At the beginning of each upkeep, if no spells were cast last turn, transform Remus Lupin, Master of the Dark Arts.
-Partner with Nymphadora Lupin, Childish Auror. (When this creature enters, target player may put Nymphadora Lupin into their hand from their library, then shuffle.)
 ---
 (Back): Maurauder Lupin, Lycanthropic Striken</text>
       <related attach="transform">Maurauder Lupin, Lycanthropic Striken</related>
@@ -5684,8 +5683,8 @@ Each opponent plays with their hand revealed.
       <set rarity="rare" num="85">WWHP</set>
       <prop>
         <colors>U</colors>
-        <manacost>3UU</manacost>
-        <cmc>5</cmc>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
         <type>Sorcery - Lesson </type>
         <maintype>Sorcery</maintype>
       </prop>
@@ -5695,6 +5694,7 @@ If you control a legendary creature, exile this spell, then cast it transformed.
 ---
 (Back): Hunt for the Divided Souls</text>
       <related attach="transform">Hunt for the Divided Souls</related>
+      <related>Clue</related>
       <related>Clue WWHP</related>
     </card>
     <card>
@@ -5704,16 +5704,17 @@ If you control a legendary creature, exile this spell, then cast it transformed.
         <colors></colors>
         <manacost></manacost>
         <cmc>0</cmc>
-        <type>Legendary Land - Tower </type>
+        <type>Legendary Artifact Land - Tower </type>
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
       <text>{T}: Add CCC
 {X}, {T}: Put X stun counters on Dark Tower and target creature an opponent controls.
-At the beginning of each end step, if Dark Tower didn’t untap this turn, Dark Tower deals 1 damage to target creature.
+At the beginning of each end step, if Dark Tower didn’t untap this turn, Dark Tower deals 1 damage to target creature for each stun counter on that creature.
 ---
 (Front): Escape of the Azkaban Prisoner</text>
       <related attach="transform">Escape of the Azkaban Prisoner</related>
+      <related>Clue</related>
       <related>Clue WWHP</related>
     </card>
     <card>
@@ -5843,7 +5844,7 @@ III — Each player draws a number of cards and gains an amount of life equal to
     </card>
     <card>
       <name>The Monster Book of Monsters</name>
-      <set rarity="common" num="200">WWHP</set>
+      <set rarity="common" num="201">WWHP</set>
       <prop>
         <colors>G</colors>
         <manacost>X1G</manacost>
@@ -5861,7 +5862,7 @@ III — Each player draws a number of cards and gains an amount of life equal to
     </card>
     <card>
       <name>Folio Bruti</name>
-      <set rarity="common" num="200">WWHP</set>
+      <set rarity="common" num="201">WWHP</set>
       <prop>
         <colors>G</colors>
         <manacost></manacost>
@@ -6180,7 +6181,7 @@ UBR, {T}, Pay 2 life: Transform Peter Pettigrew, Traitorus Maruader.
     </card>
     <card>
       <name>The Triwizard Cup</name>
-      <set rarity="rare" num="214">WWHP</set>
+      <set rarity="rare" num="191">WWHP</set>
       <prop>
         <colors></colors>
         <manacost></manacost>
@@ -6192,8 +6193,8 @@ UBR, {T}, Pay 2 life: Transform Peter Pettigrew, Traitorus Maruader.
       <text>When The Triwizard Cup enters, search your library for a creature card with mana value equal to or less then the number of Clue tokens you control, reveal it and put it onto the battlefield tapped, then shuffle.
 Whenever a creature enters, it fights target creature its owner doesn’t control. Then the owner of the creature that doesn’t die this way creates a Treasure token. 
 ---
-(Front): Trial of the Goblet of Fire</text>
-      <related attach="transform">Trial of the Goblet of Fire</related>
+(Front): Goblet of Fire Trials</text>
+      <related attach="transform">Goblet of Fire Trials</related>
       <related>Treasure</related>
     </card>
     <card>
@@ -6651,12 +6652,13 @@ III — Exile this Saga. Then return it to the battlefield transformed. When it 
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>​
-​
-​
+      <text>At the beginning of your upkeep, investigate. Whenever you sacrifice a clue put a quest counter on this enchantment.
+To solve — This enchantment has seven or more quest counters on it and you opponent controls a legendary creature. (If unsolved, solve at the beginning of your end step.)
+Solved — Starting with you each player faces a villainous choice — You take an extra turn or you choose a permanent owned by that player and gain control of it. Exile this enchantment.
 ---
 (Front): Secrets of the Dark Lord</text>
       <related attach="transform">Secrets of the Dark Lord</related>
+      <related>Clue</related>
       <related>Clue WWHP</related>
     </card>
     <card>
@@ -6664,15 +6666,15 @@ III — Exile this Saga. Then return it to the battlefield transformed. When it 
       <set rarity="rare" num="149">WWHP</set>
       <prop>
         <colors>R</colors>
-        <manacost>3RRR</manacost>
-        <cmc>6</cmc>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
         <type>Enchantment - Case </type>
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
       <text>When this Case enters, each tapped creature deals damage to itself equal to its power.
 To solve — You and target opponent control a legendary creature (If unsolved, solve at the beginning of your end step.)
-Solved — 2R: Investigate. Then if you control thirteen or more Clue tokens, you may sacrifice each Clue you control. If you do, you may put target legendary creature from your library or command zone onto the battlefield tapped and transform this Case.
+Solved — 1R: Investigate. Then if you control thirteen or more Clue tokens, you may sacrifice each Clue you control. If you do, you may put target legendary creature from your library or command zone onto the battlefield tapped and transform this Case.
 ---
 (Back): Dark Tower, Topmost cell</text>
       <related attach="transform">Dark Tower, Topmost cell</related>
@@ -6689,9 +6691,9 @@ Solved — 2R: Investigate. Then if you control thirteen or more Clue tokens, yo
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>​
-​
-​
+      <text>Whenever a creature you control dies or is exiled, investigate. (Create a Clue token. It’s an artifact with “{2}, Sacrifice this token: Draw a card.”)
+To solve — You control six or more clues and a legendary creature you control died or was exiled this turn. (If unsolved, solve at the beginning of your end step.)
+Solved — 2B: Put a petrification counter on target creature. It gains defender and becomes a colorless artifact in addition to its other types. Its activated abilities can’t be activated. 
 ---
 (Front): Writing on the Wall</text>
       <related attach="transform">Writing on the Wall</related>
@@ -6702,14 +6704,14 @@ Solved — 2R: Investigate. Then if you control thirteen or more Clue tokens, yo
       <set rarity="rare" num="36">WWHP</set>
       <prop>
         <colors>W</colors>
-        <manacost>2WW</manacost>
-        <cmc>4</cmc>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
         <type>Enchantment - Case </type>
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Whenever an enchantment you control enters, investigate
-To solve — You control or have cast seven or more bewitchments. (If unsolved, solve at the beginning of your end step. Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)
+      <text>Whenever you cast a bewitchment, investigate (Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)
+To solve — You control or have cast seven or more bewitchments. (If unsolved, solve at the beginning of your end step.) 
 Solved — Sacrifice this Case: Destroy target creature with power less than the number of Clues you control. Return this Case to the battlefield transformed.
 ---
 (Back): The Philospopher&apos;s Stone</text>
@@ -6737,20 +6739,20 @@ III — Enchanted player sacrifices all nonland permanents with a mana value equ
       <related attach="transform">Melding of Minds</related>
     </card>
     <card>
-      <name>Trial of the Goblet of Fire</name>
-      <set rarity="rare" num="214">WWHP</set>
+      <name>Goblet of Fire Trials</name>
+      <set rarity="rare" num="191">WWHP</set>
       <prop>
         <colors>G</colors>
-        <manacost>3GG</manacost>
-        <cmc>5</cmc>
-        <type>Enchantment - Saga </type>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - Case </type>
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>(As this Saga enters and after your draw step, add a lore counter.)
-I — Put a +1/+1 counter on each creature you control. Then investigate for each creature you control.
-II — For each creature you control, you may have it fight up to one target creature you don’t control. 
-III — Exile this Saga, then return it to the battlefield under transformed under your control.
+      <text>During the beginning of your upkeep investigate. (Create a Clue token. It’s an artifact with “{2}, Sacrifice this token: Draw a card.”)
+Whenever you sacrifice a Clue, put up to one +1/+1 counter on target creature.
+To solve — There are three or more creatures with power seven or greater and at least one creature with power four or greater on the battlefield.  (If unsolved, solve at the beginning of your end step.)
+Solved — For each creature you control, you may have it fight up to one target creature you don’t control. Then exile this case and return it to the battlefield transformed under your control. (Each deals damage equal to its power to the other.)
 ---
 (Back): The Triwizard Cup</text>
       <related attach="transform">The Triwizard Cup</related>
@@ -8111,8 +8113,11 @@ Flying, Defender
       <reverse-related>Opening of Slytherin&apos;s Chamber</reverse-related>
       <reverse-related>Escape of the Azkaban Prisoner</reverse-related>
       <reverse-related>Chase the Hidden Traitor</reverse-related>
-      <reverse-related>Trial of the Goblet of Fire</reverse-related>
+      <reverse-related>Goblet of Fire Trials</reverse-related>
       <reverse-related>Procure The Philosopher&apos;s Stone</reverse-related>
+      <reverse-related>Secrets of the Dark Lord</reverse-related>
+      <reverse-related>Hunt for the Divided Souls</reverse-related>
+      <reverse-related>Dark Tower, Topmost cell</reverse-related>
     </card>
     <card>
       <name>Food Token WWHP WWHP</name>
