@@ -85,7 +85,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Creature — Plant Beast",
-			"collector_number": "309",
+			"collector_number": "310",
 			"image_uris": {
 				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/8.png"
 			}
@@ -151,9 +151,9 @@
 			}
 		},
 		{
-			"name": "Inferi Hoard Token WWHP;",
+			"name": "Inferi Hoard",
 			"rarity": "common",
-			"mana_cost": "{4}{B}",
+			"mana_cost": "{3}{B}",
 			"type": "Creature — Zombie Beast",
 			"collector_number": "106",
 			"image_uris": {
@@ -525,7 +525,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Instant — Incantation",
-			"collector_number": "163",
+			"collector_number": "164",
 			"image_uris": {
 				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/52.png"
 			}
@@ -535,7 +535,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{R}",
 			"type": "Sorcery — Incantation",
-			"collector_number": "169",
+			"collector_number": "170",
 			"image_uris": {
 				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/53.png"
 			}
@@ -775,7 +775,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{B/R}",
 			"type": "Legendary Creature — Elf",
-			"collector_number": "316",
+			"collector_number": "317",
 			"image_uris": {
 				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/77.png"
 			}
@@ -995,7 +995,7 @@
 			"name": "Flame Infused Armour",
 			"rarity": "common",
 			"mana_cost": "{4}{R}{R}",
-			"type": "Artifact Creature — Beast",
+			"type": "Artifact Creature — Beast Incantation",
 			"collector_number": "154",
 			"image_uris": {
 				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/97.png"
@@ -1006,7 +1006,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{B}{R}",
 			"type": "Battle — Siege",
-			"collector_number": "307",
+			"collector_number": "308",
 			"back": {
 				"name": "",
 				"type": "",
@@ -1038,9 +1038,9 @@
 		{
 			"name": "Nearly Headless Nick, Ghost of Gryffindor",
 			"rarity": "uncommon",
-			"mana_cost": "{R}{G/W}",
+			"mana_cost": "{R}",
 			"type": "Legendary Creature — Spirit",
-			"collector_number": "337",
+			"collector_number": "163",
 			"image_uris": {
 				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/100.png"
 			}
@@ -1060,7 +1060,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{U/B}",
 			"type": "Legendary Creature — Spirit",
-			"collector_number": "315",
+			"collector_number": "316",
 			"image_uris": {
 				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/102.png"
 			}
@@ -1167,7 +1167,7 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{B}{G}",
 			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "305",
+			"collector_number": "306",
 			"image_uris": {
 				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/112.png"
 			}
@@ -1217,7 +1217,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{R}{R}{R}",
 			"type": "Enchantment — Incantation",
-			"collector_number": "167",
+			"collector_number": "168",
 			"image_uris": {
 				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/117.png"
 			}
@@ -1375,9 +1375,9 @@
 		{
 			"name": "Red Cap Tower Guard",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{R}",
+			"mana_cost": "{1}{R}",
 			"type": "Creature — Goblin Beast",
-			"collector_number": "168",
+			"collector_number": "169",
 			"image_uris": {
 				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/133.png"
 			}
@@ -1563,7 +1563,7 @@
 			}
 		},
 		{
-			"name": "Portkey Token WWHP;",
+			"name": "Portus",
 			"rarity": "common",
 			"mana_cost": "{W}{U}",
 			"type": "Sorcery — Incantation",
@@ -1813,7 +1813,7 @@
 			"name": "Basic Cast",
 			"rarity": "common",
 			"mana_cost": "{R}",
-			"type": "Sorcery — Incantation",
+			"type": "Instant — Incantation",
 			"collector_number": "137",
 			"image_uris": {
 				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/176.png"
@@ -2011,7 +2011,7 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{W}{U}{U}",
 			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "304",
+			"collector_number": "305",
 			"image_uris": {
 				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/195.png"
 			}
@@ -2078,7 +2078,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{B}{R}",
 			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "311",
+			"collector_number": "312",
 			"image_uris": {
 				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/201.png"
 			}
@@ -2118,7 +2118,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "166",
+			"collector_number": "167",
 			"image_uris": {
 				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/205.png"
 			}
@@ -2178,7 +2178,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{B}{R}",
 			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "310",
+			"collector_number": "311",
 			"image_uris": {
 				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/211.png"
 			}
@@ -2358,7 +2358,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Instant — Lesson",
-			"collector_number": "165",
+			"collector_number": "166",
 			"image_uris": {
 				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/229.png"
 			}
@@ -2628,7 +2628,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R/G}{W}",
 			"type": "Legendary Creature — Bird Beast",
-			"collector_number": "323",
+			"collector_number": "324",
 			"image_uris": {
 				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/256.png"
 			}
@@ -2638,7 +2638,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{U/R}",
 			"type": "Legendary Creature — Spirit Wizard",
-			"collector_number": "334",
+			"collector_number": "335",
 			"image_uris": {
 				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/257.png"
 			}
@@ -2938,7 +2938,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Enchantment — Food",
-			"collector_number": "171",
+			"collector_number": "172",
 			"image_uris": {
 				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/287.png"
 			}
@@ -2946,9 +2946,9 @@
 		{
 			"name": "Swedish Shortsnout",
 			"rarity": "rare",
-			"mana_cost": "{3}{R}",
+			"mana_cost": "{2}{R}{W}",
 			"type": "Creature — Dragon Beast",
-			"collector_number": "172",
+			"collector_number": "304",
 			"image_uris": {
 				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/288.png"
 			}
@@ -3138,7 +3138,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{R/W}",
 			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "322",
+			"collector_number": "323",
 			"image_uris": {
 				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/307.png"
 			}
@@ -3272,7 +3272,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Sorcery — Incantation",
-			"collector_number": "164",
+			"collector_number": "165",
 			"image_uris": {
 				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/319.png"
 			}
@@ -3362,7 +3362,7 @@
 			"rarity": "common",
 			"mana_cost": "{R/W}{U}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "320",
+			"collector_number": "321",
 			"image_uris": {
 				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/328.png"
 			}
@@ -3372,7 +3372,7 @@
 			"rarity": "common",
 			"mana_cost": "{R/G}{W}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "318",
+			"collector_number": "319",
 			"image_uris": {
 				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/329.png"
 			}
@@ -3382,7 +3382,7 @@
 			"rarity": "common",
 			"mana_cost": "{G/U}{B}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "321",
+			"collector_number": "322",
 			"image_uris": {
 				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/330.png"
 			}
@@ -3392,7 +3392,7 @@
 			"rarity": "common",
 			"mana_cost": "{W/B}{G}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "319",
+			"collector_number": "320",
 			"image_uris": {
 				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/331.png"
 			}
@@ -3402,7 +3402,7 @@
 			"rarity": "common",
 			"mana_cost": "{U/B}{R}",
 			"type": "Creature — Werewolf Wizard",
-			"collector_number": "317",
+			"collector_number": "318",
 			"image_uris": {
 				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/332.png"
 			}
@@ -3559,7 +3559,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{B}{R/G}",
 			"type": "Legendary Creature — Human Beast",
-			"collector_number": "336",
+			"collector_number": "337",
 			"back": {
 				"name": "",
 				"type": "",
@@ -3576,7 +3576,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{R}{G}{W}",
 			"type": "Legendary Creature — Cat Animagus",
-			"collector_number": "312",
+			"collector_number": "313",
 			"back": {
 				"name": "",
 				"type": "",
@@ -3698,7 +3698,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G/W}{B}",
 			"type": "Legendary Creature — Cat",
-			"collector_number": "335",
+			"collector_number": "336",
 			"back": {
 				"name": "",
 				"type": "",
@@ -3715,7 +3715,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{R}{W/B}",
 			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "314",
+			"collector_number": "315",
 			"back": {
 				"name": "",
 				"type": "",
@@ -3894,7 +3894,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Legendary Creature — Rat",
-			"collector_number": "170",
+			"collector_number": "171",
 			"back": {
 				"name": "",
 				"type": "",
@@ -3911,7 +3911,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{U}{B}{R}",
 			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "306",
+			"collector_number": "307",
 			"back": {
 				"name": "",
 				"type": "",
@@ -3928,7 +3928,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R/W}",
 			"type": "Sorcery — Lesson",
-			"collector_number": "327",
+			"collector_number": "328",
 			"back": {
 				"name": "",
 				"type": "",
@@ -3945,7 +3945,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G/W}",
 			"type": "Sorcery — Lesson",
-			"collector_number": "333",
+			"collector_number": "334",
 			"back": {
 				"name": "",
 				"type": "",
@@ -3962,7 +3962,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U/B}{U/B}",
 			"type": "Instant — Lesson",
-			"collector_number": "332",
+			"collector_number": "333",
 			"back": {
 				"name": "",
 				"type": "",
@@ -3979,7 +3979,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G/U}",
 			"type": "Sorcery — Lesson",
-			"collector_number": "331",
+			"collector_number": "332",
 			"back": {
 				"name": "",
 				"type": "",
@@ -3996,7 +3996,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R/G}",
 			"type": "Sorcery — Lesson",
-			"collector_number": "325",
+			"collector_number": "326",
 			"back": {
 				"name": "",
 				"type": "",
@@ -4013,7 +4013,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W/B}",
 			"type": "Sorcery — Lesson",
-			"collector_number": "330",
+			"collector_number": "331",
 			"back": {
 				"name": "",
 				"type": "",
@@ -4030,7 +4030,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B/G}",
 			"type": "Sorcery — Lesson",
-			"collector_number": "329",
+			"collector_number": "330",
 			"back": {
 				"name": "",
 				"type": "",
@@ -4047,7 +4047,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U/R}",
 			"type": "Sorcery — Lesson",
-			"collector_number": "326",
+			"collector_number": "327",
 			"back": {
 				"name": "",
 				"type": "",
@@ -4064,7 +4064,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W/U}",
 			"type": "Sorcery — Lesson",
-			"collector_number": "328",
+			"collector_number": "329",
 			"back": {
 				"name": "",
 				"type": "",
@@ -4081,7 +4081,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B/R}",
 			"type": "Sorcery — Lesson",
-			"collector_number": "324",
+			"collector_number": "325",
 			"back": {
 				"name": "",
 				"type": "",
@@ -4201,6 +4201,16 @@
 			"collector_number": "14",
 			"image_uris": {
 				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/423.png"
+			}
+		},
+		{
+			"name": "Inferi Hoard Token WWHP;",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Zombie Beast",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/424.png"
 			}
 		},
 		{
@@ -4464,6 +4474,16 @@
 			}
 		},
 		{
+			"name": "Portkey Token WWHP;",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Portkey",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/453.png"
+			}
+		},
+		{
 			"name": "Potion Token WWHP;",
 			"rarity": "common",
 			"mana_cost": "",
@@ -4659,7 +4679,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}{B}",
 			"type": "Enchantment — Saga",
-			"collector_number": "313",
+			"collector_number": "314",
 			"back": {
 				"name": "",
 				"type": "",
@@ -4730,7 +4750,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}{G}",
 			"type": "Enchantment",
-			"collector_number": "308",
+			"collector_number": "309",
 			"back": {
 				"name": "",
 				"type": "",
@@ -4762,1110 +4782,323 @@
 	]
 
 [rare(1)]
-	2 Crucio
-	1 Imperio
-	1 Severus Snape, Head of Slytherin House
-	1 Filius Flitwick, Head of Ravenclaw House
-	2 Sword of Godrick Gryffindor
-	2 Cup of Helga Hufflepuff
-	2 Lost Diadem of Rowena Ravenclaw
-	2 Hungarian Horntail
-	2 Room of Requirement
-	2 Luna Lovegood, Enthused Reasearcher
-	2 Hermione Granger, Brightest Witch of Her Age
-	2 Amazonian Fire Salamander Pit
-	1 Lonesome Phoenix
-	2 Newt Scamander, First Magizolologist
-	2 Cornelius Fudge, Misguided Minister
-	2 Vanishing Cabinet
-	2 Department of Mysteries
-	2 Legilimens
-	2 Skirmish in Underground Chambers
-	1 Return of the Dark Lord
-	2 Portkey to Little Hangleton Graveyard
-	2 Tradgey at the World Cup
-	2 Journey Beneath Gringotts Bank
-	2 Rennervate
-	2 Flight of the Seven Potters
-	2 Theseus Scamander, Loyal Auror
-	1 Capacious Extremis
-	1 Priori Incantatem
-	1 Maxima Perfect Cast
-	1 Protego Diabolica
-	2 Beneath Hogwarts Plumbing
-	1 The British Prime Minister
-	2 The Dursleys, Antimagic Enthusiasts
-	1 Gringotts Banking Goblin
-	2 Battle of Hogwarts
-	1 Friendly Unicorn
-	1 Magicus Extremos
-	2 Sybill Trelawney, Unreliable Seer
-	2 Wondering Hinkypunk
-	2 Enchanted Field Guide
-	1 Wideye Potion
-	2 Forgetfulness Potion
-	1 Sleeping Potion
-	1 Drink of Dispair
-	2 Drought of Living Death
-	1 Felix Felicis, Liquid Luck
-	2 Mandrake Restorative Draught
-	2 Elixir of Life
-	2 Grand Pepperup Potion
-	2 Repello Inimicum
-	1 Zou Wu Beast
-	1 Black Lake Giant Squid
-	1 Desert Thunderbird
-	2 Pius Thicknesse, Dark Lord Puppet
-	1 Lethifold
-	1 Withering Curse of the Wearer
-	2 Common Welsh Green
-	1 Geminio Curse
-	2 Swedish Shortsnout
-	1 Insectoid Manticore Mother
-	1 Nundu Leopard
-	1 Igor Karkaroff, Durmstrang Headmaster
-	2 Olympe Maxime, Headmistress of Beauxbatons
-	2 Mystery of the Golden Egg
-	2 Molly and Arthur Weasley, Protective Parents
-	1 Locket of Salazar Slytherin
-	2 Avada Kedavra
-	2 Bellatrix Lestrange, Enthralled Death Eater
-	2 Dolores Umbridge, Lawfully Maddened Official
-	2 Merlin's Trial
-	2 Tom Riddles Diary
-	1 Watchful Observer
-	2 Gaunt Family Ring
-	2 Writing on the Wall
-	2 Ordinary Wizarding Level Examinations
-	1 Society for the Promotion of Elfish Welfare
-	1 Albus Dumbledore
-	2 Melding of Minds
-	1 Nastily Exhausting Wizarding Tests
-	1 Tom Riddle, Prodigal Orphan
-	2 Dolohov's Curse
-	1 Tale of the Three Brothers
-	2 Procure The Philosopher's Stone
-	2 Welcome to the Wizarding World
-	2 Parley with the Giants
-	2 Lessons with the Headmaster
-	2 Traverse the Secret Passage
-	2 Reawakining of the Dark Mark
+	5 Crucio
+	5 Imperio
+	5 Severus Snape, Head of Slytherin House
+	5 Filius Flitwick, Head of Ravenclaw House
+	5 Sword of Godrick Gryffindor
+	5 Cup of Helga Hufflepuff
+	5 Lost Diadem of Rowena Ravenclaw
+	5 Hungarian Horntail
+	5 Room of Requirement
+	5 Luna Lovegood, Enthused Reasearcher
+	5 Hermione Granger, Brightest Witch of Her Age
+	5 Amazonian Fire Salamander Pit
+	5 Lonesome Phoenix
+	5 Newt Scamander, First Magizolologist
+	5 Cornelius Fudge, Misguided Minister
+	5 Vanishing Cabinet
+	5 Department of Mysteries
+	5 Legilimens
+	5 Skirmish in Underground Chambers
+	5 Return of the Dark Lord
+	5 Portkey to Little Hangleton Graveyard
+	5 Tradgey at the World Cup
+	5 Journey Beneath Gringotts Bank
+	5 Rennervate
+	5 Flight of the Seven Potters
+	5 Theseus Scamander, Loyal Auror
+	5 Capacious Extremis
+	5 Priori Incantatem
+	5 Maxima Perfect Cast
+	5 Protego Diabolica
+	5 Beneath Hogwarts Plumbing
+	5 The British Prime Minister
+	5 The Dursleys, Antimagic Enthusiasts
+	5 Gringotts Banking Goblin
+	5 Battle of Hogwarts
+	5 Friendly Unicorn
+	5 Magicus Extremos
+	5 Sybill Trelawney, Unreliable Seer
+	5 Wondering Hinkypunk
+	5 Enchanted Field Guide
+	5 Wideye Potion
+	5 Forgetfulness Potion
+	5 Sleeping Potion
+	5 Drink of Dispair
+	5 Drought of Living Death
+	5 Felix Felicis, Liquid Luck
+	5 Mandrake Restorative Draught
+	5 Elixir of Life
+	5 Grand Pepperup Potion
+	5 Repello Inimicum
+	5 Zou Wu Beast
+	5 Black Lake Giant Squid
+	5 Desert Thunderbird
+	5 Pius Thicknesse, Dark Lord Puppet
+	5 Lethifold
+	5 Withering Curse of the Wearer
+	5 Common Welsh Green
+	5 Geminio Curse
+	5 Swedish Shortsnout
+	5 Insectoid Manticore Mother
+	5 Nundu Leopard
+	5 Igor Karkaroff, Durmstrang Headmaster
+	5 Olympe Maxime, Headmistress of Beauxbatons
+	5 Mystery of the Golden Egg
+	5 Molly and Arthur Weasley, Protective Parents
+	5 Locket of Salazar Slytherin
+	5 Avada Kedavra
+	5 Bellatrix Lestrange, Enthralled Death Eater
+	5 Dolores Umbridge, Lawfully Maddened Official
+	5 Merlin's Trial
+	5 Tom Riddles Diary
+	5 Watchful Observer
+	5 Gaunt Family Ring
+	5 Writing on the Wall
+	5 Ordinary Wizarding Level Examinations
+	5 Society for the Promotion of Elfish Welfare
+	5 Albus Dumbledore
+	5 Melding of Minds
+	5 Nastily Exhausting Wizarding Tests
+	5 Tom Riddle, Prodigal Orphan
+	5 Dolohov's Curse
+	5 Tale of the Three Brothers
+	5 Procure The Philosopher's Stone
+	5 Welcome to the Wizarding World
+	5 Parley with the Giants
+	5 Lessons with the Headmaster
+	5 Traverse the Secret Passage
+	5 Reawakining of the Dark Mark
 [uncommon(3)]
-	4 Fenrir Grayback
-	4 Dementor of Azkaban
-	4 Kneazle
-	4 Crab & Goyle
-	4 Langlock
-	4 Winery Cellar
-	4 Castle Heights
-	4 Dungeon Depths
-	4 Cozey Hearth
-	4 Pureblood Manner
-	4 Draco Malfoy
-	4 Nymphadora Tonks, Metamorphmagus Auror
-	4 Obscurial Parasite
-	4 Whomping Willow
-	4 Self-Stiring Pewter Cauldron
-	4 Cedric Diggory, Fiercely Loyal Friend
-	4 Broken Wand
-	4 Serpensortia
-	4 Dobby, the House Elf
-	4 Zacharias Smith, Jealous Friend
-	4 Wizard-Cracker Imp
-	4 Point Me
-	4 Orchideous
-	4 Helena, Ghost of Ravenclaw
-	4 Peeves, Poltergeist Trickster
-	4 Nearly Headless Nick, Ghost of Gryffindor
-	4 Bloody Barron, Ghost of Slytherin
-	4 Ronald Weasley, House King
-	4 Inflatus
-	4 Giant Purple Toad
-	4 Bundimun
-	4 Corban Yaxley, Registered Interrogator
-	4 Three Headed Guard Dog
-	4 Brain Eater
-	4 Red Cap Tower Guard
-	4 Cho Chang, Ravenclaw Seeker
-	4 The Grim
-	4 Frank Bryce, Riddle's Grounds Keeper
-	4 International Magical Coperation
-	4 Madam Pomfrey
-	4 Reparo
-	4 Trial of the Wizengamot
-	4 The Wand Chooses the Wizard
-	4 Walden Macnair, Dark Executioner
-	4 Marietta Edgecomb, Ministry Sneak
-	4 The Sorting Hat
-	4 Viktor Krum, Durmstrang Champion
-	4 Edurus Potion
-	4 Veritaserum
-	4 Existmulo Maxima Potion
-	4 Thunder Brew Potion
-	4 Antidote to Poisons
-	4 Whit-Sharpening Potion
-	4 Aparecium
-	4 Hedwig, Loyal Protector
-	4 Moaning Myrtle
-	4 Gilderoy Lockhart, Oblivious Fraud
-	4 Marcus Flint, Slytherin Quidditch Captain
-	4 The Patil Twins, Padma and Parvati
-	4 Graphorn
-	4 Justin Flinchfletchly, Wandering Student
-	4 Rubeus Hagrid, Keeper of Keys
-	4 Fleur Delacour, Beuxbatons Champion
-	4 Fred and George Weasley, Mischevious Twins
-	4 Neville Longbottem, Courageous Friend
-	4 Permission to Visit Hogsmeade
-	4 Ginny Weasley, Underestimated Power
-	4 Magizoologist Trainee
-	4 The Carrow Siblings
-	4 Non-Verbal Cast
-	4 Join Us or Die!
-	4 Madam Hooch, Quidditch Referee
-	4 Agustus Rookwood, Unspeakable Spy
-	4 Nagini, Maladictus Performer
-	4 Remus Lupin, Master of the Dark Arts
-	4 Rita Skeeter, Gossip Reporter
-	4 Mrs Norris
-	4 Alaster Mad-Eye Moody
-	4 Quidditch Match
-	4 Padfoot, Protective Marauder
-	4 Quirinus Quirrell, Traitorous Professor
-	4 Scabbers, Frightend Coward
-[common(6)]
-	8 Expelliarmus
-	8 Inferi Protector
-	8 Lumos
-	8 Venemous Tentacula
-	8 Devil's Snare
-	8 Garden Gnome
-	8 Invading Mountain Troll
-	8 Forest Giant
-	8 Confringo
-	8 Incendio
-	8 Bombarda
-	8 Accio
-	8 Arresto Momento
-	8 Mandrake Root
-	8 Quidditch Broom
-	8 Demiguise
-	8 Sectumsempera
-	8 Levicorpus
-	8 Engorgio
-	8 Reducio
-	8 Slytherin Prefect
-	8 Ravenclaw Prefect
-	8 Blast Ended Screwt
-	8 Oppugno
-	8 Reducto
-	8 Veela Hair Wand
-	8 Unicorn Hair Wand
-	8 Pheonix Feather Wand
-	8 Dragon Heart String Wand
-	8 Basilisk Horn Wand
-	8 Gryffindor Prefect
-	8 Disillusionment Charm
-	8 Vera Verto
-	8 Melofors
-	8 Erkling
-	8 Herbivicous
-	8 Dungeon Red Cap Agressor
-	8 Flame Infused Armour
-	8 Hidden Boggart
-	8 Rictusempra
-	8 Screaming Howler
-	8 Densaugeo
-	8 Surgito
-	8 Furnunculus
-	8 Fanged Frisbee
-	8 Dark Wizard Robes
-	8 Ravenclaw Robes
-	8 Slytherin Robes
-	8 Huffelpuff Robes
-	8 Sea Kelpie
-	8 Delivery Owl
-	8 Erumpent Horn
-	8 Confundus
-	8 Finite Incantatem
-	8 Gryffindor Robes
-	8 Remembrall
-	8 Standard Book of Spells
-	8 Dragon Hide Gloves
-	8 Avifors
-	8 Locomotor Mortis
-	8 Volamucus
-	8 Animated Torch
-	8 Basic Cast
-	8 Auror Initiate
-	8 Auror Scout
-	8 Auror Tracker
-	8 Cautious Hipogriff
-	8 Episkey
-	8 Expecto Patronum
-	8 Fianto Duri
-	8 Kitchen House-Elf
-	8 Ministry Representative
-	8 Petrificus Totalus
-	8 Protego
-	8 Wingardium Leviosa
-	8 Dragon Hatchling
-	8 Diagon Alley Shopkeeper
-	8 Apothecary Shopkeeper
-	8 Stupefy
-	8 Dungbomb
-	8 Girding Potion
-	8 Focus Potion
-	8 Invisibility Potion
-	8 Weakness Potion
-	8 Amortentia, Love Potion
-	8 Exploding Potion
-	8 Potion Mishap
-	8 Wiggenweld Potion
-	8 Potion Storage Cabinet
-	8 Aging Potion
-	8 Gilleyweed
-	8 Hate Potion
-	8 Polyjuice Potion
-	8 Stink Pellet
-	8 Wolfsbane Potion
-	8 Hogsmeade Shopkeeper
-	8 Durmstrang Potioneer
-	8 Student Potioneer
-	8 Depulso
-	8 Descendo
-	8 Evanesco
-	8 Flipendo
-	8 Glacius
-	8 Diricawl
-	8 Fwooper Bird
-	8 Jobberknoll
-	8 Murtlap
-	8 Obliviate
-	8 Colloshoo
-	8 Family Attic Ghoul
-	8 Flagrante
-	8 Snufflifores
-	8 Swooping Evil
-	8 Carpe Retractem
-	8 Diffindo
-	8 Draconifors
-	8 Cauldron Cake
-	8 Chinese Chomping Cabbage
-	8 Fumos
-	8 Greatspined Dugbog
-	8 Skurge
-	8 Fire Crab
-	8 Acromantula
-	8 Charms Adept
-	8 First-Year Ravenclaw
-	8 First-Year Gryffindor
-	8 First-Year Slytherin
-	8 First-Year Hufflepuff
-	8 First-Week Snatcher
-	8 Burned-Out Fifth-Year
-	8 Aspiring Dueling Students
-	8 Caught Out of Bed
-	8 Minister's Censorship
-	8 Ministry Spy
-	8 Spot Ministry Raid
-	8 Harry Potter, The Boy Who Lived
-	8 The Monster Book of Monsters
-	8 Folio Magi
-	8 Intro to Defence Against the Dark Arts
-	8 Intro to Transfiguration
-	8 Intro to the Dark Arts
-	8 Intro to Potions
-	8 Intro to Care of Magical Creatures
-	8 Intro to History of Magic
-	8 Intro to Herbology
-	8 Intro to Charms
-	8 Intro to Divination
-	8 Intro to Alchemy
-[common | masterpiece(1)]
-	8 Expelliarmus
-	8 Inferi Protector
-	8 Lumos
-	8 Venemous Tentacula
-	8 Devil's Snare
-	8 Garden Gnome
-	8 Invading Mountain Troll
-	8 Forest Giant
-	8 Confringo
-	8 Incendio
-	8 Bombarda
-	8 Accio
-	8 Arresto Momento
-	8 Mandrake Root
-	8 Quidditch Broom
-	8 Demiguise
-	8 Sectumsempera
-	8 Levicorpus
-	8 Engorgio
-	8 Reducio
-	8 Slytherin Prefect
-	8 Ravenclaw Prefect
-	8 Blast Ended Screwt
-	8 Oppugno
-	8 Reducto
-	8 Veela Hair Wand
-	8 Unicorn Hair Wand
-	8 Pheonix Feather Wand
-	8 Dragon Heart String Wand
-	8 Basilisk Horn Wand
-	8 Gryffindor Prefect
-	8 Disillusionment Charm
-	8 Vera Verto
-	8 Melofors
-	8 Erkling
-	8 Herbivicous
-	8 Dungeon Red Cap Agressor
-	8 Flame Infused Armour
-	8 Hidden Boggart
-	8 Rictusempra
-	8 Screaming Howler
-	8 Densaugeo
-	8 Surgito
-	8 Furnunculus
-	8 Fanged Frisbee
-	8 Dark Wizard Robes
-	8 Ravenclaw Robes
-	8 Slytherin Robes
-	8 Huffelpuff Robes
-	8 Sea Kelpie
-	8 Delivery Owl
-	8 Erumpent Horn
-	8 Confundus
-	8 Finite Incantatem
-	8 Gryffindor Robes
-	8 Remembrall
-	8 Standard Book of Spells
-	8 Dragon Hide Gloves
-	8 Avifors
-	8 Locomotor Mortis
-	8 Volamucus
-	8 Animated Torch
-	8 Basic Cast
-	8 Auror Initiate
-	8 Auror Scout
-	8 Auror Tracker
-	8 Cautious Hipogriff
-	8 Episkey
-	8 Expecto Patronum
-	8 Fianto Duri
-	8 Kitchen House-Elf
-	8 Ministry Representative
-	8 Petrificus Totalus
-	8 Protego
-	8 Wingardium Leviosa
-	8 Dragon Hatchling
-	8 Diagon Alley Shopkeeper
-	8 Apothecary Shopkeeper
-	8 Stupefy
-	8 Dungbomb
-	8 Girding Potion
-	8 Focus Potion
-	8 Invisibility Potion
-	8 Weakness Potion
-	8 Amortentia, Love Potion
-	8 Exploding Potion
-	8 Potion Mishap
-	8 Wiggenweld Potion
-	8 Potion Storage Cabinet
-	8 Aging Potion
-	8 Gilleyweed
-	8 Hate Potion
-	8 Polyjuice Potion
-	8 Stink Pellet
-	8 Wolfsbane Potion
-	8 Hogsmeade Shopkeeper
-	8 Durmstrang Potioneer
-	8 Student Potioneer
-	8 Depulso
-	8 Descendo
-	8 Evanesco
-	8 Flipendo
-	8 Glacius
-	8 Diricawl
-	8 Fwooper Bird
-	8 Jobberknoll
-	8 Murtlap
-	8 Obliviate
-	8 Colloshoo
-	8 Family Attic Ghoul
-	8 Flagrante
-	8 Snufflifores
-	8 Swooping Evil
-	8 Carpe Retractem
-	8 Diffindo
-	8 Draconifors
-	8 Cauldron Cake
-	8 Chinese Chomping Cabbage
-	8 Fumos
-	8 Greatspined Dugbog
-	8 Skurge
-	8 Fire Crab
-	8 Acromantula
-	8 Charms Adept
-	8 First-Year Ravenclaw
-	8 First-Year Gryffindor
-	8 First-Year Slytherin
-	8 First-Year Hufflepuff
-	8 First-Week Snatcher
-	8 Burned-Out Fifth-Year
-	8 Aspiring Dueling Students
-	8 Caught Out of Bed
-	8 Minister's Censorship
-	8 Ministry Spy
-	8 Spot Ministry Raid
-	8 Harry Potter, The Boy Who Lived
-	8 The Monster Book of Monsters
-	8 Folio Magi
-	8 Intro to Defence Against the Dark Arts
-	8 Intro to Transfiguration
-	8 Intro to the Dark Arts
-	8 Intro to Potions
-	8 Intro to Care of Magical Creatures
-	8 Intro to History of Magic
-	8 Intro to Herbology
-	8 Intro to Charms
-	8 Intro to Divination
-	8 Intro to Alchemy
-[foil(1)]
-	12 Expelliarmus
-	2 Crucio
-	1 Imperio
-	6 Fenrir Grayback
-	1 Severus Snape, Head of Slytherin House
-	1 Filius Flitwick, Head of Ravenclaw House
-	12 Inferi Protector
-	12 Lumos
-	12 Venemous Tentacula
-	12 Devil's Snare
-	12 Garden Gnome
-	6 Dementor of Azkaban
-	2 Sword of Godrick Gryffindor
-	2 Cup of Helga Hufflepuff
-	2 Lost Diadem of Rowena Ravenclaw
-	12 Invading Mountain Troll
-	12 Forest Giant
-	6 Kneazle
-	12 Confringo
-	12 Incendio
-	12 Bombarda
-	12 Accio
-	12 Arresto Momento
-	12 Mandrake Root
-	12 Quidditch Broom
-	12 Demiguise
-	12 Sectumsempera
-	6 Crab & Goyle
-	2 Hungarian Horntail
-	12 Levicorpus
-	6 Langlock
-	6 Winery Cellar
-	6 Castle Heights
-	6 Dungeon Depths
-	6 Cozey Hearth
-	6 Pureblood Manner
-	2 Room of Requirement
-	12 Engorgio
-	12 Reducio
-	12 Slytherin Prefect
-	12 Ravenclaw Prefect
-	2 Luna Lovegood, Enthused Reasearcher
-	6 Draco Malfoy
-	2 Hermione Granger, Brightest Witch of Her Age
-	6 Nymphadora Tonks, Metamorphmagus Auror
-	12 Blast Ended Screwt
-	6 Obscurial Parasite
-	2 Amazonian Fire Salamander Pit
-	12 Oppugno
-	12 Reducto
-	6 Whomping Willow
-	6 Self-Stiring Pewter Cauldron
-	1 Lonesome Phoenix
-	2 Newt Scamander, First Magizolologist
-	6 Cedric Diggory, Fiercely Loyal Friend
-	12 Veela Hair Wand
-	12 Unicorn Hair Wand
-	12 Pheonix Feather Wand
-	12 Dragon Heart String Wand
-	12 Basilisk Horn Wand
-	12 Gryffindor Prefect
-	6 Broken Wand
-	6 Serpensortia
-	12 Disillusionment Charm
-	12 Vera Verto
-	12 Melofors
-	12 Erkling
-	12 Herbivicous
-	6 Dobby, the House Elf
-	2 Cornelius Fudge, Misguided Minister
-	6 Zacharias Smith, Jealous Friend
-	6 Wizard-Cracker Imp
-	12 Dungeon Red Cap Agressor
-	6 Point Me
-	6 Orchideous
-	6 Helena, Ghost of Ravenclaw
-	2 Vanishing Cabinet
-	2 Department of Mysteries
-	2 Legilimens
-	2 Skirmish in Underground Chambers
-	6 Peeves, Poltergeist Trickster
-	1 Return of the Dark Lord
-	2 Portkey to Little Hangleton Graveyard
-	12 Flame Infused Armour
-	2 Tradgey at the World Cup
-	2 Journey Beneath Gringotts Bank
-	6 Nearly Headless Nick, Ghost of Gryffindor
-	2 Rennervate
-	6 Bloody Barron, Ghost of Slytherin
-	6 Ronald Weasley, House King
-	12 Hidden Boggart
-	12 Rictusempra
-	6 Inflatus
-	6 Giant Purple Toad
-	12 Screaming Howler
-	12 Densaugeo
-	2 Flight of the Seven Potters
-	2 Theseus Scamander, Loyal Auror
-	6 Bundimun
-	12 Surgito
-	6 Corban Yaxley, Registered Interrogator
-	1 Capacious Extremis
-	1 Priori Incantatem
-	1 Maxima Perfect Cast
-	6 Three Headed Guard Dog
-	12 Furnunculus
-	6 Brain Eater
-	6 Red Cap Tower Guard
-	12 Fanged Frisbee
-	12 Dark Wizard Robes
-	12 Ravenclaw Robes
-	12 Slytherin Robes
-	12 Huffelpuff Robes
-	1 Protego Diabolica
-	2 Beneath Hogwarts Plumbing
-	12 Sea Kelpie
-	6 Cho Chang, Ravenclaw Seeker
-	12 Delivery Owl
-	12 Erumpent Horn
-	6 The Grim
-	12 Confundus
-	12 Finite Incantatem
-	12 Gryffindor Robes
-	12 Remembrall
-	12 Standard Book of Spells
-	12 Dragon Hide Gloves
-	1 The British Prime Minister
-	6 Frank Bryce, Riddle's Grounds Keeper
-	2 The Dursleys, Antimagic Enthusiasts
-	12 Avifors
-	12 Locomotor Mortis
-	12 Volamucus
-	12 Animated Torch
-	1 Gringotts Banking Goblin
-	12 Basic Cast
-	12 Auror Initiate
-	12 Auror Scout
-	12 Auror Tracker
-	2 Battle of Hogwarts
-	12 Cautious Hipogriff
-	12 Episkey
-	12 Expecto Patronum
-	12 Fianto Duri
-	1 Friendly Unicorn
-	6 International Magical Coperation
-	12 Kitchen House-Elf
-	1 Magicus Extremos
-	12 Ministry Representative
-	12 Petrificus Totalus
-	6 Madam Pomfrey
-	12 Protego
-	6 Reparo
-	2 Sybill Trelawney, Unreliable Seer
-	6 Trial of the Wizengamot
-	6 The Wand Chooses the Wizard
-	12 Wingardium Leviosa
-	2 Wondering Hinkypunk
-	12 Dragon Hatchling
-	6 Walden Macnair, Dark Executioner
-	12 Diagon Alley Shopkeeper
-	2 Enchanted Field Guide
-	6 Marietta Edgecomb, Ministry Sneak
-	12 Apothecary Shopkeeper
-	12 Stupefy
-	6 The Sorting Hat
-	6 Viktor Krum, Durmstrang Champion
-	12 Dungbomb
-	6 Edurus Potion
-	12 Girding Potion
-	1 Wideye Potion
-	12 Focus Potion
-	2 Forgetfulness Potion
-	12 Invisibility Potion
-	1 Sleeping Potion
-	1 Drink of Dispair
-	2 Drought of Living Death
-	6 Veritaserum
-	12 Weakness Potion
-	12 Amortentia, Love Potion
-	6 Existmulo Maxima Potion
-	12 Exploding Potion
-	12 Potion Mishap
-	6 Thunder Brew Potion
-	6 Antidote to Poisons
-	1 Felix Felicis, Liquid Luck
-	2 Mandrake Restorative Draught
-	12 Wiggenweld Potion
-	12 Potion Storage Cabinet
-	12 Aging Potion
-	2 Elixir of Life
-	12 Gilleyweed
-	2 Grand Pepperup Potion
-	12 Hate Potion
-	12 Polyjuice Potion
-	12 Stink Pellet
-	6 Whit-Sharpening Potion
-	12 Wolfsbane Potion
-	12 Hogsmeade Shopkeeper
-	12 Durmstrang Potioneer
-	12 Student Potioneer
-	6 Aparecium
-	12 Depulso
-	12 Descendo
-	12 Evanesco
-	12 Flipendo
-	12 Glacius
-	6 Hedwig, Loyal Protector
-	6 Moaning Myrtle
-	2 Repello Inimicum
-	1 Zou Wu Beast
-	1 Black Lake Giant Squid
-	1 Desert Thunderbird
-	12 Diricawl
-	12 Fwooper Bird
-	6 Gilderoy Lockhart, Oblivious Fraud
-	12 Jobberknoll
-	6 Marcus Flint, Slytherin Quidditch Captain
-	12 Murtlap
-	12 Obliviate
-	2 Pius Thicknesse, Dark Lord Puppet
-	12 Colloshoo
-	12 Family Attic Ghoul
-	12 Flagrante
-	1 Lethifold
-	12 Snufflifores
-	12 Swooping Evil
-	1 Withering Curse of the Wearer
-	12 Carpe Retractem
-	2 Common Welsh Green
-	12 Diffindo
-	12 Draconifors
-	1 Geminio Curse
-	6 The Patil Twins, Padma and Parvati
-	2 Swedish Shortsnout
-	12 Cauldron Cake
-	12 Chinese Chomping Cabbage
-	12 Fumos
-	6 Graphorn
-	12 Greatspined Dugbog
-	1 Insectoid Manticore Mother
-	6 Justin Flinchfletchly, Wandering Student
-	1 Nundu Leopard
-	6 Rubeus Hagrid, Keeper of Keys
-	12 Skurge
-	6 Fleur Delacour, Beuxbatons Champion
-	6 Fred and George Weasley, Mischevious Twins
-	1 Igor Karkaroff, Durmstrang Headmaster
-	6 Neville Longbottem, Courageous Friend
-	2 Olympe Maxime, Headmistress of Beauxbatons
-	12 Fire Crab
-	6 Permission to Visit Hogsmeade
-	2 Mystery of the Golden Egg
-	6 Ginny Weasley, Underestimated Power
-	2 Molly and Arthur Weasley, Protective Parents
-	1 Locket of Salazar Slytherin
-	12 Acromantula
-	2 Avada Kedavra
-	2 Bellatrix Lestrange, Enthralled Death Eater
-	2 Dolores Umbridge, Lawfully Maddened Official
-	6 Magizoologist Trainee
-	12 Charms Adept
-	12 First-Year Ravenclaw
-	12 First-Year Gryffindor
-	12 First-Year Slytherin
-	12 First-Year Hufflepuff
-	12 First-Week Snatcher
-	6 The Carrow Siblings
-	6 Non-Verbal Cast
-	12 Burned-Out Fifth-Year
-	12 Aspiring Dueling Students
-	12 Caught Out of Bed
-	2 Merlin's Trial
-	6 Join Us or Die!
-	12 Minister's Censorship
-	6 Madam Hooch, Quidditch Referee
-	12 Ministry Spy
-	12 Spot Ministry Raid
-	6 Agustus Rookwood, Unspeakable Spy
-	2 Tom Riddles Diary
-	6 Nagini, Maladictus Performer
-	1 Watchful Observer
-	12 Harry Potter, The Boy Who Lived
-	2 Gaunt Family Ring
-	6 Remus Lupin, Master of the Dark Arts
-	6 Rita Skeeter, Gossip Reporter
-	2 Writing on the Wall
-	6 Mrs Norris
-	6 Alaster Mad-Eye Moody
-	2 Ordinary Wizarding Level Examinations
-	6 Quidditch Match
-	12 The Monster Book of Monsters
-	1 Society for the Promotion of Elfish Welfare
-	6 Padfoot, Protective Marauder
-	12 Folio Magi
-	1 Albus Dumbledore
-	2 Melding of Minds
-	1 Nastily Exhausting Wizarding Tests
-	6 Quirinus Quirrell, Traitorous Professor
-	6 Scabbers, Frightend Coward
-	1 Tom Riddle, Prodigal Orphan
-	12 Intro to Defence Against the Dark Arts
-	12 Intro to Transfiguration
-	12 Intro to the Dark Arts
-	12 Intro to Potions
-	12 Intro to Care of Magical Creatures
-	12 Intro to History of Magic
-	12 Intro to Herbology
-	12 Intro to Charms
-	12 Intro to Divination
-	12 Intro to Alchemy
-	2 Dolohov's Curse
-	1 Tale of the Three Brothers
-	2 Procure The Philosopher's Stone
-	2 Welcome to the Wizarding World
-	2 Parley with the Giants
-	2 Lessons with the Headmaster
-	2 Traverse the Secret Passage
-	2 Reawakining of the Dark Mark
-[wildcard(1)]
-	6 Expelliarmus
-	7 Crucio
-	4 Imperio
-	15 Fenrir Grayback
-	4 Severus Snape, Head of Slytherin House
-	4 Filius Flitwick, Head of Ravenclaw House
-	6 Inferi Protector
-	6 Lumos
-	6 Venemous Tentacula
-	6 Devil's Snare
-	6 Garden Gnome
-	15 Dementor of Azkaban
-	7 Sword of Godrick Gryffindor
-	7 Cup of Helga Hufflepuff
-	7 Lost Diadem of Rowena Ravenclaw
-	6 Invading Mountain Troll
-	6 Forest Giant
-	15 Kneazle
-	6 Confringo
-	6 Incendio
-	6 Bombarda
-	6 Accio
-	6 Arresto Momento
-	6 Mandrake Root
-	6 Quidditch Broom
-	6 Demiguise
-	6 Sectumsempera
-	15 Crab & Goyle
-	7 Hungarian Horntail
-	6 Levicorpus
-	15 Langlock
-	15 Winery Cellar
-	15 Castle Heights
-	15 Dungeon Depths
-	15 Cozey Hearth
-	15 Pureblood Manner
-	7 Room of Requirement
-	6 Engorgio
-	6 Reducio
-	6 Slytherin Prefect
-	6 Ravenclaw Prefect
-	7 Luna Lovegood, Enthused Reasearcher
-	15 Draco Malfoy
-	7 Hermione Granger, Brightest Witch of Her Age
-	15 Nymphadora Tonks, Metamorphmagus Auror
-	6 Blast Ended Screwt
-	15 Obscurial Parasite
-	7 Amazonian Fire Salamander Pit
-	6 Oppugno
-	6 Reducto
-	15 Whomping Willow
-	15 Self-Stiring Pewter Cauldron
-	4 Lonesome Phoenix
-	7 Newt Scamander, First Magizolologist
-	15 Cedric Diggory, Fiercely Loyal Friend
-	6 Veela Hair Wand
-	6 Unicorn Hair Wand
-	6 Pheonix Feather Wand
-	6 Dragon Heart String Wand
-	6 Basilisk Horn Wand
-	6 Gryffindor Prefect
-	15 Broken Wand
-	15 Serpensortia
-	6 Disillusionment Charm
-	6 Vera Verto
-	6 Melofors
-	6 Erkling
-	6 Herbivicous
-	15 Dobby, the House Elf
-	7 Cornelius Fudge, Misguided Minister
-	15 Zacharias Smith, Jealous Friend
-	15 Wizard-Cracker Imp
-	6 Dungeon Red Cap Agressor
-	15 Point Me
-	15 Orchideous
-	15 Helena, Ghost of Ravenclaw
-	7 Vanishing Cabinet
-	7 Department of Mysteries
-	7 Legilimens
-	7 Skirmish in Underground Chambers
-	15 Peeves, Poltergeist Trickster
-	4 Return of the Dark Lord
-	7 Portkey to Little Hangleton Graveyard
-	6 Flame Infused Armour
-	7 Tradgey at the World Cup
-	7 Journey Beneath Gringotts Bank
-	15 Nearly Headless Nick, Ghost of Gryffindor
-	7 Rennervate
-	15 Bloody Barron, Ghost of Slytherin
-	15 Ronald Weasley, House King
-	6 Hidden Boggart
-	6 Rictusempra
-	15 Inflatus
-	15 Giant Purple Toad
-	6 Screaming Howler
-	6 Densaugeo
-	7 Flight of the Seven Potters
-	7 Theseus Scamander, Loyal Auror
-	15 Bundimun
-	6 Surgito
-	15 Corban Yaxley, Registered Interrogator
-	4 Capacious Extremis
-	4 Priori Incantatem
-	4 Maxima Perfect Cast
-	15 Three Headed Guard Dog
-	6 Furnunculus
-	15 Brain Eater
-	15 Red Cap Tower Guard
-	6 Fanged Frisbee
-	6 Dark Wizard Robes
-	6 Ravenclaw Robes
-	6 Slytherin Robes
-	6 Huffelpuff Robes
-	4 Protego Diabolica
-	7 Beneath Hogwarts Plumbing
-	6 Sea Kelpie
-	15 Cho Chang, Ravenclaw Seeker
-	6 Delivery Owl
-	6 Erumpent Horn
-	15 The Grim
-	6 Confundus
-	6 Finite Incantatem
-	6 Gryffindor Robes
-	6 Remembrall
-	6 Standard Book of Spells
-	6 Dragon Hide Gloves
-	4 The British Prime Minister
-	15 Frank Bryce, Riddle's Grounds Keeper
-	7 The Dursleys, Antimagic Enthusiasts
-	6 Avifors
-	6 Locomotor Mortis
-	6 Volamucus
-	6 Animated Torch
-	4 Gringotts Banking Goblin
-	6 Basic Cast
-	6 Auror Initiate
-	6 Auror Scout
-	6 Auror Tracker
-	7 Battle of Hogwarts
-	6 Cautious Hipogriff
-	6 Episkey
-	6 Expecto Patronum
-	6 Fianto Duri
-	4 Friendly Unicorn
-	15 International Magical Coperation
-	6 Kitchen House-Elf
-	4 Magicus Extremos
-	6 Ministry Representative
-	6 Petrificus Totalus
-	15 Madam Pomfrey
-	6 Protego
-	15 Reparo
-	7 Sybill Trelawney, Unreliable Seer
-	15 Trial of the Wizengamot
-	15 The Wand Chooses the Wizard
-	6 Wingardium Leviosa
-	7 Wondering Hinkypunk
-	6 Dragon Hatchling
-	15 Walden Macnair, Dark Executioner
-	6 Diagon Alley Shopkeeper
-	7 Enchanted Field Guide
-	15 Marietta Edgecomb, Ministry Sneak
-	6 Apothecary Shopkeeper
-	6 Stupefy
-	15 The Sorting Hat
-	15 Viktor Krum, Durmstrang Champion
-	6 Dungbomb
-	15 Edurus Potion
-	6 Girding Potion
-	4 Wideye Potion
-	6 Focus Potion
-	7 Forgetfulness Potion
-	6 Invisibility Potion
-	4 Sleeping Potion
-	4 Drink of Dispair
-	7 Drought of Living Death
-	15 Veritaserum
-	6 Weakness Potion
-	6 Amortentia, Love Potion
-	15 Existmulo Maxima Potion
-	6 Exploding Potion
-	6 Potion Mishap
-	15 Thunder Brew Potion
-	15 Antidote to Poisons
-	4 Felix Felicis, Liquid Luck
-	7 Mandrake Restorative Draught
-	6 Wiggenweld Potion
-	6 Potion Storage Cabinet
-	6 Aging Potion
-	7 Elixir of Life
-	6 Gilleyweed
-	7 Grand Pepperup Potion
-	6 Hate Potion
-	6 Polyjuice Potion
-	6 Stink Pellet
-	15 Whit-Sharpening Potion
-	6 Wolfsbane Potion
-	6 Hogsmeade Shopkeeper
-	6 Durmstrang Potioneer
-	6 Student Potioneer
-	15 Aparecium
-	6 Depulso
-	6 Descendo
-	6 Evanesco
-	6 Flipendo
-	6 Glacius
-	15 Hedwig, Loyal Protector
-	15 Moaning Myrtle
-	7 Repello Inimicum
-	4 Zou Wu Beast
-	4 Black Lake Giant Squid
-	4 Desert Thunderbird
-	6 Diricawl
-	6 Fwooper Bird
-	15 Gilderoy Lockhart, Oblivious Fraud
-	6 Jobberknoll
-	15 Marcus Flint, Slytherin Quidditch Captain
-	6 Murtlap
-	6 Obliviate
-	7 Pius Thicknesse, Dark Lord Puppet
-	6 Colloshoo
-	6 Family Attic Ghoul
-	6 Flagrante
-	4 Lethifold
-	6 Snufflifores
-	6 Swooping Evil
-	4 Withering Curse of the Wearer
-	6 Carpe Retractem
-	7 Common Welsh Green
-	6 Diffindo
-	6 Draconifors
-	4 Geminio Curse
-	15 The Patil Twins, Padma and Parvati
-	7 Swedish Shortsnout
-	6 Cauldron Cake
-	6 Chinese Chomping Cabbage
-	6 Fumos
-	15 Graphorn
-	6 Greatspined Dugbog
-	4 Insectoid Manticore Mother
-	15 Justin Flinchfletchly, Wandering Student
-	4 Nundu Leopard
-	15 Rubeus Hagrid, Keeper of Keys
-	6 Skurge
-	15 Fleur Delacour, Beuxbatons Champion
-	15 Fred and George Weasley, Mischevious Twins
-	4 Igor Karkaroff, Durmstrang Headmaster
-	15 Neville Longbottem, Courageous Friend
-	7 Olympe Maxime, Headmistress of Beauxbatons
-	6 Fire Crab
-	15 Permission to Visit Hogsmeade
-	7 Mystery of the Golden Egg
-	15 Ginny Weasley, Underestimated Power
-	7 Molly and Arthur Weasley, Protective Parents
-	4 Locket of Salazar Slytherin
-	6 Acromantula
-	7 Avada Kedavra
-	7 Bellatrix Lestrange, Enthralled Death Eater
-	7 Dolores Umbridge, Lawfully Maddened Official
-	15 Magizoologist Trainee
-	6 Charms Adept
-	6 First-Year Ravenclaw
-	6 First-Year Gryffindor
-	6 First-Year Slytherin
-	6 First-Year Hufflepuff
-	6 First-Week Snatcher
-	15 The Carrow Siblings
-	15 Non-Verbal Cast
-	6 Burned-Out Fifth-Year
-	6 Aspiring Dueling Students
-	6 Caught Out of Bed
-	7 Merlin's Trial
-	15 Join Us or Die!
-	6 Minister's Censorship
-	15 Madam Hooch, Quidditch Referee
-	6 Ministry Spy
-	6 Spot Ministry Raid
-	15 Agustus Rookwood, Unspeakable Spy
-	7 Tom Riddles Diary
-	15 Nagini, Maladictus Performer
-	4 Watchful Observer
-	6 Harry Potter, The Boy Who Lived
-	7 Gaunt Family Ring
-	15 Remus Lupin, Master of the Dark Arts
-	15 Rita Skeeter, Gossip Reporter
-	7 Writing on the Wall
-	15 Mrs Norris
-	15 Alaster Mad-Eye Moody
-	7 Ordinary Wizarding Level Examinations
-	15 Quidditch Match
-	6 The Monster Book of Monsters
-	4 Society for the Promotion of Elfish Welfare
-	15 Padfoot, Protective Marauder
-	6 Folio Magi
-	4 Albus Dumbledore
-	7 Melding of Minds
-	4 Nastily Exhausting Wizarding Tests
-	15 Quirinus Quirrell, Traitorous Professor
-	15 Scabbers, Frightend Coward
-	4 Tom Riddle, Prodigal Orphan
-	6 Intro to Defence Against the Dark Arts
-	6 Intro to Transfiguration
-	6 Intro to the Dark Arts
-	6 Intro to Potions
-	6 Intro to Care of Magical Creatures
-	6 Intro to History of Magic
-	6 Intro to Herbology
-	6 Intro to Charms
-	6 Intro to Divination
-	6 Intro to Alchemy
-	7 Dolohov's Curse
-	4 Tale of the Three Brothers
-	7 Procure The Philosopher's Stone
-	7 Welcome to the Wizarding World
-	7 Parley with the Giants
-	7 Lessons with the Headmaster
-	7 Traverse the Secret Passage
-	7 Reawakining of the Dark Mark
+	5 Fenrir Grayback
+	5 Dementor of Azkaban
+	5 Kneazle
+	5 Crab & Goyle
+	5 Langlock
+	5 Winery Cellar
+	5 Castle Heights
+	5 Dungeon Depths
+	5 Cozey Hearth
+	5 Pureblood Manner
+	5 Draco Malfoy
+	5 Nymphadora Tonks, Metamorphmagus Auror
+	5 Obscurial Parasite
+	5 Whomping Willow
+	5 Self-Stiring Pewter Cauldron
+	5 Cedric Diggory, Fiercely Loyal Friend
+	5 Broken Wand
+	5 Serpensortia
+	5 Dobby, the House Elf
+	5 Zacharias Smith, Jealous Friend
+	5 Wizard-Cracker Imp
+	5 Point Me
+	5 Orchideous
+	5 Helena, Ghost of Ravenclaw
+	5 Peeves, Poltergeist Trickster
+	5 Nearly Headless Nick, Ghost of Gryffindor
+	5 Bloody Barron, Ghost of Slytherin
+	5 Ronald Weasley, House King
+	5 Inflatus
+	5 Giant Purple Toad
+	5 Bundimun
+	5 Corban Yaxley, Registered Interrogator
+	5 Three Headed Guard Dog
+	5 Brain Eater
+	5 Red Cap Tower Guard
+	5 Cho Chang, Ravenclaw Seeker
+	5 The Grim
+	5 Frank Bryce, Riddle's Grounds Keeper
+	5 International Magical Coperation
+	5 Madam Pomfrey
+	5 Reparo
+	5 Trial of the Wizengamot
+	5 The Wand Chooses the Wizard
+	5 Walden Macnair, Dark Executioner
+	5 Marietta Edgecomb, Ministry Sneak
+	5 The Sorting Hat
+	5 Viktor Krum, Durmstrang Champion
+	5 Edurus Potion
+	5 Veritaserum
+	5 Existmulo Maxima Potion
+	5 Thunder Brew Potion
+	5 Antidote to Poisons
+	5 Whit-Sharpening Potion
+	5 Aparecium
+	5 Hedwig, Loyal Protector
+	5 Moaning Myrtle
+	5 Gilderoy Lockhart, Oblivious Fraud
+	5 Marcus Flint, Slytherin Quidditch Captain
+	5 The Patil Twins, Padma and Parvati
+	5 Graphorn
+	5 Justin Flinchfletchly, Wandering Student
+	5 Rubeus Hagrid, Keeper of Keys
+	5 Fleur Delacour, Beuxbatons Champion
+	5 Fred and George Weasley, Mischevious Twins
+	5 Neville Longbottem, Courageous Friend
+	5 Permission to Visit Hogsmeade
+	5 Ginny Weasley, Underestimated Power
+	5 Magizoologist Trainee
+	5 The Carrow Siblings
+	5 Non-Verbal Cast
+	5 Join Us or Die!
+	5 Madam Hooch, Quidditch Referee
+	5 Agustus Rookwood, Unspeakable Spy
+	5 Nagini, Maladictus Performer
+	5 Remus Lupin, Master of the Dark Arts
+	5 Rita Skeeter, Gossip Reporter
+	5 Mrs Norris
+	5 Alaster Mad-Eye Moody
+	5 Quidditch Match
+	5 Padfoot, Protective Marauder
+	5 Quirinus Quirrell, Traitorous Professor
+	5 Scabbers, Frightend Coward
+[common(10)]
+	5 Expelliarmus
+	5 Inferi Protector
+	5 Lumos
+	5 Venemous Tentacula
+	5 Devil's Snare
+	5 Garden Gnome
+	5 Invading Mountain Troll
+	5 Forest Giant
+	5 Confringo
+	5 Incendio
+	5 Bombarda
+	5 Accio
+	5 Arresto Momento
+	5 Mandrake Root
+	5 Quidditch Broom
+	5 Demiguise
+	5 Sectumsempera
+	5 Levicorpus
+	5 Engorgio
+	5 Reducio
+	5 Slytherin Prefect
+	5 Ravenclaw Prefect
+	5 Blast Ended Screwt
+	5 Oppugno
+	5 Reducto
+	5 Veela Hair Wand
+	5 Unicorn Hair Wand
+	5 Pheonix Feather Wand
+	5 Dragon Heart String Wand
+	5 Basilisk Horn Wand
+	5 Gryffindor Prefect
+	5 Disillusionment Charm
+	5 Vera Verto
+	5 Melofors
+	5 Erkling
+	5 Herbivicous
+	5 Dungeon Red Cap Agressor
+	5 Flame Infused Armour
+	5 Hidden Boggart
+	5 Rictusempra
+	5 Screaming Howler
+	5 Densaugeo
+	5 Surgito
+	5 Furnunculus
+	5 Fanged Frisbee
+	5 Dark Wizard Robes
+	5 Ravenclaw Robes
+	5 Slytherin Robes
+	5 Huffelpuff Robes
+	5 Sea Kelpie
+	5 Delivery Owl
+	5 Erumpent Horn
+	5 Confundus
+	5 Finite Incantatem
+	5 Gryffindor Robes
+	5 Remembrall
+	5 Standard Book of Spells
+	5 Dragon Hide Gloves
+	5 Avifors
+	5 Locomotor Mortis
+	5 Volamucus
+	5 Animated Torch
+	5 Basic Cast
+	5 Auror Initiate
+	5 Auror Scout
+	5 Auror Tracker
+	5 Cautious Hipogriff
+	5 Episkey
+	5 Expecto Patronum
+	5 Fianto Duri
+	5 Kitchen House-Elf
+	5 Ministry Representative
+	5 Petrificus Totalus
+	5 Protego
+	5 Wingardium Leviosa
+	5 Dragon Hatchling
+	5 Diagon Alley Shopkeeper
+	5 Apothecary Shopkeeper
+	5 Stupefy
+	5 Dungbomb
+	5 Girding Potion
+	5 Focus Potion
+	5 Invisibility Potion
+	5 Weakness Potion
+	5 Amortentia, Love Potion
+	5 Exploding Potion
+	5 Potion Mishap
+	5 Wiggenweld Potion
+	5 Potion Storage Cabinet
+	5 Aging Potion
+	5 Gilleyweed
+	5 Hate Potion
+	5 Polyjuice Potion
+	5 Stink Pellet
+	5 Wolfsbane Potion
+	5 Hogsmeade Shopkeeper
+	5 Durmstrang Potioneer
+	5 Student Potioneer
+	5 Depulso
+	5 Descendo
+	5 Evanesco
+	5 Flipendo
+	5 Glacius
+	5 Diricawl
+	5 Fwooper Bird
+	5 Jobberknoll
+	5 Murtlap
+	5 Obliviate
+	5 Colloshoo
+	5 Family Attic Ghoul
+	5 Flagrante
+	5 Snufflifores
+	5 Swooping Evil
+	5 Carpe Retractem
+	5 Diffindo
+	5 Draconifors
+	5 Cauldron Cake
+	5 Chinese Chomping Cabbage
+	5 Fumos
+	5 Greatspined Dugbog
+	5 Skurge
+	5 Fire Crab
+	5 Acromantula
+	5 Charms Adept
+	5 First-Year Ravenclaw
+	5 First-Year Gryffindor
+	5 First-Year Slytherin
+	5 First-Year Hufflepuff
+	5 First-Week Snatcher
+	5 Burned-Out Fifth-Year
+	5 Aspiring Dueling Students
+	5 Caught Out of Bed
+	5 Minister's Censorship
+	5 Ministry Spy
+	5 Spot Ministry Raid
+	5 Harry Potter, The Boy Who Lived
+	5 The Monster Book of Monsters
+	5 Folio Magi
+	5 Intro to Defence Against the Dark Arts
+	5 Intro to Transfiguration
+	5 Intro to the Dark Arts
+	5 Intro to Potions
+	5 Intro to Care of Magical Creatures
+	5 Intro to History of Magic
+	5 Intro to Herbology
+	5 Intro to Charms
+	5 Intro to Divination
+	5 Intro to Alchemy
