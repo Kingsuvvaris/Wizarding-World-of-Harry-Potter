@@ -5,7 +5,7 @@
 			<name>WWHP</name>
 			<longname>Wizarding World of Harry Potter</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-24</releasedate>
+			<releasedate>2026-09-26</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -923,7 +923,7 @@ Whenever this creature Saddles a Wizard, that creature loses all abilities and g
 		</card>
 		<card>
 			<name>Amazonian Fire Salamander Pit</name>
-			<text>Whenever an opponent casts a creature spell, they may pay {2U}. If they don&apos;t, create a 1/1 {R} Salamander Beast token with &quot;{RG}, {T}: Regenerate this token.&quot; and &quot;{1}{R}: This token gets +1/+0 until end of turn.&quot; (The next time a regenerating creature would be destroyed this turn, instead tap it, remove it from combat, and heal all damage on it.)</text>
+			<text>Whenever an opponent casts a creature spell, they may pay {2U}. If they don&apos;t, create a 2/2 red Salamander Beast token with &quot;{RG}, {T}: Regenerate this token.&quot; and &quot;{1}{R}: This token gets +1/+0 until end of turn.&quot; (The next time a regenerating creature would be destroyed this turn, instead tap it, remove it from combat, and heal all damage on it.)</text>
 			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/51.png" num="135">WWHP</set>
 			<prop>
 				<layout>normal</layout>
@@ -4864,8 +4864,8 @@ Saddle 2 (Tap any number of other creatures you control with total power 2 or mo
 				<side>front</side>
 				<type>Creature — Lion Beast</type>
 				<maintype>Creature</maintype>
-				<manacost>2WWW</manacost>
-				<cmc>5</cmc>
+				<manacost>3WWW</manacost>
+				<cmc>6</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
 				<pt>6/6</pt>
@@ -5169,7 +5169,7 @@ If this creature was cast from the battlefield or is destroyed while face down, 
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Matagot Familiar Token WWHP; WWHP</name>
+			<name>Matagot Familiar WWHP</name>
 			<text>When this creature enters, each opponent loses 1 life, you gain life equal to the amount of life lost this way.
 Whenever a player commits a crime or casts a nonpermanent spell that targets this creature, create a token that&apos;s a copy of this creature. This ability only triggers once each turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)</text>
 			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/276.png" num="112">WWHP</set>
@@ -5186,7 +5186,6 @@ Whenever a player commits a crime or casts a nonpermanent spell that targets thi
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse-related>Matagot Familiar</reverse-related>
 		</card>
 		<card>
 			<name>Snufflifores</name>
@@ -5260,9 +5259,9 @@ Whenever enchanted opponent activates an equip ability or an Equipment an oppone
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Dragon Token WWHP; WWHP</name>
+			<name>Chinese Fireball</name>
 			<text>Flying
-When this creature enters you may pay {2}{R}{R}, create two 2/2 {R} Dragon creature tokens with flying and &quot;{R}: This creature gets +1/+0 until end of turn.&quot;</text>
+When this creature enters you may pay {2R}{2R}, create two 2/2 {R} Dragon creature tokens with flying and &quot;{R}: This creature gets +1/+0 until end of turn.&quot;</text>
 			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/281.png" num="141">WWHP</set>
 			<prop>
 				<layout>normal</layout>
@@ -5276,10 +5275,6 @@ When this creature enters you may pay {2}{R}{R}, create two 2/2 {R} Dragon creat
 				<pt>5/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<token>1</token>
-			<reverse-related>Draconifors</reverse-related>
-			<reverse-related count="2">Draconifors</reverse-related>
-			<reverse-related count="2">Chinese Fireball</reverse-related>
 		</card>
 		<card>
 			<name>Common Welsh Green</name>
@@ -5506,7 +5501,7 @@ Saddle 4 (Tap any number of other creatures you control with total power 4 or mo
 		<card>
 			<name>Greatspined Dugbog</name>
 			<text>As long as a creature entered under an opponent&apos;s control this turn, you may cast this creature as though it had flash.
-Whenever a creature enters under an opponents control, you this creature fights that creature.</text>
+Whenever a creature enters under an opponents control, this creature fights that creature.</text>
 			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/294.png" num="193">WWHP</set>
 			<prop>
 				<layout>normal</layout>
@@ -6373,7 +6368,8 @@ Whenever a creature becomes courageous, put an additional +1/+1 counter on it.</
 		</card>
 		<card>
 			<name>Merlin&apos;s Trial</name>
-			<text>Create a Mallowsweet token. Its a 0/1 {G} Plant creature token with defender, &quot;{1}, {T}, Sacrifice a land: Search your library for up to two basic lands and put them onto the battlefield tapped, then shuffle.&quot; and &quot;{2}, {T}: Add an amount of mana of any one color equal to the number of land cards in your graveyard.&quot;</text>
+			<text>Create a Mallowsweet token. Its a 0/1 {G} Plant creature token with defender, &quot;{1}, {T}, Sacrifice a land: Search your library for up to two basic lands and put them onto the battlefield tapped, then shuffle.&quot; and &quot;{2}, {T}: Add an amount of mana of any one color equal to the number of land cards in your graveyard.&quot;
+Bewitchment storm</text>
 			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/338.png" num="200">WWHP</set>
 			<prop>
 				<layout>normal</layout>
@@ -6666,7 +6662,7 @@ When Harry Potter dies or is exiled, return him to the battlefield transformed.
 			<name>Harry Potter, The Chosen One</name>
 			<text>Trample, Vigilance
 Creatures you control have Gallant X where X is equal to that creatures power. (Whenever a creature an opponent controls with greater power enters or attacks and this creature isn&apos;t courageous, put X +1/+1 counters on this creature and it becomes courageous.)
-As long Harry Potter is courageous, he gets +1/+1 for each +1/+1 counter among creatures that you control that are courageous.
+As long Harry Potter is courageous, he gets +1/+1 for each +1/+1 counter among other courageous creatures that you control..
 ---
 (Front): Harry Potter, The Boy Who Lived</text>
 			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/353_back.png" num="253b">WWHP</set>
@@ -6724,7 +6720,7 @@ Equip {5}
 		<card>
 			<name>Remus Lupin, Master of the Dark Arts</name>
 			<text>Gallant 2 (Whenever a creature an opponent controls with greater power enters or attacks and this creature isn&apos;t courageous, put two +1/+1 counters on this creature and it becomes courageous.)
-As long as Remus Lupin, Master of the Dark Arts is courageous, Wizard an Beast spells you cast cost {1} less to cast.
+As long as Remus Lupin, Master of the Dark Arts is courageous, Wizard and Beast spells you cast cost {1} less to cast.
 At the beginning of each upkeep, if no spells were cast last turn, transform Remus Lupin, Master of the Dark Arts.
 ---
 (Back): Maurauder Lupin, Lycanthropic Striken</text>
@@ -6746,7 +6742,7 @@ At the beginning of each upkeep, if no spells were cast last turn, transform Rem
 		<card>
 			<name>Maurauder Lupin, Lycanthropic Striken</name>
 			<text>Trample, menace
-Maurauder Lupin attacks each turn if able.
+Maurauder Lupin attacks each turn if able unless you or an opponent control another beast.
 At the beginning of each upkeep, if a player cast two or more spells last turn, transform Maurauder Lupin
 ---
 (Front): Remus Lupin, Master of the Dark Arts</text>
@@ -8175,6 +8171,26 @@ Decayed. (This creature can&apos;t block. When it attacks, sacrifice it at end o
 			<reverse-related>Inferi Hoard</reverse-related>
 		</card>
 		<card>
+			<name>Matagot Familiar Token WWHP; WWHP</name>
+			<text>When this creature enters, each opponent loses 1 life, you gain life equal to the amount of life lost this way.
+Whenever a player commits a crime or casts a nonpermanent spell that targets this creature, create a token that&apos;s a copy of this creature. This ability only triggers once each turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)</text>
+			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/425.png" num="16">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Cat Beast</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<reverse-related>Matagot Familiar</reverse-related>
+		</card>
+		<card>
 			<name>Rat Token WWHP; WWHP</name>
 			<text>{1}, {T}, Sacrifice this token: Create a Treasure token.</text>
 			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/426.png" num="17">WWHP</set>
@@ -8296,6 +8312,28 @@ Whenever this creature deals damage to another creature, if you control this cre
 			<reverse-related>Blast Ended Screwt</reverse-related>
 		</card>
 		<card>
+			<name>Dragon Token WWHP; WWHP</name>
+			<text>Flying
+Fire breath — {R}: This creature gets +1/+0 until end of turn.</text>
+			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/432.png" num="22">WWHP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<reverse-related>Draconifors</reverse-related>
+			<reverse-related count="2">Draconifors</reverse-related>
+			<reverse-related count="2">Chinese Fireball</reverse-related>
+		</card>
+		<card>
 			<name>Elemental Token WWHP; WWHP</name>
 			<text></text>
 			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/433.png" num="23">WWHP</set>
@@ -8349,7 +8387,7 @@ All creatures able to block this creature do so.</text>
 				<cmc>0</cmc>
 				<colors>R</colors>
 				<coloridentity>RG</coloridentity>
-				<pt>3/5</pt>
+				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
