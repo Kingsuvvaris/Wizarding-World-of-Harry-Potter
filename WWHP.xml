@@ -5,7 +5,7 @@
 			<name>WWHP</name>
 			<longname>Wizarding World of Harry Potter</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-10-14</releasedate>
+			<releasedate>2026-10-15</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -83,7 +83,7 @@ If this spell is countered, shuffle it back into your library instead.</text>
 			<text>Soulbond
 Whenever Severus Snape becomes paired, attacks while paired or a creature paired with him attacks, brew.
 Whenever you exile the top card of your library, you may instead search your library for a Potion card, reveal it, put it into your hand, then shuffle.</text>
-			<set rarity="mythic" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/4.png" num="301">WWHP</set>
+			<set rarity="mythic" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/4.png" num="302">WWHP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -157,7 +157,7 @@ Bewitchment storm (When you cast this spell, copy it for each bewitchment spell 
 			<text>Flash
 Vigilance, Lifelink
 {B}{B}{G}, {T}: Put three -1/-1 counters divided among up to three target attacking or blocking creatures.</text>
-			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/8.png" num="312">WWHP</set>
+			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/8.png" num="313">WWHP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -753,7 +753,7 @@ Bewitchment storm (When you cast this spell, copy it for each bewitchment spell 
 			<text>{B}, {T}: Target creature gets -2/-0 until end of turn.
 {1}{G}, {T}: Sacrifice a creature. Return target creature from your graveyard to your hand.
 {2}{U}, {T}: Scry 1. Draw a card.</text>
-			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/42.png" num="303">WWHP</set>
+			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/42.png" num="304">WWHP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -772,7 +772,7 @@ Bewitchment storm (When you cast this spell, copy it for each bewitchment spell 
 			<text>{1}{U}{U}, {T}: Draw a card.
 {1}{R}, {T}: If a source you control would deal damage this turn, it deals that much damage plus 1 instead.
 {W}, {T}: Prevent all damage that would be dealt to target creature you control this turn.</text>
-			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/43.png" num="292">WWHP</set>
+			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/43.png" num="293">WWHP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -868,12 +868,10 @@ Whenever one or more courageous creatures you control deal damage to a player, i
 			<name>Nymphadora Tonks, Metamorphmagus Auror</name>
 			<text>Alteration {3}{W} (You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield any time for {3}{W}.)
 Dedication to Wizard {W}{W} (Whenever this creature attacks or blocks, you may pay {W}{W}. If you do it gets +1/+1 for each Wizard you control until end of turn.)
-Whenever Nymphadora Tonks attacks, until end of turn Wizards in your hand have Alteration {X} where X is its mana value minus {2} and whenever you cast a Wizard, if it was cast from the battlefield, put a first-strike counter on it then you may draw a card.
----
-(Back): Alteration</text>
-			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/48_front.png" num="280a">WWHP</set>
+Whenever Nymphadora Tonks attacks, until end of turn Wizards in your hand have Alteration {X} where X is its mana value minus {2} and whenever you cast a Wizard, if it was cast from the battlefield, put a first-strike counter on it then you may draw a card.</text>
+			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/48.png" num="281">WWHP</set>
 			<prop>
-				<layout>transform</layout>
+				<layout>normal</layout>
 				<side>front</side>
 				<type>Legendary Creature — Human Wizard</type>
 				<maintype>Creature</maintype>
@@ -884,27 +882,6 @@ Whenever Nymphadora Tonks attacks, until end of turn Wizards in your hand have A
 				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related attach="transform">Alteration</related>
-		</card>
-		<card>
-			<name>Alteration</name>
-			<text>You can cover a face-down card with this reminder card.
-A card with Alteration can be cast face up any time for its Alteration cost.
----
-(Front): Nymphadora Tonks, Metamorphmagus Auror</text>
-			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/48_back.png" num="280b">WWHP</set>
-			<prop>
-				<layout>transform</layout>
-				<side>back</side>
-				<type>Creature</type>
-				<maintype>Creature</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<coloridentity>WBG</coloridentity>
-				<pt>2/2</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<related attach="transform">Nymphadora Tonks, Metamorphmagus Auror</related>
 		</card>
 		<card>
 			<name>Blast-Ended Skrewt</name>
@@ -1070,7 +1047,7 @@ Flying, haste, first-strike
 			<text>Dedication to Beast {G}{G}
 Whenever an opponent attacks you, you may put a Beast you control from your hand onto the battlefield. Return it to your hand during the next end step. Gain control of all Beasts until end of turn.
 Other Wizards you control have Dedication to beast {0}.</text>
-			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/58.png" num="279">WWHP</set>
+			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/58.png" num="280">WWHP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1088,7 +1065,7 @@ Other Wizards you control have Dedication to beast {0}.</text>
 			<name>Pomona Sprout, Head of Hufflepuff WWHP</name>
 			<text>Whenever an opponent attacks you, you may pay {3}. If you do, create a token that&apos;s a copy of target plant you control and plants you control gain deathtouch, vigilance, and lifelink until end of turn. Then learn.
 Wizards you control have Dedication to Plant {G} (Whenever this creature attacks or blocks, you may pay {G}. If you do it gets +1/+1 for each Plant you control until end of turn.)</text>
-			<set rarity="mythic" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/59.png" num="288">WWHP</set>
+			<set rarity="mythic" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/59.png" num="289">WWHP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1286,12 +1263,10 @@ Incantations enchanted player casts can&apos;t target you, spells, permanent, ab
 		<card>
 			<name>Serpensortia</name>
 			<text>Alteration {G} (You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield any time for {G}.)
-Create a 1/1 black Snake creature token with deathtouch. If Serpensortia was cast from the battlefield, create three of them instead.
----
-(Back): Alteration</text>
-			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/70_front.png" num="123a">WWHP</set>
+Create a 1/1 black Snake creature token with deathtouch. If Serpensortia was cast from the battlefield, create three of them instead.</text>
+			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/70.png" num="123">WWHP</set>
 			<prop>
-				<layout>transform</layout>
+				<layout>normal</layout>
 				<side>front</side>
 				<type>Sorcery — Incantation</type>
 				<maintype>Sorcery</maintype>
@@ -1301,27 +1276,6 @@ Create a 1/1 black Snake creature token with deathtouch. If Serpensortia was cas
 				<coloridentity>BG</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related attach="transform">Alteration</related>
-		</card>
-		<card>
-			<name>Alteration</name>
-			<text>You can cover a face-down card with this reminder card.
-A card with Alteration can be cast face up any time for its Alteration cost.
----
-(Front): Serpensortia</text>
-			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/70_back.png" num="123b">WWHP</set>
-			<prop>
-				<layout>transform</layout>
-				<side>back</side>
-				<type>Creature</type>
-				<maintype>Creature</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<coloridentity>BG</coloridentity>
-				<pt>2/2</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<related attach="transform">Serpensortia</related>
 		</card>
 		<card>
 			<name>Disillusionment Charm</name>
@@ -1378,12 +1332,10 @@ Bewitchment storm (When you cast this spell, copy it for each bewitchment spell 
 			<name>Erkling</name>
 			<text>Alteration {1}{B} (You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield any time for {1}{B}.)
 {1}{B}, Sacrifice Erkling: Target creature gets -2/-2 until end of turn.
-When Erkling dies, exile it. Until end of turn, you may cast it from exile face down as a 2/2 creature for {3}.
----
-(Back): Alteration</text>
-			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/74_front.png" num="102a">WWHP</set>
+When Erkling dies, exile it. Until end of turn, you may cast it from exile face down as a 2/2 creature for {3}.</text>
+			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/74.png" num="102">WWHP</set>
 			<prop>
-				<layout>transform</layout>
+				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Faerie Beast</type>
 				<maintype>Creature</maintype>
@@ -1394,27 +1346,6 @@ When Erkling dies, exile it. Until end of turn, you may cast it from exile face 
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related attach="transform">Alteration</related>
-		</card>
-		<card>
-			<name>Alteration</name>
-			<text>You can cover a face-down card with this reminder card.
-A card with Alteration can be cast face up any time for its Alteration cost.
----
-(Front): Erkling</text>
-			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/74_back.png" num="102b">WWHP</set>
-			<prop>
-				<layout>transform</layout>
-				<side>back</side>
-				<type>Creature</type>
-				<maintype>Creature</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<coloridentity>B</coloridentity>
-				<pt>2/2</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<related attach="transform">Erkling</related>
 		</card>
 		<card>
 			<name>Herbivicous</name>
@@ -1456,7 +1387,7 @@ Whenever you commit a crime, each opponent loses 1 life unless they pay {1}. You
 			<name>Dobby, the House Elf</name>
 			<text>{T}: Tap target creature. 
 Whenever an opponent commits a crime, untap Dobby, the House Elf. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)</text>
-			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/77.png" num="318">WWHP</set>
+			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/77.png" num="319">WWHP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1812,7 +1743,7 @@ You may look at the top card of your library at any time.
 		</card>
 		<card>
 			<name>Mirror of Erised</name>
-			<text>You may look at the top card and cast artifacts from the top of your library at anytime during your turn.
+			<text>Play with the top card of your library revealed.
 {T}: Put the top card of your library onto the bottom of your library. Then you may pay {2}. If you do, draw a card.
 ---
 (Front): Skirmish in Underground Chambers
@@ -1921,12 +1852,10 @@ Whenever an opponent casts a spell except during their turn, create a 2/1 {B} Sk
 			<text>Alteration {W}{W} (You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield any time for {W}{W}.)
 Double strike, trample
 Discard a red card: Regenerate Flame Infused Armour unless an opponent pays {2U}. 
-If this creature was cast from the battlefield, you may draw two cards. If you do, discard a card.
----
-(Back): Alteration</text>
-			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/97_front.png" num="156a">WWHP</set>
+If this creature was cast from the battlefield, you may draw two cards. If you do, discard a card.</text>
+			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/97.png" num="156">WWHP</set>
 			<prop>
-				<layout>transform</layout>
+				<layout>normal</layout>
 				<side>front</side>
 				<type>Artifact Creature — Beast Incantation</type>
 				<maintype>Creature</maintype>
@@ -1937,27 +1866,6 @@ If this creature was cast from the battlefield, you may draw two cards. If you d
 				<pt>3/6</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related attach="transform">Alteration</related>
-		</card>
-		<card>
-			<name>Alteration</name>
-			<text>You can cover a face-down card with this reminder card.
-A card with Alteration can be cast face up any time for its Alteration cost.
----
-(Front): Flame Infused Armour</text>
-			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/97_back.png" num="156b">WWHP</set>
-			<prop>
-				<layout>transform</layout>
-				<side>back</side>
-				<type>Creature</type>
-				<maintype>Creature</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<coloridentity>WUR</coloridentity>
-				<pt>2/2</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<related attach="transform">Flame Infused Armour</related>
 		</card>
 		<card>
 			<name>Tragedy at the World Cup</name>
@@ -1967,7 +1875,7 @@ When this Siege enters, each opponent faces a villainous choice — You search y
 (Back): Foreboding Warning
 Each player discards their hand, then draws that many cards.
 Foreboding Warning deals damage to each creature and each player loses life for each card they discarded this way.</text>
-			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/98_front.png" num="310a">WWHP</set>
+			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/98_front.png" num="311a">WWHP</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -1991,7 +1899,7 @@ Each player loses 1 life for each card they discarded this way and Foreboding Wa
 (Front): Tragedy at the World Cup
 Each player discards their hand, then draws that many cards.
 Foreboding Warning deals damage to each creature and each player loses life for each card they discarded this way.</text>
-			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/98_back.png" num="310b">WWHP</set>
+			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/98_back.png" num="311b">WWHP</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -2100,7 +2008,7 @@ Bewitchment storm</text>
 			<text>Flying
 Soulbond (You may pair this creature with another unpaired creature when either enters. They remain paired for as long as you control both of them.)
 Whenever Bloody Barron or another creature you control becomes paired with a creature other then Bloody Barron, each opponent faces a villainous choice — You put a +1/+1 counter on target creature you control, or you may search your library for up to one basic land card and add it to your hand.</text>
-			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/102.png" num="317">WWHP</set>
+			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/102.png" num="318">WWHP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2142,7 +2050,7 @@ Creature spells you cast can&apos;t be countered.
 			<text>Haste
 Gallant 3 (Whenever a creature an opponent controls with greater power enters or attacks and this creature isn&apos;t courageous, put three +1/+1 counters on this creature and it becomes courageous.)
 Whenever one or more +1/+1 counters are put on Ronald Weasley, if he is already courageous, he deal 1 damage to any target.</text>
-			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/104.png" num="298">WWHP</set>
+			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/104.png" num="299">WWHP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2312,7 +2220,7 @@ Choose target opponent. Choose a random nontoken creature they control. That pla
 			<text>Dedication to Wizard {2}{W}{B}
 Whenever Theseus Scamander attacks, attacking Wizards you control gain lifelink until end of turn. 
 Whenever a Wizard you control deals combat damage to a player or Legendary creature, draw a card.</text>
-			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/112.png" num="308">WWHP</set>
+			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/112.png" num="309">WWHP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2683,7 +2591,7 @@ All creatures able to block this creature do so.</text>
 			<text>Whenever you sacrifice a non-Food artifact, create a Food token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)
 Whenever you sacrifice a Food, you may pay 3 life. If you do, put a lifelink counter on target creature you control.
 When Narcissa Malfoy becomes paired with a creature, you may pay 3 life. If you do, put a +1/+1 counter on each of up to three target creatures.</text>
-			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/134.png" num="277">WWHP</set>
+			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/134.png" num="278">WWHP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2939,7 +2847,7 @@ Equip Wizard {W}{B}{G}</text>
 		<card>
 			<name>Protego Diabolica</name>
 			<text>Each opponent faces a villainous choice — You draw a card for each nonland permanent that player controls. They can&apos;t attack you and you have no maximum hand size until your next turn, or that player sacrifices each creature they control.</text>
-			<set rarity="mythic" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/150.png" num="290">WWHP</set>
+			<set rarity="mythic" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/150.png" num="291">WWHP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2956,7 +2864,7 @@ Equip Wizard {W}{B}{G}</text>
 			<name>Piertotum Locomotor WWHP</name>
 			<text>Alteration {1}{G}{W} (You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield any time for {1}{G}{W}.)
 Create a 3/3 Golem artifact creature token for each bewitchment you have cast this turn plus one. If you cast this spell from the battlefield, create an additional two of those tokens. (Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)</text>
-			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/151.png" num="286">WWHP</set>
+			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/151.png" num="287">WWHP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2974,7 +2882,7 @@ Create a 3/3 Golem artifact creature token for each bewitchment you have cast th
 			<name>Portus WWHP</name>
 			<text>Create a Portkey token. (Its an artifact with &quot;{2}, Sacrifice this artifact: Target creature you control phases out.&quot;)
 Bewitchment storm (When you cast this spell, copy it for each bewitchment spell cast before it this turn. You may choose new targets for the copies. Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)</text>
-			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/152.png" num="289">WWHP</set>
+			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/152.png" num="290">WWHP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3047,7 +2955,7 @@ Whenever Salazar Slytherin&apos;s Basilisk attacks and isn&apos;t blocked, it ge
 When this creature enters, you may discard a card. When you do, counter target creature spell or activated ability of a creature.
 As long as this creature is saddled, it has skulk (This creature can&apos;t be blocked by creatures with greater power.)
 Saddle 2 (Tap any number of other creatures you control with total power 2 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)</text>
-			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/154.png" num="300">WWHP</set>
+			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/154.png" num="301">WWHP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3279,7 +3187,7 @@ Crew 2</text>
 			<name>Snatcher Ambush WWHP</name>
 			<text>At the beginning of each opponent&apos;s upkeep, target creature that player controls cannot block until the end of your next turn. 
 {2}{R}: Create a 2/2 red black Wizard Werewolf creature token named Snatcher with &quot;Whenever a creature dealt damage by this token this turn dies, create a Treasure token.&quot; If {B} was paid to activate this ability, create two of those token instead. This ability costs {1} less for each creature that died this turn.</text>
-			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/167.png" num="304">WWHP</set>
+			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/167.png" num="305">WWHP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3343,12 +3251,10 @@ Whenever The Dursleys attack, put a -1/-1 counter on target creature defending p
 		<card>
 			<name>Avifors</name>
 			<text>Alteration {X}{X}{W} (You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield any time for {X}{X}{W}.)
-Create two 1/1 white Bird creature tokens with flying. If this spell was cast from the battlefield, create X tokens instead.
----
-(Back): Alteration</text>
-			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/171_front.png" num="8a">WWHP</set>
+Create two 1/1 white Bird creature tokens with flying. If this spell was cast from the battlefield, create X tokens instead.</text>
+			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/171.png" num="8">WWHP</set>
 			<prop>
-				<layout>transform</layout>
+				<layout>normal</layout>
 				<side>front</side>
 				<type>Instant — Incantation</type>
 				<maintype>Instant</maintype>
@@ -3358,27 +3264,6 @@ Create two 1/1 white Bird creature tokens with flying. If this spell was cast fr
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related attach="transform">Alteration</related>
-		</card>
-		<card>
-			<name>Alteration</name>
-			<text>You can cover a face-down card with this reminder card.
-A card with Alteration can be cast face up any time for its Alteration cost.
----
-(Front): Avifors</text>
-			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/171_back.png" num="8b">WWHP</set>
-			<prop>
-				<layout>transform</layout>
-				<side>back</side>
-				<type>Creature</type>
-				<maintype>Creature</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<coloridentity>W</coloridentity>
-				<pt>2/2</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<related attach="transform">Avifors</related>
 		</card>
 		<card>
 			<name>Locomotor Mortis</name>
@@ -3419,12 +3304,10 @@ Bewitchment storm (When you cast this spell, copy it for each bewitchment spell 
 			<text>Alteration {X}{X}{W} (You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield any time for {X}{X}{W}.)
 Flying, Defender
 {R}, {T}: This creature deals damage to target creature equal to the number of creatures that share a name with it. Activate only if you were dealt damage this turn. 
-If this creature was cast from the battlefield, create X tokens that are copies of it.
----
-(Back): Alteration</text>
-			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/174_front.png" num="223a">WWHP</set>
+If this creature was cast from the battlefield, create X tokens that are copies of it.</text>
+			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/174.png" num="223">WWHP</set>
 			<prop>
-				<layout>transform</layout>
+				<layout>normal</layout>
 				<side>front</side>
 				<type>Artifact Creature — Beast Incantation</type>
 				<maintype>Creature</maintype>
@@ -3435,27 +3318,6 @@ If this creature was cast from the battlefield, create X tokens that are copies 
 				<pt>1/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related attach="transform">Alteration</related>
-		</card>
-		<card>
-			<name>Alteration</name>
-			<text>You can cover a face-down card with this reminder card.
-A card with Alteration can be cast face up any time for its Alteration cost.
----
-(Front): Animated Torch</text>
-			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/174_back.png" num="223b">WWHP</set>
-			<prop>
-				<layout>transform</layout>
-				<side>back</side>
-				<type>Creature</type>
-				<maintype>Creature</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<coloridentity>WR</coloridentity>
-				<pt>2/2</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<related attach="transform">Animated Torch</related>
 		</card>
 		<card>
 			<name>Gringotts Banking Goblin</name>
@@ -3827,8 +3689,8 @@ Bewitchment storm (When you cast this spell, copy it for each bewitchment spell 
 				<side>front</side>
 				<type>Instant — Incantation</type>
 				<maintype>Instant</maintype>
-				<manacost>2W</manacost>
-				<cmc>3</cmc>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
 			</prop>
@@ -3855,7 +3717,7 @@ Lesson cycling {2} (Discard this card. You may reveal a lesson card you own from
 			<name>Sybill Trelawney, Unreliable Seer</name>
 			<text>Whenever a player casts a noncreature spell, put a divination counter on Sybill Trelawney. Then draw a card.
 When Sybill Trelawney has thirteen or more divination counters on her, exile her. The next time a player draws a card, that player loses the game.</text>
-			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/195.png" num="307">WWHP</set>
+			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/195.png" num="308">WWHP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3985,7 +3847,7 @@ At the beginning of your combat, goad target creature unless its controller pays
 		<card>
 			<name>Walden Macnair, Dark Executioner</name>
 			<text>When Walden Macnair enters or a player commits a crime, each opponent faces a villainous choice — That player discards a card and Walden Macnair deals damage to that player equal to the converted mana value of the discarded card, or that player sacrifices a permanent and return this creature to its owner&apos;s hand. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)</text>
-			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/201.png" num="314">WWHP</set>
+			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/201.png" num="315">WWHP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4174,7 +4036,7 @@ Azkaban — {T}: Add {U}, {B}, or {R}.</text>
 			<name>Viktor Krum, Durmstrang Champion</name>
 			<text>Viktor Krum has flying as long as he&apos;s equipped.
 Whenever an opponent makes a villainous choice, you draw a card, then discard a card.</text>
-			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/211.png" num="313">WWHP</set>
+			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/211.png" num="314">WWHP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4450,7 +4312,7 @@ Recipe — {2R}{2R}{2R}, {T}, Sacrifice this Potion: Gain control of target nona
 		</card>
 		<card>
 			<name>Existmulo Maxima Potion</name>
-			<text>Whenever a Potion enters, put a brew counter on this Potion. Add {C} for each brew counter on this Potion. (To Brew, you may reveal a Potion card you own from outside the game and put it into your hand, or exile the top card of your library. You may play it this turn.)
+			<text>Whenever a Potion enters, put a concentration counter on this Potion. Add {C} for each concentration counter on this Potion.
 Recipe — {2R}{2R}, Sacrifice this Potion: If a source would deal damage this turn, it deals twice that much damage instead.</text>
 			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/227.png" num="152">WWHP</set>
 			<prop>
@@ -4475,8 +4337,8 @@ Recipe — {X}{2R}{2R}, {T}, Sacrifice this Potion: This potion deals 5 damage t
 				<side>front</side>
 				<type>Artifact — Potion</type>
 				<maintype>Artifact</maintype>
-				<manacost>2/R2/R2/R2/R</manacost>
-				<cmc>8</cmc>
+				<manacost>2/R2/R</manacost>
+				<cmc>4</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
 			</prop>
@@ -4501,7 +4363,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 		</card>
 		<card>
 			<name>Thunder Brew Potion</name>
-			<text>Whenever a Potion enters, Thunder Brew Potion deals 2 damage to any target.
+			<text>Whenever a Potion enters, this Potion deals 1 damage to each of up to three targets.
 Recipe — {2R}{2R}, Sacrifice this potion: The next time a nonpermanent spell or ability you control would deal damage this turn, it deals that much damage plus 3 instead.&quot;</text>
 			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/230.png" num="174">WWHP</set>
 			<prop>
@@ -4509,8 +4371,8 @@ Recipe — {2R}{2R}, Sacrifice this potion: The next time a nonpermanent spell o
 				<side>front</side>
 				<type>Artifact — Potion</type>
 				<maintype>Artifact</maintype>
-				<manacost>2/R2/R</manacost>
-				<cmc>4</cmc>
+				<manacost>2/R2/R2/R2/R</manacost>
+				<cmc>8</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
 			</prop>
@@ -4620,16 +4482,16 @@ Recipe — {WB}{WB}{WB}{WB}, {T}, Sacrifice this Potion: If {W} was paid target 
 		</card>
 		<card>
 			<name>Elixir of Life</name>
-			<text>Whenever a Potion enters, target creature gains indestructible until end of turn.
-Recipe — {2W}{2W}, {T}, Sacrifice this potion: The next time you would lose the game, instead end the turn and shuffle your hand, your graveyard, and all permanents you own, then draw seven cards and your life total becomes 10. Exile this artifact unless you control The Philosopher&apos;s Stone.</text>
+			<text>Whenever a Potion enters, target creature gains indestructible until end of turn and you gain 2 life.
+Recipe — {2W}{2W}, {T}, Sacrifice this potion: The next time you would lose the game this turn, instead end the turn and shuffle your hand and graveyard, then draw seven cards and your life total becomes 10. Exile this artifact unless you control The Philosopher&apos;s Stone.</text>
 			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/237.png" num="17">WWHP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Artifact — Potion</type>
 				<maintype>Artifact</maintype>
-				<manacost>22/W2/W</manacost>
-				<cmc>6</cmc>
+				<manacost>2/W2/W</manacost>
+				<cmc>4</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
 			</prop>
@@ -4952,7 +4814,7 @@ Bewitchment storm (When you cast this spell, copy it for each bewitchment spell 
 			<text>Flying
 Gallant 2 (Whenever a creature an opponent controls with greater power enters or attacks and this creature isn&apos;t courageous, put two +1/+1 counters on this creature and it becomes courageous.)
 When Hedwig enters or deals combat damage to a player, draw a card. Then gain 3 life if you control a creature that is courageous.</text>
-			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/256.png" num="325">WWHP</set>
+			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/256.png" num="326">WWHP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4971,7 +4833,7 @@ When Hedwig enters or deals combat damage to a player, draw a card. Then gain 3 
 			<text>Flying, vigilance
 Scholarly (Whenever you draw a card, this creature gets +1/+1 until end of turn. If this is the third time this ability has resolved this turn, this creature becomes studious if it isn&apos;t already.)
 At the beginning of each player&apos;s end step, if Moaning Myrtle is studious and a creature entered under that player&apos;s control this turn, you gain 1 life and draw a card.</text>
-			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/257.png" num="336">WWHP</set>
+			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/257.png" num="337">WWHP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5091,11 +4953,11 @@ Whenever this creature deals damage to another creature with flying, put a +1/+1
 				<side>front</side>
 				<type>Creature — Bird Beast</type>
 				<maintype>Creature</maintype>
-				<manacost>4W</manacost>
-				<cmc>5</cmc>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
-				<pt>3/3</pt>
+				<pt>2/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -5214,7 +5076,7 @@ Bewitchment storm (When you cast this spell, copy it for each bewitchment spell 
 			<name>Pius Thicknesse, Dark Lord Puppet</name>
 			<text>The first time you you commit a crime each turn, scry 1 then draw a card.
 Whenever you draw your first creature spell each turn, you may reveal it. If a Wizard is revealed this way, tap target creature and put a stun counter on it. Then each opponent faces a villainous choice — You draw a card and each opponent discards a card, or each opponent mills a card and puts a stun counter on target creature they control.</text>
-			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/270.png" num="287">WWHP</set>
+			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/270.png" num="288">WWHP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5341,12 +5203,10 @@ Whenever a player commits a crime or casts a nonpermanent spell that targets thi
 		<card>
 			<name>Snufflifores</name>
 			<text>Alteration {1}{G}{G} (You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield any time for {1}{G}{G}.)
-Target player sacrifices an enchantment. Then that player creates a 1/1 black Rat creature token with &quot;{1}, {T}, Sacrifice this token: Create a Treasure token.&quot; If this spell was cast from the battlefield, the targeted player may sacrifice an artifact instead.
----
-(Back): Alteration</text>
-			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/277_front.png" num="125a">WWHP</set>
+Target player sacrifices an enchantment. Then that player creates a 1/1 black Rat creature token with &quot;{1}, {T}, Sacrifice this token: Create a Treasure token.&quot; If this spell was cast from the battlefield, the targeted player may sacrifice an artifact instead.</text>
+			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/277.png" num="125">WWHP</set>
 			<prop>
-				<layout>transform</layout>
+				<layout>normal</layout>
 				<side>front</side>
 				<type>Instant — Incantation</type>
 				<maintype>Instant</maintype>
@@ -5356,27 +5216,6 @@ Target player sacrifices an enchantment. Then that player creates a 1/1 black Ra
 				<coloridentity>BG</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related attach="transform">Alteration</related>
-		</card>
-		<card>
-			<name>Alteration</name>
-			<text>You can cover a face-down card with this reminder card.
-A card with Alteration can be cast face up any time for its Alteration cost.
----
-(Front): Snufflifores</text>
-			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/277_back.png" num="125b">WWHP</set>
-			<prop>
-				<layout>transform</layout>
-				<side>back</side>
-				<type>Creature</type>
-				<maintype>Creature</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<coloridentity>BG</coloridentity>
-				<pt>2/2</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<related attach="transform">Snufflifores</related>
 		</card>
 		<card>
 			<name>Swooping Evil</name>
@@ -5489,12 +5328,10 @@ Bewitchment storm (When you cast this spell, copy it for each bewitchment spell 
 		<card>
 			<name>Draconifors</name>
 			<text>Alteration {2}{W} (You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield any time for {2}{W}.)
-Create a 2/2 {R} Dragon creature token with Flying and &quot;{R}: This creature gets +1/+0 until end of turn.&quot; If this spell was cast from the battlefield create two of those token instead and tokens created this way gain haste and vigilance until end of turn.
----
-(Back): Alteration</text>
-			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/284_front.png" num="147a">WWHP</set>
+Create a 2/2 {R} Dragon creature token with Flying and &quot;{R}: This creature gets +1/+0 until end of turn.&quot; If this spell was cast from the battlefield create two of those token instead and tokens created this way gain haste and vigilance until end of turn.</text>
+			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/284.png" num="147">WWHP</set>
 			<prop>
-				<layout>transform</layout>
+				<layout>normal</layout>
 				<side>front</side>
 				<type>Sorcery — Incantation</type>
 				<maintype>Sorcery</maintype>
@@ -5504,33 +5341,12 @@ Create a 2/2 {R} Dragon creature token with Flying and &quot;{R}: This creature 
 				<coloridentity>WR</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related attach="transform">Alteration</related>
-		</card>
-		<card>
-			<name>Alteration</name>
-			<text>You can cover a face-down card with this reminder card.
-A card with Alteration can be cast face up any time for its Alteration cost.
----
-(Front): Draconifors</text>
-			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/284_back.png" num="147b">WWHP</set>
-			<prop>
-				<layout>transform</layout>
-				<side>back</side>
-				<type>Creature</type>
-				<maintype>Creature</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<coloridentity>WR</coloridentity>
-				<pt>2/2</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<related attach="transform">Draconifors</related>
 		</card>
 		<card>
 			<name>Geminio Curse</name>
 			<text>Enchant player
 When this Curse enters, exile target artifact.
-Whenever one or more nontoken creatures enchanted player controls enter, create a token copy of the exiled card. Then players with less life then the number of artifacts you control lose the game.</text>
+Whenever one or more nontoken creatures enchanted player controls enter, create a token copy of the exiled card. Then players with life less then the number of artifacts you control lose the game.</text>
 			<set rarity="mythic" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/285.png" num="157">WWHP</set>
 			<prop>
 				<layout>normal</layout>
@@ -5589,7 +5405,7 @@ Whenever The Patil Twins deal combat damage to a player, if it&apos;s courageous
 			<text>Flying
 {3}{R}: Target creature an opponent controls blocks this turn if able.
 When this creature dies, put a shield counter on target creature you control.</text>
-			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/288.png" num="306">WWHP</set>
+			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/288.png" num="307">WWHP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5625,7 +5441,7 @@ Whenever you sacrifice a Food, you gain life equal to the number of other Foods 
 			<name>Chinese Chomping Cabbage</name>
 			<text>Flash
 Squad {2G}. (As an additional cost to cast this spell, you may pay {2G} any number of times. When this creature enters, create that many tokens that are copies of it.)
-When this creature enters, if you paid {G}{G} to cast it or it&apos;s a token, you may have it fights target creature an opponent controls.</text>
+When this creature enters, if you paid {G}{G} to cast it or it&apos;s a token, you may have it fight target creature an opponent controls. (Each deals damage equal to its power to the other.)</text>
 			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/290.png" num="183">WWHP</set>
 			<prop>
 				<layout>normal</layout>
@@ -5793,7 +5609,7 @@ This creature can&apos;t be blocked except by three or more creatures.
 			<name>Pansi Parkinson, Combatant Instigator WWHP</name>
 			<text>Soulbond
 As long as Pansi Parkinson is paired with a creature, whenever a creature not paired with Pansi Parkinson you control enters, you may have it fight target creature. If a creature you control dies this way, return it to your hand and create a number of tapped Treasure tokens equal to that creature&apos;s power.</text>
-			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/299.png" num="284">WWHP</set>
+			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/299.png" num="285">WWHP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5833,7 +5649,7 @@ Courageous creatures you control get +0/+2.
 Whenever Rubeus Hagrid becomes courageous, create a Legendary 2/2 green Dog creature token named Fang. Then choose one—
 • Search your library for a Beast or basic land card, reveal it, put it into your hand, then shuffle.
 • Learn (you may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)</text>
-			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/301.png" num="299">WWHP</set>
+			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/301.png" num="300">WWHP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5951,7 +5767,7 @@ Whenever you sacrifice a Food, roll a d20.
 			<name>Fleur Delacour, Beauxbatons Champion</name>
 			<text>Vigilance
 Whenever another nontoken creature you control dies, you may sacrifice Fleur Delacour. If you do, return that card from your graveyard to the battlefield if its mana value is 3 or less or return that card from your graveyard to your hand.</text>
-			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/307.png" num="324">WWHP</set>
+			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/307.png" num="325">WWHP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6005,7 +5821,7 @@ As long as Fred and George Weasley are courageous, each courageous creature you 
 			<name>Neville Longbottom, Courageous Friend</name>
 			<text>Gallant 2 (Whenever a creature an opponent controls with greater power enters or attacks and this creature isn&apos;t courageous, put two +1/+1 counters on this creature and it becomes courageous.)
 As long as Neville Longbottom is courageous, whenever another another creature you control becomes courageous, put an additional +1/+1 counter on it and he becomes indestructible until end of turn.</text>
-			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/310.png" num="278">WWHP</set>
+			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/310.png" num="279">WWHP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6024,7 +5840,7 @@ As long as Neville Longbottom is courageous, whenever another another creature y
 			<text>Scholarly
 As long as Olympe Maxime is studious, she has trample, double-strike and whenever she deals combat damage to a player, learn.
 You have no maximum hand size.</text>
-			<set rarity="mythic" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/311.png" num="281">WWHP</set>
+			<set rarity="mythic" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/311.png" num="282">WWHP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6132,7 +5948,7 @@ When Mystery of the Golden Egg enters, tap each creature and put a stun counter 
 (Back): Prefect&apos;s Bathroom
 {T}: Add {C}.
 {4}, {T}: Draw a card for each creature you control. You lose life equal to the number of cards drawn this way. Then for each color among permanents you control add an amount of mana of that color equal to your devotion to that color. (Each that in the mana costs of permanents you control counts toward your devotion to that.)</text>
-			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/315_front.png" num="276a">WWHP</set>
+			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/315_front.png" num="277a">WWHP</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -6156,7 +5972,7 @@ When Mystery of the Golden Egg enters, tap each creature and put a stun counter 
 (Front): Mystery of the Golden Egg
 {T}: Add {C}.
 {4}, {T}: Draw a card for each creature you control. You lose life equal to the number of cards drawn this way. Then for each color among permanents you control add an amount of mana of that color equal to your devotion to that color. (Each that in the mana costs of permanents you control counts toward your devotion to that.)</text>
-			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/315_back.png" num="276b">WWHP</set>
+			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/315_back.png" num="277b">WWHP</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -6395,7 +6211,7 @@ The first time you cast an Incantation spell each turn, you may draw a card. If 
 			<name>First-Year Ravenclaw</name>
 			<text>When this creature enters, you may draw a card. If you do discard two cards or discard a creature card.
 As long as you control another creature that is studious, this creature has haste and scholarly. (Whenever you draw a card, this creature gets +1/+1 until end of turn. If this is the third time this ability has resolved this turn, this creature becomes studious if it isn&apos;t already.)</text>
-			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/328.png" num="322">WWHP</set>
+			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/328.png" num="323">WWHP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6413,7 +6229,7 @@ As long as you control another creature that is studious, this creature has hast
 			<name>First-Year Gryffindor</name>
 			<text>Gallant 1 (Whenever a creature an opponent controls with greater power enters or attacks and this creature isn&apos;t courageous, put a +1/+1 counter on this creature and it becomes courageous.)
 When this creature enters, put a +1/+1 counter on target creature then you may goad target creature. (Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)</text>
-			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/329.png" num="320">WWHP</set>
+			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/329.png" num="321">WWHP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6431,7 +6247,7 @@ When this creature enters, put a +1/+1 counter on target creature then you may g
 			<name>First-Year Slytherin</name>
 			<text>Soulbond (You may pair this creature with another unpaired creature when either enters. They remain paired for as long as you control both of them.)
 When this creature enters, each opponent discards a card then mills a card for each creature you control paired with another creature.</text>
-			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/330.png" num="323">WWHP</set>
+			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/330.png" num="324">WWHP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6448,8 +6264,8 @@ When this creature enters, each opponent discards a card then mills a card for e
 		<card>
 			<name>First-Year Hufflepuff</name>
 			<text>When this creature enters, choose a creature type.
-This creature has dedication to the chosen creature type {GW}{GW}. (Whenever this creature attacks or blocks, you may pay {GW}{GW}{GW}{GW}. If you do it gets +1/+1 for each creature of the chosen type you control until end of turn.)</text>
-			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/331.png" num="321">WWHP</set>
+This creature has dedication to the chosen creature type {GW}{GW}. (Whenever this creature attacks or blocks, you may pay {GW}{GW}. If you do it gets +1/+1 for each creature of the chosen type you control until end of turn.)</text>
+			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/331.png" num="322">WWHP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6466,7 +6282,7 @@ This creature has dedication to the chosen creature type {GW}{GW}. (Whenever thi
 		<card>
 			<name>First-Week Snatcher</name>
 			<text>Whenever a Wizard enters under your control that shares a color with this creature, that Wizard deals 1 damage to any target. Then tap that target.</text>
-			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/332.png" num="319">WWHP</set>
+			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/332.png" num="320">WWHP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6800,7 +6616,7 @@ The first face-down creature spell you cast each turn costs {3} less to cast.
 Whenever you cast a spell from the battlefield, transform Watchful Observer.
 ---
 (Back): Minerva McGonagall, Head of Gryffindor</text>
-			<set rarity="mythic" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/350_front.png" num="315a">WWHP</set>
+			<set rarity="mythic" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/350_front.png" num="316a">WWHP</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -6822,7 +6638,7 @@ Whenever a permanent with one or more counters on it dies, you may put those cou
 Whenever you successfully cast a bewitchment spell, learn. (Auras, Horcruxs, Incantations, Lessons, and Potions are Bewitchments.)
 ---
 (Front): Watchful Observer</text>
-			<set rarity="mythic" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/350_back.png" num="315b">WWHP</set>
+			<set rarity="mythic" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/350_back.png" num="316b">WWHP</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -6926,7 +6742,7 @@ As long as Remus Lupin, Master of the Dark Arts is courageous, Wizard and Beast 
 At the beginning of each upkeep, if no spells were cast last turn, transform Remus Lupin, Master of the Dark Arts.
 ---
 (Back): Marauder Lupin, Lycanthropic Striken</text>
-			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/357_front.png" num="295a">WWHP</set>
+			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/357_front.png" num="296a">WWHP</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -6948,7 +6764,7 @@ Marauder Lupin attacks each turn if able unless you or an opponent control anoth
 At the beginning of each upkeep, if a player cast two or more spells last turn, transform Marauder Lupin
 ---
 (Front): Remus Lupin, Master of the Dark Arts</text>
-			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/357_back.png" num="295b">WWHP</set>
+			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/357_back.png" num="296b">WWHP</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -6996,7 +6812,7 @@ Commander: [b]Alaster Moody, Keeper of the Order of the Phoenix[/b]
 {1}{U}{B}: Transform Rita Skeeter, Gossip Reporter.
 ---
 (Back): Rita Skeeter, Hidden Beetle</text>
-			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/360_front.png" num="297a">WWHP</set>
+			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/360_front.png" num="298a">WWHP</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -7018,7 +6834,7 @@ Each opponent plays with their hand revealed.
 {2}{U}{B}: Transform Rita Skeeter, Hidden Beetle.
 ---
 (Front): Rita Skeeter, Gossip Reporter</text>
-			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/360_back.png" num="297b">WWHP</set>
+			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/360_back.png" num="298b">WWHP</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -7099,16 +6915,16 @@ Skulk (This creature can&apos;t be blocked by creatures with greater power.)
 Whenever an opponent commits a crime, transform Mrs Norris. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)
 ---
 (Back): Argus Filch, Dungeons Caretaker</text>
-			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/365_front.png" num="337a">WWHP</set>
+			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/365_front.png" num="276a">WWHP</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
 				<type>Legendary Creature — Cat</type>
 				<maintype>Creature</maintype>
-				<manacost>G/WB</manacost>
+				<manacost>UB</manacost>
 				<cmc>2</cmc>
-				<colors>WBG</colors>
-				<coloridentity>WBG</coloridentity>
+				<colors>UB</colors>
+				<coloridentity>UBG</coloridentity>
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
@@ -7120,7 +6936,7 @@ Whenever an opponent commits a crime, transform Mrs Norris. (Targeting opponents
 When an opponent commits a crime, put a -1/-1 counter on target creature that player controls and a +1/+1 counter on target creature you control. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)
 ---
 (Front): Mrs Norris</text>
-			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/365_back.png" num="337b">WWHP</set>
+			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/365_back.png" num="276b">WWHP</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -7128,8 +6944,8 @@ When an opponent commits a crime, put a -1/-1 counter on target creature that pl
 				<maintype>Creature</maintype>
 				<manacost></manacost>
 				<cmc>0</cmc>
-				<colors>WBG</colors>
-				<coloridentity>WBG</coloridentity>
+				<colors>UB</colors>
+				<coloridentity>UBG</coloridentity>
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
@@ -7184,7 +7000,7 @@ At the beginning of your upkeep, you may sacrifice a Land, Potion or discard an 
 I — Draw two cards. You gain 2 life.
 II — Spells you cast this turn cost {1} less to cast for each studious creature you control.
 III — Each creature that isn&apos;t studious phases out.</text>
-			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/369.png" num="282">WWHP</set>
+			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/369.png" num="283">WWHP</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -7204,7 +7020,7 @@ I — Quidditch Match gains &quot;Wizards have flying&quot;
 II — Quidditch Match gains &quot;Wizards with flying get +1/+1.&quot;
 Up to one target Wizard you control deal damage equal to its power to another target Wizard.
 III — Each player draws a number of cards and gains an amount of life equal to the number of creatures with flying they control.</text>
-			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/370.png" num="291">WWHP</set>
+			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/370.png" num="292">WWHP</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -7263,9 +7079,9 @@ At the beginning of your upkeep, you may pay {2}. If you don&apos;t, exile it an
 			<name>Society for the Promotion of Elfish Welfare</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter.)
 I — Each player investigates three times.
-II — This Saga gains &quot;Creatures can&apos;t attack as long as their controller controls a Clue and you control this Saga.&quot;
-III — Each player puts a number of +1/+1 counters on each creature they control equal to the number of Clue permanents they control.</text>
-			<set rarity="mythic" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/373.png" num="305">WWHP</set>
+II — This Saga gains &quot;Creatures can&apos;t attack you as long as their controller controls a Clue and you control this Saga.&quot;
+III — Each player puts a number of +1/+1 counters on each creature they control equal to the number of Clues they control.</text>
+			<set rarity="mythic" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/373.png" num="306">WWHP</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -7314,10 +7130,10 @@ Bewitchment Storm (hen you cast this spell, copy it for each bewitchment spell c
 			<name>Padfoot, Protective Marauder</name>
 			<text>Vigilance
 {1}{W}: Transform Padfoot, Protective Marauder. Activate only if you control a courageous creature.
-Whenever this creature transforms into Padfoot, Protective Marauder, he can&apos;t be blocked this turn.
+Whenever this creature transforms into Padfoot, Protective Marauder, creatures your opponent controls can&apos;t block this turn.
 ---
 (Back): Sirius Black, Angered Outcast</text>
-			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/375_front.png" num="283a">WWHP</set>
+			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/375_front.png" num="284a">WWHP</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -7336,10 +7152,10 @@ Whenever this creature transforms into Padfoot, Protective Marauder, he can&apos
 			<name>Sirius Black, Angered Outcast</name>
 			<text>Gallant 1 (Whenever a creature an opponent controls with greater power enters or attacks and this creature isn&apos;t courageous, put a +1/+1 counter on this creature and it becomes courageous.)
 As long as Sirius Black is courageous, each other creature you control that is courageous gets +1/+1 and has lifelink and vigilance.
-{2}{W}: Transform Sirius Black, Angered Outcast.
+{2}{R}{W}: Transform Sirius Black, Angered Outcast.
 ---
 (Front): Padfoot, Protective Marauder</text>
-			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/375_back.png" num="283b">WWHP</set>
+			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/375_back.png" num="284b">WWHP</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -7575,9 +7391,8 @@ Whenever a creature that was dealt damage by Remnant of Lord Voldemort this turn
 		<card>
 			<name>Scabbers, Frightened Coward</name>
 			<text>Haste
-If an opponent would exile a card from your library, add it to your hand instead.
 Whenever this creature transforms into Scabbers, Scabbers deals 1 damage to target player then return it to its owner&apos;s hand.
-When you commit a crime, you may pay 2 life or {UB} {UB}. If you do, transform Scabbers, Frightened Coward. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)
+Whenever you commit a crime, you may pay 2 life or {UB} {UB}. If you do, transform Scabbers, Frightened Coward. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)
 ---
 (Back): Peter Pettigrew, Traitorous Marauder</text>
 			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/388_front.png" num="172a">WWHP</set>
@@ -7623,7 +7438,7 @@ Whenever a player loses 4 or more life, each opponent faces a villainous choice 
 Whenever a Horcrux you control enters, transform this card then learn.
 ---
 (Back): Voldemort, The Darklord</text>
-			<set rarity="mythic" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/391_front.png" num="309a">WWHP</set>
+			<set rarity="mythic" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/391_front.png" num="310a">WWHP</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -7645,7 +7460,7 @@ Voldemort gets +1/+1 for each Horcrux on the battlefield and has indestructible 
 When Voldemort enters and whenever a Horcrux enters, each opponent faces a villainous choice — You put your choice of a flying, deathtouch, menace, or -1/-1 counter on a number of target creatures up to the number of Horcruxs you control, or that player discard their hand and mills a number of cards equal to Voldemort&apos;s combined power and toughness.
 ---
 (Front): Tom Riddle, Prodigal Orphan</text>
-			<set rarity="mythic" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/391_back.png" num="309b">WWHP</set>
+			<set rarity="mythic" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/391_back.png" num="310b">WWHP</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -7666,7 +7481,7 @@ When Voldemort enters and whenever a Horcrux enters, each opponent faces a villa
 If you control a creature with a counter on it, exile this spell, then cast it transformed.
 ---
 (Back): OWL Defence Against the Dark Arts</text>
-			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/403_front.png" num="329a">WWHP</set>
+			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/403_front.png" num="330a">WWHP</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -7692,7 +7507,7 @@ Whenever an opponent casts a creature spell, put up to one Shield counter on tar
 {4}{RW}{RW}: Untap all creatures you control. After this phase there is an additional combat step followed by an additional main-phase.
 ---
 (Front): Intro to Defence Against the Dark Arts</text>
-			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/403_back.png" num="329b">WWHP</set>
+			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/403_back.png" num="330b">WWHP</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -7713,14 +7528,14 @@ Wizard creatures you control get +1/+1 until end of turn.
 If you control a face-down creature, exile this spell, then cast it transformed.
 ---
 (Back): OWL Transfiguration</text>
-			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/404_front.png" num="335a">WWHP</set>
+			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/404_front.png" num="336a">WWHP</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
 				<type>Sorcery — Lesson</type>
 				<maintype>Sorcery</maintype>
-				<manacost>2G/W</manacost>
-				<cmc>3</cmc>
+				<manacost>1G/W</manacost>
+				<cmc>2</cmc>
 				<colors>WG</colors>
 				<coloridentity>WG</coloridentity>
 			</prop>
@@ -7739,7 +7554,7 @@ Creatures you control have: {2}: Remove this creature from combat.
 Cards in your hand have Alteration {3}. (You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield any time for {3}.)
 ---
 (Front): Intro to Transfiguration</text>
-			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/404_back.png" num="335b">WWHP</set>
+			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/404_back.png" num="336b">WWHP</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -7759,14 +7574,14 @@ Cards in your hand have Alteration {3}. (You may cast this face down as a 2/2 cr
 If an artifact or creature you control died this turn, exile this spell, then cast it transformed.
 ---
 (Back): OWL Dark Arts</text>
-			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/405_front.png" num="334a">WWHP</set>
+			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/405_front.png" num="335a">WWHP</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
 				<type>Instant — Lesson</type>
 				<maintype>Instant</maintype>
-				<manacost>1U/BU/B</manacost>
-				<cmc>3</cmc>
+				<manacost>1U/B</manacost>
+				<cmc>2</cmc>
 				<colors>UB</colors>
 				<coloridentity>UB</coloridentity>
 			</prop>
@@ -7785,7 +7600,7 @@ During the beginning of each player&apos;s end-step, that player makes a villain
 Whenever a player makes a villainous choice, the face that choice an additional time.
 ---
 (Front): Intro to the Dark Arts</text>
-			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/405_back.png" num="334b">WWHP</set>
+			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/405_back.png" num="335b">WWHP</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -7805,7 +7620,7 @@ Whenever a player makes a villainous choice, the face that choice an additional 
 If you control a nontoken Potion, exile this spell, then cast it transformed.
 ---
 (Back): OWL Potions</text>
-			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/406_front.png" num="333a">WWHP</set>
+			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/406_front.png" num="334a">WWHP</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -7831,7 +7646,7 @@ At the beginning of your end-step, create a Potion token. (It&apos;s an artifact
 The first time each turn you activate a Recipe ability or brew, copy that ability. You may choose new targets for the copy.
 ---
 (Front): Intro to Potions</text>
-			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/406_back.png" num="333b">WWHP</set>
+			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/406_back.png" num="334b">WWHP</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -7847,11 +7662,11 @@ The first time each turn you activate a Recipe ability or brew, copy that abilit
 		</card>
 		<card>
 			<name>Intro to Care of Magical Creatures</name>
-			<text>Target creature you control fights target creature an opponent controls. Each of those creatures that is a Beast, gains first strike until end of turn before they fight.
+			<text>Target creature you control fights target creature an opponent controls.
 If you control a Beast, exile this spell, then cast it transformed.
 ---
 (Back): OWL Care of Magical Creatures</text>
-			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/407_front.png" num="327a">WWHP</set>
+			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/407_front.png" num="328a">WWHP</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -7877,7 +7692,7 @@ Beasts you control have haste.
 Whenever a player casts a Beast spell or activates the ability of a Beast, you may pay {2}. If you do, copy that spell or ability. You may choose new targets for the copy. (A copy of a permanent spell becomes a token.)
 ---
 (Front): Intro to Care of Magical Creatures</text>
-			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/407_back.png" num="327b">WWHP</set>
+			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/407_back.png" num="328b">WWHP</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -7897,7 +7712,7 @@ Whenever a player casts a Beast spell or activates the ability of a Beast, you m
 If you&apos;ve cast a historic spell this turn, exile this spell, then cast it transformed. (Artifacts, legendaries, and Sagas are historic.)
 ---
 (Back): OWL History of Magic</text>
-			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/408_front.png" num="332a">WWHP</set>
+			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/408_front.png" num="333a">WWHP</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -7924,7 +7739,7 @@ Historic spells you control have &quot;Whenever this permanent leaves the battle
 During each of your draw-steps, you may search your library for a historic card, reveal it, and add it you your hand instead of drawing. If you do, you lose life equal to its mana value. Then shuffle. (Artifacts, legendaries, and Sagas are historic.)
 ---
 (Front): Intro to History of Magic</text>
-			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/408_back.png" num="332b">WWHP</set>
+			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/408_back.png" num="333b">WWHP</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -7944,7 +7759,7 @@ During each of your draw-steps, you may search your library for a historic card,
 If you control a Plant, exile this spell, then cast it transformed.
 ---
 (Back): OWL Herbology</text>
-			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/409_front.png" num="331a">WWHP</set>
+			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/409_front.png" num="332a">WWHP</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -7970,7 +7785,7 @@ You may cast Plant spells as though they had flash.
 Whenever a player casts a Plant spell, you may pay {2}. If you do, copy that spell. If that Plant spell has Squad, you may pay {1} any number of times instead. If you do, copy that spell for each time this cost was paid. You may choose new targets for copies created this way. (A copy of a permanent spell becomes a token.)
 ---
 (Front): Intro to Herbology</text>
-			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/409_back.png" num="331b">WWHP</set>
+			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/409_back.png" num="332b">WWHP</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -7990,7 +7805,7 @@ Whenever a player casts a Plant spell, you may pay {2}. If you do, copy that spe
 If you cast an Incantation spell this turn, exile this spell, then cast it transformed.
 ---
 (Back): OWL Charms</text>
-			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/410_front.png" num="328a">WWHP</set>
+			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/410_front.png" num="329a">WWHP</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -8016,7 +7831,7 @@ Whenever you cast an Incantation spell, you may pay {2}. If you do copy it. The 
 Whenever you cast an Incantation spell, if you have a card that shares the same name as it in your graveyard, you may return it to your hand after it resolves, instead.
 ---
 (Front): Intro to Charms</text>
-			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/410_back.png" num="328b">WWHP</set>
+			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/410_back.png" num="329b">WWHP</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -8033,10 +7848,10 @@ Whenever you cast an Incantation spell, if you have a card that shares the same 
 		<card>
 			<name>Intro to Divination</name>
 			<text>Scry 1. Then if that card is is put onto the bottom of your library, draw a card.
-If you&apos;ve drawn two or more cards this turn, exile this spell, then cast it transformed.
+If you&apos;ve drawn three or more cards this turn, exile this spell, then cast it transformed.
 ---
 (Back): OWL Divination</text>
-			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/411_front.png" num="330a">WWHP</set>
+			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/411_front.png" num="331a">WWHP</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -8053,7 +7868,7 @@ If you&apos;ve drawn two or more cards this turn, exile this spell, then cast it
 		<card>
 			<name>OWL Divination</name>
 			<text>(Gain the next level as a sorcery to add its ability.)
-Whenever you would draw a card, you may scry 1 then draw a card instead. If you do, discard a card.
+Whenever you would draw a card, except during your draw step, you may scry 1 then draw a card instead.
 {2}{WU}{WU}: Level 2
 Whenever you put a card on the bottom of your library, put a +1/+1 counter on target creature.
 {3}{WU}{WU}: Level 3
@@ -8062,7 +7877,7 @@ At the beginning of your upkeep, scry 1.
 Whenever you scry, you may add that card to your hand instead of putting it onto the bottom of your library instead.
 ---
 (Front): Intro to Divination</text>
-			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/411_back.png" num="330b">WWHP</set>
+			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/411_back.png" num="331b">WWHP</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -8082,7 +7897,7 @@ Whenever you scry, you may add that card to your hand instead of putting it onto
 If you control a nontoken artifact, exile this spell, then cast it transformed.
 ---
 (Back): NEWTS Alchemy</text>
-			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/412_front.png" num="326a">WWHP</set>
+			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/412_front.png" num="327a">WWHP</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -8101,14 +7916,14 @@ If you control a nontoken artifact, exile this spell, then cast it transformed.
 			<text>(Gain the next level as a sorcery to add its ability.)
 Whenever you sacrifices a non-Treasure artifact, create a Treasure token.
 {2}{BR}{BR}: Level 2
-Whenever you sacrifice a Treasure, each opponent looses 1 life. You gain life equal to the amount lost this way. 
+Whenever you sacrifice a Treasure, each opponent loses 1 life. You gain life equal to the amount lost this way. 
 {3}{BR}{BR}: Level 3
-Whenever you would lose unspent mana, create that many tapped Treasure tokens instead.
+The first time you lose unspent mana each turn, create that many tapped Treasure tokens instead.
 {4}{BR}{BR}: Level 4
-Sacrifice X Treasures: Return a permanent from target player&apos;s graveyard or that the target player owns in exile to the battlefield under your control with a mana value X or less.
+{X}: Return target nonland permanent card with mana value X from your graveyard to the battlefield tapped. Activate only as a sorcery. Spend only mana produced by Treasures to activate this ability.
 ---
 (Front): Intro to Alchemy</text>
-			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/412_back.png" num="326b">WWHP</set>
+			<set rarity="uncommon" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/412_back.png" num="327b">WWHP</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -8527,7 +8342,7 @@ Fire breath — {R}: This creature gets +1/+0 until end of turn.</text>
 		<card>
 			<name>Red Cap Tower Guard Token WWHP; WWHP</name>
 			<text>Squad {R}{RW}
-This creature and each token copy of it enter with a shield on them if you created at least one token copy.
+When this creature enters, if its a token or you paid an additional cost to cast it, put a shield counter on it. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)
 All creatures able to block this creature do so.</text>
 			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/434.png" num="29">WWHP</set>
 			<prop>
@@ -8539,7 +8354,7 @@ All creatures able to block this creature do so.</text>
 				<cmc>0</cmc>
 				<colors>R</colors>
 				<coloridentity>WR</coloridentity>
-				<pt>2/2</pt>
+				<pt>1/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
@@ -8586,7 +8401,7 @@ Whenever this creature enters, return up to one target enchantment or Incantatio
 			<name>Chinese Chomping Cabbage Token WWHP; WWHP</name>
 			<text>Flash
 Squad {2G}. 
-When this creature enters, if you paid {G}{G} to cast it or it&apos;s a token, you may have it fights target creature an opponent controls.</text>
+When this creature enters, if you paid {G}{G} to cast it or it&apos;s a token, you may have it fight target creature an opponent controls.</text>
 			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/437.png" num="33">WWHP</set>
 			<prop>
 				<layout>normal</layout>
@@ -9211,7 +9026,7 @@ Solved — For each creature you control, you may have it fight up to one target
 I — Create a tapped Treasure token. Then create another Treasure token for each permanent you control with a counter on it.
 II — Draw a card for each Treasure token you control.
 III — Exile this Saga, then return it to the battlefield transformed under your control.</text>
-			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/472.png" num="296">WWHP</set>
+			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/472.png" num="297">WWHP</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -9232,7 +9047,7 @@ I — Create X tapped Treasure tokens, where X is the number of creatures you co
 II — Draw a card. You gain 1 life for each treasure token you control.
 III — Until end of turn, creatures you control gain &quot;{2}: This creature phases out.&quot;
 Exile this Saga, then return it to the battlefield transformed under your control.</text>
-			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/473.png" num="302">WWHP</set>
+			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/473.png" num="303">WWHP</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -9275,7 +9090,7 @@ III — Until end of turn, Whenever you sacrifice a Treasure token, you gain 1 l
 Exile this Saga, then return it to the battlefield transformed under your control.
 ---
 (Back): Diagon Alley, Center for all Wizarding Needs</text>
-			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/475_front.png" num="316a">WWHP</set>
+			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/475_front.png" num="317a">WWHP</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -9295,7 +9110,7 @@ Exile this Saga, then return it to the battlefield transformed under your contro
 {T}: Add {W} or {B}.
 ---
 (Front): Welcome to the Wizarding World</text>
-			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/475_back.png" num="316b">WWHP</set>
+			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/475_back.png" num="317b">WWHP</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -9315,7 +9130,7 @@ I, II — Create X tapped Treasure tokens, where X is the number of creatures yo
 III — Create a tapped */* {R}{W} Giant creature token with &quot;This token&apos;s power and toughness are equal to the number of Treasure tokens you control.&quot; and &quot;{T}: This creature deals damage equal to its power to another target creature.&quot; Then exile this Saga and return it to the battlefield transformed under your control.
 ---
 (Back): Beauxbatons, Academy of Magic</text>
-			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/476_front.png" num="285a">WWHP</set>
+			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/476_front.png" num="286a">WWHP</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -9335,7 +9150,7 @@ III — Create a tapped */* {R}{W} Giant creature token with &quot;This token&ap
 {T}: Add {R} or {W}.
 ---
 (Front): Parley with the Giants</text>
-			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/476_back.png" num="285b">WWHP</set>
+			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/476_back.png" num="286b">WWHP</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -9416,7 +9231,7 @@ I — This saga has &quot; Whenever a land or enchantment enters under your cont
 II — For each land and enchantment you control create 1/1 white Bird creature tokens named Owl with flying, defender and &quot;Whenever this token enters, investigate.&quot; 
 III — Until end of turn, creatures you control have &quot;{T}: Tap target creature and put a stun counter on it. You gain 1 life.
 Exile this Saga, then return it to the battlefield transformed under your control.</text>
-			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/479.png" num="294">WWHP</set>
+			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/479.png" num="295">WWHP</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -9438,7 +9253,7 @@ II — This saga has &quot;Whenever a creature explores, target creature can&apo
 III — Create a tapped Treasure token for each +1/+1 counter among creatures you control. Then exile this Saga, then return it to the battlefield transformed under your control.
 ---
 (Back): Hogsmeade, Isolated Wizard Village</text>
-			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/480_front.png" num="311a">WWHP</set>
+			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/480_front.png" num="312a">WWHP</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -9458,7 +9273,7 @@ III — Create a tapped Treasure token for each +1/+1 counter among creatures yo
 {T}: Add {R} or {G}.
 ---
 (Front): Traverse the Secret Passage</text>
-			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/480_back.png" num="311b">WWHP</set>
+			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/480_back.png" num="312b">WWHP</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -9479,7 +9294,7 @@ II — Sagas you control have &quot;At the beginning of each players upkeep, exi
 III — Exile this Saga, then return it to the battlefield transformed under your control.
 ---
 (Back): Durmstrang, Institute of Dark Magic</text>
-			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/481_front.png" num="293a">WWHP</set>
+			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/481_front.png" num="294a">WWHP</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -9499,7 +9314,7 @@ III — Exile this Saga, then return it to the battlefield transformed under you
 {T}: Add {B} or {R}.
 ---
 (Front): Reawakening of the Dark Mark</text>
-			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/481_back.png" num="293b">WWHP</set>
+			<set rarity="rare" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/481_back.png" num="294b">WWHP</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -9585,14 +9400,29 @@ III — Exile this Saga, then return it to the battlefield transformed under you
 			<token>1</token>
 		</card>
 		<card>
-			<name>Spirit Ambush</name>
-			<text>Alteration {X}{W} (You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield any time for {X}{W}.)
-Counter target spell. Create a 1/1 blue Spirit creature token with flying and ward {2W}. If this spell was cast from the battlefield, create X blue spirit tokens with flying and Ward {2W} instead.
----
-(Back): Alteration</text>
-			<set rarity="mythic" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/512_front.png" num="88a">WWHP</set>
+			<name>Alteration WWHP</name>
+			<text>You can cover a face-down card with this reminder card.
+A card with Alteration can be cast face up any time for its Alteration cost.</text>
+			<set rarity="common" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/511.png" num="1">WWHP</set>
 			<prop>
-				<layout>transform</layout>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Spirit Ambush</name>
+			<text>Alteration {X}{WU} (You may cast this face down as a 2/2 creature for {3}. Its controller may cast it from the battlefield any time for {X}{WU}.)
+Counter target spell. Create a 1/1 blue Spirit creature token with flying and ward {2W}. If this spell was cast from the battlefield, create X blue spirit tokens with flying and Ward {2W} instead.</text>
+			<set rarity="mythic" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/512.png" num="88">WWHP</set>
+			<prop>
+				<layout>normal</layout>
 				<side>front</side>
 				<type>Instant — Lesson Incantation</type>
 				<maintype>Instant</maintype>
@@ -9602,27 +9432,6 @@ Counter target spell. Create a 1/1 blue Spirit creature token with flying and wa
 				<coloridentity>WU</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related attach="transform">Alteration</related>
-		</card>
-		<card>
-			<name>Alteration</name>
-			<text>You can cover a face-down card with this reminder card.
-A card with Alteration can be cast face up any time for its Alteration cost.
----
-(Front): Spirit Ambush</text>
-			<set rarity="mythic" picurl="https://kingsuvvaris.github.io/sets/WWHP-files/img/512_back.png" num="88b">WWHP</set>
-			<prop>
-				<layout>transform</layout>
-				<side>back</side>
-				<type>Creature</type>
-				<maintype>Creature</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<coloridentity>WU</coloridentity>
-				<pt>2/2</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<related attach="transform">Spirit Ambush</related>
 		</card>
 		<card>
 			<name>Spirit WWHP</name>

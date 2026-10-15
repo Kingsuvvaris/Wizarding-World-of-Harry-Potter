@@ -45,7 +45,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{B}{G}{U}",
 			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "301",
+			"collector_number": "302",
 			"image_uris": {
 				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/4.png"
 			}
@@ -85,7 +85,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Creature — Plant Beast",
-			"collector_number": "312",
+			"collector_number": "313",
 			"image_uris": {
 				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/8.png"
 			}
@@ -425,7 +425,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{G}{U}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "303",
+			"collector_number": "304",
 			"image_uris": {
 				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/42.png"
 			}
@@ -435,7 +435,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{R}{W}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "292",
+			"collector_number": "293",
 			"image_uris": {
 				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/43.png"
 			}
@@ -485,16 +485,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{B}{G}",
 			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "280",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/48_back.png"
-				}
-			},
+			"collector_number": "281",
 			"image_uris": {
-				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/48_front.png"
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/48.png"
 			}
 		},
 		{
@@ -592,7 +585,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{B}{G}",
 			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "279",
+			"collector_number": "280",
 			"image_uris": {
 				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/58.png"
 			}
@@ -602,7 +595,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{W}{B}{G}",
 			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "288",
+			"collector_number": "289",
 			"image_uris": {
 				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/59.png"
 			}
@@ -713,15 +706,8 @@
 			"mana_cost": "{B}",
 			"type": "Sorcery — Incantation",
 			"collector_number": "123",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/70_back.png"
-				}
-			},
 			"image_uris": {
-				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/70_front.png"
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/70.png"
 			}
 		},
 		{
@@ -760,15 +746,8 @@
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Faerie Beast",
 			"collector_number": "102",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/74_back.png"
-				}
-			},
 			"image_uris": {
-				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/74_front.png"
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/74.png"
 			}
 		},
 		{
@@ -796,7 +775,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{B/R}",
 			"type": "Legendary Creature — Elf",
-			"collector_number": "318",
+			"collector_number": "319",
 			"image_uris": {
 				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/77.png"
 			}
@@ -1018,15 +997,8 @@
 			"mana_cost": "{4}{R}{R}",
 			"type": "Artifact Creature — Beast Incantation",
 			"collector_number": "156",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/97_back.png"
-				}
-			},
 			"image_uris": {
-				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/97_front.png"
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/97.png"
 			}
 		},
 		{
@@ -1034,7 +1006,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{B}{R}",
 			"type": "Battle — Siege",
-			"collector_number": "310",
+			"collector_number": "311",
 			"back": {
 				"name": "",
 				"type": "",
@@ -1088,7 +1060,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{U/B}",
 			"type": "Legendary Creature — Spirit",
-			"collector_number": "317",
+			"collector_number": "318",
 			"image_uris": {
 				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/102.png"
 			}
@@ -1108,7 +1080,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{G}{W}",
 			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "298",
+			"collector_number": "299",
 			"image_uris": {
 				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/104.png"
 			}
@@ -1195,7 +1167,7 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{B}{G}",
 			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "308",
+			"collector_number": "309",
 			"image_uris": {
 				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/112.png"
 			}
@@ -1415,7 +1387,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{G}{U}",
 			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "277",
+			"collector_number": "278",
 			"image_uris": {
 				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/134.png"
 			}
@@ -1575,7 +1547,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{U}{U}{B}{B}",
 			"type": "Sorcery — Incantation",
-			"collector_number": "290",
+			"collector_number": "291",
 			"image_uris": {
 				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/150.png"
 			}
@@ -1585,7 +1557,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{G}{W}",
 			"type": "Sorcery — Incantation",
-			"collector_number": "286",
+			"collector_number": "287",
 			"image_uris": {
 				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/151.png"
 			}
@@ -1595,7 +1567,7 @@
 			"rarity": "common",
 			"mana_cost": "{W}{U}",
 			"type": "Sorcery — Incantation",
-			"collector_number": "289",
+			"collector_number": "290",
 			"image_uris": {
 				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/152.png"
 			}
@@ -1622,7 +1594,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Creature — Horse Beast Plant",
-			"collector_number": "300",
+			"collector_number": "301",
 			"image_uris": {
 				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/154.png"
 			}
@@ -1752,7 +1724,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}{R}",
 			"type": "Enchantment",
-			"collector_number": "304",
+			"collector_number": "305",
 			"image_uris": {
 				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/167.png"
 			}
@@ -1793,15 +1765,8 @@
 			"mana_cost": "{1}{W}",
 			"type": "Instant — Incantation",
 			"collector_number": "8",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/171_back.png"
-				}
-			},
 			"image_uris": {
-				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/171_front.png"
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/171.png"
 			}
 		},
 		{
@@ -1830,15 +1795,8 @@
 			"mana_cost": "{2}{R}{W}",
 			"type": "Artifact Creature — Beast Incantation",
 			"collector_number": "223",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/174_back.png"
-				}
-			},
 			"image_uris": {
-				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/174_front.png"
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/174.png"
 			}
 		},
 		{
@@ -2031,7 +1989,7 @@
 		{
 			"name": "Protego",
 			"rarity": "common",
-			"mana_cost": "{2}{W}",
+			"mana_cost": "{W}",
 			"type": "Instant — Incantation",
 			"collector_number": "37",
 			"image_uris": {
@@ -2053,7 +2011,7 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{W}{U}{U}",
 			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "307",
+			"collector_number": "308",
 			"image_uris": {
 				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/195.png"
 			}
@@ -2120,7 +2078,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{B}{R}",
 			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "314",
+			"collector_number": "315",
 			"image_uris": {
 				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/201.png"
 			}
@@ -2220,7 +2178,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{B}{R}",
 			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "313",
+			"collector_number": "314",
 			"image_uris": {
 				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/211.png"
 			}
@@ -2388,7 +2346,7 @@
 		{
 			"name": "Exploding Potion",
 			"rarity": "common",
-			"mana_cost": "{2/R}{2/R}{2/R}{2/R}",
+			"mana_cost": "{2/R}{2/R}",
 			"type": "Artifact — Potion",
 			"collector_number": "154",
 			"image_uris": {
@@ -2408,7 +2366,7 @@
 		{
 			"name": "Thunder Brew Potion",
 			"rarity": "uncommon",
-			"mana_cost": "{2/R}{2/R}",
+			"mana_cost": "{2/R}{2/R}{2/R}{2/R}",
 			"type": "Artifact — Potion",
 			"collector_number": "174",
 			"image_uris": {
@@ -2478,7 +2436,7 @@
 		{
 			"name": "Elixir of Life",
 			"rarity": "rare",
-			"mana_cost": "{2}{2/W}{2/W}",
+			"mana_cost": "{2/W}{2/W}",
 			"type": "Artifact — Potion",
 			"collector_number": "17",
 			"image_uris": {
@@ -2670,7 +2628,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R/G}{W}",
 			"type": "Legendary Creature — Bird Beast",
-			"collector_number": "325",
+			"collector_number": "326",
 			"image_uris": {
 				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/256.png"
 			}
@@ -2680,7 +2638,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{U/R}",
 			"type": "Legendary Creature — Spirit Wizard",
-			"collector_number": "336",
+			"collector_number": "337",
 			"image_uris": {
 				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/257.png"
 			}
@@ -2738,7 +2696,7 @@
 		{
 			"name": "Fwooper Bird",
 			"rarity": "common",
-			"mana_cost": "{4}{W}",
+			"mana_cost": "{2}{W}",
 			"type": "Creature — Bird Beast",
 			"collector_number": "25",
 			"image_uris": {
@@ -2810,7 +2768,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{B}{R}",
 			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "287",
+			"collector_number": "288",
 			"image_uris": {
 				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/270.png"
 			}
@@ -2881,15 +2839,8 @@
 			"mana_cost": "{2}{B}",
 			"type": "Instant — Incantation",
 			"collector_number": "125",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/277_back.png"
-				}
-			},
 			"image_uris": {
-				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/277_front.png"
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/277.png"
 			}
 		},
 		{
@@ -2958,15 +2909,8 @@
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery — Incantation",
 			"collector_number": "147",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/284_back.png"
-				}
-			},
 			"image_uris": {
-				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/284_front.png"
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/284.png"
 			}
 		},
 		{
@@ -3004,7 +2948,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{W}",
 			"type": "Creature — Dragon Beast",
-			"collector_number": "306",
+			"collector_number": "307",
 			"image_uris": {
 				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/288.png"
 			}
@@ -3114,7 +3058,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{G}{U}",
 			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "284",
+			"collector_number": "285",
 			"image_uris": {
 				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/299.png"
 			}
@@ -3134,7 +3078,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{G}{W}",
 			"type": "Legendary Creature — Wizard Giant",
-			"collector_number": "299",
+			"collector_number": "300",
 			"image_uris": {
 				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/301.png"
 			}
@@ -3194,7 +3138,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{R/W}",
 			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "324",
+			"collector_number": "325",
 			"image_uris": {
 				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/307.png"
 			}
@@ -3224,7 +3168,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{G}{W}",
 			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "278",
+			"collector_number": "279",
 			"image_uris": {
 				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/310.png"
 			}
@@ -3234,7 +3178,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{R}{W}",
 			"type": "Legendary Creature — Giant Wizard Professor",
-			"collector_number": "281",
+			"collector_number": "282",
 			"image_uris": {
 				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/311.png"
 			}
@@ -3281,7 +3225,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{B}{G}",
 			"type": "Battle — Siege",
-			"collector_number": "276",
+			"collector_number": "277",
 			"back": {
 				"name": "",
 				"type": "",
@@ -3418,7 +3362,7 @@
 			"rarity": "common",
 			"mana_cost": "{R/W}{U}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "322",
+			"collector_number": "323",
 			"image_uris": {
 				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/328.png"
 			}
@@ -3428,7 +3372,7 @@
 			"rarity": "common",
 			"mana_cost": "{R/G}{W}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "320",
+			"collector_number": "321",
 			"image_uris": {
 				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/329.png"
 			}
@@ -3438,7 +3382,7 @@
 			"rarity": "common",
 			"mana_cost": "{G/U}{B}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "323",
+			"collector_number": "324",
 			"image_uris": {
 				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/330.png"
 			}
@@ -3448,7 +3392,7 @@
 			"rarity": "common",
 			"mana_cost": "{W/B}{G}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "321",
+			"collector_number": "322",
 			"image_uris": {
 				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/331.png"
 			}
@@ -3458,7 +3402,7 @@
 			"rarity": "common",
 			"mana_cost": "{U/B}{R}",
 			"type": "Creature — Werewolf Wizard",
-			"collector_number": "319",
+			"collector_number": "320",
 			"image_uris": {
 				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/332.png"
 			}
@@ -3632,7 +3576,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{R}{G}{W}",
 			"type": "Legendary Creature — Cat Animagus",
-			"collector_number": "315",
+			"collector_number": "316",
 			"back": {
 				"name": "",
 				"type": "",
@@ -3683,7 +3627,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{G}{W}",
 			"type": "Legendary Creature — Human Werewolf Wizard Professor",
-			"collector_number": "295",
+			"collector_number": "296",
 			"back": {
 				"name": "",
 				"type": "",
@@ -3710,7 +3654,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{B}",
 			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "297",
+			"collector_number": "298",
 			"back": {
 				"name": "",
 				"type": "",
@@ -3752,9 +3696,9 @@
 		{
 			"name": "Mrs Norris",
 			"rarity": "uncommon",
-			"mana_cost": "{G/W}{B}",
+			"mana_cost": "{U}{B}",
 			"type": "Legendary Creature — Cat",
-			"collector_number": "337",
+			"collector_number": "276",
 			"back": {
 				"name": "",
 				"type": "",
@@ -3788,7 +3732,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}{U}",
 			"type": "Enchantment — Saga",
-			"collector_number": "282",
+			"collector_number": "283",
 			"image_uris": {
 				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/369.png"
 			}
@@ -3798,7 +3742,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}{W}",
 			"type": "Enchantment — Saga",
-			"collector_number": "291",
+			"collector_number": "292",
 			"image_uris": {
 				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/370.png"
 			}
@@ -3825,7 +3769,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Enchantment — Saga",
-			"collector_number": "305",
+			"collector_number": "306",
 			"image_uris": {
 				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/373.png"
 			}
@@ -3845,7 +3789,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{G}{W}",
 			"type": "Legendary Creature — Dog Animagus",
-			"collector_number": "283",
+			"collector_number": "284",
 			"back": {
 				"name": "",
 				"type": "",
@@ -3967,7 +3911,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{U}{B}{R}",
 			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "309",
+			"collector_number": "310",
 			"back": {
 				"name": "",
 				"type": "",
@@ -3981,10 +3925,10 @@
 		},
 		{
 			"name": "Intro to Defence Against the Dark Arts",
-			"rarity": "common",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{R/W}",
 			"type": "Sorcery — Lesson",
-			"collector_number": "329",
+			"collector_number": "330",
 			"back": {
 				"name": "",
 				"type": "",
@@ -3998,10 +3942,10 @@
 		},
 		{
 			"name": "Intro to Transfiguration",
-			"rarity": "common",
-			"mana_cost": "{2}{G/W}",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G/W}",
 			"type": "Sorcery — Lesson",
-			"collector_number": "335",
+			"collector_number": "336",
 			"back": {
 				"name": "",
 				"type": "",
@@ -4015,10 +3959,10 @@
 		},
 		{
 			"name": "Intro to the Dark Arts",
-			"rarity": "common",
-			"mana_cost": "{1}{U/B}{U/B}",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U/B}",
 			"type": "Instant — Lesson",
-			"collector_number": "334",
+			"collector_number": "335",
 			"back": {
 				"name": "",
 				"type": "",
@@ -4032,10 +3976,10 @@
 		},
 		{
 			"name": "Intro to Potions",
-			"rarity": "common",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{G/U}",
 			"type": "Sorcery — Lesson",
-			"collector_number": "333",
+			"collector_number": "334",
 			"back": {
 				"name": "",
 				"type": "",
@@ -4049,10 +3993,10 @@
 		},
 		{
 			"name": "Intro to Care of Magical Creatures",
-			"rarity": "common",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{R/G}",
 			"type": "Sorcery — Lesson",
-			"collector_number": "327",
+			"collector_number": "328",
 			"back": {
 				"name": "",
 				"type": "",
@@ -4066,10 +4010,10 @@
 		},
 		{
 			"name": "Intro to History of Magic",
-			"rarity": "common",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{W/B}",
 			"type": "Sorcery — Lesson",
-			"collector_number": "332",
+			"collector_number": "333",
 			"back": {
 				"name": "",
 				"type": "",
@@ -4083,10 +4027,10 @@
 		},
 		{
 			"name": "Intro to Herbology",
-			"rarity": "common",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{B/G}",
 			"type": "Sorcery — Lesson",
-			"collector_number": "331",
+			"collector_number": "332",
 			"back": {
 				"name": "",
 				"type": "",
@@ -4100,10 +4044,10 @@
 		},
 		{
 			"name": "Intro to Charms",
-			"rarity": "common",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{U/R}",
 			"type": "Sorcery — Lesson",
-			"collector_number": "328",
+			"collector_number": "329",
 			"back": {
 				"name": "",
 				"type": "",
@@ -4117,10 +4061,10 @@
 		},
 		{
 			"name": "Intro to Divination",
-			"rarity": "common",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{W/U}",
 			"type": "Sorcery — Lesson",
-			"collector_number": "330",
+			"collector_number": "331",
 			"back": {
 				"name": "",
 				"type": "",
@@ -4134,10 +4078,10 @@
 		},
 		{
 			"name": "Intro to Alchemy",
-			"rarity": "common",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{B/R}",
 			"type": "Sorcery — Lesson",
-			"collector_number": "326",
+			"collector_number": "327",
 			"back": {
 				"name": "",
 				"type": "",
@@ -4725,7 +4669,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}{U}",
 			"type": "Enchantment — Saga",
-			"collector_number": "296",
+			"collector_number": "297",
 			"image_uris": {
 				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/472.png"
 			}
@@ -4735,7 +4679,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}{U}",
 			"type": "Enchantment — Saga",
-			"collector_number": "302",
+			"collector_number": "303",
 			"image_uris": {
 				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/473.png"
 			}
@@ -4755,7 +4699,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}{B}",
 			"type": "Enchantment — Saga",
-			"collector_number": "316",
+			"collector_number": "317",
 			"back": {
 				"name": "",
 				"type": "",
@@ -4772,7 +4716,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}{W}",
 			"type": "Enchantment — Saga",
-			"collector_number": "285",
+			"collector_number": "286",
 			"back": {
 				"name": "",
 				"type": "",
@@ -4816,7 +4760,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}{W}",
 			"type": "Enchantment — Saga",
-			"collector_number": "294",
+			"collector_number": "295",
 			"image_uris": {
 				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/479.png"
 			}
@@ -4826,7 +4770,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}{G}",
 			"type": "Enchantment",
-			"collector_number": "311",
+			"collector_number": "312",
 			"back": {
 				"name": "",
 				"type": "",
@@ -4843,7 +4787,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{R}",
 			"type": "Enchantment — Saga",
-			"collector_number": "293",
+			"collector_number": "294",
 			"back": {
 				"name": "",
 				"type": "",
@@ -4896,20 +4840,23 @@
 			}
 		},
 		{
+			"name": "Alteration",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Creature",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/511.png"
+			}
+		},
+		{
 			"name": "Spirit Ambush",
 			"rarity": "mythic",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Instant — Lesson Incantation",
 			"collector_number": "88",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/512_back.png"
-				}
-			},
 			"image_uris": {
-				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/512_front.png"
+				"en": "https://kingsuvvaris.github.io/sets/WWHP-files/img/512.png"
 			}
 		},
 		{
@@ -5106,6 +5053,16 @@
 	5 Padfoot, Protective Marauder
 	5 Quirinus Quirrell, Traitorous Professor
 	5 Scabbers, Frightened Coward
+	5 Intro to Defence Against the Dark Arts
+	5 Intro to Transfiguration
+	5 Intro to the Dark Arts
+	5 Intro to Potions
+	5 Intro to Care of Magical Creatures
+	5 Intro to History of Magic
+	5 Intro to Herbology
+	5 Intro to Charms
+	5 Intro to Divination
+	5 Intro to Alchemy
 [common(10)]
 	5 Expelliarmus
 	5 Inferi Protector
@@ -5236,13 +5193,3 @@
 	5 Harry Potter, The Boy Who Lived
 	5 The Monster Book of Monsters
 	5 Folio Magi
-	5 Intro to Defence Against the Dark Arts
-	5 Intro to Transfiguration
-	5 Intro to the Dark Arts
-	5 Intro to Potions
-	5 Intro to Care of Magical Creatures
-	5 Intro to History of Magic
-	5 Intro to Herbology
-	5 Intro to Charms
-	5 Intro to Divination
-	5 Intro to Alchemy
