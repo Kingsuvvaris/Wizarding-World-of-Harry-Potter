@@ -2366,7 +2366,7 @@
 		{
 			"name": "Thunder Brew Potion",
 			"rarity": "uncommon",
-			"mana_cost": "{2/R}{2/R}{2/R}{2/R}",
+			"mana_cost": "{2/R}{2/R}",
 			"type": "Artifact — Potion",
 			"collector_number": "174",
 			"image_uris": {
@@ -5096,6 +5096,7 @@
 	5 Melofors
 	5 Erkling
 	5 Herbivicous
+	5 Death Eater
 	5 Dungeon Red Cap Aggressor
 	5 Flame Infused Armour
 	5 Rictusempra
